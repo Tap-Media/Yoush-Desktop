@@ -16,7 +16,7 @@ if (config.has('storagePath')) {
 } else if (config.has('storageProfile')) {
   userData = join(
     app.getPath('appData'),
-    `Signal-${config.get('storageProfile')}`
+    `Yoush-${config.get('storageProfile')}`
   );
 }
 
