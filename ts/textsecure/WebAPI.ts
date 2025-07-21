@@ -2065,6 +2065,14 @@ export function initialize({
         abortSignal: param.abortSignal,
       };
 
+      const logUrl = outerParams.redactUrl ? outerParams.redactUrl() : `${outerParams.host}${outerParams.path}`;
+      log.debug('[_ajax] Sending request', {
+        method: outerParams.type,
+        url: logUrl,
+        headers: outerParams.headers,
+        data: outerParams.data ? (typeof outerParams.data === 'string' ? outerParams.data : '[non-string data]') : undefined,
+      });
+
       try {
         return await _outerAjax(null, outerParams);
       } catch (e) {
@@ -4124,15 +4132,18 @@ export function initialize({
     }
 
     async function getAttachmentUploadForm() {
-      return parseUnknown(
-        attachmentUploadFormResponse,
-        await _ajax({
-          call: 'attachmentUploadForm',
-          httpType: 'GET',
-          responseType: 'json',
-        })
-      );
-    }
+  log.debug('[getAttachmentUploadForm] Starting request');
+
+  const response = await _ajax({
+    call: 'attachmentUploadForm',
+    httpType: 'GET',
+    responseType: 'json',
+  });
+
+  log.debug('[getAttachmentUploadForm] Received response', response);
+
+  return parseUnknown(attachmentUploadFormResponse, response);
+}
 
     async function putEncryptedAttachment(
       encryptedBin: (start: number, end?: number) => Readable,
@@ -4140,6 +4151,8 @@ export function initialize({
       uploadForm: AttachmentUploadFormResponseType
     ) {
       const { signedUploadLocation, headers } = uploadForm;
+      console.log('[DEBUG] certificateAuthority =', certificateAuthority);
+
 
       // This is going to the CDN, not the service, so we use _outerAjax
       const { response: uploadResponse } = await _outerAjax(
@@ -4161,19 +4174,23 @@ export function initialize({
         }
       );
 
-      const uploadLocation = uploadResponse.headers.get('location');
+      let uploadLocation = uploadResponse.headers.get('location');
+      
       strictAssert(
         uploadLocation,
         'attachment upload form header has no location'
       );
-
+      uploadLocation = uploadLocation.replace(/^http:/, 'https:');
+      console.log('[DEBUG] uploadLocation (raw) =', uploadLocation);
       const redactUrl = () => {
         const tmp = new URL(uploadLocation);
+        console.log('[DEBUG] uploadLocation.protocol =', tmp.protocol);
         tmp.search = '';
         tmp.pathname = '';
+        
         return `${tmp}[REDACTED]`;
       };
-
+      console.log('[DEBUG] redactUrl() =', redactUrl);
       const MAX_RETRIES = 10;
       for (
         let start = 0, retries = 0;
