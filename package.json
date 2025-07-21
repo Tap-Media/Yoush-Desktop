@@ -2,7 +2,7 @@
   "$schema": "./package.schema.json",
   "packageManager": "pnpm@10.6.4",
   "name": "signal-desktop",
-  "productName": "Signal",
+  "productName": "Yoush",
   "description": "Private messaging from your desktop",
   "desktopName": "signal.desktop",
   "repository": "https://github.com/signalapp/Signal-Desktop.git",
@@ -405,7 +405,7 @@
     "node": "22.14.0"
   },
   "build": {
-    "appId": "org.whispersystems.signal-desktop",
+    "appId": "org.whispersystems.tap-desktop",
     "nativeRebuilder": "parallel",
     "mac": {
       "artifactName": "${name}-mac-${arch}-${version}.${ext}",
@@ -427,7 +427,6 @@
           "minOSVersion": "20.0.0"
         }
       },
-      "sign": "./ts/scripts/sign-macos.js",
       "singleArchFiles": "node_modules/@signalapp/{libsignal-client/prebuilds/**,ringrtc/build/**,sqlcipher/prebuilds/**}",
       "target": [
         {
@@ -447,15 +446,7 @@
       "bundleVersion": "1"
     },
     "win": {
-      "signtoolOptions": {
-        "certificateSubjectName": "Signal Messenger, LLC",
-        "certificateSha1": "8D5E3CD800736C5E1FE459A1F5AA48287D4F6EC6",
-        "publisherName": "Signal Messenger, LLC",
-        "sign": "./ts/scripts/sign-windows.js",
-        "signingHashAlgorithms": [
-          "sha256"
-        ]
-      },
+      
       "artifactName": "${name}-win-${arch}-${version}.${ext}",
       "icon": "build/icons/win/icon.ico",
       "publish": [
