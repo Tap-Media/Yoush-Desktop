@@ -1,7 +1,7 @@
 {
   "$schema": "./package.schema.json",
   "packageManager": "pnpm@10.6.4",
-  "name": "signal-desktop",
+  "name": "tap-desktop",
   "productName": "Yoush",
   "description": "Private messaging from your desktop",
   "desktopName": "signal.desktop",
@@ -119,7 +119,7 @@
     "@react-aria/utils": "3.25.3",
     "@react-spring/web": "9.7.5",
     "@react-types/shared": "3.27.0",
-    "@signalapp/libsignal-client": "0.68.0",
+    "@signalapp/libsignal-client": "0.69.1",
     "@signalapp/quill-cjs": "2.1.2",
     "@signalapp/ringrtc": "2.51.0",
     "@signalapp/sqlcipher": "2.0.1",
