@@ -15,15 +15,15 @@
 
   &::before {
     @include mixins.color-svg-themed(
-      '../images/signal-logo-and-wordmark.svg',
+      '../images/yoush-logo-and-wordmark.svg',
       variables.$color-ultramarine-logo,
       variables.$color-white
     );
     & {
       content: '';
       display: block;
-      height: 32px;
-      width: 112px;
+     height: 60px;
+      width: 190px;
     }
   }
 }

@@ -43,13 +43,13 @@
 
   @include mixins.light-theme {
     @include mixins.color-svg(
-      '../images/signal-logo.svg',
+      '../images/yoush-logo.svg',
       variables.$color-ultramarine-logo
     );
   }
   @include mixins.dark-theme {
     @include mixins.color-svg(
-      '../images/signal-logo.svg',
+      '../images/yoush-logo.svg',
       variables.$color-white
     );
   }
@@ -60,8 +60,8 @@
   }
 
   &.module-splash-screen__logo--96 {
-    height: 96px;
-    width: 96px;
+    height: 115px;
+    width: 100px;
   }
 }
 

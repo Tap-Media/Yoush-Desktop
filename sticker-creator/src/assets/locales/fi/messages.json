@@ -101,7 +101,7 @@
     "description" : "The title of the Sticker Pack Creator window"
   },
   "StickerCreator--title--icon" : {
-    "message" : "Signal-logo",
+    "message" : "Yoush-logo",
     "description" : "An alt text of signal logo"
   },
   "StickerCreator--guidelines" : {
