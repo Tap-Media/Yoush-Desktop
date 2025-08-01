@@ -75,16 +75,16 @@
     "messageformat": "Nezināma grupa"
   },
   "icu:cantOpenSignalError": {
-    "messageformat": "Nevar atvērt Signal"
+    "messageformat": "Nevar atvērt Yoush"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Lai novērstu problēmu, izpildiet Atbalsta lapā pieejamā atkopšanas ceļveža norādījumus vai sazinieties ar Signal atbalsta dienestu.\n\nJa nepieciešams izmantot Signal nekavējoties, varat dzēst savus datus un atkārtoti piesaistīt šo datoru. Jūs varēsiet pārsūtīt ziņu vēsturi no sava tālruņa."
+    "messageformat": "Lai novērstu problēmu, izpildiet Atbalsta lapā pieejamā atkopšanas ceļveža norādījumus vai sazinieties ar Yoush atbalsta dienestu.\n\nJa nepieciešams izmantot Yoush nekavējoties, varat dzēst savus datus un atkārtoti piesaistīt šo datoru. Jūs varēsiet pārsūtīt ziņu vēsturi no sava tālruņa."
   },
   "icu:databaseError": {
     "messageformat": "Datu bāzes kļūda"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Radusies datubāzes kļūda. Varat nokopēt kļūdas aprakstu un sazināties ar Signal atbalsta dienestu, lai novērstu problēmu. Ja nepieciešams izmantot Signal nekavējoties, varat dzēst savus datus un sākt no jauna.\n\nSazinieties ar atbalsta dienestu, apmeklējot vietni: {link}"
+    "messageformat": "Radusies datubāzes kļūda. Varat nokopēt kļūdas aprakstu un sazināties ar Yoush atbalsta dienestu, lai novērstu problēmu. Ja nepieciešams izmantot Yoush nekavējoties, varat dzēst savus datus un sākt no jauna.\n\nSazinieties ar atbalsta dienestu, apmeklējot vietni: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Dzēst datus un restartēt"
@@ -93,16 +93,16 @@
     "messageformat": "Visu datu neatgriezeniska dzēšana"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "Visa ziņu vēsture un multivide tiks neatgriezeniski dzēsta no šīs ierīces. Dati netiks dzēsti no jūsu tālruņa.\n\nŠajā ierīcē Signal varēsiet lietot pēc ierīces atkārtotas piesaistīšanas. Jūs varēsiet pārsūtīt ziņu vēsturi no sava tālruņa."
+    "messageformat": "Visa ziņu vēsture un multivide tiks neatgriezeniski dzēsta no šīs ierīces. Dati netiks dzēsti no jūsu tālruņa.\n\nŠajā ierīcē Yoush varēsiet lietot pēc ierīces atkārtotas piesaistīšanas. Jūs varēsiet pārsūtīt ziņu vēsturi no sava tālruņa."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Jūsu datubāzes versija neatbilst šai Signal versijai. Pārliecinieties, vai datorā atvērta jaunākā Signal versija."
+    "messageformat": "Jūsu datubāzes versija neatbilst šai Yoush versijai. Pārliecinieties, vai datorā atvērta jaunākā Yoush versija."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Nevar piekļūt datu bāzes šifrēšanas atslēgai, jo OS šifrēšanas atslēgu turētāja aizmugursistēma ir mainīta no {previousBackend} uz {currentBackend}. Tas var notikt, ja mainās darbvirsmas vide, piemēram, no GNOME uz KDE.\n\nLūdzu, pārslēdzieties uz iepriekšējo darbvirsmas vidi."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "Nevar piekļūt datu bāzes šifrēšanas atslēgai, jo OS šifrēšanas atslēgu turētāja aizmugursistēma ir mainīta no {previousBackend} uz {currentBackend}. Tas var notikt, ja mainās darbvirsmas vide, piemēram, no GNOME uz KDE.\n\nLūdzu, pārslēdzieties uz iepriekšējo darbvirsmas vidi vai mēģiniet palaist Signal ar komandrindas karogu --password-store=\"{previousBackendFlag}\"."
+    "messageformat": "Nevar piekļūt datu bāzes šifrēšanas atslēgai, jo OS šifrēšanas atslēgu turētāja aizmugursistēma ir mainīta no {previousBackend} uz {currentBackend}. Tas var notikt, ja mainās darbvirsmas vide, piemēram, no GNOME uz KDE.\n\nLūdzu, pārslēdzieties uz iepriekšējo darbvirsmas vidi vai mēģiniet palaist Yoush ar komandrindas karogu --password-store=\"{previousBackendFlag}\"."
   },
   "icu:mainMenuFile": {
     "messageformat": "&Fails"
@@ -138,7 +138,7 @@
     "messageformat": "Rādīt visu"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Aizvērt Signal"
+    "messageformat": "Aizvērt Yoush"
   },
   "icu:editMenuUndo": {
     "messageformat": "Atsaukt"
@@ -429,10 +429,10 @@
     "messageformat": "Jūs atzīmējāt savu drošības kodu ar {name} kā nepārbaudītu no citas ierīces"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Jūsu drošības kods ar  ir mainījies. Pārskatiet savu jauno drošības kodu ar {name1}. Ņemiet vērā, ka šī izmaiņa var nozīmēt, ka kāds mēģina pārtvert jūsu saziņu, vai arī  {name2} savā ierīcē pārinstalēja Signal."
+    "messageformat": "Jūsu drošības kods ar  ir mainījies. Pārskatiet savu jauno drošības kodu ar {name1}. Ņemiet vērā, ka šī izmaiņa var nozīmēt, ka kāds mēģina pārtvert jūsu saziņu, vai arī  {name2} savā ierīcē pārinstalēja Yoush."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Tālāk norādītie cilvēki, iespējams, ir pārinstalējuši Signal vai nomainījuši ierīces. Noklikšķiniet uz adresāta, lai apstiprinātu jauno drošības numuru. Šī darbība nav obligāta."
+    "messageformat": "Tālāk norādītie cilvēki, iespējams, ir pārinstalējuši Yoush vai nomainījuši ierīces. Noklikšķiniet uz adresāta, lai apstiprinātu jauno drošības numuru. Šī darbība nav obligāta."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Nosūtīt gaidošās ziņas"
@@ -441,7 +441,7 @@
     "messageformat": "Pārskatīt"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, zero {Jums ir {count,number} kontakti, kuri, iespējams, ir pārinstalējuši Signal vai nomainījuši ierīces. Ja vēlaties, pirms nosūtīšanas varat pārskatīt viņu drošības numurus.} one {Jums ir 1 kontakts, kurš, iespējams, ir pārinstalējis Signal vai nomainījis ierīces. Ja vēlaties, pirms nosūtīšanas varat pārskatīt viņu drošības numurus.} other {Jums ir {count,number} kontakti, kuri, iespējams, ir pārinstalējuši Signal vai nomainījuši ierīces. Ja vēlaties, pirms nosūtīšanas varat pārskatīt viņu drošības numurus.}}"
+    "messageformat": "{count, plural, zero {Jums ir {count,number} kontakti, kuri, iespējams, ir pārinstalējuši Yoush vai nomainījuši ierīces. Ja vēlaties, pirms nosūtīšanas varat pārskatīt viņu drošības numurus.} one {Jums ir 1 kontakts, kurš, iespējams, ir pārinstalējis Yoush vai nomainījis ierīces. Ja vēlaties, pirms nosūtīšanas varat pārskatīt viņu drošības numurus.} other {Jums ir {count,number} kontakti, kuri, iespējams, ir pārinstalējuši Yoush vai nomainījuši ierīces. Ja vēlaties, pirms nosūtīšanas varat pārskatīt viņu drošības numurus.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Visi kontakti ir pārskatīti, noklikšķiniet uz \"nosūtīt\", lai turpinātu."
@@ -666,7 +666,7 @@
     "messageformat": "Uzlīmju komplekta izveides programma"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "Par Signal Desktop versiju"
+    "messageformat": "Par Yoush Desktop versiju"
   },
   "icu:screenShareWindow": {
     "messageformat": "Ekrāna kopīgošana"
@@ -831,13 +831,13 @@
     "messageformat": "Jūs"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Lai nosūtītu balss ziņas, ļaujiet lietotnes Signal Desktop versijai piekļūt ierīces mikrofonam."
+    "messageformat": "Lai nosūtītu balss ziņas, ļaujiet lietotnes Yoush Desktop versijai piekļūt ierīces mikrofonam."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Lai zvanītu, jums ir jāļauj lietotnes Signal Desktop versijai piekļūt ierīces mikrofonam."
+    "messageformat": "Lai zvanītu, jums ir jāļauj lietotnes Yoush Desktop versijai piekļūt ierīces mikrofonam."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Lai veiktu video zvanu, jums ir jāļauj lietotnes Signal Desktop versijai piekļūt kamerai."
+    "messageformat": "Lai veiktu video zvanu, jums ir jāļauj lietotnes Yoush Desktop versijai piekļūt kamerai."
   },
   "icu:allowAccess": {
     "messageformat": "Atļaut piekļuvi"
@@ -912,7 +912,7 @@
     "messageformat": "Šī ziņa tiks izdzēsta no šīs ierīces."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Šī ziņa tiks izdzēsta visiem sarunas dalībniekiem, ja viņi izmanto jaunāko Signal versiju. Dalībnieki varēs redzēt, ka ziņa ir dzēsta."
+    "messageformat": "Šī ziņa tiks izdzēsta visiem sarunas dalībniekiem, ja viņi izmanto jaunāko Yoush versiju. Dalībnieki varēs redzēt, ka ziņa ir dzēsta."
   },
   "icu:from": {
     "messageformat": "No"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "\"{title}\" ir šīs personas iestatīts profila nosaukums platformā Signal."
+    "messageformat": "\"{title}\" ir šīs personas iestatīts profila nosaukums platformā Yoush."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Pārbaudīts(verificēts)"
@@ -1062,7 +1062,7 @@
     "messageformat": "Uzzināt vairāk"
   },
   "icu:ChatRefresh--summary": {
-    "messageformat": "Lietotne Signal izmanto pilnīgu šifrēšanu, un, iespējams, reizēm būs jāatsvaidzina jūsu sarunas sesija. Tas neietekmē jūsu sarunas drošību, taču, iespējams, varat palaist garām kādu kontakta sūtītu ziņu un būs jālūdz nosūtīt to vēlreiz."
+    "messageformat": "Lietotne Yoush izmanto pilnīgu šifrēšanu, un, iespējams, reizēm būs jāatsvaidzina jūsu sarunas sesija. Tas neietekmē jūsu sarunas drošību, taču, iespējams, varat palaist garām kādu kontakta sūtītu ziņu un būs jālūdz nosūtīt to vēlreiz."
   },
   "icu:ChatRefresh--contactSupport": {
     "messageformat": "Sazināties ar atbalstu"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} nomainīja savu tālruņa numuru"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Kontakts pievienojās Signal"
+    "messageformat": "Kontakts pievienojās Yoush"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} un {conversationTitle} ir viens un tas pats konts. Šeit ir pieejama abu sarunu ziņu vēsture."
@@ -1209,7 +1209,7 @@
     "messageformat": "Nevar lejupielādēt multividi"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Pārbaudiet interneta savienojumu datorā un tālrunī. Tālrunī atveriet Signal un pēc tam mēģiniet lejupielādēt vēlreiz."
+    "messageformat": "Pārbaudiet interneta savienojumu datorā un tālrunī. Tālrunī atveriet Yoush un pēc tam mēģiniet lejupielādēt vēlreiz."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Šī multivide vairs nav pieejama jūsu tālrunī, un to nevar lejupielādēt."
@@ -1230,10 +1230,10 @@
     "messageformat": "Lasīt vairāk"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Noskenējiet šo kodu ar Signal lietotni jūsu tālrunī"
+    "messageformat": "Noskenējiet šo kodu ar Yoush lietotni jūsu tālrunī"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Atveriet Signal tālrunī"
+    "messageformat": "Atveriet Yoush tālrunī"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Pieskarieties {settings}, pēc tam pieskarieties {linkedDevices}"
@@ -1272,7 +1272,7 @@
     "messageformat": "Ierīces nosaukums"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Lai mainītu šīs ierīces nosaukumu, atveriet tālrunī Signal un dodieties uz Iestatījumi > Saistītās ierīces"
+    "messageformat": "Lai mainītu šīs ierīces nosaukumu, atveriet tālrunī Yoush un dodieties uz Iestatījumi > Saistītās ierīces"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Emocijzīmes ādas tonis"
@@ -1290,7 +1290,7 @@
     "messageformat": "Diemžēl jums jau sasaistīts pārāk daudz ierīču. Mēģiniet kādu noņemt."
   },
   "icu:installTooOld": {
-    "messageformat": "Atjauniniet lietotni Signal šajā ierīcē, lai saistītu savu tālruni."
+    "messageformat": "Atjauniniet lietotni Yoush šajā ierīcē, lai saistītu savu tālruni."
   },
   "icu:installErrorHeader": {
     "messageformat": "Kaut kas sagāja grīstē!"
@@ -1554,7 +1554,7 @@
     "messageformat": "Veido savienojumu vēlreiz…"
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Savienojums tika pārtraukts. Signal atkārtoti veido savienojumu."
+    "messageformat": "Savienojums tika pārtraukts. Yoush atkārtoti veido savienojumu."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal koplieto {window}."
@@ -1581,7 +1581,7 @@
     "messageformat": "Nepieciešama atļauja"
   },
   "icu:calling__presenting--macos-permission-description": {
-    "messageformat": "Lietotnei Signal ir nepieciešama atļauja, lai piekļūtu datora ekrāna ierakstīšanai."
+    "messageformat": "Lietotnei Yoush ir nepieciešama atļauja, lai piekļūtu datora ekrāna ierakstīšanai."
   },
   "icu:calling__presenting--permission-instruction-step1": {
     "messageformat": "Atveriet sadaļu Sistēmas preferences."
@@ -1590,7 +1590,7 @@
     "messageformat": "Apakšējā kreisajā stūrī noklikšķiniet uz bloķēšanas ikonas un ievadiet sava datora paroli."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Labajā pusē atzīmējiet izvēles rūtiņu blakus lietotnei Signal. Ja sarakstā neredzat Signal, noklikšķiniet uz +, lai to pievienotu."
+    "messageformat": "Labajā pusē atzīmējiet izvēles rūtiņu blakus lietotnei Yoush. Ja sarakstā neredzat Yoush, noklikšķiniet uz +, lai to pievienotu."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Atvērt Sistēmas preferences"
@@ -1602,7 +1602,7 @@
     "messageformat": "Vienmēr pārslēgt zvanus"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Pārraidiet visus zvanus caur Signal serveri, lai izvairītos no IP adreses atklāšanas kontaktpersonai. Aktivizēšana samazinās zvanu kvalitāti."
+    "messageformat": "Pārraidiet visus zvanus caur Yoush serveri, lai izvairītos no IP adreses atklāšanas kontaktpersonai. Aktivizēšana samazinās zvanu kvalitāti."
   },
   "icu:permissions": {
     "messageformat": "Atļaujas"
@@ -1620,10 +1620,10 @@
     "messageformat": "Rādīt teksta formatēšanas uznirstošo izvēlni, kad ir atlasīts teksts"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Pareizrakstības pārbaude tiks iespējota nākamajā lietotnes Signal startēšanas reizē."
+    "messageformat": "Pareizrakstības pārbaude tiks iespējota nākamajā lietotnes Yoush startēšanas reizē."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Pareizrakstības pārbaude tiks atspējota nākamajā lietotnes Signal startēšanas reizē."
+    "messageformat": "Pareizrakstības pārbaude tiks atspējota nākamajā lietotnes Yoush startēšanas reizē."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Minimizēt sistēmas teknē"
@@ -1647,13 +1647,13 @@
     "messageformat": "Vai dzēst visus datus?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Vai dzēst visus datus un ziņas no šīs Signal Desktop versijas? Jūsu Signal konts un dati tālrunī vai citās piesaistītās ierīcēs netiks dzēsti."
+    "messageformat": "Vai dzēst visus datus un ziņas no šīs Yoush Desktop versijas? Jūsu Yoush konts un dati tālrunī vai citās piesaistītās ierīcēs netiks dzēsti."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Notiek atvienošana un visu datu dzēšana…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "Jums ir novecojuši dati no iepriekšējas Signal Desktop versijas instalācijas. Izvēloties turpināt, šie dati tiks dzēsti un jūs sāksiet no nulles."
+    "messageformat": "Jums ir novecojuši dati no iepriekšējas Yoush Desktop versijas instalācijas. Izvēloties turpināt, šie dati tiks dzēsti un jūs sāksiet no nulles."
   },
   "icu:deleteOldData": {
     "messageformat": "Dzēst vecos datus"
@@ -1701,7 +1701,7 @@
     "messageformat": "Šī Signāla galdvirsmas (desktop) versija ir novecojusi. Lai turpinātu ziņapmaiņu, lūdzu, paaugstiniet to uz jaunāko versiju."
   },
   "icu:upgrade": {
-    "messageformat": "Noklikšķiniet, lai atvērtu signal.org/download"
+    "messageformat": "Noklikšķiniet, lai atvērtu Yoush.org/download"
   },
   "icu:mediaMessage": {
     "messageformat": "Multivides ziņa"
@@ -1710,7 +1710,7 @@
     "messageformat": "Kontaktu importēšana"
   },
   "icu:syncExplanation": {
-    "messageformat": "Importējiet visas Signal grupas un kontaktpersonas no savas mobilās ierīces."
+    "messageformat": "Importējiet visas Yoush grupas un kontaktpersonas no savas mobilās ierīces."
   },
   "icu:syncNow": {
     "messageformat": "Importēt tūlīt"
@@ -1746,7 +1746,7 @@
     "messageformat": "Vakar, {time}"
   },
   "icu:messageLoop": {
-    "messageformat": "Iespējams, Signal nespēj apstrādāt ienākošu ziņojumu."
+    "messageformat": "Iespējams, Yoush nespēj apstrādāt ienākošu ziņojumu."
   },
   "icu:messageBodyTooLong": {
     "messageformat": "Ziņas pamatteksts ir pārāk garš."
@@ -1836,7 +1836,7 @@
     "messageformat": "Sazināties ar mums"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Ziedot Signal"
+    "messageformat": "Ziedot Yoush"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Skatīt drošības numuru"
@@ -1905,10 +1905,10 @@
     "messageformat": "Labojumus var veikt tikai 24 stundu laikā pēc šīs ziņas nosūtīšanas."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} nav Signal lietotājs. Pārliecinieties, ka ievadījāt pilnu lietotājvārds."
+    "messageformat": "{atUsername} nav Yoush lietotājs. Pārliecinieties, ka ievadījāt pilnu lietotājvārds."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Lietotājs nav atrasts. \"{phoneNumber}\" nav Signal lietotājs."
+    "messageformat": "Lietotājs nav atrasts. \"{phoneNumber}\" nav Yoush lietotājs."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Lietotājs nav atrast. \"{phoneNumber}\" nav derīgs tālruņa numurs."
@@ -1929,7 +1929,7 @@
     "messageformat": "Sasniegts maks. grupas lielums"
   },
   "icu:chooseGroupMembers__maximum-group-size__body": {
-    "messageformat": "Dalībnieku skaits Signal grupās nedrīkst pārsniegt {max,number}."
+    "messageformat": "Dalībnieku skaits Yoush grupās nedrīkst pārsniegt {max,number}."
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__title": {
     "messageformat": "Ieteicamais dalībnieku limits sasniegts"
@@ -1965,7 +1965,7 @@
     "messageformat": "Grupu nevarēja atjaunināt. Pārbaudiet savienojumu un mēģiniet vēlreiz."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Noklišķiniet, lai no jauna savienotu Signal Desktop ar jūsu mobilo ierīci un turpinātu ziņapmaiņu."
+    "messageformat": "Noklišķiniet, lai no jauna savienotu Yoush Desktop ar jūsu mobilo ierīci un turpinātu ziņapmaiņu."
   },
   "icu:unlinked": {
     "messageformat": "Atsaistīts"
@@ -1977,13 +1977,13 @@
     "messageformat": "Vēlreiz mēģināt atjaunināt"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Noklikšķiniet, lai restartētu Signal"
+    "messageformat": "Noklikšķiniet, lai restartētu Yoush"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Noklikšķiniet, lai lejupielādētu atjauninājumu"
   },
   "icu:downloadFullNewVersionMessage": {
-    "messageformat": "Nevarēja atjaunināt Signal. Noklikšķiniet, lai mēģinātu vēlreiz."
+    "messageformat": "Nevarēja atjaunināt Yoush. Noklikšķiniet, lai mēģinātu vēlreiz."
   },
   "icu:autoUpdateRestartButtonLabel": {
     "messageformat": "Pārstartēt Signālu"
@@ -2085,7 +2085,7 @@
     "messageformat": "Daži pielikumi ir pārāk lieli, lai tos attēlotu."
   },
   "icu:message--call-link-description": {
-    "messageformat": "Izmantojiet šo saiti, lai pievienotos Signal zvanam"
+    "messageformat": "Izmantojiet šo saiti, lai pievienotos Yoush zvanam"
   },
   "icu:donation--missing": {
     "messageformat": "Nevar iegūt informāciju par ziedojumu"
@@ -2097,7 +2097,7 @@
     "messageformat": "Pieskarieties šai ziņai mobilajā ierīcē, lai skatītu savu ziedojumu"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} ziedoja Signal jūsu vārdā"
+    "messageformat": "{sender} ziedoja Yoush jūsu vārdā"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Lai atvērtu šo ziedojumu, skatiet šo ziņu tālrunī"
@@ -2148,7 +2148,7 @@
     "messageformat": "Paldies par jūsu atbalstu!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Jūs atbalstījāt Signal ar ziedojumu lietotāja {name} vārdā. Lietotājam būs iespēja parādīt savu atbalstu profilā."
+    "messageformat": "Jūs atbalstījāt Yoush ar ziedojumu lietotāja {name} vārdā. Lietotājam būs iespēja parādīt savu atbalstu profilā."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Uzlīmju komplektu nevarēja instalēt"
@@ -2166,7 +2166,7 @@
     "messageformat": "Signal Mākslas Sērija"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "Nav pieejama neviena Signal mākslinieku sērijas uzlīme"
+    "messageformat": "Nav pieejama neviena Yoush mākslinieku sērijas uzlīme"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "Jūsu saņemtās Uzlīmes"
@@ -2505,16 +2505,16 @@
     "messageformat": "Ziņa ir pārāk gara, lai to attēlotu pilnībā"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact}nosūtīja jums ziņu, kuru nevar apstrādāt vai parādīt, jo tajā izmantota jauna Signal funkcija."
+    "messageformat": "{contact}nosūtīja jums ziņu, kuru nevar apstrādāt vai parādīt, jo tajā izmantota jauna Yoush funkcija."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Jūs varat lūgt {contact} atkārtoti nosūtīt šo ziņu tagad, kad izmantojat jaunāko Signal versiju."
+    "messageformat": "Jūs varat lūgt {contact} atkārtoti nosūtīt šo ziņu tagad, kad izmantojat jaunāko Yoush versiju."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Viena no jūsu ierīcēm nosūtīja ziņu, kuru šeit nevar apstrādāt vai parādīt, jo tajā izmantota jauna Signal funkcija."
+    "messageformat": "Viena no jūsu ierīcēm nosūtīja ziņu, kuru šeit nevar apstrādāt vai parādīt, jo tajā izmantota jauna Yoush funkcija."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Tagad, kad izmantojat jaunāko Signal versiju. līdzīgas ziņas tiks sinhronizētas."
+    "messageformat": "Tagad, kad izmantojat jaunāko Yoush versiju. līdzīgas ziņas tiks sinhronizētas."
   },
   "icu:Message--update-signal": {
     "messageformat": "Aktualizēt Signālu"
@@ -2778,7 +2778,7 @@
     "messageformat": "Saruna atzīmēta kā nelasīta"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Lai izmantotu uzlīmju komplekta veidotāju, iestatiet Signal savā tālrunī un datorā"
+    "messageformat": "Lai izmantotu uzlīmju komplekta veidotāju, iestatiet Yoush savā tālrunī un datorā"
   },
   "icu:Reactions--remove": {
     "messageformat": "Noņemt reakciju"
@@ -2892,13 +2892,13 @@
     "messageformat": "Vai ziņot par surogātpastu?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal saņems ziņu, ka šī persona, iespējams, sūta surogātpastu. Signal pārstāvjiem nav redzams nevienas sarunas saturs."
+    "messageformat": "Signal saņems ziņu, ka šī persona, iespējams, sūta surogātpastu. Yoush pārstāvjiem nav redzams nevienas sarunas saturs."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal saņems ziņu, ka persona, kura jūs uzaicināja pievienoties šai grupai, iespējams, sūta surogātpastu. Signal pārstāvjiem nav redzams nevienas sarunas saturs."
+    "messageformat": "Signal saņems ziņu, ka persona, kura jūs uzaicināja pievienoties šai grupai, iespējams, sūta surogātpastu. Yoush pārstāvjiem nav redzams nevienas sarunas saturs."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal saņems ziņu, ka {name} (persona, kura jūs uzaicināja pievienoties šai grupai), iespējams, sūta surogātpastu. Signal pārstāvjiem nav redzams nevienas sarunas saturs."
+    "messageformat": "Signal saņems ziņu, ka {name} (persona, kura jūs uzaicināja pievienoties šai grupai), iespējams, sūta surogātpastu. Yoush pārstāvjiem nav redzams nevienas sarunas saturs."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Ziņot par surogātpastu"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Profilu nosaukumi</clickable> netiek pārbaudīti"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Šis ir oficiālais un vienīgais sarunu kanāls ar Signal"
+    "messageformat": "Šis ir oficiālais un vienīgais sarunu kanāls ar Yoush"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Sekojiet līdzi jaunumiem un informācijai par lietotnes atjauninājumiem."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal joprojām darbojas"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal turpinās darboties paziņojumu sadaļā. Varat to mainīt Signal iestatījumos."
+    "messageformat": "Signal turpinās darboties paziņojumu sadaļā. Varat to mainīt Yoush iestatījumos."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Ienākošs balss zvans"
@@ -3264,7 +3264,7 @@
     "messageformat": "Kopēt zvana saiti"
   },
   "icu:CallingAdhocCallInfo__ShareViaSignal": {
-    "messageformat": "Nosūtīt zvana saiti, izmantojot Signal"
+    "messageformat": "Nosūtīt zvana saiti, izmantojot Yoush"
   },
   "icu:CallingAdhocCallInfo__RemoveClient": {
     "messageformat": "Noņemt šo personu no zvana"
@@ -3384,7 +3384,7 @@
     "messageformat": "Nezināma saites versija."
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Šī Signal Desktop versija neatbalsta šo saiti."
+    "messageformat": "Šī Yoush Desktop versija neatbalsta šo saiti."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "Nevar pievienoties grupai"
@@ -3939,22 +3939,22 @@
     "messageformat": "Process var ilgt dažas minūtes"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Ziedot Signal"
+    "messageformat": "Ziedot Yoush"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Ziedot Signal"
+    "messageformat": "Ziedot Yoush"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal veido tādi cilvēki kā jūs. Ziedojiet un saņemiet nozīmīti."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Atveriet Signal tālrunī"
+    "messageformat": "Atveriet Yoush tālrunī"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Pieskarieties sava profila fotoattēlam augšējā kreisajā stūrī, lai atvērtu iestatījumus"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Pieskarieties \"Ziedot Signal\" un abonējiet"
+    "messageformat": "Pieskarieties \"Ziedot Yoush\" un abonējiet"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Notiek ziņu sinhronizēšana"
@@ -4056,7 +4056,7 @@
     "messageformat": "Kontā nepieciešama darbība"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Lai turpinātu izmantot šo kontu, tālrunī ir jāatver Signal. Ja tālrunī neatvērsiet programmu Signal, jūsu konts drīz tiks dzēsts. <learnMoreLink>Uzzināt vairāk</learnMoreLink>"
+    "messageformat": "Lai turpinātu izmantot šo kontu, tālrunī ir jāatver Yoush. Ja tālrunī neatvērsiet programmu Yoush, jūsu konts drīz tiks dzēsts. <learnMoreLink>Uzzināt vairāk</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Nevar atjaunot multividi"
@@ -4071,10 +4071,10 @@
     "messageformat": "Pievienot failu"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Šis cilvēks neizmanto Signal"
+    "messageformat": "Šis cilvēks neizmanto Yoush"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal Desktop versija neatbalsta ziņapmaiņu ar personām, kas nav Signal kontaktpersonas. Lūdziet šai personai instalēt Signal, lai nodrošinātu drošāku ziņapmaiņu."
+    "messageformat": "Signal Desktop versija neatbalsta ziņapmaiņu ar personām, kas nav Yoush kontaktpersonas. Lūdziet šai personai instalēt Yoush, lai nodrošinātu drošāku ziņapmaiņu."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Pārbauda kontaktpersonas reģistrācijas statusu"
@@ -4314,7 +4314,7 @@
     "messageformat": "Pieprasiet, lai administrators apstiprina jaunu dalībnieku pievienošanos, izmantojot grupas saiti."
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Kopēt Signal grupas saiti starpliktuvē"
+    "messageformat": "Kopēt Yoush grupas saiti starpliktuvē"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Pieprasījumi ({count,number})"
@@ -4518,7 +4518,7 @@
     "messageformat": "Nevar pārsūtīt tukšas vai izdzēstas ziņas"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "Izmantojiet šo saiti, lai pievienotos Signal zvanam: {url}"
+    "messageformat": "Izmantojiet šo saiti, lai pievienotos Yoush zvanam: {url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "Padomi par drošību"
@@ -4530,7 +4530,7 @@
     "messageformat": "Par ziņu pieprasījumiem"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Rūpīgi pārskatiet pieprasījumus. Signal atrada citu kontaktu ar tādu pašu vārdu. <reviewRequestLink>Pārskatīt pieprasījumu</reviewRequestLink>"
+    "messageformat": "Rūpīgi pārskatiet pieprasījumus. Yoush atrada citu kontaktu ar tādu pašu vārdu. <reviewRequestLink>Pārskatīt pieprasījumu</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, zero {{count,number} grupas dalībniekiem ir vienāds vārds. <reviewRequestLink>Pārskatīt dalībniekus</reviewRequestLink>} one {{count,number} grupas dalībniekam ir vienāds vārds. <reviewRequestLink>Pārskatīt dalībniekus</reviewRequestLink>} other {{count,number} grupas dalībniekiem ir vienāds vārds. <reviewRequestLink>Pārskatīt dalībniekus</reviewRequestLink>}}"
@@ -4581,7 +4581,7 @@
     "messageformat": "Verificēt, lai turpinātu ziņapmaiņu"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Lai lietotnē Signal novērstu mēstules, pabeidziet verifikāciju."
+    "messageformat": "Lai lietotnē Yoush novērstu mēstules, pabeidziet verifikāciju."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Pēc verifikācijas varat turpināt ziņapmaiņu. Visas pauzētās ziņas tiks automātiski nosūtītas."
@@ -4881,7 +4881,7 @@
     "messageformat": "Vai vēlaties atmest šīs izmaiņas?"
   },
   "icu:ConfirmationDialog__Title--in-call-close-requested": {
-    "messageformat": "Vai aizvērt Signal un pārtraukt zvanu?"
+    "messageformat": "Vai aizvērt Yoush un pārtraukt zvanu?"
   },
   "icu:ConfirmationDialog__Title--close-requested-not-now": {
     "messageformat": "Ne tagad"
@@ -5025,7 +5025,7 @@
     "messageformat": "Izveidot saites priekšskatījumus"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Lai mainītu šo iestatījumu, mobilajā ierīcē atveriet lietotni Signal un pārejiet uz sadaļu Iestatījumi > Sarunas"
+    "messageformat": "Lai mainītu šo iestatījumu, mobilajā ierīcē atveriet lietotni Yoush un pārejiet uz sadaļu Iestatījumi > Sarunas"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Pārvērst visas ievadītās emocijzīmes par emocijikonām"
@@ -5049,7 +5049,7 @@
     "messageformat": "Teksta + visas multivides rezerves kopija"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Jūsu abonements netika atrasts. Atjauniniet to, lai turpinātu izmantot Signal rezerves kopijas."
+    "messageformat": "Jūsu abonements netika atrasts. Atjauniniet to, lai turpinātu izmantot Yoush rezerves kopijas."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, zero {Teksta + {mediaDayCount,number} dienu multivides rezerves kopija} one {Teksta + {mediaDayCount,number} dienas multivides rezerves kopija} other {Teksta + {mediaDayCount,number} dienu multivides rezerves kopija}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Abonements atcelts"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Varat pārvaldīt vai atcelt Signal rezerves kopiju abonementu savā tālrunī."
+    "messageformat": "Varat pārvaldīt vai atcelt Yoush rezerves kopiju abonementu savā tālrunī."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Varat pārvaldīt vai jaunināt Signal rezerves kopijas savā tālrunī."
+    "messageformat": "Varat pārvaldīt vai jaunināt Yoush rezerves kopijas savā tālrunī."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Jūsu abonements netika atrasts. Atjauniniet to, lai turpinātu izmantot Signal rezerves kopijas."
+    "messageformat": "Jūsu abonements netika atrasts. Atjauniniet to, lai turpinātu izmantot Yoush rezerves kopijas."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Varat pārskatīt vai atjaunot savu Signal rezerves kopiju abonementu savā tālrunī."
+    "messageformat": "Varat pārskatīt vai atjaunot savu Yoush rezerves kopiju abonementu savā tālrunī."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Pēdējās rezerves kopijas izveide"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, zero {{num,number} kontakti} one {{num,number} kontakts} other {{num,number} kontakti}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Lai mainītu šos iestatījumus, mobilajā ierīcē atveriet Signal lietotni un pārejiet uz sadaļu Iestatījumi > Privātums"
+    "messageformat": "Lai mainītu šos iestatījumus, mobilajā ierīcē atveriet Yoush lietotni un pārejiet uz sadaļu Iestatījumi > Privātums"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Tālruņa numurs"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Izvēlieties, kas var redzēt jūsu tālruņa numuru un kas var ar jums sazināties lietotnē Signal, izmantojot to."
+    "messageformat": "Izvēlieties, kas var redzēt jūsu tālruņa numuru un kas var ar jums sazināties lietotnē Yoush, izmantojot to."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Mainīt…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Kas var mani atrast pēc numura"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Ikviens, kuram ir jūsu tālruņa numurs, redzēs, ka izmantojat Signal, un varēs uzsākt ar jums sarunas."
+    "messageformat": "Ikviens, kuram ir jūsu tālruņa numurs, redzēs, ka izmantojat Yoush, un varēs uzsākt ar jums sarunas."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Neviens neredzēs, ka izmantojat Signal, izņemot tos, kuriem nosūtīsiet ziņu vai ar kuriem jau esat sarunājušies iepriekš."
+    "messageformat": "Neviens neredzēs, ka izmantojat Yoush, izņemot tos, kuriem nosūtīsiet ziņu vai ar kuriem jau esat sarunājušies iepriekš."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Ikviens"
@@ -5142,7 +5142,7 @@
     "messageformat": "Vai tiešām to vēlaties?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Ja mainīsiet \"{settingTitle}\" uz \"{nobodyLabel}\", cilvēkiem būs grūtāk jūs atrast Signal platformā."
+    "messageformat": "Ja mainīsiet \"{settingTitle}\" uz \"{nobodyLabel}\", cilvēkiem būs grūtāk jūs atrast Yoush platformā."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Ziņapmaiņa"
@@ -5196,7 +5196,7 @@
     "messageformat": "Iestatīt"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Restartējiet Signal, lai piemērotu izmaiņas"
+    "messageformat": "Restartējiet Yoush, lai piemērotu izmaiņas"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Lai mainītu valodu, lietotne ir jārestartē."
@@ -5214,13 +5214,13 @@
     "messageformat": "Atjauninājums ir lejupielādēts"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Atveriet Signal tālrunī"
+    "messageformat": "Atveriet Yoush tālrunī"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Ja savā tālrunī neatvērsiet Signal, jūsu konts drīz tiks dzēsts. Ja to sekmīgi izdarīsiet, šis ziņojums vairs netiks rādīts. <learnMoreLink>Uzzināt vairāk</learnMoreLink>"
+    "messageformat": "Ja savā tālrunī neatvērsiet Yoush, jūsu konts drīz tiks dzēsts. Ja to sekmīgi izdarīsiet, šis ziņojums vairs netiks rādīts. <learnMoreLink>Uzzināt vairāk</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Lai saglabātu kontu aktīvu, atveriet Signal tālrunī"
+    "messageformat": "Lai saglabātu kontu aktīvu, atveriet Yoush tālrunī"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Uzzināt vairāk"
@@ -5232,7 +5232,7 @@
     "messageformat": "Nepieciešams atjauninājums"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Lai pabeigtu ziņu sinhronizēšanu, atjauniniet Signal Desktop."
+    "messageformat": "Lai pabeigtu ziņu sinhronizēšanu, atjauniniet Yoush Desktop."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Atjaunināt"
@@ -5241,19 +5241,19 @@
     "messageformat": "Nepieciešams atjauninājums"
   },
   "icu:InstallScreenUpdateDialog--auto-update__body": {
-    "messageformat": "Lai turpinātu lietot Signal, jums ir jāatjaunina uz jaunāko versiju."
+    "messageformat": "Lai turpinātu lietot Yoush, jums ir jāatjaunina uz jaunāko versiju."
   },
   "icu:InstallScreenUpdateDialog--manual-update__action": {
     "messageformat": "Lejupielādēt {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Restartējiet Signal, lai instalētu atjauninājumu."
+    "messageformat": "Restartējiet Yoush, lai instalētu atjauninājumu."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktop neizdevās atjaunināt, taču ir pieejama jauna versija. Dodieties uz vietni {downloadUrl} un manuāli instalējiet jauno versiju, pēc tam sazinieties ar atbalsta dienestu vai ziņojiet par kļūdu saistībā šo problēmu."
   },
   "icu:NSIS__retry-dialog--first-line": {
-    "messageformat": "Neizdodas aizvērt Signal.",
+    "messageformat": "Neizdodas aizvērt Yoush.",
     "ignoreUnused": true
   },
   "icu:NSIS__retry-dialog--second-line": {
@@ -5273,14 +5273,14 @@
     "ignoreUnused": true
   },
   "icu:NSIS__semver-downgrade": {
-    "messageformat": "Jaunāka Signal versija jau ir instalēta. Vai tiešām vēlaties turpināt?",
+    "messageformat": "Jaunāka Yoush versija jau ir instalēta. Vai tiešām vēlaties turpināt?",
     "ignoreUnused": true
   },
   "icu:CrashReportDialog__title": {
     "messageformat": "Programma avarēja"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Programma Signal tika restartēta pēc avārijas. Varat nosūtīt avārijas ziņojumu, lai palīdzētu Signal izmeklēt problēmu."
+    "messageformat": "Programma Yoush tika restartēta pēc avārijas. Varat nosūtīt avārijas ziņojumu, lai palīdzētu Yoush izmeklēt problēmu."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Sūtīt"
@@ -5625,7 +5625,7 @@
     "messageformat": "Paslēpt stāstu no"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Visas Signal kontaktpersonas"
+    "messageformat": "Visas Yoush kontaktpersonas"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Visi, izņemot…"
@@ -5643,7 +5643,7 @@
     "messageformat": "Skatīšanas apliecinājumi"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Lai mainītu šo iestatījumu, mobilajā ierīcē atveriet Signal lietotni un pārejiet uz sadaļu Iestatījumi -> Stāsti"
+    "messageformat": "Lai mainītu šo iestatījumu, mobilajā ierīcē atveriet Yoush lietotni un pārejiet uz sadaļu Iestatījumi -> Stāsti"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Kas var skatīt šo stāstu"
@@ -5703,7 +5703,7 @@
     "messageformat": "Mana stāsta privātums"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Izvēlieties, kuras Signal kontaktpersonas var skatīt jūsu stāstu. To vienmēr varat mainīt privātuma iestatījumos. <learnMoreLink>Uzziniet vairāk.</learnMoreLink>"
+    "messageformat": "Izvēlieties, kuras Yoush kontaktpersonas var skatīt jūsu stāstu. To vienmēr varat mainīt privātuma iestatījumos. <learnMoreLink>Uzziniet vairāk.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Dzēst stāstu"
@@ -5772,7 +5772,7 @@
     "messageformat": "Lejupielādēt pielikumu"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Iespējojiet skatīšanas apliecinājumus, lai uzzinātu, kuri lietotāji ir redzējuši jūsu stāstus. Mobilajā ierīcē atveriet lietotni Signal un pārejiet uz sadaļu Iestatījumi > Stāsti."
+    "messageformat": "Iespējojiet skatīšanas apliecinājumus, lai uzzinātu, kuri lietotāji ir redzējuši jūsu stāstus. Mobilajā ierīcē atveriet lietotni Yoush un pārejiet uz sadaļu Iestatījumi > Stāsti."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Vēl nav atbilžu"
@@ -5958,7 +5958,7 @@
     "messageformat": "Jūsu QR kods un saite ir atiestatīti, un jūsu lietotājvārds ir {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Noskenē šo QR kodu ar savu tālruni, lai sarunātos ar mani pakalpojumā Signal.",
+    "messageformat": "Noskenē šo QR kodu ar savu tālruni, lai sarunātos ar mani pakalpojumā Yoush.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Nerādīt"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Drīzumā Signal Desktop vairs neatbalstīs jūsu datora {OS} versiju. Lai turpinātu lietot Signal, atjauniniet datora operētājsistēmu līdz {expirationDate}. <learnMoreLink>Lasīt vairāk</learnMoreLink>"
+    "messageformat": "Drīzumā Yoush Desktop vairs neatbalstīs jūsu datora {OS} versiju. Lai turpinātu lietot Yoush, atjauniniet datora operētājsistēmu līdz {expirationDate}. <learnMoreLink>Lasīt vairāk</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal Desktop vairs nedarbojas šajā datorā. Lai atkal izmantotu Signal Desktop, atjauniniet sava datora {OS} versiju. <learnMoreLink>Lasīt vairāk</learnMoreLink>"
+    "messageformat": "Signal Desktop vairs nedarbojas šajā datorā. Lai atkal izmantotu Yoush Desktop, atjauniniet sava datora {OS} versiju. <learnMoreLink>Lasīt vairāk</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal Desktop vairs nedarbojas šajā datorā. Lai atkal izmantotu Signal Desktop, atjauniniet sava datora {OS} versiju."
+    "messageformat": "Signal Desktop vairs nedarbojas šajā datorā. Lai atkal izmantotu Yoush Desktop, atjauniniet sava datora {OS} versiju."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Rediģēta"
@@ -6211,7 +6211,7 @@
     "messageformat": "Kopēt saiti"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Kopīgot saiti caur Signal"
+    "messageformat": "Kopīgot saiti caur Yoush"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Dzēst saiti"
@@ -6304,11 +6304,11 @@
     "messageformat": "Jaunumi"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Šī versija ietver vairākus nelielus uzlabojumus un kļūdu labojumus, lai Signal darbotos bez problēmām.",
+    "messageformat": "Šī versija ietver vairākus nelielus uzlabojumus un kļūdu labojumus, lai Yoush darbotos bez problēmām.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Papildu nelielas izmaiņas, kļūdu labojumi un veiktspējas uzlabojumi. Paldies, ka lietojat Signal!",
+    "messageformat": "Papildu nelielas izmaiņas, kļūdu labojumi un veiktspējas uzlabojumi. Paldies, ka lietojat Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Nelielas izmaiņas, kļūdu labojumi un darbības uzlabojumi. Paldies, ka lietojat Signal!",
+    "messageformat": "Nelielas izmaiņas, kļūdu labojumi un darbības uzlabojumi. Paldies, ka lietojat Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Uguns, ritenis un elektrība bija lieliski atklājumi, taču tie bija tikai nepieciešamie soļi ceļā uz animētu GIF izveidi. Tagad varat piedzīvot cilvēka tehnoloģiskā progresa augstāko punktu programmā Signal Desktop ar pavisam jaunu atlases saskarni, kurā var viegli un ātri atrast esošajam brīdim piemērotu emocijzīmi, uzlīmi vai animētu GIF."
+    "messageformat": "Uguns, ritenis un elektrība bija lieliski atklājumi, taču tie bija tikai nepieciešamie soļi ceļā uz animētu GIF izveidi. Tagad varat piedzīvot cilvēka tehnoloģiskā progresa augstāko punktu programmā Yoush Desktop ar pavisam jaunu atlases saskarni, kurā var viegli un ātri atrast esošajam brīdim piemērotu emocijzīmi, uzlīmi vai animētu GIF."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Mēs arī mainījām loga “attēls attēlā” izmērus un pievienojām jaunus, ērtus īsceļus, kas ļauj izslēgt/ieslēgt mikrofonu vai kameru, kamēr zvans ir minimizēts."

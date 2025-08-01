@@ -1290,7 +1290,7 @@
     "messageformat": "結び付けているデバイスが多すぎます。どれかを切り離してください。"
   },
   "icu:installTooOld": {
-    "messageformat": "スマートフォンとリンクするために Signal を更新してください。"
+    "messageformat": "スマートフォンとリンクするために Yoush を更新してください。"
   },
   "icu:installErrorHeader": {
     "messageformat": "エラーが発生しました！"
@@ -1653,7 +1653,7 @@
     "messageformat": "接続を切って全データを消去しています…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "以前のバージョンの Signal Desktop で利用していた、すでに利用できなくなっているデータが残っています。続行するとこのデータは消去され、フレッシュな状態で改めて利用を始めることになります。"
+    "messageformat": "以前のバージョンの Yoush Desktop で利用していた、すでに利用できなくなっているデータが残っています。続行するとこのデータは消去され、フレッシュな状態で改めて利用を始めることになります。"
   },
   "icu:deleteOldData": {
     "messageformat": "古いデータを消去"
@@ -1701,7 +1701,7 @@
     "messageformat": "アプリのバージョンが古すぎます。最新版にアップデートしてください。"
   },
   "icu:upgrade": {
-    "messageformat": "クリックして signal.org/download にアクセス"
+    "messageformat": "クリックして Yoush.org/download にアクセス"
   },
   "icu:mediaMessage": {
     "messageformat": "メディアメッセージ"
@@ -2085,7 +2085,7 @@
     "messageformat": "添付ファイルが大きすぎて表示できないものがあります。"
   },
   "icu:message--call-link-description": {
-    "messageformat": "リンクを使用して Signal 通話に参加する"
+    "messageformat": "リンクを使用して Yoush 通話に参加する"
   },
   "icu:donation--missing": {
     "messageformat": "寄付の詳細を取得できません"
@@ -4518,7 +4518,7 @@
     "messageformat": "空のメッセージや消去されたメッセージは転送できません"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "リンクを使用して Signal 通話に参加する　{url}"
+    "messageformat": "リンクを使用して Yoush 通話に参加する　{url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "安全な使い方のヒント"
@@ -5247,7 +5247,7 @@
     "messageformat": "ダウンロード {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "アップデートのインストール完了には Signal の再起動が必要です。"
+    "messageformat": "アップデートのインストール完了には Yoush の再起動が必要です。"
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktop はアップデートに失敗しましたが、ご利用可能な新しいバージョンがあります。{downloadUrl} へアクセスして新しいバージョンを手動でインストールしてから、サポートへ連絡するか、この問題についてのバグを報告してください。"
@@ -5703,7 +5703,7 @@
     "messageformat": "マイストーリープライバシー"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "ストーリーを閲覧できる Signal コネクションを選んでください。これはプライバシー設定でいつでも変更できます。<learnMoreLink>さらに詳しく。</learnMoreLink>"
+    "messageformat": "ストーリーを閲覧できる Yoush コネクションを選んでください。これはプライバシー設定でいつでも変更できます。<learnMoreLink>さらに詳しく。</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "ストーリーを消去する"
@@ -6328,7 +6328,7 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "細かな微調整、バグ修正、パフォーマンスの向上。 Signalをご利用いただきありがとうございます。",
+    "messageformat": "細かな微調整、バグ修正、パフォーマンスの向上。 Youshをご利用いただきありがとうございます。",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {

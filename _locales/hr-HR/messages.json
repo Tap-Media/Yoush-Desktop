@@ -75,16 +75,16 @@
     "messageformat": "Nepoznata grupa"
   },
   "icu:cantOpenSignalError": {
-    "messageformat": "Nije moguće otvoriti Signal"
+    "messageformat": "Nije moguće otvoriti Yoush"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Slijedite upute za oporavak na stranici za podršku ili kontaktirajte korisničku podršku Signala kako bi vam pomogli riješiti problem.\n\nAko vam je odmah potreban pristup Signalu, možete izbrisati svoje podatke i ponovno povezati ovaj uređaj. Imat ćete opciju prijenosa povijesti poruka sa svog telefona."
+    "messageformat": "Slijedite upute za oporavak na stranici za podršku ili kontaktirajte korisničku podršku Yousha kako bi vam pomogli riješiti problem.\n\nAko vam je odmah potreban pristup Youshu, možete izbrisati svoje podatke i ponovno povezati ovaj uređaj. Imat ćete opciju prijenosa povijesti poruka sa svog telefona."
   },
   "icu:databaseError": {
     "messageformat": "Pogreška baze podataka"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Došlo je do pogreške u bazi podataka. Kopirajte pogrešku i kontaktirajte korisničku podršku Signala kako bi vam pomogli riješiti problem. Ako vam je odmah potreban pristup Signalu, možete izbrisati svoje podatke i ponovno ga pokrenuti.\n\nKontaktirajte korisničku podršku putem ove poveznice: {link}"
+    "messageformat": "Došlo je do pogreške u bazi podataka. Kopirajte pogrešku i kontaktirajte korisničku podršku Yousha kako bi vam pomogli riješiti problem. Ako vam je odmah potreban pristup Youshu, možete izbrisati svoje podatke i ponovno ga pokrenuti.\n\nKontaktirajte korisničku podršku putem ove poveznice: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Izbriši podatke i ponovno pokreni"
@@ -93,16 +93,16 @@
     "messageformat": "Trajno brisanje svih podataka"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "Vaša čitava povijest poruka i svi medijski zapisi bit će trajno izbrisani s ovog uređaja. Time se neće izbrisati podaci s vašeg mobilnog uređaja.\n\nMoći ćete koristiti Signal na ovom uređaju nakon ponovnog povezivanja. Imat ćete opciju prijenosa povijesti poruka sa svog telefona."
+    "messageformat": "Vaša čitava povijest poruka i svi medijski zapisi bit će trajno izbrisani s ovog uređaja. Time se neće izbrisati podaci s vašeg mobilnog uređaja.\n\nMoći ćete koristiti Yoush na ovom uređaju nakon ponovnog povezivanja. Imat ćete opciju prijenosa povijesti poruka sa svog telefona."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Verzija vaše baze podataka ne odgovara ovoj verziji Signala. Provjerite jeste li pokrenuli najnoviju verziju Signala na svom računalu."
+    "messageformat": "Verzija vaše baze podataka ne odgovara ovoj verziji Yousha. Provjerite jeste li pokrenuli najnoviju verziju Yousha na svom računalu."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Nije moguće pristupiti ključu za šifriranje baze podataka jer se pozadina ključeva za šifriranje operacijskog sustava promijenila iz {previousBackend} u {currentBackend}. To se može dogoditi ako se promijeni okruženje radne površine, na primjer između GNOME i KDE.\n\nMolimo, prijeđite na prethodno okruženje radne površine."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "Nije moguće pristupiti ključu za šifriranje baze podataka jer se pozadina ključeva za šifriranje operacijskog sustava promijenila iz {previousBackend} u {currentBackend}. To se može dogoditi ako se promijeni okruženje radne površine, na primjer između GNOME i KDE.\n\nMolimo, prijeđite na prethodno okruženje radne površine ili pokušajte pokrenuti Signal s oznakom naredbenog retka --password-store=\"{previousBackendFlag}\""
+    "messageformat": "Nije moguće pristupiti ključu za šifriranje baze podataka jer se pozadina ključeva za šifriranje operacijskog sustava promijenila iz {previousBackend} u {currentBackend}. To se može dogoditi ako se promijeni okruženje radne površine, na primjer između GNOME i KDE.\n\nMolimo, prijeđite na prethodno okruženje radne površine ili pokušajte pokrenuti Yoush s oznakom naredbenog retka --password-store=\"{previousBackendFlag}\""
   },
   "icu:mainMenuFile": {
     "messageformat": "&Datoteka"
@@ -138,7 +138,7 @@
     "messageformat": "Prikaži sve"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Zatvori Signal"
+    "messageformat": "Zatvori Yoush"
   },
   "icu:editMenuUndo": {
     "messageformat": "Poništi"
@@ -303,7 +303,7 @@
     "messageformat": "Postavke"
   },
   "icu:NavTabs__ItemLabel--Update": {
-    "messageformat": "Ažuriraj Signal"
+    "messageformat": "Ažuriraj Yoush"
   },
   "icu:NavTabs__ItemLabel--Profile": {
     "messageformat": "Profil"
@@ -429,10 +429,10 @@
     "messageformat": "Označili ste da vaš sigurnosni broj s {name} nije provjeren na drugom uređaju"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Sigurnosni broj koji pokušavate provjeriti promijenio se. Molimo pregledajte vaš novi sigurnosni broj s {name1}. Zapamtite, ova promjena može značiti da netko pokušava presresti vašu komunikaciju ili da je {name2} jednostavno ponovno instalirao/la Signal."
+    "messageformat": "Sigurnosni broj koji pokušavate provjeriti promijenio se. Molimo pregledajte vaš novi sigurnosni broj s {name1}. Zapamtite, ova promjena može značiti da netko pokušava presresti vašu komunikaciju ili da je {name2} jednostavno ponovno instalirao/la Yoush."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Sljedeće osobe možda su ponovno instalirale Signal ili promijenile uređaje. Kliknite na primatelja kako biste potvrdili novi sigurnosni broj. Ovo nije obavezno."
+    "messageformat": "Sljedeće osobe možda su ponovno instalirale Yoush ili promijenile uređaje. Kliknite na primatelja kako biste potvrdili novi sigurnosni broj. Ovo nije obavezno."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Pošaljite poruke na čekanju"
@@ -441,7 +441,7 @@
     "messageformat": "Pregled"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, one {Imate {count,number} kontakt koji je možda ponovno instalirao Signal ili promijenio uređaje. Po želji možete pregledati njegove sigurnosne brojeve prije slanja.} few {Imate {count,number} kontakta koji su možda ponovno instalirali Signal ili promijenili uređaje. Po želji možete pregledati njihove sigurnosne brojeve prije slanja.} many {Imate {count,number} kontakata koji su možda ponovno instalirali Signal ili promijenili uređaje. Po želji možete pregledati njihove sigurnosne brojeve prije slanja.} other {Imate {count,number} kontakata koji su možda ponovno instalirali Signal ili promijenili uređaje. Po želji možete pregledati njihove sigurnosne brojeve prije slanja.}}"
+    "messageformat": "{count, plural, one {Imate {count,number} kontakt koji je možda ponovno instalirao Yoush ili promijenio uređaje. Po želji možete pregledati njegove sigurnosne brojeve prije slanja.} few {Imate {count,number} kontakta koji su možda ponovno instalirali Yoush ili promijenili uređaje. Po želji možete pregledati njihove sigurnosne brojeve prije slanja.} many {Imate {count,number} kontakata koji su možda ponovno instalirali Yoush ili promijenili uređaje. Po želji možete pregledati njihove sigurnosne brojeve prije slanja.} other {Imate {count,number} kontakata koji su možda ponovno instalirali Yoush ili promijenili uređaje. Po želji možete pregledati njihove sigurnosne brojeve prije slanja.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Svi kontakti su pregledani, kliknite Pošalji za nastavak."
@@ -660,13 +660,13 @@
     "messageformat": "Pridružite se Beta testiranju"
   },
   "icu:signalDesktopPreferences": {
-    "messageformat": "Postavke Signala za Desktop"
+    "messageformat": "Postavke Yousha za Desktop"
   },
   "icu:signalDesktopStickerCreator": {
     "messageformat": "Alat za izradu naljepnica"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "O Signalu za Desktop"
+    "messageformat": "O Youshu za Desktop"
   },
   "icu:screenShareWindow": {
     "messageformat": "Dijeli zaslon"
@@ -744,7 +744,7 @@
     "messageformat": "Traži po broju telefona"
   },
   "icu:welcomeToSignal": {
-    "messageformat": "Dobrodošli u Signal"
+    "messageformat": "Dobrodošli u Yoush"
   },
   "icu:whatsNew": {
     "messageformat": "Pogledajte {whatsNew} u ovom ažuriranju"
@@ -831,13 +831,13 @@
     "messageformat": "Vi"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Za slanje glasovnih poruka omogućite pristup vašem mikrofonu Signalu za Desktop."
+    "messageformat": "Za slanje glasovnih poruka omogućite pristup vašem mikrofonu Youshu za Desktop."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Za pozivanje, omogućite pristup vašem mikrofonu Signalu za Desktop."
+    "messageformat": "Za pozivanje, omogućite pristup vašem mikrofonu Youshu za Desktop."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Za video pozive, omogućite pristup vašem kameri Signalu za Desktop."
+    "messageformat": "Za video pozive, omogućite pristup vašem kameri Youshu za Desktop."
   },
   "icu:allowAccess": {
     "messageformat": "Omogući pristup"
@@ -861,10 +861,10 @@
     "messageformat": "Utišaj priču"
   },
   "icu:cannotUpdateDetail-v2": {
-    "messageformat": "Ažuriranje Signala nije uspjelo. <retryUpdateButton>Pokušajte ga ponovno ažurirati</retryUpdateButton> ili posjetite {url} da biste ga ručno instalirali. Zatim <contactSupportLink>kontaktirajte korisničku podršku</contactSupportLink> u vezi s ovim problemom"
+    "messageformat": "Ažuriranje Yousha nije uspjelo. <retryUpdateButton>Pokušajte ga ponovno ažurirati</retryUpdateButton> ili posjetite {url} da biste ga ručno instalirali. Zatim <contactSupportLink>kontaktirajte korisničku podršku</contactSupportLink> u vezi s ovim problemom"
   },
   "icu:cannotUpdateRequireManualDetail-v2": {
-    "messageformat": "Ažuriranje Signala nije uspjelo. Posjetite {url} da biste ga ručno instalirali. Zatim <contactSupportLink>kontaktirajte korisničku podršku</contactSupportLink> u vezi s ovim problemom"
+    "messageformat": "Ažuriranje Yousha nije uspjelo. Posjetite {url} da biste ga ručno instalirali. Zatim <contactSupportLink>kontaktirajte korisničku podršku</contactSupportLink> u vezi s ovim problemom"
   },
   "icu:readOnlyVolume": {
     "messageformat": "Signal Desktop je vjerojatno u macOS karanteni i neće se moći automatski ažurirati. Pokušajte premjestiti {app} u {folder} pomoću programa Finder."
@@ -912,7 +912,7 @@
     "messageformat": "Ova će poruka biti izbrisana s ovog uređaja."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Ova će poruka biti trajno izbrisana za sve osobe u razgovoru ako su na najnovijoj verziji Signala, a oni će moći vidjeti da ste izbrisali poruku."
+    "messageformat": "Ova će poruka biti trajno izbrisana za sve osobe u razgovoru ako su na najnovijoj verziji Yousha, a oni će moći vidjeti da ste izbrisali poruku."
   },
   "icu:from": {
     "messageformat": "Od"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "\"{title}\" je ime profila koje je ova osoba postavila za sebe na Signalu."
+    "messageformat": "\"{title}\" je ime profila koje je ova osoba postavila za sebe na Youshu."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Provjeren/a"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} promijenio/la je svoj broj telefona"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Kontakt se pridružio/la Signalu"
+    "messageformat": "Kontakt se pridružio/la Youshu"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} i {conversationTitle} pripadaju istom računu. Vaša povijest poruka za oba razgovora nalazi se ovdje."
@@ -1209,7 +1209,7 @@
     "messageformat": "Nije moguće preuzeti medijski zapis"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Provjerite svoje računalo i internetsku vezu svog telefona. Otvorite Signal na telefonu i ponovno pokušajte preuzeti privitke."
+    "messageformat": "Provjerite svoje računalo i internetsku vezu svog telefona. Otvorite Yoush na telefonu i ponovno pokušajte preuzeti privitke."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Ovaj medijski zapis više nije dostupan na vašem telefonu, stoga ga nije moguće preuzeti."
@@ -1230,10 +1230,10 @@
     "messageformat": "Saznajte više"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Skenirajte ovaj kôd u aplikaciji Signal na vašem telefonu"
+    "messageformat": "Skenirajte ovaj kôd u aplikaciji Yoush na vašem telefonu"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Otvorite Signal na vašem uređaju"
+    "messageformat": "Otvorite Yoush na vašem uređaju"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Otvorite {settings} i dodirnite {linkedDevices}"
@@ -1272,7 +1272,7 @@
     "messageformat": "Naziv uređaja"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Da biste promijenili ime ovog uređaja, otvorite Signal na svom telefonu i idite na Postavke > Povezani uređaji"
+    "messageformat": "Da biste promijenili ime ovog uređaja, otvorite Yoush na svom telefonu i idite na Postavke > Povezani uređaji"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Boja kože za emojije"
@@ -1290,7 +1290,7 @@
     "messageformat": "Nažalost, već imate previše povezanih uređaja. Pokušajte ukloniti neke."
   },
   "icu:installTooOld": {
-    "messageformat": "Ažurirajte Signal na ovom uređaju kako biste ga povezali sa svojim telefonom."
+    "messageformat": "Ažurirajte Yoush na ovom uređaju kako biste ga povezali sa svojim telefonom."
   },
   "icu:installErrorHeader": {
     "messageformat": "Nešto je pošlo po zlu."
@@ -1560,7 +1560,7 @@
     "messageformat": "Signal dijeli {window}."
   },
   "icu:calling__presenting--info--unknown": {
-    "messageformat": "Omogućeno emitiranje zaslona za Signal"
+    "messageformat": "Omogućeno emitiranje zaslona za Yoush"
   },
   "icu:calling__presenting--reconnecting": {
     "messageformat": "Ponovno povezivanje…"
@@ -1590,7 +1590,7 @@
     "messageformat": "Kliknite na ikonu lokota u donjem lijevom kutu i unesite vašu lozinku računala."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "S desne strane, potvrdite okvir uz Signal. Ako na popisu ne vidite Signal, kliknite + da biste ga dodali."
+    "messageformat": "S desne strane, potvrdite okvir uz Yoush. Ako na popisu ne vidite Yoush, kliknite + da biste ga dodali."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Otvorite Postavke sustava"
@@ -1602,7 +1602,7 @@
     "messageformat": "Uvijek preusmjeri pozive"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Preusmjerite sve pozive putem Signalnog poslužitelja kako biste izbjegli otkrivanje vaše IP adrese vašim kontaktima. Omogućavanje opcije će smanjiti kvalitetu poziva."
+    "messageformat": "Preusmjerite sve pozive putem Youshnog poslužitelja kako biste izbjegli otkrivanje vaše IP adrese vašim kontaktima. Omogućavanje opcije će smanjiti kvalitetu poziva."
   },
   "icu:permissions": {
     "messageformat": "Dozvole"
@@ -1620,10 +1620,10 @@
     "messageformat": "Prikaži skočni prozor za oblikovanje teksta kada je tekst odabran"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Provjera pravopisa bit će omogućena sljedeći put kada pokrenete Signal."
+    "messageformat": "Provjera pravopisa bit će omogućena sljedeći put kada pokrenete Yoush."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Provjera pravopisa bit će onemogućena sljedeći put kada pokrenete Signal."
+    "messageformat": "Provjera pravopisa bit će onemogućena sljedeći put kada pokrenete Yoush."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Smanji na sistemsku traku"
@@ -1647,13 +1647,13 @@
     "messageformat": "Izbriši sve podatke?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Želite izbrisati sve podatke i poruke s ove verzije Signala za desktop? Vaš Signal račun i podaci na vašem telefonu ili drugim povezanim uređajima neće biti izbrisani."
+    "messageformat": "Želite izbrisati sve podatke i poruke s ove verzije Yousha za desktop? Vaš Yoush račun i podaci na vašem telefonu ili drugim povezanim uređajima neće biti izbrisani."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Prekidanje veze i brisanje svih podataka…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "Imate zastarjele podatke iz prethodne instalacije Signala za Desktop. Ako odlučite nastaviti, bit će izbrisani i započet ćete ispočetka."
+    "messageformat": "Imate zastarjele podatke iz prethodne instalacije Yousha za Desktop. Ako odlučite nastaviti, bit će izbrisani i započet ćete ispočetka."
   },
   "icu:deleteOldData": {
     "messageformat": "Izbriši stare podatke"
@@ -1698,10 +1698,10 @@
     "messageformat": "Djelomično izbrisano, kliknite za ponovni pokušaj"
   },
   "icu:expiredWarning": {
-    "messageformat": "Vaša verzija Signala za Desktop je istekla. Ažurirajte kako bi nastavili slati poruke."
+    "messageformat": "Vaša verzija Yousha za Desktop je istekla. Ažurirajte kako bi nastavili slati poruke."
   },
   "icu:upgrade": {
-    "messageformat": "Kliknite za odlazak na signal.org/download"
+    "messageformat": "Kliknite za odlazak na Yoush.org/download"
   },
   "icu:mediaMessage": {
     "messageformat": "Poruka s medijskim zapisom"
@@ -1710,7 +1710,7 @@
     "messageformat": "Uvoz kontakata"
   },
   "icu:syncExplanation": {
-    "messageformat": "Uvezite sve Signal grupe i kontakte sa svog mobilnog uređaja."
+    "messageformat": "Uvezite sve Yoush grupe i kontakte sa svog mobilnog uređaja."
   },
   "icu:syncNow": {
     "messageformat": "Uvezi sada"
@@ -1836,7 +1836,7 @@
     "messageformat": "Kontaktirajte nas"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Donirajte Signalu"
+    "messageformat": "Donirajte Youshu"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Prikaži sigurnosni broj"
@@ -1905,10 +1905,10 @@
     "messageformat": "Poruke je moguće uređivati samo u roku od 24 sata od trenutka slanja."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} nije korisnik Signala. Provjerite jeste li unijeli potpuno korisničko ime."
+    "messageformat": "{atUsername} nije korisnik Yousha. Provjerite jeste li unijeli potpuno korisničko ime."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Korisnik nije pronađen. \"{phoneNumber}\" nije korisnik Signala."
+    "messageformat": "Korisnik nije pronađen. \"{phoneNumber}\" nije korisnik Yousha."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Korisnik nije pronađen. \"{phoneNumber}\" nije važeći broj telefona."
@@ -1965,7 +1965,7 @@
     "messageformat": "Nije moguće ažurirati grupu. Provjerite internetsku vezu i pokušajte ponovo."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Za nastavak dopisivanja kliknite i ponovno povežite Signal Desktop s vašim mobilnim uređajem."
+    "messageformat": "Za nastavak dopisivanja kliknite i ponovno povežite Yoush Desktop s vašim mobilnim uređajem."
   },
   "icu:unlinked": {
     "messageformat": "Prekinuta je veza"
@@ -1977,16 +1977,16 @@
     "messageformat": "Ponoviti pokušaj ažuriranja"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Kliknite za ponovno pokretanje Signala"
+    "messageformat": "Kliknite za ponovno pokretanje Yousha"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Kliknite za preuzimanje ažuriranja"
   },
   "icu:downloadFullNewVersionMessage": {
-    "messageformat": "Ažuriranje Signala nije uspjelo. Kliknite za ponovni pokušaj."
+    "messageformat": "Ažuriranje Yousha nije uspjelo. Kliknite za ponovni pokušaj."
   },
   "icu:autoUpdateRestartButtonLabel": {
-    "messageformat": "Ponovno pokreni Signal"
+    "messageformat": "Ponovno pokreni Yoush"
   },
   "icu:autoUpdateIgnoreButtonLabel": {
     "messageformat": "Zanemari ažuriranje"
@@ -2085,7 +2085,7 @@
     "messageformat": "Dio privitaka je prevelik za prikazivanje."
   },
   "icu:message--call-link-description": {
-    "messageformat": "Koristite ovu poveznicu da biste se pridružili Signal pozivu"
+    "messageformat": "Koristite ovu poveznicu da biste se pridružili Yoush pozivu"
   },
   "icu:donation--missing": {
     "messageformat": "Nije moguće učitati podatke o donaciji"
@@ -2097,7 +2097,7 @@
     "messageformat": "Dodirnite ovu poruku na mobilnom uređaju za prikaz vaše donacije"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "Korisnik {sender} donirao je Signalu u vaše ime"
+    "messageformat": "Korisnik {sender} donirao je Youshu u vaše ime"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Provjerite svoj telefon i otvorite donaciju"
@@ -2148,7 +2148,7 @@
     "messageformat": "Hvala vam na podršci!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Izvršili ste donaciju Signalu u ime korisnika {name}. Korisnik će moći izabrati hoće li iskazati podršku na svom profilu."
+    "messageformat": "Izvršili ste donaciju Youshu u ime korisnika {name}. Korisnik će moći izabrati hoće li iskazati podršku na svom profilu."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Paket naljepnica nije moguće instalirati"
@@ -2166,7 +2166,7 @@
     "messageformat": "Signalova umjetnička serija"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "Nema dostupnih naljepnica iz Signalove umjetničke serije"
+    "messageformat": "Nema dostupnih naljepnica iz Youshove umjetničke serije"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "Naljepnice koje ste primili"
@@ -2505,19 +2505,19 @@
     "messageformat": "Poruka je preduga da se prikaže u potpunosti"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} vam je poslao poruku koja se ne može obraditi niti prikazati jer koristi novu značajku Signala."
+    "messageformat": "{contact} vam je poslao poruku koja se ne može obraditi niti prikazati jer koristi novu značajku Yousha."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Možete zatražiti od {contact} da ponovo pošalje ovu poruku sada kada koristite najnoviju verziju Signala."
+    "messageformat": "Možete zatražiti od {contact} da ponovo pošalje ovu poruku sada kada koristite najnoviju verziju Yousha."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Jedan od vaših uređaja je poslao poruku koja se ne može obraditi niti prikazati jer koristi novu značajku Signala."
+    "messageformat": "Jedan od vaših uređaja je poslao poruku koja se ne može obraditi niti prikazati jer koristi novu značajku Yousha."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Buduće poruke poput ove će sada biti sinkronizirane kada upotrebljavate najnoviju verziju Signala."
+    "messageformat": "Buduće poruke poput ove će sada biti sinkronizirane kada upotrebljavate najnoviju verziju Yousha."
   },
   "icu:Message--update-signal": {
-    "messageformat": "Ažuriraj Signal"
+    "messageformat": "Ažuriraj Yoush"
   },
   "icu:Message--tap-to-view--viewed": {
     "messageformat": "Pregledano"
@@ -2778,7 +2778,7 @@
     "messageformat": "Razgovor je označen kao nepročitan"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Za korištenje alata za izradu naljepnica postavite Signal na telefonu i računalu"
+    "messageformat": "Za korištenje alata za izradu naljepnica postavite Yoush na telefonu i računalu"
   },
   "icu:Reactions--remove": {
     "messageformat": "Ukloni reakciju"
@@ -2892,13 +2892,13 @@
     "messageformat": "Prijaviti kao neželjeni sadržaj?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal će biti obaviješten da ova osoba možda šalje neželjene poruke. Signal ne može vidjeti sadržaj nijednog razgovora."
+    "messageformat": "Signal će biti obaviješten da ova osoba možda šalje neželjene poruke. Yoush ne može vidjeti sadržaj nijednog razgovora."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal će biti obaviješten da korisnik koji vas je pozvao u ovu grupu možda šalje neželjene poruke. Signal ne može vidjeti sadržaj nijednog razgovora."
+    "messageformat": "Signal će biti obaviješten da korisnik koji vas je pozvao u ovu grupu možda šalje neželjene poruke. Yoush ne može vidjeti sadržaj nijednog razgovora."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal će biti obaviješten da korisnik {name}, koji vas je pozvao u ovu grupu, možda šalje neželjene poruke. Signal ne može vidjeti sadržaj nijednog razgovora."
+    "messageformat": "Signal će biti obaviješten da korisnik {name}, koji vas je pozvao u ovu grupu, možda šalje neželjene poruke. Yoush ne može vidjeti sadržaj nijednog razgovora."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Prijavi neželjeni sadržaj"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Imena profila</clickable> nisu potvrđena"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Ovo je službeni i jedini razgovor sa Signalom"
+    "messageformat": "Ovo je službeni i jedini razgovor sa Youshom"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Budite u toku s novostima i bilješkama o novim verzijama aplikacije."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal je i dalje aktivan u pozadini"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal obavijesti će i dalje biti aktivne. To možete promijeniti u postavkama Signala."
+    "messageformat": "Signal obavijesti će i dalje biti aktivne. To možete promijeniti u postavkama Yousha."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Dolazni glasovni poziv"
@@ -3264,7 +3264,7 @@
     "messageformat": "Kopiraj poveznicu na poziv"
   },
   "icu:CallingAdhocCallInfo__ShareViaSignal": {
-    "messageformat": "Podijeli poveznicu na poziv putem Signala"
+    "messageformat": "Podijeli poveznicu na poziv putem Yousha"
   },
   "icu:CallingAdhocCallInfo__RemoveClient": {
     "messageformat": "Ukloni ovog korisnika iz poziva"
@@ -3384,7 +3384,7 @@
     "messageformat": "Nepoznata verzija poveznice"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Poveznica nije podržana u ovoj verziji Signal Desktopa."
+    "messageformat": "Poveznica nije podržana u ovoj verziji Yoush Desktopa."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "Ne možete se pridružiti grupi"
@@ -3939,22 +3939,22 @@
     "messageformat": "Ovo može potrajati nekoliko minuta"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Donirajte Signalu"
+    "messageformat": "Donirajte Youshu"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Donirajte Signalu"
+    "messageformat": "Donirajte Youshu"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal podržavaju ljudi poput Vas. Donirajte i osvojite svoju značku."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Otvorite Signal na vašem uređaju"
+    "messageformat": "Otvorite Yoush na vašem uređaju"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Pritisnite svoju profilnu sliku u gornjem lijevom kutu da biste otvorili Postavke"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Dodirnite \"Donirajte Signalu\" i pretplatite se"
+    "messageformat": "Dodirnite \"Donirajte Youshu\" i pretplatite se"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Sinkronizacija poruka u tijeku"
@@ -4056,7 +4056,7 @@
     "messageformat": "Morate se prijaviti u svoj račun"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Morate otvoriti Signal na svom telefonu kako biste nastavili koristiti ovaj račun. Ako ne otvorite Signal na svom telefonu, vaš račun će uskoro biti izbrisan. <learnMoreLink>Saznaj više</learnMoreLink>"
+    "messageformat": "Morate otvoriti Yoush na svom telefonu kako biste nastavili koristiti ovaj račun. Ako ne otvorite Yoush na svom telefonu, vaš račun će uskoro biti izbrisan. <learnMoreLink>Saznaj više</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Nije moguće vratiti medijske zapise"
@@ -4071,10 +4071,10 @@
     "messageformat": "Pridruži datoteku"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Osoba ne koristi Signal"
+    "messageformat": "Osoba ne koristi Yoush"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal Desktop ne podržava razgovore s kontaktima koji ne koriste Signal. Zamolite osobu da instalira Signal radi sigurnijeg razmjene poruka."
+    "messageformat": "Signal Desktop ne podržava razgovore s kontaktima koji ne koriste Yoush. Zamolite osobu da instalira Yoush radi sigurnijeg razmjene poruka."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Provjera statusa registracije kontakta"
@@ -4263,7 +4263,7 @@
     "messageformat": "Nadimak"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "Nadimci i bilješke spremaju se pomoću Signala, a zaštićeni su sveobuhvatnim šifriranjem. Vidljivi su samo vama."
+    "messageformat": "Nadimci i bilješke spremaju se pomoću Yousha, a zaštićeni su sveobuhvatnim šifriranjem. Vidljivi su samo vama."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "Ime"
@@ -4314,7 +4314,7 @@
     "messageformat": "Zahtjeva da administrator odobri pridruživanje novih članova putem poveznice grupe"
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Kopiraj poveznicu Signal grupe u međuspremnik"
+    "messageformat": "Kopiraj poveznicu Yoush grupe u međuspremnik"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Zahtjevi ({count,number})"
@@ -4518,7 +4518,7 @@
     "messageformat": "Nije moguće proslijediti prazne ili izbrisane poruke"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "Koristite ovu poveznicu da biste se pridružili Signal pozivu: {url}"
+    "messageformat": "Koristite ovu poveznicu da biste se pridružili Yoush pozivu: {url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "Savjeti za sigurnost"
@@ -4530,7 +4530,7 @@
     "messageformat": "O zahtjevima za razgovorom"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Pažljivo pregledajte zahtjeve. Signal je pronašao drugi kontakt s istim imenom. <reviewRequestLink>Pregledaj zahtjev</reviewRequestLink>"
+    "messageformat": "Pažljivo pregledajte zahtjeve. Yoush je pronašao drugi kontakt s istim imenom. <reviewRequestLink>Pregledaj zahtjev</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {{count,number} član grupe ima isto ime. <reviewRequestLink>Pregledaj članove</reviewRequestLink>} few {{count,number} člana grupe imaju isto ime. <reviewRequestLink>Pregledaj članove</reviewRequestLink>} many {{count,number} članova grupe ima isto ime. <reviewRequestLink>Pregledaj članove</reviewRequestLink>} other {{count,number} članova grupe ima isto ime. <reviewRequestLink>Pregledaj članove</reviewRequestLink>}}"
@@ -4581,7 +4581,7 @@
     "messageformat": "Provjeri za nastavak razmjene poruka"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Kako bismo spriječili neželjene poruke na Signalu, molimo dovršite provjeru."
+    "messageformat": "Kako bismo spriječili neželjene poruke na Youshu, molimo dovršite provjeru."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Nakon provjere možete nastaviti s razmjenom poruka. Sve pauzirane poruke automatski će se poslati."
@@ -4881,7 +4881,7 @@
     "messageformat": "Želite li odbaciti ove promjene?"
   },
   "icu:ConfirmationDialog__Title--in-call-close-requested": {
-    "messageformat": "Želite li zatvoriti Signal i prekinuti poziv?"
+    "messageformat": "Želite li zatvoriti Yoush i prekinuti poziv?"
   },
   "icu:ConfirmationDialog__Title--close-requested-not-now": {
     "messageformat": "Ne sada"
@@ -5025,7 +5025,7 @@
     "messageformat": "Stvori preglede poveznica"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Za promjenu ove postavke otvorite aplikaciju Signal na svom mobilnom uređaju i idite na Postavke > Razgovori"
+    "messageformat": "Za promjenu ove postavke otvorite aplikaciju Yoush na svom mobilnom uređaju i idite na Postavke > Razgovori"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Pretvori tipkane emotikone u emoji"
@@ -5049,7 +5049,7 @@
     "messageformat": "Poruke + svi medijski zapisi"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Vaša pretplata nije pronađena. Obnovite je odmah kako biste nastavili koristiti sigurnosne kopije Signala."
+    "messageformat": "Vaša pretplata nije pronađena. Obnovite je odmah kako biste nastavili koristiti sigurnosne kopije Yousha."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {Poruke + medijski zapisi iz zadnjeg {mediaDayCount,number} dana} few {Poruke + medijski zapisi iz zadnja {mediaDayCount,number} dana} many {Poruke + medijski zapisi iz zadnjih {mediaDayCount,number} dana} other {Poruke + medijski zapisi iz zadnjih {mediaDayCount,number} dana}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Pretplata je otkazana"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Možete upravljati svojom pretplatom na sigurnosne kopije Signala na svom telefonu."
+    "messageformat": "Možete upravljati svojom pretplatom na sigurnosne kopije Yousha na svom telefonu."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Možete upravljati svojom pretplatom na sigurnosne kopije Signala ili je nadograditi na svom telefonu."
+    "messageformat": "Možete upravljati svojom pretplatom na sigurnosne kopije Yousha ili je nadograditi na svom telefonu."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Vaša pretplata nije pronađena. Obnovite je odmah kako biste nastavili koristiti sigurnosne kopije Signala."
+    "messageformat": "Vaša pretplata nije pronađena. Obnovite je odmah kako biste nastavili koristiti sigurnosne kopije Yousha."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Možete upravljati svojom pretplatom na sigurnosne kopije Signala ili je obnoviti na svom telefonu."
+    "messageformat": "Možete upravljati svojom pretplatom na sigurnosne kopije Yousha ili je obnoviti na svom telefonu."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Posljednje sigurnosno kopiranje"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {{num,number} kontakt} few {{num,number} kontakta} many {{num,number} kontakata} other {{num,number} kontakata}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Za promjenu ovih postavki otvorite aplikaciju Signal na svom mobilnom uređaju i idite u Postavke > Privatnost"
+    "messageformat": "Za promjenu ovih postavki otvorite aplikaciju Yoush na svom mobilnom uređaju i idite u Postavke > Privatnost"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Broj telefona"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Odaberite tko može vidjeti vaš broj telefona i tko vas može kontaktirati putem njega na Signalu."
+    "messageformat": "Odaberite tko može vidjeti vaš broj telefona i tko vas može kontaktirati putem njega na Youshu."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Promijeni…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Tko me može pronaći po broju telefona"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Svi korisnici koji imaju vaš broj telefona vidjet će da ste na Signalu i moći će započeti razgovor s vama."
+    "messageformat": "Svi korisnici koji imaju vaš broj telefona vidjet će da ste na Youshu i moći će započeti razgovor s vama."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Nitko neće moći vidjeti da ste na Signalu, osim ako nekome ne pošaljete poruku ili ako već imate postojeći razgovor s nekime."
+    "messageformat": "Nitko neće moći vidjeti da ste na Youshu, osim ako nekome ne pošaljete poruku ili ako već imate postojeći razgovor s nekime."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Svi"
@@ -5142,7 +5142,7 @@
     "messageformat": "Sigurno želite nastaviti?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Ako za postavku \"{settingTitle}\" odaberete opciju \"{nobodyLabel}\", drugi će vas korisnici teže pronaći na Signalu."
+    "messageformat": "Ako za postavku \"{settingTitle}\" odaberete opciju \"{nobodyLabel}\", drugi će vas korisnici teže pronaći na Youshu."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Razmjena poruka"
@@ -5196,7 +5196,7 @@
     "messageformat": "Postavi"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Ponovno pokrenite Signal za promjenu"
+    "messageformat": "Ponovno pokrenite Yoush za promjenu"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Za promjenu jezika potrebno je ponovno pokrenuti aplikaciju."
@@ -5214,13 +5214,13 @@
     "messageformat": "Ažuriranje je preuzeto"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Otvorite Signal na vašem telefonu"
+    "messageformat": "Otvorite Yoush na vašem telefonu"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Ako ne otvorite Signal na svom telefonu, vaš će račun uskoro biti izbrisan. Ova poruka će nestati čim to uspješno napravite. <learnMoreLink>Saznaj više</learnMoreLink>"
+    "messageformat": "Ako ne otvorite Yoush na svom telefonu, vaš će račun uskoro biti izbrisan. Ova poruka će nestati čim to uspješno napravite. <learnMoreLink>Saznaj više</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Otvorite Signal na svom telefonu kako bi vaš račun ostao aktivan"
+    "messageformat": "Otvorite Yoush na svom telefonu kako bi vaš račun ostao aktivan"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Saznajte više"
@@ -5232,7 +5232,7 @@
     "messageformat": "Potrebno je ažuriranje"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Kako biste dovršili sinkronizaciju svojih poruka, ažurirajte Signal za desktop."
+    "messageformat": "Kako biste dovršili sinkronizaciju svojih poruka, ažurirajte Yoush za desktop."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Ažuriraj"
@@ -5241,16 +5241,16 @@
     "messageformat": "Potrebno je ažuriranje"
   },
   "icu:InstallScreenUpdateDialog--auto-update__body": {
-    "messageformat": "Da biste nastavili koristiti Signal, ažurirajte aplikaciju na najnoviju verziju."
+    "messageformat": "Da biste nastavili koristiti Yoush, ažurirajte aplikaciju na najnoviju verziju."
   },
   "icu:InstallScreenUpdateDialog--manual-update__action": {
     "messageformat": "Preuzmi {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Ponovno pokrenite Signal za primjenu ažuriranja."
+    "messageformat": "Ponovno pokrenite Yoush za primjenu ažuriranja."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
-    "messageformat": "Ažuriranje Signala za Desktop nije uspjelo, ali je dostupna nova verzija. Idite na {downloadUrl} i ručno instalirajte novu verziju, a zatim kontaktirajte korisničku podršku ili prijavite pogrešku."
+    "messageformat": "Ažuriranje Yousha za Desktop nije uspjelo, ali je dostupna nova verzija. Idite na {downloadUrl} i ručno instalirajte novu verziju, a zatim kontaktirajte korisničku podršku ili prijavite pogrešku."
   },
   "icu:NSIS__retry-dialog--first-line": {
     "messageformat": "Signal se ne može zatvoriti.",
@@ -5273,14 +5273,14 @@
     "ignoreUnused": true
   },
   "icu:NSIS__semver-downgrade": {
-    "messageformat": "Već je instalirana novija verzija Signala. Jeste li sigurni da želite nastaviti?",
+    "messageformat": "Već je instalirana novija verzija Yousha. Jeste li sigurni da želite nastaviti?",
     "ignoreUnused": true
   },
   "icu:CrashReportDialog__title": {
     "messageformat": "Aplikacija se srušila"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal se ponovno pokrenuo nakon rušenja. Možete poslati izvješće o rušenju kako biste pomogli Signalu da istraži problem."
+    "messageformat": "Signal se ponovno pokrenuo nakon rušenja. Možete poslati izvješće o rušenju kako biste pomogli Youshu da istraži problem."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Pošalji"
@@ -5625,7 +5625,7 @@
     "messageformat": "Sakrij priču od"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Svi Signal kontakti"
+    "messageformat": "Svi Yoush kontakti"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Svi osim…"
@@ -5643,7 +5643,7 @@
     "messageformat": "Potvrde prikaza"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Za promjenu ove postavke otvorite aplikaciju Signal na svom mobilnom uređaju i idite u Postavke -> Priče"
+    "messageformat": "Za promjenu ove postavke otvorite aplikaciju Yoush na svom mobilnom uređaju i idite u Postavke -> Priče"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Tko može pogledati ovu priču"
@@ -5703,7 +5703,7 @@
     "messageformat": "Privatnost moje priče"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Odaberite Signal kontakte koji mogu pogledati vašu priču. To uvijek možete promijeniti u postavkama privatnosti. <learnMoreLink>Saznaj više.</learnMoreLink>"
+    "messageformat": "Odaberite Yoush kontakte koji mogu pogledati vašu priču. To uvijek možete promijeniti u postavkama privatnosti. <learnMoreLink>Saznaj više.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Izbriši priču"
@@ -5772,7 +5772,7 @@
     "messageformat": "Preuzmi privitak"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Omogućite potvrde prikaza da biste vidjeli tko je pogledao vaše priče. Otvorite aplikaciju Signal na svom mobilnom uređaju i idite u Postavke > Priče."
+    "messageformat": "Omogućite potvrde prikaza da biste vidjeli tko je pogledao vaše priče. Otvorite aplikaciju Yoush na svom mobilnom uređaju i idite u Postavke > Priče."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Još nema odgovora"
@@ -5958,7 +5958,7 @@
     "messageformat": "Vaš QR kôd i poveznica su poništeni, a vaše korisničko ime je {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Skeniraj ovaj QR kôd svojim uređajem i započni razgovor sa mnom na Signalu.",
+    "messageformat": "Skeniraj ovaj QR kôd svojim uređajem i započni razgovor sa mnom na Youshu.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Odbaci"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal uskoro više neće biti kompatibilan s verzijom {OS} na vašem računalu. Da biste nastavili koristiti Signal, ažurirajte operacijski sustav vašeg računala do {expirationDate}. <learnMoreLink>Saznajte više</learnMoreLink>"
+    "messageformat": "Signal uskoro više neće biti kompatibilan s verzijom {OS} na vašem računalu. Da biste nastavili koristiti Yoush, ažurirajte operacijski sustav vašeg računala do {expirationDate}. <learnMoreLink>Saznajte više</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal za desktop više nije kompatibilan s ovim računalom. Ažurirajte verziju {OS} na svom računalu da biste ponovno koristili Signal za desktop. <learnMoreLink>Saznajte više</learnMoreLink>"
+    "messageformat": "Signal za desktop više nije kompatibilan s ovim računalom. Ažurirajte verziju {OS} na svom računalu da biste ponovno koristili Yoush za desktop. <learnMoreLink>Saznajte više</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal za desktop više nije kompatibilan s ovim računalom. Ažurirajte verziju {OS} na svom računalu da biste ponovno koristili Signal za desktop."
+    "messageformat": "Signal za desktop više nije kompatibilan s ovim računalom. Ažurirajte verziju {OS} na svom računalu da biste ponovno koristili Yoush za desktop."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Uređeno"
@@ -6211,7 +6211,7 @@
     "messageformat": "Kopiraj poveznicu"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Podijeli poveznicu putem Signala"
+    "messageformat": "Podijeli poveznicu putem Yousha"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Izbriši poveznicu"
@@ -6277,7 +6277,7 @@
     "messageformat": "Za promjenu ove postavke, postavite opciju \"Tko može vidjeti moj broj\" na \"Nitko\"."
   },
   "icu:ProfileNameWarningModal__description--direct": {
-    "messageformat": "Imena profila na Signalu biraju vlasnici računa:"
+    "messageformat": "Imena profila na Youshu biraju vlasnici računa:"
   },
   "icu:ProfileNameWarningModal__list--item1--direct": {
     "messageformat": "Imena profila nisu potvrđena"
@@ -6304,11 +6304,11 @@
     "messageformat": "Novosti"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Ova verzija Signala sadrži niz malih podešavanja i ispravaka programskih pogrešaka za nesmetano korištenje aplikacije.",
+    "messageformat": "Ova verzija Yousha sadrži niz malih podešavanja i ispravaka programskih pogrešaka za nesmetano korištenje aplikacije.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Dodatna mala podešavanja, ispravci bugova i poboljšanje performansa aplikacije. Hvala vam što koristite Signal!",
+    "messageformat": "Dodatna mala podešavanja, ispravci bugova i poboljšanje performansa aplikacije. Hvala vam što koristite Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Manja podešavanja, ispravci grešaka i poboljšanje rada aplikacije. Hvala vam što koristite Signal!",
+    "messageformat": "Manja podešavanja, ispravci grešaka i poboljšanje rada aplikacije. Hvala vam što koristite Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Sada možete tražiti animirane GIF-ove i u Signalu za desktop."
+    "messageformat": "Sada možete tražiti animirane GIF-ove i u Youshu za desktop."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Također smo promijenili veličinu prozora u načinu rada „slika u slici“ i dodali praktične nove prečace koji su dostupni dok je poziv minimiziran."

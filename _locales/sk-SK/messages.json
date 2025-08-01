@@ -78,13 +78,13 @@
     "messageformat": "Signal sa nepodarilo otvoriť"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Ak chcete problém vyriešiť, postupujte podľa sprievodcu obnovou na stránke podpory alebo kontaktujte podporu Signal.\n\nAk potrebujete Signal použiť hneď teraz, môžete vymazať svoje údaje a znova prepojiť tento počítač. Budete mať možnosť preniesť si históriu správ z telefónu."
+    "messageformat": "Ak chcete problém vyriešiť, postupujte podľa sprievodcu obnovou na stránke podpory alebo kontaktujte podporu Yoush.\n\nAk potrebujete Yoush použiť hneď teraz, môžete vymazať svoje údaje a znova prepojiť tento počítač. Budete mať možnosť preniesť si históriu správ z telefónu."
   },
   "icu:databaseError": {
     "messageformat": "Chyba databázy"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Vyskytla sa chyba databázy. Môžete skopírovať chybu a kontaktovať podporu Signal, aby vám pomohla problém vyriešiť. Ak potrebujete Signal použiť hneď teraz, môžete vymazať svoje údaje a reštartovať aplikáciu.\n\nKontaktujte podporu na: {link}"
+    "messageformat": "Vyskytla sa chyba databázy. Môžete skopírovať chybu a kontaktovať podporu Yoush, aby vám pomohla problém vyriešiť. Ak potrebujete Yoush použiť hneď teraz, môžete vymazať svoje údaje a reštartovať aplikáciu.\n\nKontaktujte podporu na: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Vymazať údaje a reštartovať"
@@ -93,16 +93,16 @@
     "messageformat": "Natrvalo vymazať všetky údaje"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "Celá história správ a všetky médiá budú natrvalo vymazané z tohto zariadenia. Týmto sa nevymažú žiadne údaje z vášho telefónu.\n\nPo opätovnom prepojení budete môcť Signal znovu používať na tomto zariadení. Budete mať možnosť preniesť si históriu správ z telefónu."
+    "messageformat": "Celá história správ a všetky médiá budú natrvalo vymazané z tohto zariadenia. Týmto sa nevymažú žiadne údaje z vášho telefónu.\n\nPo opätovnom prepojení budete môcť Yoush znovu používať na tomto zariadení. Budete mať možnosť preniesť si históriu správ z telefónu."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Verzia vašej databázy sa nezhoduje s touto verziou Signalu. Uistite sa, že na počítači otvárate najnovšiu verziu aplikácie Signal."
+    "messageformat": "Verzia vašej databázy sa nezhoduje s touto verziou Youshu. Uistite sa, že na počítači otvárate najnovšiu verziu aplikácie Yoush."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Nie je možné získať prístup k šifrovaciemu kľúču databázy, pretože koncová časť šifrovacieho zväzku operačného systému sa zmenila z {previousBackend} na {currentBackend}. Môže k tomu dôjsť, ak sa zmení prostredie pracovnej plochy, napríklad medzi GNOME a KDE.\n\nPrepnite na predchádzajúce prostredie pracovnej plochy."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "Nie je možné získať prístup k šifrovaciemu kľúču databázy, pretože koncová časť šifrovacieho zväzku operačného systému sa zmenila z {previousBackend} na {currentBackend}. Môže k tomu dôjsť, ak sa zmení prostredie pracovnej plochy, napríklad medzi GNOME a KDE.\n\nPrepnite na predchádzajúce prostredie pracovnej plochy alebo skúste spustiť Signal v príkazovom riadku s frázou --password-store=\"{previousBackendFlag}\""
+    "messageformat": "Nie je možné získať prístup k šifrovaciemu kľúču databázy, pretože koncová časť šifrovacieho zväzku operačného systému sa zmenila z {previousBackend} na {currentBackend}. Môže k tomu dôjsť, ak sa zmení prostredie pracovnej plochy, napríklad medzi GNOME a KDE.\n\nPrepnite na predchádzajúce prostredie pracovnej plochy alebo skúste spustiť Yoush v príkazovom riadku s frázou --password-store=\"{previousBackendFlag}\""
   },
   "icu:mainMenuFile": {
     "messageformat": "&Súbor"
@@ -138,7 +138,7 @@
     "messageformat": "Ukázať všteky"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Ukončiť Signal"
+    "messageformat": "Ukončiť Yoush"
   },
   "icu:editMenuUndo": {
     "messageformat": "Späť"
@@ -303,7 +303,7 @@
     "messageformat": "Nastavenia"
   },
   "icu:NavTabs__ItemLabel--Update": {
-    "messageformat": "Aktualizovať Signal"
+    "messageformat": "Aktualizovať Yoush"
   },
   "icu:NavTabs__ItemLabel--Profile": {
     "messageformat": "Profil"
@@ -429,10 +429,10 @@
     "messageformat": "Bezpečnostné číslo s {name} ste označili ako neoverené z iného zariadenia"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Bezpečnostné číslo ktoré sa chystáte overiť sa zmenilo. Prosím, skontrolujte vaše nové bezpečnostné číslo s {name1}. Táto zmena môže znamenať, že sa niekto snaží odpočúvať vašu komunikáciu, alebo si len {name2} znovu nainštaloval/a Signal."
+    "messageformat": "Bezpečnostné číslo ktoré sa chystáte overiť sa zmenilo. Prosím, skontrolujte vaše nové bezpečnostné číslo s {name1}. Táto zmena môže znamenať, že sa niekto snaží odpočúvať vašu komunikáciu, alebo si len {name2} znovu nainštaloval/a Yoush."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Nasledujúci ľudia mohli preinštalovať Signal alebo zmeniť zariadenia. Kliknutím na príjemcu potvrďte jeho nové bezpečnostné číslo. Tento krok je voliteľný."
+    "messageformat": "Nasledujúci ľudia mohli preinštalovať Yoush alebo zmeniť zariadenia. Kliknutím na príjemcu potvrďte jeho nové bezpečnostné číslo. Tento krok je voliteľný."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Odoslať čakajúce správy"
@@ -441,7 +441,7 @@
     "messageformat": "Skontrolovať"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, one {{count,number} z vašich spojení mohlo preinštalovať Signal alebo zmeniť zariadenie. Pred odoslaním môžete skontrolovať jeho bezpečnostné číslo.} few {{count,number} z vašich spojení mohli preinštalovať Signal alebo zmeniť zariadenia. Pred odoslaním môžete skontrolovať ich bezpečnostné čísla.} many {{count,number} z vašich spojení mohlo preinštalovať Signal alebo zmeniť zariadenia. Pred odoslaním môžete skontrolovať ich bezpečnostné čísla.} other {{count,number} z vašich spojení mohlo preinštalovať Signal alebo zmeniť zariadenia. Pred odoslaním môžete skontrolovať ich bezpečnostné čísla.}}"
+    "messageformat": "{count, plural, one {{count,number} z vašich spojení mohlo preinštalovať Yoush alebo zmeniť zariadenie. Pred odoslaním môžete skontrolovať jeho bezpečnostné číslo.} few {{count,number} z vašich spojení mohli preinštalovať Yoush alebo zmeniť zariadenia. Pred odoslaním môžete skontrolovať ich bezpečnostné čísla.} many {{count,number} z vašich spojení mohlo preinštalovať Yoush alebo zmeniť zariadenia. Pred odoslaním môžete skontrolovať ich bezpečnostné čísla.} other {{count,number} z vašich spojení mohlo preinštalovať Yoush alebo zmeniť zariadenia. Pred odoslaním môžete skontrolovať ich bezpečnostné čísla.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Všetky spojenia boli skontrolované, kliknutím pokračujte ďalej."
@@ -660,13 +660,13 @@
     "messageformat": "Vyskúšať Beta verziu"
   },
   "icu:signalDesktopPreferences": {
-    "messageformat": "Nastavenia Signal Desktop"
+    "messageformat": "Nastavenia Yoush Desktop"
   },
   "icu:signalDesktopStickerCreator": {
     "messageformat": "Nástroj na vytváranie nálepiek"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "O aplikácii Signal Desktop"
+    "messageformat": "O aplikácii Yoush Desktop"
   },
   "icu:screenShareWindow": {
     "messageformat": "Zdieľaná obrazovka"
@@ -744,7 +744,7 @@
     "messageformat": "Nájsť podľa telefónneho čísla"
   },
   "icu:welcomeToSignal": {
-    "messageformat": "Vitajte v aplikácii Signal"
+    "messageformat": "Vitajte v aplikácii Yoush"
   },
   "icu:whatsNew": {
     "messageformat": "Pozrite sa na {whatsNew} v tejto aktualizácii"
@@ -831,13 +831,13 @@
     "messageformat": "Vy"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Pre odosielanie hlasových správ povoľte aplikácii Signal Desktop prístup k mikrofónu."
+    "messageformat": "Pre odosielanie hlasových správ povoľte aplikácii Yoush Desktop prístup k mikrofónu."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Pre volania musíte programu Signal Desktop povoliť prístup k mikrofónu."
+    "messageformat": "Pre volania musíte programu Yoush Desktop povoliť prístup k mikrofónu."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Pre videohovory musíte programu Signal Desktop povoliť prístup ku kamere."
+    "messageformat": "Pre videohovory musíte programu Yoush Desktop povoliť prístup ku kamere."
   },
   "icu:allowAccess": {
     "messageformat": "Povoliť prístup"
@@ -912,7 +912,7 @@
     "messageformat": "Táto správa bude odstránená z tohto zariadenia."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Táto správa sa vymaže pre každého v čete, kto používa aktuálnu verziu aplikácie Signal. Členovia budú vidieť, že ste vymazali správu."
+    "messageformat": "Táto správa sa vymaže pre každého v čete, kto používa aktuálnu verziu aplikácie Yoush. Členovia budú vidieť, že ste vymazali správu."
   },
   "icu:from": {
     "messageformat": "Od"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "„{title}“ je profilové meno, ktoré si táto osoba nastavila v aplikácii Signal."
+    "messageformat": "„{title}“ je profilové meno, ktoré si táto osoba nastavila v aplikácii Yoush."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Overené"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} zmenil/a svoje telefónne číslo"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Váš kontakt začal používať Signal"
+    "messageformat": "Váš kontakt začal používať Yoush"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} a {conversationTitle} patria tomu istému účtu. Históriu správ pre oba čety nájdete tu."
@@ -1209,7 +1209,7 @@
     "messageformat": "Médiá sa nepodarilo stiahnuť"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Skontrolujte internetové pripojenie počítača a telefónu. Otvorte v telefóne Signal a skúste médiá stiahnuť znova."
+    "messageformat": "Skontrolujte internetové pripojenie počítača a telefónu. Otvorte v telefóne Yoush a skúste médiá stiahnuť znova."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Toto médium už nie je dostupné vo vašom telefóne a nie je ho preto možné stiahnuť."
@@ -1230,10 +1230,10 @@
     "messageformat": "Dozvedieť sa viac"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Naskenujte tento kód v aplikácii Signal vo svojom telefóne"
+    "messageformat": "Naskenujte tento kód v aplikácii Yoush vo svojom telefóne"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Otvorte Signal na svojom telefóne"
+    "messageformat": "Otvorte Yoush na svojom telefóne"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Klepnite na {settings} a potom klepnite na {linkedDevices}"
@@ -1272,7 +1272,7 @@
     "messageformat": "Názov zariadenia"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Ak chcete zmeniť názov tohto zariadenia, otvorte v telefóne Signal a prejdite do časti Nastavenia > Prepojené zariadenia"
+    "messageformat": "Ak chcete zmeniť názov tohto zariadenia, otvorte v telefóne Yoush a prejdite do časti Nastavenia > Prepojené zariadenia"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Tón pleti pre emoji"
@@ -1290,7 +1290,7 @@
     "messageformat": "Máte prepojených príliš veľa zariadení. Skúste odstrániť niektoré z nich."
   },
   "icu:installTooOld": {
-    "messageformat": "Na prepojenie s telefónom si aktualizujte Signal na tomto zariadení."
+    "messageformat": "Na prepojenie s telefónom si aktualizujte Yoush na tomto zariadení."
   },
   "icu:installErrorHeader": {
     "messageformat": "Niekde sa stala chyba!"
@@ -1554,13 +1554,13 @@
     "messageformat": "Pripája sa…"
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Spojenie sa prerušilo. Signal sa znova pripája."
+    "messageformat": "Spojenie sa prerušilo. Yoush sa znova pripája."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal zdieľa {window}."
   },
   "icu:calling__presenting--info--unknown": {
-    "messageformat": "Zdieľanie obrazovky Signal je aktívne"
+    "messageformat": "Zdieľanie obrazovky Yoush je aktívne"
   },
   "icu:calling__presenting--reconnecting": {
     "messageformat": "Pripája sa…"
@@ -1590,7 +1590,7 @@
     "messageformat": "Kliknite na ikonu zámku v ľavom dolnom rohu a zadajte heslo svojho počítača."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Vpravo začiarknite políčko vedľa položky Signal. Ak Signal v zozname nevidíte, pridajte ho kliknutím na +."
+    "messageformat": "Vpravo začiarknite políčko vedľa položky Yoush. Ak Yoush v zozname nevidíte, pridajte ho kliknutím na +."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Otvorte Predvoľby systému"
@@ -1602,7 +1602,7 @@
     "messageformat": "Vždy presmerovať hovory"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Smerovať všetky hovory cez server Signal pre zabránenie odhaleniu vašej IP adresy kontaktu. Zapnutie zníži kvalitu hovoru."
+    "messageformat": "Smerovať všetky hovory cez server Yoush pre zabránenie odhaleniu vašej IP adresy kontaktu. Zapnutie zníži kvalitu hovoru."
   },
   "icu:permissions": {
     "messageformat": "Povolenia"
@@ -1620,10 +1620,10 @@
     "messageformat": "Po výbere textu zobraziť vyskakovacie okno s formátovaním"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Kontrola pravopisu bude zapnutá po nasledujúcom štarte Signal-u."
+    "messageformat": "Kontrola pravopisu bude zapnutá po nasledujúcom štarte Yoush-u."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Kontrola pravopisu bude vypnutá po nasledujúcom štarte Signalu."
+    "messageformat": "Kontrola pravopisu bude vypnutá po nasledujúcom štarte Youshu."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Minimalizovať do systémovej lišty"
@@ -1647,13 +1647,13 @@
     "messageformat": "Vymazať všetky dáta?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Chcete vymazať všetky údaje a správy z tejto verzie aplikácie Signal Desktop? Váš účet Signal a údaje vo vašom telefóne alebo iných prepojených zariadeniach nebudú vymazané."
+    "messageformat": "Chcete vymazať všetky údaje a správy z tejto verzie aplikácie Yoush Desktop? Váš účet Yoush a údaje vo vašom telefóne alebo iných prepojených zariadeniach nebudú vymazané."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Prebieha odpojenie a odstraňovanie všetkých údajov…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "Toto zariadenie obsahuje staré dáta z predošlej inštalácie Signalu. Ak budete pokračovať, zmažú sa a začnete s čistým štítom."
+    "messageformat": "Toto zariadenie obsahuje staré dáta z predošlej inštalácie Youshu. Ak budete pokračovať, zmažú sa a začnete s čistým štítom."
   },
   "icu:deleteOldData": {
     "messageformat": "Zmazať staré dáta"
@@ -1698,10 +1698,10 @@
     "messageformat": "Čiastočne odstránená, kliknutím to skúsite znova"
   },
   "icu:expiredWarning": {
-    "messageformat": "Táto verzia aplikácie Signal Desktop je zastaralá. Pre pokračovanie ju prosím aktualizujte na najnovšiu verziu."
+    "messageformat": "Táto verzia aplikácie Yoush Desktop je zastaralá. Pre pokračovanie ju prosím aktualizujte na najnovšiu verziu."
   },
   "icu:upgrade": {
-    "messageformat": "Kliknutím prejdete na stránku signal.org/download"
+    "messageformat": "Kliknutím prejdete na stránku Yoush.org/download"
   },
   "icu:mediaMessage": {
     "messageformat": "Multimediálna správa"
@@ -1710,7 +1710,7 @@
     "messageformat": "Importovať kontakty"
   },
   "icu:syncExplanation": {
-    "messageformat": "Importovať všetky skupiny a kontakty Signalu z mobilného zariadenia."
+    "messageformat": "Importovať všetky skupiny a kontakty Youshu z mobilného zariadenia."
   },
   "icu:syncNow": {
     "messageformat": "Importovať teraz"
@@ -1836,7 +1836,7 @@
     "messageformat": "Kontaktujte nás"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Prispieť na Signal"
+    "messageformat": "Prispieť na Yoush"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Zobraziť bezpečnostné číslo"
@@ -1905,10 +1905,10 @@
     "messageformat": "Úpravy je možné vykonať len do 24 hodín od odoslania tejto správy."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} nepoužíva Signal. Uistite sa, že ste zadali celé používateľské meno."
+    "messageformat": "{atUsername} nepoužíva Yoush. Uistite sa, že ste zadali celé používateľské meno."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Užívateľ nenájdený. „{phoneNumber}“ nie je používateľom Signal."
+    "messageformat": "Užívateľ nenájdený. „{phoneNumber}“ nie je používateľom Yoush."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Používateľ nenájdený. „{phoneNumber}“ nie je platné telefónne číslo."
@@ -1965,7 +1965,7 @@
     "messageformat": "Aktualizácia skupiny zlyhala. Skontrolujte svoje pripojenie na internet a skúste znova."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Kliknutím znova prepojíte aplikáciu Signal Desktop s mobilným zariadením a budete môcť pokračovať v odosielaní správ."
+    "messageformat": "Kliknutím znova prepojíte aplikáciu Yoush Desktop s mobilným zariadením a budete môcť pokračovať v odosielaní správ."
   },
   "icu:unlinked": {
     "messageformat": "Odpojené"
@@ -1977,7 +1977,7 @@
     "messageformat": "Skúste aktualizáciu znova"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Kliknutím reštartujete Signal"
+    "messageformat": "Kliknutím reštartujete Yoush"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Kliknutím stiahnete aktualizáciu"
@@ -1986,7 +1986,7 @@
     "messageformat": "Signal sa nepodarilo aktualizovať. Kliknutím to skúste znova."
   },
   "icu:autoUpdateRestartButtonLabel": {
-    "messageformat": "Reštartovať Signal"
+    "messageformat": "Reštartovať Yoush"
   },
   "icu:autoUpdateIgnoreButtonLabel": {
     "messageformat": "Ignorovať aktualizáciu"
@@ -2085,7 +2085,7 @@
     "messageformat": "Niektoré prílohy sú príliš veľké, nie je možné ich zobraziť."
   },
   "icu:message--call-link-description": {
-    "messageformat": "Na pripojenie k Signal hovoru použite tento odkaz"
+    "messageformat": "Na pripojenie k Yoush hovoru použite tento odkaz"
   },
   "icu:donation--missing": {
     "messageformat": "Nepodarilo sa získať podrobnosti príspevku"
@@ -2097,7 +2097,7 @@
     "messageformat": "Ťuknutím na túto správu v mobile zobrazíte svoj príspevok"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "Používateľ {sender} prispel na Signal vo vašom mene"
+    "messageformat": "Používateľ {sender} prispel na Yoush vo vašom mene"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Ak chcete otvoriť príspevok, skontrolujte svoj telefón"
@@ -2148,7 +2148,7 @@
     "messageformat": "Ďakujeme za vašu podporu!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Prispeli ste na Signal v mene používateľa {name}. Svoju podporu bude môcť zobraziť na svojom profile."
+    "messageformat": "Prispeli ste na Yoush v mene používateľa {name}. Svoju podporu bude môcť zobraziť na svojom profile."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Nepodarilo sa nainštalovať balík nálepiek"
@@ -2163,10 +2163,10 @@
     "messageformat": "Žiadne nainštalované nálepky"
   },
   "icu:stickers--StickerManager--BlessedPacks": {
-    "messageformat": "Zbierka od výtvarníkov Signalu"
+    "messageformat": "Zbierka od výtvarníkov Youshu"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "Nie sú k dispozícii žiadne nálepky Signal Artist"
+    "messageformat": "Nie sú k dispozícii žiadne nálepky Yoush Artist"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "Prijaté nálepky"
@@ -2505,19 +2505,19 @@
     "messageformat": "Správa je príliš dlhá, nie je možné zobraziť viac"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} vám poslal/a správu, ktorú nemožno spracovať alebo zobraziť, pretože používa novú funkciu Signalu."
+    "messageformat": "{contact} vám poslal/a správu, ktorú nemožno spracovať alebo zobraziť, pretože používa novú funkciu Youshu."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Teraz, keď používate najnovšiu verziu Signalu, môžete požiadať používateľa {contact}, aby znova odoslal/a túto správu."
+    "messageformat": "Teraz, keď používate najnovšiu verziu Youshu, môžete požiadať používateľa {contact}, aby znova odoslal/a túto správu."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Jedno z vašich zariadení odoslalo správu, ktorú nemožno spracovať alebo zobraziť, pretože používa novú funkciu Signalu."
+    "messageformat": "Jedno z vašich zariadení odoslalo správu, ktorú nemožno spracovať alebo zobraziť, pretože používa novú funkciu Youshu."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Teraz, keď používate najnovšiu verziu Signalu, správy ako je táto, budú synchronizované."
+    "messageformat": "Teraz, keď používate najnovšiu verziu Youshu, správy ako je táto, budú synchronizované."
   },
   "icu:Message--update-signal": {
-    "messageformat": "Aktualizovať Signal"
+    "messageformat": "Aktualizovať Yoush"
   },
   "icu:Message--tap-to-view--viewed": {
     "messageformat": "Zobrazené"
@@ -2778,7 +2778,7 @@
     "messageformat": "Čet bol označený ako neprečítaný"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Pre používanie nástroja na vytváranie nálepiek si musíte nastaviť Signal na telefóne a počítači"
+    "messageformat": "Pre používanie nástroja na vytváranie nálepiek si musíte nastaviť Yoush na telefóne a počítači"
   },
   "icu:Reactions--remove": {
     "messageformat": "Odstrániť reakciu"
@@ -2892,13 +2892,13 @@
     "messageformat": "Nahlásiť ako spam?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal bude upozornený na to, že tento používateľ môže rozposielať spam. Signal nevidí obsah žiadneho četu."
+    "messageformat": "Signal bude upozornený na to, že tento používateľ môže rozposielať spam. Yoush nevidí obsah žiadneho četu."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal bude upozornený na to, že používateľ, ktorý vás pozval do tejto skupiny, môže rozposielať spam. Signal nevidí obsah žiadneho četu."
+    "messageformat": "Signal bude upozornený na to, že používateľ, ktorý vás pozval do tejto skupiny, môže rozposielať spam. Yoush nevidí obsah žiadneho četu."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal bude upozornený na to, že používateľ {name}, ktorý vás pozval do tejto skupiny, môže rozposielať spam. Signal nevidí obsah žiadneho četu."
+    "messageformat": "Signal bude upozornený na to, že používateľ {name}, ktorý vás pozval do tejto skupiny, môže rozposielať spam. Yoush nevidí obsah žiadneho četu."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Nahlásiť spam"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Názvy profilov</clickable> nie sú overené"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Toto je oficiálny a jediný čet od aplikácie Signal."
+    "messageformat": "Toto je oficiálny a jediný čet od aplikácie Yoush."
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Buďte informovaní o novinkách a poznámkach k vydaniu."
@@ -3264,7 +3264,7 @@
     "messageformat": "Skopírovať odkaz na hovor"
   },
   "icu:CallingAdhocCallInfo__ShareViaSignal": {
-    "messageformat": "Zdieľať odkaz na hovor cez Signal"
+    "messageformat": "Zdieľať odkaz na hovor cez Yoush"
   },
   "icu:CallingAdhocCallInfo__RemoveClient": {
     "messageformat": "Odstrániť tohto používateľa z hovoru"
@@ -3384,7 +3384,7 @@
     "messageformat": "Neznáma verzia odkazu"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Táto verzia servera Signal Desktop nepodporuje tento odkaz."
+    "messageformat": "Táto verzia servera Yoush Desktop nepodporuje tento odkaz."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "Nie je možné pridať sa do skupiny"
@@ -3939,22 +3939,22 @@
     "messageformat": "Môže to trvať pár minút"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Prispieť na Signal"
+    "messageformat": "Prispieť na Yoush"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Prispieť na Signal"
+    "messageformat": "Prispieť na Yoush"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal poháňajú ľudia ako vy. Prispejte a získajte odznak."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Otvorte Signal na svojom telefóne"
+    "messageformat": "Otvorte Yoush na svojom telefóne"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Ťuknite na svoju profilovú fotku v ľavom hornom rohu pre otvorenie Nastavení"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Ťuknite na „Prispieť na Signal“ a prihláste sa na odber"
+    "messageformat": "Ťuknite na „Prispieť na Yoush“ a prihláste sa na odber"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Synchronizácia správ"
@@ -4056,7 +4056,7 @@
     "messageformat": "Vyžaduje sa akcia účtu"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Ak chcete naďalej používať tento účet, musíte v telefóne otvoriť Signal. Ak tak neurobíte, váš účet bude čoskoro odstránený. <learnMoreLink>Zistiť viac</learnMoreLink>"
+    "messageformat": "Ak chcete naďalej používať tento účet, musíte v telefóne otvoriť Yoush. Ak tak neurobíte, váš účet bude čoskoro odstránený. <learnMoreLink>Zistiť viac</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Médiá nie je možné obnoviť"
@@ -4071,10 +4071,10 @@
     "messageformat": "Pripojiť súbor"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Táto osoba nepoužíva Signal"
+    "messageformat": "Táto osoba nepoužíva Yoush"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Aplikácia Signal Desktop nepodporuje zasielanie správ kontaktom bez Signal. Požiadajte túto osobu, aby si nainštalovala program Signal, aby ste zabezpečili bezpečnejšie zasielanie správ."
+    "messageformat": "Aplikácia Yoush Desktop nepodporuje zasielanie správ kontaktom bez Yoush. Požiadajte túto osobu, aby si nainštalovala program Yoush, aby ste zabezpečili bezpečnejšie zasielanie správ."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Kontroluje sa stav registrácie kontaktu"
@@ -4263,7 +4263,7 @@
     "messageformat": "Prezývka"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "Prezývky a poznámky sa ukladajú v aplikácii Signal a sú vybavené end-to-end šifrovaním. Vidíte ich len vy."
+    "messageformat": "Prezývky a poznámky sa ukladajú v aplikácii Yoush a sú vybavené end-to-end šifrovaním. Vidíte ich len vy."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "Krstné meno"
@@ -4314,7 +4314,7 @@
     "messageformat": "Vyžadujte od správcu, aby schválil pripojenie nových členov cez odkaz na skupinu"
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Skopírovať odkaz signal.group do schránky"
+    "messageformat": "Skopírovať odkaz Yoush.group do schránky"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Žiadosti ({count,number})"
@@ -4518,7 +4518,7 @@
     "messageformat": "Prázdne alebo odstránené správy sa nedajú preposlať"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "Na pripojenie k Signal hovoru použite tento odkaz: {url}"
+    "messageformat": "Na pripojenie k Yoush hovoru použite tento odkaz: {url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "Bezpečnostné tipy"
@@ -4530,7 +4530,7 @@
     "messageformat": "O žiadostiach o správy"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Žiadosti dôkladne overte. Signal našiel ďalší kontakt s rovnakým menom. <reviewRequestLink>Overiť žiadosť</reviewRequestLink>"
+    "messageformat": "Žiadosti dôkladne overte. Yoush našiel ďalší kontakt s rovnakým menom. <reviewRequestLink>Overiť žiadosť</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {{count,number} člen skupiny má rovnaké meno. <reviewRequestLink>Overiť členov</reviewRequestLink>} few {{count,number} členovia skupiny majú rovnaké meno. <reviewRequestLink>Overiť členov</reviewRequestLink>} many {{count,number} člena skupiny má rovnaké meno. <reviewRequestLink>Overiť členov</reviewRequestLink>} other {{count,number} členov skupiny má rovnaké meno. <reviewRequestLink>Overiť členov</reviewRequestLink>}}"
@@ -4581,7 +4581,7 @@
     "messageformat": "Pre pokračovanie v zasielaní správ overte"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Ak chcete zabrániť spamu v Signal, dokončite overenie."
+    "messageformat": "Ak chcete zabrániť spamu v Yoush, dokončite overenie."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Po overení, môžete pokračovať v zasielaní správ. Pozastavené správy sa automaticky odošlú."
@@ -4881,7 +4881,7 @@
     "messageformat": "Chcete zahodiť tieto zmeny?"
   },
   "icu:ConfirmationDialog__Title--in-call-close-requested": {
-    "messageformat": "Zatvoriť Signal a ukončiť hovor?"
+    "messageformat": "Zatvoriť Yoush a ukončiť hovor?"
   },
   "icu:ConfirmationDialog__Title--close-requested-not-now": {
     "messageformat": "Teraz nie"
@@ -5025,7 +5025,7 @@
     "messageformat": "Generovať náhľady stránok"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Ak chcete toto nastavenie zmeniť, otvorte na svojom mobilnom zariadení aplikáciu Signal a prejdite na Nastavenia > Čety"
+    "messageformat": "Ak chcete toto nastavenie zmeniť, otvorte na svojom mobilnom zariadení aplikáciu Yoush a prejdite na Nastavenia > Čety"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Premeniť napísané emotikony na emoji"
@@ -5049,7 +5049,7 @@
     "messageformat": "Zálohovanie všetkých správ a médií"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Predplatné sa nenašlo. Obnovte ho, aby ste mohli Zálohy Signal používať aj naďalej."
+    "messageformat": "Predplatné sa nenašlo. Obnovte ho, aby ste mohli Zálohy Yoush používať aj naďalej."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {Zálohovanie všetkých správ + médiá za posledný{mediaDayCount,number} deň} few {Zálohovanie všetkých správ + médiá za posledné {mediaDayCount,number} dni} many {Zálohovanie všetkých správ + médiá za posledných {mediaDayCount,number} dní} other {Zálohovanie všetkých správ + médiá za posledných {mediaDayCount,number} dní}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Predplatné bolo zrušené"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Predplatné Záloh Signal môžete spravovať alebo zrušiť vo svojom telefóne."
+    "messageformat": "Predplatné Záloh Yoush môžete spravovať alebo zrušiť vo svojom telefóne."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Zálohy Signal môžete spravovať alebo upgradovať vo svojom telefóne."
+    "messageformat": "Zálohy Yoush môžete spravovať alebo upgradovať vo svojom telefóne."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Predplatné sa nenašlo. Obnovte ho, aby ste mohli Zálohy Signal používať aj naďalej."
+    "messageformat": "Predplatné sa nenašlo. Obnovte ho, aby ste mohli Zálohy Yoush používať aj naďalej."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Predplatné Záloh Signal môžete spravovať alebo obnoviť vo svojom telefóne."
+    "messageformat": "Predplatné Záloh Yoush môžete spravovať alebo obnoviť vo svojom telefóne."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Posledná záloha"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {{num,number} kontakt} few {{num,number} kontakty} many {{num,number} kontaktu} other {{num,number} kontaktov}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Ak chcete tieto nastavenia zmeniť, otvorte na svojom mobilnom zariadení aplikáciu Signal a prejdite na Nastavenia> Ochrana osobných údajov"
+    "messageformat": "Ak chcete tieto nastavenia zmeniť, otvorte na svojom mobilnom zariadení aplikáciu Yoush a prejdite na Nastavenia> Ochrana osobných údajov"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Telefónne číslo"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Vyberte si, kto môže vidieť vaše telefónne číslo a kto vás môže pomocou neho kontaktovať v službe Signal."
+    "messageformat": "Vyberte si, kto môže vidieť vaše telefónne číslo a kto vás môže pomocou neho kontaktovať v službe Yoush."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Zmeniť…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Kto ma môže vyhľadať pomocou telefónneho čísla"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Každý, kto má vaše telefónne číslo, vás v aplikácii Signal uvidí a môže s vami začať četovať."
+    "messageformat": "Každý, kto má vaše telefónne číslo, vás v aplikácii Yoush uvidí a môže s vami začať četovať."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Nikto vás v aplikácii Signal neuvidí, pokiaľ mu nenapíšete správu alebo s ním nebudete četovať."
+    "messageformat": "Nikto vás v aplikácii Yoush neuvidí, pokiaľ mu nenapíšete správu alebo s ním nebudete četovať."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Každý"
@@ -5142,7 +5142,7 @@
     "messageformat": "Naozaj chcete pokračovať?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Ak zmeníte „{settingTitle}“ na „{nobodyLabel}“, pre ľudí bude ťažšie nájsť vás v aplikácii Signal."
+    "messageformat": "Ak zmeníte „{settingTitle}“ na „{nobodyLabel}“, pre ľudí bude ťažšie nájsť vás v aplikácii Yoush."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Odosielanie správ"
@@ -5196,7 +5196,7 @@
     "messageformat": "Nastaviť"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Reštartujte Signal na potvrdenie zmien"
+    "messageformat": "Reštartujte Yoush na potvrdenie zmien"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Ak chcete zmeniť jazyk, musíte reštartovať aplikáciu."
@@ -5214,13 +5214,13 @@
     "messageformat": "Aktualizácia bola stiahnutá"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Otvorte Signal na svojom telefóne"
+    "messageformat": "Otvorte Yoush na svojom telefóne"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Váš účet bude čoskoro odstránený, pokiaľ v telefóne neotvoríte Signal. Ak ste tak urobili, táto správa zmizne. <learnMoreLink>Zistiť viac</learnMoreLink>"
+    "messageformat": "Váš účet bude čoskoro odstránený, pokiaľ v telefóne neotvoríte Yoush. Ak ste tak urobili, táto správa zmizne. <learnMoreLink>Zistiť viac</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Ak chcete, aby ostal váš účet aktívny, otvorte Signal na svojom telefóne"
+    "messageformat": "Ak chcete, aby ostal váš účet aktívny, otvorte Yoush na svojom telefóne"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Zistiť viac"
@@ -5232,7 +5232,7 @@
     "messageformat": "Vyžaduje sa aktualizácia"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Ak chcete dokončiť synchronizáciu správ, aktualizujte Signal Desktop."
+    "messageformat": "Ak chcete dokončiť synchronizáciu správ, aktualizujte Yoush Desktop."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Aktualizovať"
@@ -5241,13 +5241,13 @@
     "messageformat": "Vyžaduje sa aktualizácia"
   },
   "icu:InstallScreenUpdateDialog--auto-update__body": {
-    "messageformat": "Aby ste mohli pokračovať v používaní aplikácie Signal, aktualizujte na najnovšiu verziu."
+    "messageformat": "Aby ste mohli pokračovať v používaní aplikácie Yoush, aktualizujte na najnovšiu verziu."
   },
   "icu:InstallScreenUpdateDialog--manual-update__action": {
     "messageformat": "Stiahnuť {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Pre nainštalovanie aktualizácie reštartujte Signal."
+    "messageformat": "Pre nainštalovanie aktualizácie reštartujte Yoush."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktop sa nepodarilo aktualizovať, k dispozícii je však nová verzia. Nainštalujte novú verziu manuálne z {downloadUrl} a následne kontaktujte podporu alebo nahláste tento problém."
@@ -5273,14 +5273,14 @@
     "ignoreUnused": true
   },
   "icu:NSIS__semver-downgrade": {
-    "messageformat": "Už je nainštalovaná novšia verzia Signalu. Naozaj chcete pokračovať?",
+    "messageformat": "Už je nainštalovaná novšia verzia Youshu. Naozaj chcete pokračovať?",
     "ignoreUnused": true
   },
   "icu:CrashReportDialog__title": {
     "messageformat": "Aplikácia zlyhala"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal sa sa reštartoval po zlyhaní. Môžete odoslať správu o zlyhaní, ktorá Signal-u pomôže problém preskúmať."
+    "messageformat": "Signal sa sa reštartoval po zlyhaní. Môžete odoslať správu o zlyhaní, ktorá Yoush-u pomôže problém preskúmať."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Odoslať"
@@ -5625,7 +5625,7 @@
     "messageformat": "Skryť príbeh pred"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Všetky Signal spojenia"
+    "messageformat": "Všetky Yoush spojenia"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Všetci okrem…"
@@ -5643,7 +5643,7 @@
     "messageformat": "Potvrdenia o pozretí"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Ak chcete zmeniť toto nastavenie, otvorte na svojom mobilnom zariadení aplikáciu Signal a prejdite na Nastavenia -> Príbehy"
+    "messageformat": "Ak chcete zmeniť toto nastavenie, otvorte na svojom mobilnom zariadení aplikáciu Yoush a prejdite na Nastavenia -> Príbehy"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Kto môže vidieť tento príbeh"
@@ -5703,7 +5703,7 @@
     "messageformat": "Nastavenie súkromia môjho príbehu"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Vyberte, ktoré Signal spojenia si môžu pozrieť váš príbeh. Výber môžete kedykoľvek zmeniť v nastaveniach súkromia. <learnMoreLink>Zistiť viac.</learnMoreLink>"
+    "messageformat": "Vyberte, ktoré Yoush spojenia si môžu pozrieť váš príbeh. Výber môžete kedykoľvek zmeniť v nastaveniach súkromia. <learnMoreLink>Zistiť viac.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Vymazať príbeh"
@@ -5772,7 +5772,7 @@
     "messageformat": "Stiahnuť prílohu"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Povoľte potvrdenia o prečítaní, aby ste zistili, kto si prezeral vaše príbehy. Otvorte na svojom mobilnom zariadení aplikáciu Signal a prejdite na Nastavenia > Príbehy."
+    "messageformat": "Povoľte potvrdenia o prečítaní, aby ste zistili, kto si prezeral vaše príbehy. Otvorte na svojom mobilnom zariadení aplikáciu Yoush a prejdite na Nastavenia > Príbehy."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Zatiaľ žiadne odpovede"
@@ -5958,7 +5958,7 @@
     "messageformat": "Váš QR kód a odkaz boli resetované a vaše používateľské meno je {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Naskenujte tento QR kód pomocou telefónu a četujte so mnou v aplikácii Signal.",
+    "messageformat": "Naskenujte tento QR kód pomocou telefónu a četujte so mnou v aplikácii Yoush.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Zrušiť"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal desktop už čoskoro nebude podporovať verziu {OS} na vašom počítači. Ak chcete naďalej používať Signal, aktualizujte operačný systém svojho počítača do {expirationDate}. <learnMoreLink>Zistiť viac</learnMoreLink>"
+    "messageformat": "Signal desktop už čoskoro nebude podporovať verziu {OS} na vašom počítači. Ak chcete naďalej používať Yoush, aktualizujte operačný systém svojho počítača do {expirationDate}. <learnMoreLink>Zistiť viac</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal desktop už na tomto počítači nefunguje. Ak chcete znova používať Signal desktop, aktualizujte verziu {OS} na svojom počítači. <learnMoreLink>Zistiť viac</learnMoreLink>"
+    "messageformat": "Signal desktop už na tomto počítači nefunguje. Ak chcete znova používať Yoush desktop, aktualizujte verziu {OS} na svojom počítači. <learnMoreLink>Zistiť viac</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal desktop už na tomto počítači nefunguje. Ak chcete znova používať Signal desktop, aktualizujte verziu {OS} na svojom počítači."
+    "messageformat": "Signal desktop už na tomto počítači nefunguje. Ak chcete znova používať Yoush desktop, aktualizujte verziu {OS} na svojom počítači."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Upravené"
@@ -6211,7 +6211,7 @@
     "messageformat": "Skopírovať odkaz"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Zdieľať odkaz cez Signal"
+    "messageformat": "Zdieľať odkaz cez Yoush"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Vymazať odkaz"
@@ -6277,7 +6277,7 @@
     "messageformat": "Ak chcete toto nastavenie zmeniť, v časti „Kto môže vidieť moje telefónne“ číslo zvoľte „Nikto“."
   },
   "icu:ProfileNameWarningModal__description--direct": {
-    "messageformat": "Názvy profilov si v aplikácii Signal vyberá majiteľ účtu:"
+    "messageformat": "Názvy profilov si v aplikácii Yoush vyberá majiteľ účtu:"
   },
   "icu:ProfileNameWarningModal__list--item1--direct": {
     "messageformat": "Názvy profilov nie sú overené"
@@ -6304,11 +6304,11 @@
     "messageformat": "Čo je nové"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Táto verzia obsahuje množstvo drobných vylepšení a opráv chýb, ktoré zaisťujú bezproblémový chod systému Signal.",
+    "messageformat": "Táto verzia obsahuje množstvo drobných vylepšení a opráv chýb, ktoré zaisťujú bezproblémový chod systému Yoush.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Ďalšie malé úpravy, opravy chýb a vylepšenia výkonu. Ďakujeme, že používate Signal!",
+    "messageformat": "Ďalšie malé úpravy, opravy chýb a vylepšenia výkonu. Ďakujeme, že používate Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Malé úpravy, opravy chýb a vylepšenia výkonu. Ďakujeme, že používate Signal!",
+    "messageformat": "Malé úpravy, opravy chýb a vylepšenia výkonu. Ďakujeme, že používate Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Teraz môžete vyhľadávať animované súbory GIF aj v aplikácii Signal Desktop."
+    "messageformat": "Teraz môžete vyhľadávať animované súbory GIF aj v aplikácii Yoush Desktop."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Zmenili sme tiež veľkosť okna Obraz v obraze a pridali sme nové šikovné skratky pri minimalizovanom hovore."

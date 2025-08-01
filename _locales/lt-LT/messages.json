@@ -138,7 +138,7 @@
     "messageformat": "Rodyti visus"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Išeiti iš Signal"
+    "messageformat": "Išeiti iš Yoush"
   },
   "icu:editMenuUndo": {
     "messageformat": "Atšaukti"
@@ -303,7 +303,7 @@
     "messageformat": "Nustatymai"
   },
   "icu:NavTabs__ItemLabel--Update": {
-    "messageformat": "Atnaujinti Signal"
+    "messageformat": "Atnaujinti Yoush"
   },
   "icu:NavTabs__ItemLabel--Profile": {
     "messageformat": "Profilis"
@@ -429,7 +429,7 @@
     "messageformat": "Jūs iš kito įrenginio pažymėjote savo saugumo numerį su {name} kaip nepatvirtintą"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Saugumo numeris, kurį bandote patvirtinti, pasikeitė. Peržiūrėkite savo saugumo numerį su {name1}. Atminkite, šis pokytis gali reikšti, kad kažkas bando perimti jūsų susirašinėjimą arba, kad {name2}, tiesiog, iš naujo įdiegė Signal."
+    "messageformat": "Saugumo numeris, kurį bandote patvirtinti, pasikeitė. Peržiūrėkite savo saugumo numerį su {name1}. Atminkite, šis pokytis gali reikšti, kad kažkas bando perimti jūsų susirašinėjimą arba, kad {name2}, tiesiog, iš naujo įdiegė Yoush."
   },
   "icu:safetyNumberChangeDialog__message": {
     "messageformat": "Gali būti, kad šie žmonės įdiegė „Signal“ iš naujo arba pakeitė įrenginius. Spustelėk gavėją, kad patvirtintum jo naują saugumo numerį. Tai neprivaloma."
@@ -666,7 +666,7 @@
     "messageformat": "Lipdukų paketo kūrėjas"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "Apie Signal Desktop"
+    "messageformat": "Apie Yoush Desktop"
   },
   "icu:screenShareWindow": {
     "messageformat": "Ekrano bendrinimas"
@@ -744,7 +744,7 @@
     "messageformat": "Rasti pagal telefono numerį"
   },
   "icu:welcomeToSignal": {
-    "messageformat": "Sveiki atvykę į Signal"
+    "messageformat": "Sveiki atvykę į Yoush"
   },
   "icu:whatsNew": {
     "messageformat": "Atraskite, {whatsNew} šiame atnaujinime"
@@ -834,10 +834,10 @@
     "messageformat": "Jei nori siųsti balso žinutes, suteik „Signal Desktop“ prieigą prie savo mikrofono."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Norėdami skambinti, privalote leisti Signal Desktop gauti prieigą prie jūsų mikrofono."
+    "messageformat": "Norėdami skambinti, privalote leisti Yoush Desktop gauti prieigą prie jūsų mikrofono."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Norėdami skambinti su vaizdu, privalote leisti Signal Desktop gauti prieigą prie jūsų kameros."
+    "messageformat": "Norėdami skambinti su vaizdu, privalote leisti Yoush Desktop gauti prieigą prie jūsų kameros."
   },
   "icu:allowAccess": {
     "messageformat": "Leisti prieigą"
@@ -867,7 +867,7 @@
     "messageformat": "„Signal“ nepavyko atsinaujinti. Apsilankykite adresu {url}, kad įdiegtumėte naujinį rankiniu būdu. Tada <contactSupportLink>susisiekite su palaikymo komanda</contactSupportLink> dėl šios problemos"
   },
   "icu:readOnlyVolume": {
-    "messageformat": "Tikriausiai, Signal Desktop yra macOS karantine ir negalės būti automatiškai atnaujinta. Pabandykite, naudodami Finder, perkelti  {app} į  {folder}."
+    "messageformat": "Tikriausiai, Yoush Desktop yra macOS karantine ir negalės būti automatiškai atnaujinta. Pabandykite, naudodami Finder, perkelti  {app} į  {folder}."
   },
   "icu:ok": {
     "messageformat": "Gerai"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} pasikeitė telefono numerį"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Adresatas prisijungė prie Signal"
+    "messageformat": "Adresatas prisijungė prie Yoush"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} ir {conversationTitle} yra ta pati paskyra. Abiejų pokalbių žinučių istorija yra čia."
@@ -1230,10 +1230,10 @@
     "messageformat": "Sužinoti daugiau"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Nuskenuokite šį kodą naudodami telefone įdiegtą Signal programėlę"
+    "messageformat": "Nuskenuokite šį kodą naudodami telefone įdiegtą Yoush programėlę"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Atverkite savo telefone Signal programėlę"
+    "messageformat": "Atverkite savo telefone Yoush programėlę"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Bakstelėkite ant {settings}, o tuomet ant {linkedDevices}"
@@ -1290,7 +1290,7 @@
     "messageformat": "Atleiskite, jūs jau turite per daug susietų įrenginių. Pabandykite kai kuriuos pašalinti."
   },
   "icu:installTooOld": {
-    "messageformat": "Norėdami susieti šį įrenginį su savo telefonu, atnaujinkite jame Signal."
+    "messageformat": "Norėdami susieti šį įrenginį su savo telefonu, atnaujinkite jame Yoush."
   },
   "icu:installErrorHeader": {
     "messageformat": "Kažkas nutiko!"
@@ -1590,7 +1590,7 @@
     "messageformat": "Spustelėkite apatinėje kairėje ant spynos piktogramos ir įveskite kompiuterio slaptažodį."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Dešinėje, šalia Signal, pažymėkite langelį. Jei sąraše nematote Signal, spustelėkite +, kad ją pridėtumėte."
+    "messageformat": "Dešinėje, šalia Yoush, pažymėkite langelį. Jei sąraše nematote Yoush, spustelėkite +, kad ją pridėtumėte."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Atverti sistemos nuostatas"
@@ -1602,7 +1602,7 @@
     "messageformat": "Visada retransliuoti skambučius"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Retransliuoti visus skambučius per Signal serverį, kad būtų išvengta jūsų IP adreso atskleidimo jūsų adresatui. Įjungus, pablogės skambučių kokybė."
+    "messageformat": "Retransliuoti visus skambučius per Yoush serverį, kad būtų išvengta jūsų IP adreso atskleidimo jūsų adresatui. Įjungus, pablogės skambučių kokybė."
   },
   "icu:permissions": {
     "messageformat": "Leidimai"
@@ -1620,10 +1620,10 @@
     "messageformat": "Rodyti iškylantįjį teksto formatavimo meniu pasirinkus tekstą"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Rašybos tikrinimas bus įjungtas, kitą kartą paleidus Signal."
+    "messageformat": "Rašybos tikrinimas bus įjungtas, kitą kartą paleidus Yoush."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Rašybos tikrinimas bus išjungtas, kitą kartą paleidus Signal."
+    "messageformat": "Rašybos tikrinimas bus išjungtas, kitą kartą paleidus Yoush."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Suskleisti į sistemos dėklą"
@@ -1698,10 +1698,10 @@
     "messageformat": "Dalinai ištrinta, spustelėk, kad bandytum dar kartą"
   },
   "icu:expiredWarning": {
-    "messageformat": "Pasibaigė šios Signal Desktop skirtos versijos galiojimas. Norint tęsti susirašinėjimą, prašome atsinaujinti iki naujausios versijos."
+    "messageformat": "Pasibaigė šios Yoush Desktop skirtos versijos galiojimas. Norint tęsti susirašinėjimą, prašome atsinaujinti iki naujausios versijos."
   },
   "icu:upgrade": {
-    "messageformat": "Spustelėkite, norėdami pereiti į signal.org/download"
+    "messageformat": "Spustelėkite, norėdami pereiti į Yoush.org/download"
   },
   "icu:mediaMessage": {
     "messageformat": "Medijos žinutė"
@@ -1710,7 +1710,7 @@
     "messageformat": "Importuoti adresatus"
   },
   "icu:syncExplanation": {
-    "messageformat": "Importuoti visas Signal grupes ir adresatus iš jūsų mobiliojo įrenginio."
+    "messageformat": "Importuoti visas Yoush grupes ir adresatus iš jūsų mobiliojo įrenginio."
   },
   "icu:syncNow": {
     "messageformat": "Importuoti dabar"
@@ -1836,7 +1836,7 @@
     "messageformat": "Susisiekite su mumis"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Paaukokite Signal programėlei"
+    "messageformat": "Paaukokite Yoush programėlei"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Rodyti saugumo numerį"
@@ -1908,7 +1908,7 @@
     "messageformat": "{atUsername} nenaudoja „Signal“. Įsitikinkite, kad įvedėte visą naudotojo vardą."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Naudotojas nerastas. „{phoneNumber}“ nėra Signal naudotojas."
+    "messageformat": "Naudotojas nerastas. „{phoneNumber}“ nėra Yoush naudotojas."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Naudotojas nerastas. „{phoneNumber}“ nėra tinkamas telefono numeris."
@@ -1965,7 +1965,7 @@
     "messageformat": "Nepavyko atnaujinti grupės. Patikrinkite savo ryšį ir bandykite dar kartą."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Spustelėkite, norėdami iš naujo susieti Signal Desktop su savo mobiliuoju įrenginiu, kad tęstumėte susirašinėjimą."
+    "messageformat": "Spustelėkite, norėdami iš naujo susieti Yoush Desktop su savo mobiliuoju įrenginiu, kad tęstumėte susirašinėjimą."
   },
   "icu:unlinked": {
     "messageformat": "Atsietas"
@@ -1977,16 +1977,16 @@
     "messageformat": "Bandykite atnaujinti programą dar kartą"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Spustelėkite, norėdami paleisti Signal iš naujo"
+    "messageformat": "Spustelėkite, norėdami paleisti Yoush iš naujo"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Spustelėkite, norėdami atsisiųsti atnaujinimą"
   },
   "icu:downloadFullNewVersionMessage": {
-    "messageformat": "Programai Signal nepavyko atsinaujinti. Spustelėkite norėdami bandyti dar kartą."
+    "messageformat": "Programai Yoush nepavyko atsinaujinti. Spustelėkite norėdami bandyti dar kartą."
   },
   "icu:autoUpdateRestartButtonLabel": {
-    "messageformat": "Paleisti Signal iš naujo"
+    "messageformat": "Paleisti Yoush iš naujo"
   },
   "icu:autoUpdateIgnoreButtonLabel": {
     "messageformat": "Nepaisyti atnaujinimo"
@@ -2166,7 +2166,7 @@
     "messageformat": "Signal menininkų serija"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "Nėra prieinami jokie Signal menininkų lipdukai"
+    "messageformat": "Nėra prieinami jokie Yoush menininkų lipdukai"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "Jūsų gauti lipdukai"
@@ -2505,19 +2505,19 @@
     "messageformat": "Žinutė per ilga, kad būtų rodoma daugiau"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} išsiuntė jums žinutę, kurios nepavyksta apdoroti ar parodyti, nes žinutė naudoja naująją Signal ypatybę."
+    "messageformat": "{contact} išsiuntė jums žinutę, kurios nepavyksta apdoroti ar parodyti, nes žinutė naudoja naująją Yoush ypatybę."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Dabar, kai naudojate atnaujintą Signal versiją, galite paprašyti, kad {contact} jums iš naujo išsiųstų šią žinutę."
+    "messageformat": "Dabar, kai naudojate atnaujintą Yoush versiją, galite paprašyti, kad {contact} jums iš naujo išsiųstų šią žinutę."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Vienas iš jūsų įrenginių išsiuntė žinutę, kurios nepavyksta apdoroti ar parodyti, nes žinutė naudoja naująją Signal ypatybę."
+    "messageformat": "Vienas iš jūsų įrenginių išsiuntė žinutę, kurios nepavyksta apdoroti ar parodyti, nes žinutė naudoja naująją Yoush ypatybę."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Dabar, kai naudojate atnaujintą Signal versiją, būsimos žinutės, tokios kaip ši, bus sinchronizuojamos."
+    "messageformat": "Dabar, kai naudojate atnaujintą Yoush versiją, būsimos žinutės, tokios kaip ši, bus sinchronizuojamos."
   },
   "icu:Message--update-signal": {
-    "messageformat": "Atnaujinti Signal"
+    "messageformat": "Atnaujinti Yoush"
   },
   "icu:Message--tap-to-view--viewed": {
     "messageformat": "Peržiūrėta"
@@ -3384,7 +3384,7 @@
     "messageformat": "Nežinoma nuorodos versija"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Ši Signal Desktop versija nepalaiko šios nuorodos."
+    "messageformat": "Ši Yoush Desktop versija nepalaiko šios nuorodos."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "Nepavyksta prisijungti prie grupės"
@@ -3939,22 +3939,22 @@
     "messageformat": "Tai gali šiek tiek užtrukti"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Paaukokite Signal programėlei"
+    "messageformat": "Paaukokite Yoush programėlei"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Paaukokite Signal programėlei"
+    "messageformat": "Paaukokite Yoush programėlei"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal veikia dėka tokių žmonių kaip jūs. Prisidėkite ir gaukite ženkliuką."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Atverkite savo telefone Signal programėlę"
+    "messageformat": "Atverkite savo telefone Yoush programėlę"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Viršutiniame kairiajame kampe bakstelėkite ant savo profilio nuotraukos, kad būtų atverti Nustatymai"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Bakstelėk „Paremti Signal“ ir prenumeruok"
+    "messageformat": "Bakstelėk „Paremti Yoush“ ir prenumeruok"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Sinchronizuojamos žinutės"
@@ -4071,10 +4071,10 @@
     "messageformat": "Pridėti failą"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Šis žmogus nesinaudoja Signal"
+    "messageformat": "Šis žmogus nesinaudoja Yoush"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal Desktop nepalaiko žinučių rašymo ne Signal adresatams. Paprašykite šio žmogaus, kad, saugesniam susirašinėjimo patyrimui, įsidiegtų Signal."
+    "messageformat": "Signal Desktop nepalaiko žinučių rašymo ne Yoush adresatams. Paprašykite šio žmogaus, kad, saugesniam susirašinėjimo patyrimui, įsidiegtų Yoush."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Tikrinama adresato registracijos būsena"
@@ -4314,7 +4314,7 @@
     "messageformat": "Reikalauti, kad administratorius patvirtintų naujus, per grupės nuorodą prisijungiančius, narius"
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Nukopijuokite signal.group nuorodą į iškarpinę"
+    "messageformat": "Nukopijuokite Yoush.group nuorodą į iškarpinę"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Prašymai ({count,number})"
@@ -4581,7 +4581,7 @@
     "messageformat": "Patvirtinkite, norėdami tęsti susirašinėjimą"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Siekdami neleisti brukalo Signal programėlėje, prašome jūsų užbaigti patvirtinimą."
+    "messageformat": "Siekdami neleisti brukalo Yoush programėlėje, prašome jūsų užbaigti patvirtinimą."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Po patvirtinimo galėsite tęsti susirašinėjimą. Visos pristabdytos žinutės bus automatiškai išsiųstos."
@@ -5091,7 +5091,7 @@
     "messageformat": "{num, plural, one {{num,number} adresatas} few {{num,number} adresatai} many {{num,number} adresato} other {{num,number} adresatų}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Norėdami keisti šiuos nustatymus, atverkite Signal programėlę savo mobiliajame įrenginyje ir pereikite į Nustatymai > Privatumas"
+    "messageformat": "Norėdami keisti šiuos nustatymus, atverkite Yoush programėlę savo mobiliajame įrenginyje ir pereikite į Nustatymai > Privatumas"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Telefono numeris"
@@ -5214,7 +5214,7 @@
     "messageformat": "Naujinys atsisiųstas"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Atverkite savo telefone Signal programėlę"
+    "messageformat": "Atverkite savo telefone Yoush programėlę"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
     "messageformat": "Jūsų paskyra netrukus bus ištrinta, nebent telefone atidarysite „Signal“. Tai atlikus ši žinutė išnyks. <learnMoreLink>Sužinoti daugiau</learnMoreLink>"
@@ -5253,7 +5253,7 @@
     "messageformat": "Nepavyko atnaujinti „Signal Desktop“, bet gali atsisiųsti naują versiją. Eik į {downloadUrl} ir įdiek naują versiją rankiniu būdu, o tada kreipkis į aptarnavimo komandą arba pranešk apie šią problemą."
   },
   "icu:NSIS__retry-dialog--first-line": {
-    "messageformat": "Nepavyksta užverti Signal.",
+    "messageformat": "Nepavyksta užverti Yoush.",
     "ignoreUnused": true
   },
   "icu:NSIS__retry-dialog--second-line": {
@@ -5280,7 +5280,7 @@
     "messageformat": "Programa užstrigo"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal buvo paleista iš naujo po strigties. Galite pateikti pranešimą apie strigtį, kad padėtumėte Signal ištirti problemą."
+    "messageformat": "Signal buvo paleista iš naujo po strigties. Galite pateikti pranešimą apie strigtį, kad padėtumėte Yoush ištirti problemą."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Siųsti"
@@ -6304,7 +6304,7 @@
     "messageformat": "Kas naujo"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Šioje versijoje yra daug smulkių patobulinimų ir klaidų ištaisymų, kurie padės Signal sklandžiai veikti.",
+    "messageformat": "Šioje versijoje yra daug smulkių patobulinimų ir klaidų ištaisymų, kurie padės Yoush sklandžiai veikti.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {

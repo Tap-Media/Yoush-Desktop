@@ -2065,14 +2065,7 @@ export function initialize({
         abortSignal: param.abortSignal,
       };
 
-      const logUrl = outerParams.redactUrl ? outerParams.redactUrl() : `${outerParams.host}${outerParams.path}`;
-      log.debug('[_ajax] Sending request', {
-        method: outerParams.type,
-        url: logUrl,
-        headers: outerParams.headers,
-        data: outerParams.data ? (typeof outerParams.data === 'string' ? outerParams.data : '[non-string data]') : undefined,
-      });
-
+     
       try {
         return await _outerAjax(null, outerParams);
       } catch (e) {
@@ -2206,7 +2199,7 @@ export function initialize({
         responseType: 'jsonwithdetails',
       });
       const json = parseUnknown(remoteConfigResponseZod, data);
-
+      
       const serverTimestamp = safeParseNumber(
         response.headers.get('x-signal-timestamp') || ''
       );

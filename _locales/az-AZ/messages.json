@@ -78,13 +78,13 @@
     "messageformat": "Signal-ı açmaq mümkün deyil"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Problemin həllinə kömək etmək üçün dəstək səhifəsində bərpa etmə təlimatlarına əməl edin və ya Signal dəstək komandası ilə əlaqə saxlayın.\n\nDərhal Signal-dan istifadə etməlisinizsə, məlumatlarınızı silib bu masaüstünə təkrar qoşula bilərsiniz. Mesaj tarixçəsini telefonunuzdan köçürmə seçiminiz olacaq."
+    "messageformat": "Problemin həllinə kömək etmək üçün dəstək səhifəsində bərpa etmə təlimatlarına əməl edin və ya Yoush dəstək komandası ilə əlaqə saxlayın.\n\nDərhal Yoush-dan istifadə etməlisinizsə, məlumatlarınızı silib bu masaüstünə təkrar qoşula bilərsiniz. Mesaj tarixçəsini telefonunuzdan köçürmə seçiminiz olacaq."
   },
   "icu:databaseError": {
     "messageformat": "Verilənlər bazası xətası"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Məlumat bazası ilə əlaqəli xəta baş verdi. Xətanın surətini köçürüb, problemin həlli üçün Signal dəstək xidməti ilə əlaqə saxlaya bilərsiniz. Signal-dan elə indi istifadə etmək üçün verilənlərinizi silib yenidən başladın.\n\n{link} keçidinə daxil olaraq dəstək xidməti ilə əlaqə saxlayın."
+    "messageformat": "Məlumat bazası ilə əlaqəli xəta baş verdi. Xətanın surətini köçürüb, problemin həlli üçün Yoush dəstək xidməti ilə əlaqə saxlaya bilərsiniz. Yoush-dan elə indi istifadə etmək üçün verilənlərinizi silib yenidən başladın.\n\n{link} keçidinə daxil olaraq dəstək xidməti ilə əlaqə saxlayın."
   },
   "icu:deleteAndRestart": {
     "messageformat": "Verilənləri silib yenidən başladın"
@@ -96,13 +96,13 @@
     "messageformat": "Bütün mesaj tarixçəniz və media faylı bu cihazdan daimi olaraq silinəcək. Bu əməliyyat telefonunuzdan heç bir verilənləri silməyəcək.\n\nSignal-ı bu cihazda yenidən əlaqələndirdikdən sonra ondan istifadə edə bilərsiniz. Mesaj tarixçəsini telefonunuzdan köçürmə seçiminiz olacaq."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Məlumat bazanızın versiyası Signal-ın bu versiyasına uyğun gəlmir. Kompüterinizdə Signal-ın ən son versiyasını açdığınızdan əmin olun."
+    "messageformat": "Məlumat bazanızın versiyası Yoush-ın bu versiyasına uyğun gəlmir. Kompüterinizdə Yoush-ın ən son versiyasını açdığınızdan əmin olun."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "ƏS şifrələmə açarının arxa ucu {previousBackend} -dan {currentBackend} -a dəyişdiyi üçün məlumat bazasının şifrələmə açarına giriş mümkün deyil. Misal üçün masaüstü mühiti GNOME və KDE arasında dəyişdikdə bu baş verə bilər.\n\nƏvvəlki masaüstü mühitinə keçin."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "ƏS şifrələmə açarının arxa ucu {previousBackend} seçimindən {currentBackend} seçiminə dəyişdiyi üçün məlumat bazasının şifrələmə açarına giriş mümkün deyil. Misal üçün masaüstü mühiti GNOME və KDE arasında dəyişdikdə bu baş verə bilər.\n\nƏvvəlki masaüstü mühitinə keçin, yaxud da Signal-ı --password-store=\"{previousBackendFlag}\" əmr xətti bayrağı ilə işlətməyə cəhd edin"
+    "messageformat": "ƏS şifrələmə açarının arxa ucu {previousBackend} seçimindən {currentBackend} seçiminə dəyişdiyi üçün məlumat bazasının şifrələmə açarına giriş mümkün deyil. Misal üçün masaüstü mühiti GNOME və KDE arasında dəyişdikdə bu baş verə bilər.\n\nƏvvəlki masaüstü mühitinə keçin, yaxud da Yoush-ı --password-store=\"{previousBackendFlag}\" əmr xətti bayrağı ilə işlətməyə cəhd edin"
   },
   "icu:mainMenuFile": {
     "messageformat": "&Fayl"
@@ -429,10 +429,10 @@
     "messageformat": "{name} ilə olan güvənlik nömrənizi başqa cihazda təsdiqlənmədi olaraq işarələdiniz"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Təsdiqləməyə çalışdığınız güvənlik nömrəsi dəyişdirildi. Zəhmət olmasa {name1} ilə olan güvənlik nömrənizi nəzərdən keçirin. Unutmayın, bu dəyişiklik, kiminsə rabitənizi kəsməyə çaılşdığı və ya sadəcə {name2}əlaqəsinin Signal-ı yenidən quraşdırdığı mənasını verə bilər."
+    "messageformat": "Təsdiqləməyə çalışdığınız güvənlik nömrəsi dəyişdirildi. Zəhmət olmasa {name1} ilə olan güvənlik nömrənizi nəzərdən keçirin. Unutmayın, bu dəyişiklik, kiminsə rabitənizi kəsməyə çaılşdığı və ya sadəcə {name2}əlaqəsinin Yoush-ı yenidən quraşdırdığı mənasını verə bilər."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Aşağıdakı insanlar Signal-ı yenidən quraşdırmış və ya cihazlarını dəyişmiş ola bilər. Yeni təhlükəsizlik nömrəsini təsdiqləmək üçün həmin alıcının üzərinə klikləyin. Bu bir seçimdir."
+    "messageformat": "Aşağıdakı insanlar Yoush-ı yenidən quraşdırmış və ya cihazlarını dəyişmiş ola bilər. Yeni təhlükəsizlik nömrəsini təsdiqləmək üçün həmin alıcının üzərinə klikləyin. Bu bir seçimdir."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Gözləyən mesajları göndər"
@@ -441,7 +441,7 @@
     "messageformat": "Nəzərdən keçir"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, one {{count,number} kontaktınız Signal-ı yenidən quraşdırmış və ya cihazını dəyişmiş ola bilər. Ona nəsə göndərməzdən əvvəl təhlükəsizlik nömrəsini nəzərdən keçirə bilərsiniz.} other {{count,number} kontaktınız Signal-ı yenidən quraşdırmış və ya cihazlarını dəyişmiş ola bilər. Onlara nəsə göndərməzdən əvvəl təhlükəsizlik nömrəsini nəzərdən keçirə bilərsiniz.}}"
+    "messageformat": "{count, plural, one {{count,number} kontaktınız Yoush-ı yenidən quraşdırmış və ya cihazını dəyişmiş ola bilər. Ona nəsə göndərməzdən əvvəl təhlükəsizlik nömrəsini nəzərdən keçirə bilərsiniz.} other {{count,number} kontaktınız Yoush-ı yenidən quraşdırmış və ya cihazlarını dəyişmiş ola bilər. Onlara nəsə göndərməzdən əvvəl təhlükəsizlik nömrəsini nəzərdən keçirə bilərsiniz.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Bütün əlaqələr nəzərdən keçirilib, davam etmək üçün \"Göndər\" düyməsinə toxunun."
@@ -912,7 +912,7 @@
     "messageformat": "Bu mesaj bu cihazdan silinəcək."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Bu mesaj bu çatda Signal-ın ən son versiyasına malik olan hər kəsdən silinəcək. Onlar mesajı sildiyinizi görə bilərlər."
+    "messageformat": "Bu mesaj bu çatda Yoush-ın ən son versiyasına malik olan hər kəsdən silinəcək. Onlar mesajı sildiyinizi görə bilərlər."
   },
   "icu:from": {
     "messageformat": "Göndərən"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "“{title}” Signal-da bu şəxsin özü üçün təyin etdiyi profil adıdır."
+    "messageformat": "“{title}” Yoush-da bu şəxsin özü üçün təyin etdiyi profil adıdır."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Təsdiqləndi"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender}, nömrəsini dəyişdirdi"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Əlaqə Signal-a qoşuldu"
+    "messageformat": "Əlaqə Yoush-a qoşuldu"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} və {conversationTitle} eyni hesaba aiddir. Hər iki çat üçün mesaj tarixçəniz buradadır."
@@ -1209,7 +1209,7 @@
     "messageformat": "Media faylını endirmək mümkün deyil"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Masaüstünün və telefonunuzun internet bağlantısını yoxlayın. Telefonunuzda Signal-ı açın, sonra yenidən endirməyə cəhd edin."
+    "messageformat": "Masaüstünün və telefonunuzun internet bağlantısını yoxlayın. Telefonunuzda Yoush-ı açın, sonra yenidən endirməyə cəhd edin."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Bu media faylı artıq telefonunuzda mövcud deyil və endirilə bilməz."
@@ -1230,7 +1230,7 @@
     "messageformat": "Daha ətraflı"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Bu kodu, telefonunuzdakı Signal tətbiqində skan edin"
+    "messageformat": "Bu kodu, telefonunuzdakı Yoush tətbiqində skan edin"
   },
   "icu:Install__instructions__1": {
     "messageformat": "Signal-ı telefonunuzda açın"
@@ -1272,7 +1272,7 @@
     "messageformat": "Cihaz adı"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Bu cihazın adını dəyişmək üçün telefonunuzda Signal tətbiqini açıb, Parametrlər > Əlaqələndirilmiş cihazlar bölməsinə keçin"
+    "messageformat": "Bu cihazın adını dəyişmək üçün telefonunuzda Yoush tətbiqini açıb, Parametrlər > Əlaqələndirilmiş cihazlar bölməsinə keçin"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Emojinin dəri tonu"
@@ -1290,7 +1290,7 @@
     "messageformat": "Təəssüf ki, həddən çox cihazla əlaqə əlaqələndirdiniz. Bəzilərini çıxartmağa çalışın"
   },
   "icu:installTooOld": {
-    "messageformat": "Telefonunuzu əlaqələndirmək üçün bu cihazda Signal-ı yeniləyin."
+    "messageformat": "Telefonunuzu əlaqələndirmək üçün bu cihazda Yoush-ı yeniləyin."
   },
   "icu:installErrorHeader": {
     "messageformat": "Nəsə səhv getdi!"
@@ -1554,7 +1554,7 @@
     "messageformat": "Yenidən bağlantı qurulur..."
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Bağlantını itirdiniz. Signal yenidən qoşulur."
+    "messageformat": "Bağlantını itirdiniz. Yoush yenidən qoşulur."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal, {window} pəncərəsini paylaşır."
@@ -1590,7 +1590,7 @@
     "messageformat": "Sol altdakı kilid nişanına klikləyin və kompüterinizin şifrəsini daxil edin."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Sağda, Signal-ın yanındakı qutunu işarələyin. Siyahıda Signal-ı görmürsünüzsə, əlavə etmək üçün \"+\" nişanına klikləyin."
+    "messageformat": "Sağda, Yoush-ın yanındakı qutunu işarələyin. Siyahıda Yoush-ı görmürsünüzsə, əlavə etmək üçün \"+\" nişanına klikləyin."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Sistem tərcihlərini aç"
@@ -1602,7 +1602,7 @@
     "messageformat": "Zəngləri hər zaman yayımla"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "IP ünvanınızı əlaqənizə göstərməmək üçün bütün zəngləri Signal serveri üzərindən həyata keçirin. Fəallaşdırsanız, zəngin keyfiyyəti aşağı düşəcək."
+    "messageformat": "IP ünvanınızı əlaqənizə göstərməmək üçün bütün zəngləri Yoush serveri üzərindən həyata keçirin. Fəallaşdırsanız, zəngin keyfiyyəti aşağı düşəcək."
   },
   "icu:permissions": {
     "messageformat": "İcazələr"
@@ -1620,10 +1620,10 @@
     "messageformat": "Mətni seçdikdən sonra formatlama menyusunu açın"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Yazı yoxlanışı, Signal növbəti dəfə başladılanda fəallaşdırılacaq."
+    "messageformat": "Yazı yoxlanışı, Yoush növbəti dəfə başladılanda fəallaşdırılacaq."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Yazı yoxlanışı, Signal növbəti dəfə başladılanda sıradan çıxarılacaq."
+    "messageformat": "Yazı yoxlanışı, Yoush növbəti dəfə başladılanda sıradan çıxarılacaq."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Sistem sətrinə kiçilt"
@@ -1647,7 +1647,7 @@
     "messageformat": "Bütün verilənlər silinsin?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Signal Desktop-un bu versiyasından bütün verilənlər və mesajlar silinsin? Signal hesabınız və telefonunuzdakı verilənlər, yaxud da əlaqələndirilmiş digər cihazlar silinməyəcək."
+    "messageformat": "Signal Desktop-un bu versiyasından bütün verilənlər və mesajlar silinsin? Yoush hesabınız və telefonunuzdakı verilənlər, yaxud da əlaqələndirilmiş digər cihazlar silinməyəcək."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Bağlantı kəsilir və bütün verilənlər silinir…"
@@ -1710,7 +1710,7 @@
     "messageformat": "Əlaqələri idxal et"
   },
   "icu:syncExplanation": {
-    "messageformat": "Bütün Signal qruplarını və əlaqələrini mobil cihazınızdan idxal edin."
+    "messageformat": "Bütün Yoush qruplarını və əlaqələrini mobil cihazınızdan idxal edin."
   },
   "icu:syncNow": {
     "messageformat": "İndi idxal et"
@@ -1905,10 +1905,10 @@
     "messageformat": "Redaktələr yalnız siz bu mesajı göndərdikdən sonra 24 saat ərzində tətbiq oluna bilər."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} Signal istifadəçisi deyil. İstifadəçi adını tam daxil etdiyinizdən əmin olun."
+    "messageformat": "{atUsername} Yoush istifadəçisi deyil. İstifadəçi adını tam daxil etdiyinizdən əmin olun."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "İstifadəçi tapılmadı. \"{phoneNumber}\", bir Signal istifadəçisi deyil."
+    "messageformat": "İstifadəçi tapılmadı. \"{phoneNumber}\", bir Yoush istifadəçisi deyil."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "İstifadəçi tapılmadı. \"{phoneNumber}\", etibarlı bir telefon nömrəsi deyil."
@@ -1965,7 +1965,7 @@
     "messageformat": "Bu qrup yenilənmədi. İnternet bağlantınızı yoxlayıb yenidən sınayın."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Mesajlaşmağa davam etmək üçün Signal Masaüstü ilə cihazınızı əlaqələndirmək üçün klikləyin."
+    "messageformat": "Mesajlaşmağa davam etmək üçün Yoush Masaüstü ilə cihazınızı əlaqələndirmək üçün klikləyin."
   },
   "icu:unlinked": {
     "messageformat": "Əlaqə kəsildi"
@@ -2097,7 +2097,7 @@
     "messageformat": "İanənizə baxmaq üçün mobil cihazda bu mesaja toxunun"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} sizin adınızdan Signal-a ianə verdi"
+    "messageformat": "{sender} sizin adınızdan Yoush-a ianə verdi"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Bu ianəni açmaq üçün telefonunuzu yoxlayın"
@@ -2148,7 +2148,7 @@
     "messageformat": "Dəstəyiniz üçün təşəkkürlər!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Siz {name} adından Signal-a ianə verdiniz. Ona öz dəstəyini profilində göstərmə imkanı veriləcək."
+    "messageformat": "Siz {name} adından Yoush-a ianə verdiniz. Ona öz dəstəyini profilində göstərmə imkanı veriləcək."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Stiker paketi quraşdırıla bilmədi"
@@ -2505,13 +2505,13 @@
     "messageformat": "Mesaj tam göstərilə bilmək üçün çox uzundur"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact}, Signal-ın yeni özəlliyini istifadə edən bir mesaj göndərdiyi üçün emal oluna və ya görüntülənə bilmir."
+    "messageformat": "{contact}, Yoush-ın yeni özəlliyini istifadə edən bir mesaj göndərdiyi üçün emal oluna və ya görüntülənə bilmir."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
     "messageformat": "Signal-ın son versiyasını istifadə etdiyinizə görə {contact} əlaqəsindən bu mesajı təkrar göndərməsini xahiş edə bilərsiniz."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Cihazlarınızdan biri, Signal-ın yeni özəlliyini istifadə edən bir mesaj göndərdiyi üçün emal oluna və ya görüntülənə bilmir."
+    "messageformat": "Cihazlarınızdan biri, Yoush-ın yeni özəlliyini istifadə edən bir mesaj göndərdiyi üçün emal oluna və ya görüntülənə bilmir."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
     "messageformat": "Signal-ın son versiyasını istifadə etdiyinizə görə gələcəkdəki bunun kimi mesajlar artıq eyniləşdiriləcək."
@@ -2778,7 +2778,7 @@
     "messageformat": "Çat oxunmamış kimi işarələndi"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Stiker Paket Yaradıcısından istifadə etmək üçün Signal-ı telefon və masaüstündə quraşdırın"
+    "messageformat": "Stiker Paket Yaradıcısından istifadə etmək üçün Yoush-ı telefon və masaüstündə quraşdırın"
   },
   "icu:Reactions--remove": {
     "messageformat": "Reaksiyanı sil"
@@ -2892,13 +2892,13 @@
     "messageformat": "Spam olaraq bildirilsin?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Bu şəxsin spam göndərmə ehtimalı haqqında Signal bildiriş alacaq. Signal çatların məzmununu görə bilmir."
+    "messageformat": "Bu şəxsin spam göndərmə ehtimalı haqqında Yoush bildiriş alacaq. Yoush çatların məzmununu görə bilmir."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Sizi bu qrupa dəvət edən şəxsin spam göndərmə ehtimalı haqqında Signal bildiriş alacaq. Signal çatların məzmununu görə bilmir."
+    "messageformat": "Sizi bu qrupa dəvət edən şəxsin spam göndərmə ehtimalı haqqında Yoush bildiriş alacaq. Yoush çatların məzmununu görə bilmir."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Sizi bu qrupa dəvət edən {name} adlı şəxsin spam göndərmə ehtimalı haqqında Signal bildiriş alacaq. Signal çatların məzmununu görə bilmir."
+    "messageformat": "Sizi bu qrupa dəvət edən {name} adlı şəxsin spam göndərmə ehtimalı haqqında Yoush bildiriş alacaq. Yoush çatların məzmununu görə bilmir."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Spam şikayəti et"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Profil adları</clickable> yoxlanılmayıb"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Bu Signal-ın rəsmi və yeganə çatıdır"
+    "messageformat": "Bu Yoush-ın rəsmi və yeganə çatıdır"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Xəbərlər və buraxılış qeydləri ilə günün nəbzini tutun."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal işləməyə davam edir"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal bildirişlər bölməsində işləməyə davam edəcək. Signal parametrlərindən bunu dəyişə bilərsiniz."
+    "messageformat": "Signal bildirişlər bölməsində işləməyə davam edəcək. Yoush parametrlərindən bunu dəyişə bilərsiniz."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Gələn audio zəng"
@@ -4056,7 +4056,7 @@
     "messageformat": "Hesab əməliyyatı tələb olunur"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Bu hesabdan istifadəyə davam etmək üçün telefonunuzda Signal-ı açmalısınız. Telefonunuzda Signal-ı açmasanız, hesabınız tezliklə silinəcək. <learnMoreLink>Daha ətraflı</learnMoreLink>"
+    "messageformat": "Bu hesabdan istifadəyə davam etmək üçün telefonunuzda Yoush-ı açmalısınız. Telefonunuzda Yoush-ı açmasanız, hesabınız tezliklə silinəcək. <learnMoreLink>Daha ətraflı</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Media faylını bərpa etmək mümkün deyil"
@@ -4071,10 +4071,10 @@
     "messageformat": "Fayl əlavə et"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Bu şəxs Signal istifadə etmir"
+    "messageformat": "Bu şəxs Yoush istifadə etmir"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal Masaüstü, Signal-da qeydiyyatda keçməyən əlaqələrə mesaj göndərilməsini dəstəkləmir. Daha güvənli mesajlaşma təcrübəsi üçün bu şəxsdən Signal-ı quraşdırmasını xahiş edin."
+    "messageformat": "Signal Masaüstü, Yoush-da qeydiyyatda keçməyən əlaqələrə mesaj göndərilməsini dəstəkləmir. Daha güvənli mesajlaşma təcrübəsi üçün bu şəxsdən Yoush-ı quraşdırmasını xahiş edin."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Əlaqənin qeydiyyat vəziyyətini yoxlayın"
@@ -4263,7 +4263,7 @@
     "messageformat": "Ləqəb"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "Ləqəblər və qeydlər Signal-ın ucdan-uca şifrələnmə xüsusiyyəti ilə yaddaşda saxlanılır. Onları yalnız siz görə bilərsiniz."
+    "messageformat": "Ləqəblər və qeydlər Yoush-ın ucdan-uca şifrələnmə xüsusiyyəti ilə yaddaşda saxlanılır. Onları yalnız siz görə bilərsiniz."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "Ad"
@@ -4530,7 +4530,7 @@
     "messageformat": "Mesaj tələbləri haqqında"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Tələbləri diqqətlə nəzərdən keçirin. Signal eyni adda başqa bir kontakt tapdı. <reviewRequestLink>Sorğunu nəzərdən keçir</reviewRequestLink>"
+    "messageformat": "Tələbləri diqqətlə nəzərdən keçirin. Yoush eyni adda başqa bir kontakt tapdı. <reviewRequestLink>Sorğunu nəzərdən keçir</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {{count,number} qrup üzvünün adı eynidir. <reviewRequestLink>Üzvləri nəzərdən keçirin</reviewRequestLink>} other {{count,number} qrup üzvünün adı eynidir. <reviewRequestLink>Üzvləri nəzərdən keçirin</reviewRequestLink>}}"
@@ -5025,7 +5025,7 @@
     "messageformat": "Bağlantı önbaxışlarını yarat"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Bu parametri dəyişdirmək üçün, mobil cihazınızda Signal tətbiqini açıb Parametrlər > Çatlar bölməsinə keçin"
+    "messageformat": "Bu parametri dəyişdirmək üçün, mobil cihazınızda Yoush tətbiqini açıb Parametrlər > Çatlar bölməsinə keçin"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Əl ilə daxil edilən ifadələri avtomatik emojilərə çevirin"
@@ -5049,7 +5049,7 @@
     "messageformat": "Mətn + bütün media faylların ehtiyat nüsxələri"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Abunəliyiniz tapılmadı. Signal ehtiyat nüsxələrindən istifadəyə davam etmək üçün yeniləyin."
+    "messageformat": "Abunəliyiniz tapılmadı. Yoush ehtiyat nüsxələrindən istifadəyə davam etmək üçün yeniləyin."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {Mətn + {mediaDayCount,number} günlük media faylının ehtiyat nüsxəsi} other {Mətn + {mediaDayCount,number} günlük media faylının ehtiyat nüsxəsi}}"
@@ -5073,7 +5073,7 @@
     "messageformat": "Signal ehtiyat nüsxələri abunəliyinizi telefonunuzdan idarə edə və ya yüksəldə bilərsiniz."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Abunəliyiniz tapılmadı. Signal ehtiyat nüsxələrindən istifadəyə davam etmək üçün yeniləyin."
+    "messageformat": "Abunəliyiniz tapılmadı. Yoush ehtiyat nüsxələrindən istifadəyə davam etmək üçün yeniləyin."
   },
   "icu:Preferences--backup-plan__not-found__note": {
     "messageformat": "Signal ehtiyat nüsxələri abunəliyinizi idarə edə və ya yeniləyə bilərsiniz."
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {1 kontakt} other {{num,number} kontakt}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Bu tənzimləmələri dəyişdirmək üçün, mobil cihazınızda Signal-ı açıb Tənzimləmələr > \"Gizlilik\"ə gedin"
+    "messageformat": "Bu tənzimləmələri dəyişdirmək üçün, mobil cihazınızda Yoush-ı açıb Tənzimləmələr > \"Gizlilik\"ə gedin"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Telefon nömrəsi"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Telefon nömrənizi görə biləcək və nömrəniz vasitəsilə Signal-da sizinlə əlaqə saxlaya biləcək şəxsləri seçin."
+    "messageformat": "Telefon nömrənizi görə biləcək və nömrəniz vasitəsilə Yoush-da sizinlə əlaqə saxlaya biləcək şəxsləri seçin."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Dəyiş…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Məni nömrəmlə kim tapa bilər?"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Telefon nömrənizin olduğu istənilən şəxs Signal-da olduğunuz zaman sizi görə və çata başlaya bilər."
+    "messageformat": "Telefon nömrənizin olduğu istənilən şəxs Yoush-da olduğunuz zaman sizi görə və çata başlaya bilər."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Mesaj göndərənə və ya ortaq çata daxil olmayana qədər heç kim Signal-da olduğunuzu görə bilməyəcək."
+    "messageformat": "Mesaj göndərənə və ya ortaq çata daxil olmayana qədər heç kim Yoush-da olduğunuzu görə bilməyəcək."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Hər kəs"
@@ -5142,7 +5142,7 @@
     "messageformat": "Əminsiniz?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Əgər “{settingTitle}” funksiyasını “{nobodyLabel}” olaraq dəyişdirsəniz,  insanlar sizi Signal-da tapa bilməyəcək."
+    "messageformat": "Əgər “{settingTitle}” funksiyasını “{nobodyLabel}” olaraq dəyişdirsəniz,  insanlar sizi Yoush-da tapa bilməyəcək."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Mesajlaşma"
@@ -5196,7 +5196,7 @@
     "messageformat": "Tənzimlə"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Tətbiq etmək üçün Signal-ı yenidən başladın"
+    "messageformat": "Tətbiq etmək üçün Yoush-ı yenidən başladın"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Dili dəyişmək üçün tətbiq yenidən başladılmalıdır."
@@ -5220,7 +5220,7 @@
     "messageformat": "Signal-ı telefonunuzda açmayana qədər hesabınız tezliklə silinəcək. Hər şeyi uğurlu şəkildə yerinə yetirmisinizsə, bu mesaj yox olacaqdır. <learnMoreLink>Daha ətraflı</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Hesabınızı aktiv saxlamaq üçün Signal-ı telefonunuzda açın"
+    "messageformat": "Hesabınızı aktiv saxlamaq üçün Yoush-ı telefonunuzda açın"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Daha ətraflı"
@@ -5232,7 +5232,7 @@
     "messageformat": "Yeniləmə tələb olunur"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Mesajların sinxronlaşdırılmasını tamamlamaq üçün Signal Desktop-u indi yeniləyin."
+    "messageformat": "Mesajların sinxronlaşdırılmasını tamamlamaq üçün Yoush Desktop-u indi yeniləyin."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Yenilə"
@@ -5247,7 +5247,7 @@
     "messageformat": "Buradan {downloadSize} endir"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Yeniləməni quraşdırmaq üçün Signal-ı yenidən başladın."
+    "messageformat": "Yeniləməni quraşdırmaq üçün Yoush-ı yenidən başladın."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "\"Signal Desktop\"u yeniləmək mümkün olmadı, lakin yeni versiya mövcuddur. {downloadUrl} ünvanına keçin və yeni versiyanı əl ilə quraşdırın, sonra dəstək şöbəsi ilə əlaqə saxlayın və ya bu problem haqqında bildirin."
@@ -5280,7 +5280,7 @@
     "messageformat": "Tətbiqetmə çökdü"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Çökmədən sonra Signal yenidən başladıldı. Problemi araşdırmaqda kömək etmək üçün Signal-a bir çökmə hesabatı göndərə bilərsiniz."
+    "messageformat": "Çökmədən sonra Yoush yenidən başladıldı. Problemi araşdırmaqda kömək etmək üçün Yoush-a bir çökmə hesabatı göndərə bilərsiniz."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Göndər"
@@ -5625,7 +5625,7 @@
     "messageformat": "Hekayəni gizlət:"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Bütün Signal kontaktları"
+    "messageformat": "Bütün Yoush kontaktları"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Bunlardan başqa..."
@@ -5643,7 +5643,7 @@
     "messageformat": "Baxış bildirişləri"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Bu parametri dəyişdirmək üçün mobil cihazınızda Signal tətbiqini açıb Parametrlər -> Hekayələr bölməsinə keçin"
+    "messageformat": "Bu parametri dəyişdirmək üçün mobil cihazınızda Yoush tətbiqini açıb Parametrlər -> Hekayələr bölməsinə keçin"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Bu hekayəni kimlər görə bilər"
@@ -5703,7 +5703,7 @@
     "messageformat": "Hekayəmin məxfiliyi"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Hekayələrinizə baxa biləcək Signal əlaqələrini seçin. Bu seçimi məxfilik parametrlərindən hər zaman dəyişə bilərsiniz. <learnMoreLink>Daha ətraflı.</learnMoreLink>"
+    "messageformat": "Hekayələrinizə baxa biləcək Yoush əlaqələrini seçin. Bu seçimi məxfilik parametrlərindən hər zaman dəyişə bilərsiniz. <learnMoreLink>Daha ətraflı.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Hekayəni sil"
@@ -5772,7 +5772,7 @@
     "messageformat": "Qoşmanı endir"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Hekayələrinizə kimlərin baxdığını görmək üçün baxış bildirişlərini aktivləşdirin. Mobil cihazınıda Signal tətbiqini açıb, Parametrlər > Hekayələr bölməsinə keçin."
+    "messageformat": "Hekayələrinizə kimlərin baxdığını görmək üçün baxış bildirişlərini aktivləşdirin. Mobil cihazınıda Yoush tətbiqini açıb, Parametrlər > Hekayələr bölməsinə keçin."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Hələ ki, cavab yoxdur"
@@ -5958,7 +5958,7 @@
     "messageformat": "QR kodunuz və keçid sıfırlanıb, istifadəçi adınız: {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Mənimlə Signal-da söhbət etmək üçün telefonunuzla bu QR kodunu skan edin.",
+    "messageformat": "Mənimlə Yoush-da söhbət etmək üçün telefonunuzla bu QR kodunu skan edin.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Rədd et"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal desktop tezliklə kompüterinizin {OS} versiyasını artıq dəstəkləməyəcək. Signal-dan istifadəyə davam etmək üçün kompüterinizin əməliyyat sistemini {expirationDate} tarixinə qədər yeniləyin. <learnMoreLink>Daha ətraflı</learnMoreLink>"
+    "messageformat": "Signal desktop tezliklə kompüterinizin {OS} versiyasını artıq dəstəkləməyəcək. Yoush-dan istifadəyə davam etmək üçün kompüterinizin əməliyyat sistemini {expirationDate} tarixinə qədər yeniləyin. <learnMoreLink>Daha ətraflı</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal desktop artıq bu kompüterdə işləmir. Signal desktop-dan yenidən istifadə etmək üçün kompüterinizin {OS} versiyasını yeniləyin. <learnMoreLink>Daha ətraflı</learnMoreLink>"
+    "messageformat": "Signal desktop artıq bu kompüterdə işləmir. Yoush desktop-dan yenidən istifadə etmək üçün kompüterinizin {OS} versiyasını yeniləyin. <learnMoreLink>Daha ətraflı</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal desktop artıq bu kompüterdə işləmir. Signal desktop-dan yenidən istifadə etmək üçün kompüterinizin {OS} versiyasını yeniləyin."
+    "messageformat": "Signal desktop artıq bu kompüterdə işləmir. Yoush desktop-dan yenidən istifadə etmək üçün kompüterinizin {OS} versiyasını yeniləyin."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Düzəldilib"
@@ -6211,7 +6211,7 @@
     "messageformat": "Keçidi kopyala"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Keçidi Signal vasitəsilə paylaş"
+    "messageformat": "Keçidi Yoush vasitəsilə paylaş"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Keçidi sil"
@@ -6304,11 +6304,11 @@
     "messageformat": "Yeni nə var"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Bu versiya, Signal-ın problemsiz işləməsini təmin etmək üçün kiçik düzəltmələr və xəta düzəltmələri ehtiva edir.",
+    "messageformat": "Bu versiya, Yoush-ın problemsiz işləməsini təmin etmək üçün kiçik düzəltmələr və xəta düzəltmələri ehtiva edir.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Əlavə kiçik düzəlişlər edilir, xətalar aradan qaldırılır və effektivlik artırılır. Signal-dan istifadə etdiyiniz üçün təşəkkürlər!",
+    "messageformat": "Əlavə kiçik düzəlişlər edilir, xətalar aradan qaldırılır və effektivlik artırılır. Yoush-dan istifadə etdiyiniz üçün təşəkkürlər!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Kiçik spesifik tənzimləmələr, xəta düzəlişləri və məhsuldarlığın artırılması. Signal istifadə etdiyiniz üçün təşəkkürlər!",
+    "messageformat": "Kiçik spesifik tənzimləmələr, xəta düzəlişləri və məhsuldarlığın artırılması. Yoush istifadə etdiyiniz üçün təşəkkürlər!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Hər nə qədər dünya yaranandan bəri olan kəşflər həyatı inkişaf etdirsə də, onlar animasiyalı GIF-lər üçün yalnız zəruri şərait yaratmışdır. Artıq siz Signal Desktop-da insan texnologiyasının zirvəsini yaşaya və emoji, stiker, eləcə də animasiyalı GIF-ləri vaxt itirmədən axtarıb tapa biləcəksiniz."
+    "messageformat": "Hər nə qədər dünya yaranandan bəri olan kəşflər həyatı inkişaf etdirsə də, onlar animasiyalı GIF-lər üçün yalnız zəruri şərait yaratmışdır. Artıq siz Yoush Desktop-da insan texnologiyasının zirvəsini yaşaya və emoji, stiker, eləcə də animasiyalı GIF-ləri vaxt itirmədən axtarıb tapa biləcəksiniz."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Həmçinin biz şəkil içində şəkil pəncərəsinin ölçüsünü yenidən təyin etdik və zəng görüntüsünü kiçildərək, mikrofon səsini və ya kameranı açıb-bağlamaq üçün daha əlverişli qısayollar əlavə etdik."

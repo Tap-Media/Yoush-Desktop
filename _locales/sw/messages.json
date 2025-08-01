@@ -75,16 +75,16 @@
     "messageformat": "Kikundi hakijulikani"
   },
   "icu:cantOpenSignalError": {
-    "messageformat": "Imeshindwa kufungua Signal"
+    "messageformat": "Imeshindwa kufungua Yoush"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Ili kusaidia kurekebisha tatizo, fuata mwongozo wa usaidizi kwenye ukurasa wa usaidizi au wasiliana na usaidizi wa Signal ili usaidiwe kurekebisha tatizo.\n\nIkiwa unahitaji kutumia Signal papo hapo, unaweza futa data yako na kuunganisha tena kompyuta hii ya mezani. Utakuwa na chaguo la kuhamisha historia ya ujumbe kutoka kwenye simu yako."
+    "messageformat": "Ili kusaidia kurekebisha tatizo, fuata mwongozo wa usaidizi kwenye ukurasa wa usaidizi au wasiliana na usaidizi wa Yoush ili usaidiwe kurekebisha tatizo.\n\nIkiwa unahitaji kutumia Yoush papo hapo, unaweza futa data yako na kuunganisha tena kompyuta hii ya mezani. Utakuwa na chaguo la kuhamisha historia ya ujumbe kutoka kwenye simu yako."
   },
   "icu:databaseError": {
     "messageformat": "Hitilafu ya hifadhidata"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Hitilafu ya kanzidata imetokea. Unaweza kunakili tatizo na kuwasiliana na watoa huduma wa Signal ili kukusaidia kurekebisha tatizo. Ikiwa unahitaji kutumia Signal haraka sana, unaweza kufuta data yako na kuanza upya. \n\nWasiliana na watoa huduma kwa kutembelea: {link}"
+    "messageformat": "Hitilafu ya kanzidata imetokea. Unaweza kunakili tatizo na kuwasiliana na watoa huduma wa Yoush ili kukusaidia kurekebisha tatizo. Ikiwa unahitaji kutumia Yoush haraka sana, unaweza kufuta data yako na kuanza upya. \n\nWasiliana na watoa huduma kwa kutembelea: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Futa data na anza upya"
@@ -93,16 +93,16 @@
     "messageformat": "Futa Kabisa Data Yote"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "Historia ya ujumbe yote na picha na video zako zitafutwa kabisa kwenye kifaa hiki. Hii haitafuta data yoyote kwenye simu yako.\n\nUtaweza kutumia Signal kwenye kifaa hiki baada ya kukiunganisha upya. Utakuwa na chaguo la kuhamisha historia ya ujumbe kutoka kwenye simu yako."
+    "messageformat": "Historia ya ujumbe yote na picha na video zako zitafutwa kabisa kwenye kifaa hiki. Hii haitafuta data yoyote kwenye simu yako.\n\nUtaweza kutumia Yoush kwenye kifaa hiki baada ya kukiunganisha upya. Utakuwa na chaguo la kuhamisha historia ya ujumbe kutoka kwenye simu yako."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Toleo hili la kanzidata halilingani na toleo la Signal. Hakikisha unafungua toleo jipya zaidi la Signal kwenye kompyuta yako."
+    "messageformat": "Toleo hili la kanzidata halilingani na toleo la Yoush. Hakikisha unafungua toleo jipya zaidi la Yoush kwenye kompyuta yako."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Haiwezi kufikia ufunguo wa usimbaji wa kanzidata kwa sababu mazingira ya nyuma ya usimbaji wa mfumo wa uendeshaji yamebadilika kutoka {previousBackend} kwenda {currentBackend}. Hii inaweza kutokea endapo mazingira ya kompyuta ya mezani yamebadilika, kwa mfano kati ya GNOME na KDE.\n\nTafadhali badili hadi mazingira ya zamani ya kompyuta ya mezani."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "Haiwezi kufikia ufunguo wa usimbaji wa kanzidata kwa sababu mazingira ya nyuma ya usimbaji wa mfumo wa uendeshaji yamebadilika kutoka {previousBackend} kwenda {currentBackend}. Hii inaweza kutokea endapo mazingira ya kompyuta ya mezani yamebadilika, kwa mfano kati ya GNOME na KDE.\n\nTafadhali badili kwenda mazingira ya zamani ya kompyuta ya mezani au jaribu kuendesha Signal kwa alama ya mstari wa amri --password-store=\"{previousBackendFlag}\""
+    "messageformat": "Haiwezi kufikia ufunguo wa usimbaji wa kanzidata kwa sababu mazingira ya nyuma ya usimbaji wa mfumo wa uendeshaji yamebadilika kutoka {previousBackend} kwenda {currentBackend}. Hii inaweza kutokea endapo mazingira ya kompyuta ya mezani yamebadilika, kwa mfano kati ya GNOME na KDE.\n\nTafadhali badili kwenda mazingira ya zamani ya kompyuta ya mezani au jaribu kuendesha Yoush kwa alama ya mstari wa amri --password-store=\"{previousBackendFlag}\""
   },
   "icu:mainMenuFile": {
     "messageformat": "&Faili"
@@ -138,7 +138,7 @@
     "messageformat": "Onyesha Yote"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Toka Signal"
+    "messageformat": "Toka Yoush"
   },
   "icu:editMenuUndo": {
     "messageformat": "Ondoa"
@@ -303,7 +303,7 @@
     "messageformat": "Mipangilio"
   },
   "icu:NavTabs__ItemLabel--Update": {
-    "messageformat": "Sasisha Signal"
+    "messageformat": "Sasisha Yoush"
   },
   "icu:NavTabs__ItemLabel--Profile": {
     "messageformat": "Wasifu"
@@ -429,10 +429,10 @@
     "messageformat": "Umeweka alama kwenye Nambari Yako ya Usalama na  {name}kuwa haijahakikishwa kutoka kwa kifaa kingine"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Nambari ya usalama unayojaribu kuthibitisha imebadilika. Tafadhali kagua nambari yako mpya ya usalama unayotumia na {name1}. Kumbuka, mabadiliko haya yanaweza kumaanisha kuwa mtu anayejaribu kuzuia mawasiliano yako au kuwa {name2} amesakinisha Signal upya."
+    "messageformat": "Nambari ya usalama unayojaribu kuthibitisha imebadilika. Tafadhali kagua nambari yako mpya ya usalama unayotumia na {name1}. Kumbuka, mabadiliko haya yanaweza kumaanisha kuwa mtu anayejaribu kuzuia mawasiliano yako au kuwa {name2} amesakinisha Yoush upya."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Watu wafuatao wanaweza kuwa wamesakinisha upya Signal au kubadilisha vifaa. Bonyeza mpokeaji ili kuthibitisha nambari yao mpya ya usalama. Hii ni kwa hiari."
+    "messageformat": "Watu wafuatao wanaweza kuwa wamesakinisha upya Yoush au kubadilisha vifaa. Bonyeza mpokeaji ili kuthibitisha nambari yao mpya ya usalama. Hii ni kwa hiari."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Tuma jumbe zilizosalia."
@@ -441,7 +441,7 @@
     "messageformat": "Ukaguzi"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, one {Una muwasiliani (mmoja) ambaye huenda akawa amesakinisha upya Signal au kubadilisha vifaa. Una hiari ya kukagua nambari zao za usalama kabla ya kutuma.} other {Una wawasiliani {count,number} ambao huenda wakawa wamesakinisha upya Signal au kubadilisha vifaa. Una hiari ya kukagua nambari zao za usalama kabla ya kutuma.}}"
+    "messageformat": "{count, plural, one {Una muwasiliani (mmoja) ambaye huenda akawa amesakinisha upya Yoush au kubadilisha vifaa. Una hiari ya kukagua nambari zao za usalama kabla ya kutuma.} other {Una wawasiliani {count,number} ambao huenda wakawa wamesakinisha upya Yoush au kubadilisha vifaa. Una hiari ya kukagua nambari zao za usalama kabla ya kutuma.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Wawasiliani wote wamehakikishwa, bonyeza tuma kuendelea."
@@ -660,13 +660,13 @@
     "messageformat": "Jiunge na Toleo la Beta"
   },
   "icu:signalDesktopPreferences": {
-    "messageformat": "Upendeleo wa Signal Desktop"
+    "messageformat": "Upendeleo wa Yoush Desktop"
   },
   "icu:signalDesktopStickerCreator": {
     "messageformat": "Fundi wa pakiti ya vibandiko"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "Kuhusu Signal Desktop"
+    "messageformat": "Kuhusu Yoush Desktop"
   },
   "icu:screenShareWindow": {
     "messageformat": "Kushiriki skrini"
@@ -744,7 +744,7 @@
     "messageformat": "Tafuta kwa nambari ya simu"
   },
   "icu:welcomeToSignal": {
-    "messageformat": "Karibu Signal"
+    "messageformat": "Karibu Yoush"
   },
   "icu:whatsNew": {
     "messageformat": "Pata {whatsNew} katika sasisho hili"
@@ -831,13 +831,13 @@
     "messageformat": "Wewe"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Ili kutuma jumbe za sauti, iruhusu Signal Desktop iweze kufikia kipaza sauti chako."
+    "messageformat": "Ili kutuma jumbe za sauti, iruhusu Yoush Desktop iweze kufikia kipaza sauti chako."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Ili uweze kupiga simu, sharti uiruhusu Signal Desktop ifikie maikrofoni yako."
+    "messageformat": "Ili uweze kupiga simu, sharti uiruhusu Yoush Desktop ifikie maikrofoni yako."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Ili uweze kupiga simu za video, sharti uiruhusu Signal Desktop ifikie kamera yako."
+    "messageformat": "Ili uweze kupiga simu za video, sharti uiruhusu Yoush Desktop ifikie kamera yako."
   },
   "icu:allowAccess": {
     "messageformat": "Ruhusu Ufikiaji"
@@ -867,7 +867,7 @@
     "messageformat": "Signal imeshindwa kusasisha. Tembelea {url} ili kusakinisha mwenyewe. Halafu, <contactSupportLink>wasiliana na usaidizi</contactSupportLink> kuhusu tatizo hili"
   },
   "icu:readOnlyVolume": {
-    "messageformat": "Huenda Signal Desktop ipo katika karantini ya macOS, na haitaweza kusasisha kiotomatiki. Tafadhali jaribu kuhamishia {app} kwenye {folder} kwa kutumia Kitafutaji."
+    "messageformat": "Huenda Yoush Desktop ipo katika karantini ya macOS, na haitaweza kusasisha kiotomatiki. Tafadhali jaribu kuhamishia {app} kwenye {folder} kwa kutumia Kitafutaji."
   },
   "icu:ok": {
     "messageformat": "Sawa"
@@ -912,7 +912,7 @@
     "messageformat": "Ujumbe huu utafutwa kwenye kifaa hiki."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Ujumbe huu utafutwa kwa watu wote kwenye gumzo ikiwa wanatumia toleo jipya la Signal. Wataweza kuona kuwa umefuta ujumbe."
+    "messageformat": "Ujumbe huu utafutwa kwa watu wote kwenye gumzo ikiwa wanatumia toleo jipya la Yoush. Wataweza kuona kuwa umefuta ujumbe."
   },
   "icu:from": {
     "messageformat": "Kutoka kwa"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "\"{title}\" ni jina la wasifu mtu huyu amejiwekea katika Signal."
+    "messageformat": "\"{title}\" ni jina la wasifu mtu huyu amejiwekea katika Yoush."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Imehakikishwa"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} amebadili nambari yake ya simu"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Mwasiliani amejiunga na Signal"
+    "messageformat": "Mwasiliani amejiunga na Yoush"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} na {conversationTitle} ni akaunti moja. Historia ya gumzo zote mbili zipo hapa."
@@ -1209,7 +1209,7 @@
     "messageformat": "Imeshindwa kupakua picha na video"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Angalia muunganisho wa intaneti wa kompyuta yako ya mezani na simu. Fungua Signal kwenye simu yako, kisha jaribu kupakua tena."
+    "messageformat": "Angalia muunganisho wa intaneti wa kompyuta yako ya mezani na simu. Fungua Yoush kwenye simu yako, kisha jaribu kupakua tena."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Picha na video hii haipatikani tena kwenye simu yako na haiwezi kupakuliwa."
@@ -1230,10 +1230,10 @@
     "messageformat": "Jifunze zaidi"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Skani kodi hii kwenye programu ya Signal katika simu yako"
+    "messageformat": "Skani kodi hii kwenye programu ya Yoush katika simu yako"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Fungua Signal kwenye simu yako"
+    "messageformat": "Fungua Yoush kwenye simu yako"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Bonyeza kwenye {settings}, kisha bonyeza {linkedDevices}"
@@ -1290,7 +1290,7 @@
     "messageformat": "Samahani, una vifaa vingi sana vilivyounganishwa tayari. Jaribu kuondoa vingine."
   },
   "icu:installTooOld": {
-    "messageformat": "Sasisha Signal kwenye kifaa hiki ili uunganishe simu yako."
+    "messageformat": "Sasisha Yoush kwenye kifaa hiki ili uunganishe simu yako."
   },
   "icu:installErrorHeader": {
     "messageformat": "Kuna kitu kimeenda kombo!"
@@ -1341,7 +1341,7 @@
     "messageformat": "Kiungo cha simu hii hakitumiki tena."
   },
   "icu:calling__call-link-default-title": {
-    "messageformat": "Simu ya Signal"
+    "messageformat": "Simu ya Yoush"
   },
   "icu:calling__call-link-delete-failed": {
     "messageformat": "Imeshindwa kufuta kiungo. Angalia muunganisho wako wa mtandao kisha ujaribu tena."
@@ -1491,7 +1491,7 @@
     "messageformat": "{count, plural, one {Mtu {count,number} yuko kwenye simu hii} other {Watu {count,number} wako kwenye simu hii}}"
   },
   "icu:calling__pre-call-info--will-ring-1": {
-    "messageformat": "{person}atapigiwa simu na Signal"
+    "messageformat": "{person}atapigiwa simu na Yoush"
   },
   "icu:calling__pre-call-info--will-ring-2": {
     "messageformat": "Signal itapigia {first} na {second}"
@@ -1554,13 +1554,13 @@
     "messageformat": "Inaunganisha tena..."
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Muunganisho wako umepotea. Signal inatafuta upya muunganisho."
+    "messageformat": "Muunganisho wako umepotea. Yoush inatafuta upya muunganisho."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal inashiriki {window}."
   },
   "icu:calling__presenting--info--unknown": {
-    "messageformat": "Kipengele cha kushiriki skrini cha Signal kimewashwa"
+    "messageformat": "Kipengele cha kushiriki skrini cha Yoush kimewashwa"
   },
   "icu:calling__presenting--reconnecting": {
     "messageformat": "Inaunganisha tena..."
@@ -1590,7 +1590,7 @@
     "messageformat": "Bonyeza aikoni ya kufuli kwenye sehemu ya chini kushoto na uweke nenosiri la kompyuta yako."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Kwenye sehemi ya kulia, chagua sanduku lililo karibu na Signal. Usipoona Signal kwenye orodha, bonyeza + uiongeze."
+    "messageformat": "Kwenye sehemi ya kulia, chagua sanduku lililo karibu na Yoush. Usipoona Yoush kwenye orodha, bonyeza + uiongeze."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Fungua Mapendeleo ya Mfumo"
@@ -1602,7 +1602,7 @@
     "messageformat": "Wasilisha simu kila mara"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Wasilisha simu zote kupitia Signal seva kuzuia kutambulisha anwani yako ya IP kwa mwasiliani wako. Kuwezesha kutapunguza ubora wa simu"
+    "messageformat": "Wasilisha simu zote kupitia Yoush seva kuzuia kutambulisha anwani yako ya IP kwa mwasiliani wako. Kuwezesha kutapunguza ubora wa simu"
   },
   "icu:permissions": {
     "messageformat": "Ruhusa"
@@ -1620,10 +1620,10 @@
     "messageformat": "Onyesha kidirisha cha umbizo la jumbe pale ujumbe unapochaguliwa"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Ukaguzi wa uendelezaji utawezeshwa wakati Signal itawashwa tena."
+    "messageformat": "Ukaguzi wa uendelezaji utawezeshwa wakati Yoush itawashwa tena."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Ukaguzi wa uendelezaji utazimwa wakati Signal itawashwa tena."
+    "messageformat": "Ukaguzi wa uendelezaji utazimwa wakati Yoush itawashwa tena."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Punguza uonyeshe kwenye sehemu ya arifa ya mfumo"
@@ -1647,13 +1647,13 @@
     "messageformat": "Futa data yote?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Futa data na jumbe zote kutoka kwenye toleo hili la Signal Desktop? Akaunti yako ya Signal na data kwenye simu yako au vifaa vingine vilivyounganishwa havitofutwa."
+    "messageformat": "Futa data na jumbe zote kutoka kwenye toleo hili la Yoush Desktop? Akaunti yako ya Yoush na data kwenye simu yako au vifaa vingine vilivyounganishwa havitofutwa."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Inatenganisha na kufuta data yote…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "Una data nzee kutokana na usanikishaji wa awali wa Signal Desktop. Ukichagua kuendelea, itafutwa na utaanza kutoka mwanzoni."
+    "messageformat": "Una data nzee kutokana na usanikishaji wa awali wa Yoush Desktop. Ukichagua kuendelea, itafutwa na utaanza kutoka mwanzoni."
   },
   "icu:deleteOldData": {
     "messageformat": "Futa Data Nzee"
@@ -1698,10 +1698,10 @@
     "messageformat": "Imefutika nusu, bonyeza kujaribu tena"
   },
   "icu:expiredWarning": {
-    "messageformat": "Toleo hili la Signal Desktop limeisha. Tafadhali boresha hadi kwenye toleo la hivi punde zaidi  ili uendelee kutuma ujumbe."
+    "messageformat": "Toleo hili la Yoush Desktop limeisha. Tafadhali boresha hadi kwenye toleo la hivi punde zaidi  ili uendelee kutuma ujumbe."
   },
   "icu:upgrade": {
-    "messageformat": "Bonyeza ili kwenda kwa signal.org/download"
+    "messageformat": "Bonyeza ili kwenda kwa Yoush.org/download"
   },
   "icu:mediaMessage": {
     "messageformat": "Ujumbe wa Media"
@@ -1710,7 +1710,7 @@
     "messageformat": "Hamisha wawasiliani"
   },
   "icu:syncExplanation": {
-    "messageformat": "Hamisha vikundi na wawasiliani wote wa Signal kutoka kwa kifaa chako cha rununu."
+    "messageformat": "Hamisha vikundi na wawasiliani wote wa Yoush kutoka kwa kifaa chako cha rununu."
   },
   "icu:syncNow": {
     "messageformat": "Hamisha sasa"
@@ -1836,7 +1836,7 @@
     "messageformat": "Wasiliana nasi"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Changia Signal"
+    "messageformat": "Changia Yoush"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Tazama Nambari za Usalama"
@@ -1905,10 +1905,10 @@
     "messageformat": "Mabadiliko yanaweza kufanywa ndani ya saa 3 kutoka muda uliotuma ujumbe huu."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} si mtumiaji wa Signal. Hakikisha umeingiza jina la mtumiaji lote."
+    "messageformat": "{atUsername} si mtumiaji wa Yoush. Hakikisha umeingiza jina la mtumiaji lote."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Mtumiaji hajapatikana. \"{phoneNumber}\" sio mtumiaji wa Signal."
+    "messageformat": "Mtumiaji hajapatikana. \"{phoneNumber}\" sio mtumiaji wa Yoush."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Mtumiaji hajapatikana. \"{phoneNumber}\" ni nambari batili."
@@ -1929,13 +1929,13 @@
     "messageformat": "Umefikia ukubwa wa juu zaidi wa kikundi"
   },
   "icu:chooseGroupMembers__maximum-group-size__body": {
-    "messageformat": "Vikundi vya Signal vinaweza kuwa na kiwango cha juu zaidi cha wanachama {max,number}."
+    "messageformat": "Vikundi vya Yoush vinaweza kuwa na kiwango cha juu zaidi cha wanachama {max,number}."
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__title": {
     "messageformat": "Kikomo cha mwanachama kilichopendekezwa kimefikiwa"
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__body": {
-    "messageformat": "Vikundi vya Signal hufanya vizuri zaidi vikiwa na wanachama wasiozidi{max,number}. Kuongeza wanachama zaidi kutasababisha kucheleweshwa kwa kutuma na kupokea ujumbe."
+    "messageformat": "Vikundi vya Yoush hufanya vizuri zaidi vikiwa na wanachama wasiozidi{max,number}. Kuongeza wanachama zaidi kutasababisha kucheleweshwa kwa kutuma na kupokea ujumbe."
   },
   "icu:setGroupMetadata__title": {
     "messageformat": "Kipe kikundi hiki jina"
@@ -1965,19 +1965,19 @@
     "messageformat": "Hukuweza kusasisha kikundi. Kagua muunganisho wako kisha ujaribu tena."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Bonyeza kuelekeza Signal Desktop kwenye kifaa chao chako cha mkononi ili kuendelea kutuma ujumbe."
+    "messageformat": "Bonyeza kuelekeza Yoush Desktop kwenye kifaa chao chako cha mkononi ili kuendelea kutuma ujumbe."
   },
   "icu:unlinked": {
     "messageformat": "Havijaunganishwa"
   },
   "icu:autoUpdateNewVersionTitle": {
-    "messageformat": "Sasisho jipya la Signal linapatikana"
+    "messageformat": "Sasisho jipya la Yoush linapatikana"
   },
   "icu:autoUpdateRetry": {
     "messageformat": "Jaribu tena sasisho"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Bonyeza kuanza upya Signal"
+    "messageformat": "Bonyeza kuanza upya Yoush"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Bonyeza kupakua sasisho"
@@ -1986,7 +1986,7 @@
     "messageformat": "Signal haingeweza kusasishwa. Bonyeza kujaribu tena."
   },
   "icu:autoUpdateRestartButtonLabel": {
-    "messageformat": "Washa upya Signal"
+    "messageformat": "Washa upya Yoush"
   },
   "icu:autoUpdateIgnoreButtonLabel": {
     "messageformat": "Puuza sasisho"
@@ -2085,7 +2085,7 @@
     "messageformat": "Baadhi ya viambatishi ni vikubwa mno haviwezi kuonekana."
   },
   "icu:message--call-link-description": {
-    "messageformat": "Tumia kiungo kujiunga kwenye Simu ya Signal"
+    "messageformat": "Tumia kiungo kujiunga kwenye Simu ya Yoush"
   },
   "icu:donation--missing": {
     "messageformat": "Imeshindwa kuchukua taarifa za michango"
@@ -2097,7 +2097,7 @@
     "messageformat": "Gusa ujumbe kwenye kifaa chako cha mkononi ili kuangalia mchango wako"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} ameichangia Signal kwa niaba yako"
+    "messageformat": "{sender} ameichangia Yoush kwa niaba yako"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Angalia simu yako kufungua mchango huu"
@@ -2148,7 +2148,7 @@
     "messageformat": "Asante kwa kutuunga mkono!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Umetoa mchango kwa Signal kwa niaba ya {name}. Watapatiwa uchaguzi wa kuonyesha kuunga mkono kwao kwenye wasifu wao."
+    "messageformat": "Umetoa mchango kwa Yoush kwa niaba ya {name}. Watapatiwa uchaguzi wa kuonyesha kuunga mkono kwao kwenye wasifu wao."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Pakiti ya vibandiko haikuweza kusimikwa"
@@ -2163,10 +2163,10 @@
     "messageformat": "Hakuna vibandiko vilivyosimikwa"
   },
   "icu:stickers--StickerManager--BlessedPacks": {
-    "messageformat": "Mfululizo wa Sanaa za Signal"
+    "messageformat": "Mfululizo wa Sanaa za Yoush"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "Hakuna vibandiko vya Msanii wa Signal vinavyopatikana"
+    "messageformat": "Hakuna vibandiko vya Msanii wa Yoush vinavyopatikana"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "Vibandiko Ulivyovipokea"
@@ -2505,19 +2505,19 @@
     "messageformat": "Ujumbe ni mrefu sana, hauwezi kuonyeshwa zaidi"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} amekutumia ujumbe ambao hauwezi kuchakatishwa ama kuonyeshwa kwa sababu unatumia kipengele mpya cha Signal."
+    "messageformat": "{contact} amekutumia ujumbe ambao hauwezi kuchakatishwa ama kuonyeshwa kwa sababu unatumia kipengele mpya cha Yoush."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Unaweza kumwomba  {contact}atume ujumbe huu upya kwa vile sasa unatumia toleo lililosasishwa la Signal."
+    "messageformat": "Unaweza kumwomba  {contact}atume ujumbe huu upya kwa vile sasa unatumia toleo lililosasishwa la Yoush."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Moja ya kifaa chako imetuma ujumbe ambao hauwezi kuchakatishwa ama kuonyeshwa kwa sababu kinatumia kipengele mpya cha Signal."
+    "messageformat": "Moja ya kifaa chako imetuma ujumbe ambao hauwezi kuchakatishwa ama kuonyeshwa kwa sababu kinatumia kipengele mpya cha Yoush."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Ujumbe wa siku za usoni kama huu utaunganishwa kwa vile sasa unatumia toleo lililosasishwa la Signal."
+    "messageformat": "Ujumbe wa siku za usoni kama huu utaunganishwa kwa vile sasa unatumia toleo lililosasishwa la Yoush."
   },
   "icu:Message--update-signal": {
-    "messageformat": "Sasisha Signal"
+    "messageformat": "Sasisha Yoush"
   },
   "icu:Message--tap-to-view--viewed": {
     "messageformat": "Imetazamwa"
@@ -2778,7 +2778,7 @@
     "messageformat": "Gumzo limealamishwa haijasomwa"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Tafadhali weka Signal kwenye simu yako na kompyuta ya mezani ili utumie Kiumbaji cha Pakiti ya Vibandiko ya Signal"
+    "messageformat": "Tafadhali weka Yoush kwenye simu yako na kompyuta ya mezani ili utumie Kiumbaji cha Pakiti ya Vibandiko ya Yoush"
   },
   "icu:Reactions--remove": {
     "messageformat": "Ondoa reaction"
@@ -2892,13 +2892,13 @@
     "messageformat": "Je, ripoti kuwa spam?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal itataarifiwa kuwa mtu huyu inawezekana anatuma jumbe za spam. Signal haiwezi kuona maudhui ya gumzo lolote."
+    "messageformat": "Signal itataarifiwa kuwa mtu huyu inawezekana anatuma jumbe za spam. Yoush haiwezi kuona maudhui ya gumzo lolote."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal itataarifiwa kuwa mtu aliyekualika kwenye kikundi hiki, inawezekana anakutumia spam zake. Signal haiwezi kuona maudhui ya gumzo lolote."
+    "messageformat": "Signal itataarifiwa kuwa mtu aliyekualika kwenye kikundi hiki, inawezekana anakutumia spam zake. Yoush haiwezi kuona maudhui ya gumzo lolote."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal itataarifiwa kuwa {name}, aliyekualika kwenye kikundi hiki, inawezekana anakutumia jumbe taka. Signal haiwezi kuona maudhui ya gumzo lolote."
+    "messageformat": "Signal itataarifiwa kuwa {name}, aliyekualika kwenye kikundi hiki, inawezekana anakutumia jumbe taka. Yoush haiwezi kuona maudhui ya gumzo lolote."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Toa ripoti ya spam"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Majina ya wasifu</clickable> hayajathibitishwa"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Hili ndilo gumzo rasmi na pekee kutoka Signal"
+    "messageformat": "Hili ndilo gumzo rasmi na pekee kutoka Yoush"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Pata taarifa mpya za habari na matoleo."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal bado inaendelea kufanya kazi"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal itaendelea kufanya kazi kwenye eneo la arifa. Unaweza ukabadili hili kwenye Mipangilio ya Signal."
+    "messageformat": "Signal itaendelea kufanya kazi kwenye eneo la arifa. Unaweza ukabadili hili kwenye Mipangilio ya Yoush."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Simu ya kawaida inayopigwa"
@@ -3264,7 +3264,7 @@
     "messageformat": "Nakili kiungo cha simu"
   },
   "icu:CallingAdhocCallInfo__ShareViaSignal": {
-    "messageformat": "Shiriki kiungo cha simu kupitia Signal"
+    "messageformat": "Shiriki kiungo cha simu kupitia Yoush"
   },
   "icu:CallingAdhocCallInfo__RemoveClient": {
     "messageformat": "Toa mtu huyu kwenye simu hii"
@@ -3384,7 +3384,7 @@
     "messageformat": "Toleo la kiungo halijulikani"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Kiungo hiki hakitumiki katika toleo hili la Signal Desktop."
+    "messageformat": "Kiungo hiki hakitumiki katika toleo hili la Yoush Desktop."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "Huwezi Kujiunga na Kikundi"
@@ -3939,22 +3939,22 @@
     "messageformat": "Huenda hatua hii ikachukua dakika kadhaa"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Changia Signal"
+    "messageformat": "Changia Yoush"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Changia Signal"
+    "messageformat": "Changia Yoush"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal inawezeshwa na watu kama wewe. Changia upate beji."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Fungua Signal kwenye simu yako"
+    "messageformat": "Fungua Yoush kwenye simu yako"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Bonyeza picha yako ya wasifu kwenye sehemu ya juu kushoto ili ufungue Mipangilio"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Bonyeza \"Changia Signal\" kisha jiandikishe"
+    "messageformat": "Bonyeza \"Changia Yoush\" kisha jiandikishe"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Sawazisha jumbe"
@@ -4056,7 +4056,7 @@
     "messageformat": "Hatua inahitajika kwa akaunti"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Lazima ufungue Signal kwenye simu yako ili uendelee kutumia akaunti hii. Ikiwa hautafungua Signal kwenye simu yako, akaunti yako itafutwa hivi karibuni. <learnMoreLink>Pata maelezo zaidi</learnMoreLink>"
+    "messageformat": "Lazima ufungue Yoush kwenye simu yako ili uendelee kutumia akaunti hii. Ikiwa hautafungua Yoush kwenye simu yako, akaunti yako itafutwa hivi karibuni. <learnMoreLink>Pata maelezo zaidi</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Imeshindwa kurejesha video na picha"
@@ -4071,10 +4071,10 @@
     "messageformat": "Ambatisha faili"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Mtu huyu hatumii Signal"
+    "messageformat": "Mtu huyu hatumii Yoush"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal Desktop haikubali kupokea ujumbe kwa watu wasiotumia Signal. Muombe mtu huyu asakinishe Signal afurahie huduma salama zaidi ya ujumbe."
+    "messageformat": "Signal Desktop haikubali kupokea ujumbe kwa watu wasiotumia Yoush. Muombe mtu huyu asakinishe Yoush afurahie huduma salama zaidi ya ujumbe."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Inakagua hali ya usajili wa mwasiliani"
@@ -4263,7 +4263,7 @@
     "messageformat": "Jina la utani"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "Majina ya utani na madokezo yamehifadhiwa na Signal na yamesimbwa fiche. Vinaonwa na wewe tu."
+    "messageformat": "Majina ya utani na madokezo yamehifadhiwa na Yoush na yamesimbwa fiche. Vinaonwa na wewe tu."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "Jina la kwanza"
@@ -4314,7 +4314,7 @@
     "messageformat": "Itisha ruhusa ya msimamizi kuidhinisha wanachama wapya wanaojiunga kupitia kiungo cha kikundi"
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Nakili kiungo cha kikundi cha Signal. kwenye ubao wa kunakili"
+    "messageformat": "Nakili kiungo cha kikundi cha Yoush. kwenye ubao wa kunakili"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Maombi ({count,number})"
@@ -4518,7 +4518,7 @@
     "messageformat": "Huwezi kusambaza jumbe zisizopo au zilizofutwa"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "Tumia kiungo hiki ili kujiunga na simu ya Signal: {url}"
+    "messageformat": "Tumia kiungo hiki ili kujiunga na simu ya Yoush: {url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "Vidokezo vya Usalama"
@@ -4530,7 +4530,7 @@
     "messageformat": "Kuhusu Maombi ya Ujumbe"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Kagua maombi kwa uangalifu. Signal imempata mtu mwingine mwenye jina kama hili. <reviewRequestLink>Kagua ombi</reviewRequestLink>"
+    "messageformat": "Kagua maombi kwa uangalifu. Yoush imempata mtu mwingine mwenye jina kama hili. <reviewRequestLink>Kagua ombi</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {Mwanachama {count,number} ana jina sawa. <reviewRequestLink>Kagua wanachama</reviewRequestLink>} other {Wanachama {count,number} wana majina sawa.<reviewRequestLink>Kagua wanachama</reviewRequestLink>}}"
@@ -4581,7 +4581,7 @@
     "messageformat": "Thibitisha ili uendelee kutuma ujumbe"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Ili kusaidia kuzuia ujumbe taka kwenye Signal, tafadhali kamilisha uthibitishaji."
+    "messageformat": "Ili kusaidia kuzuia ujumbe taka kwenye Yoush, tafadhali kamilisha uthibitishaji."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Baada ya kuthibitisha, unaweza kuendelea kutuma ujumbe. Ujumbe wowote uliositishwa utatumwa kiotomatiki."
@@ -4881,7 +4881,7 @@
     "messageformat": "Ungependa kuyaghairi mabadiliko haya?"
   },
   "icu:ConfirmationDialog__Title--in-call-close-requested": {
-    "messageformat": "Je, funga Signal na umalize simu?"
+    "messageformat": "Je, funga Yoush na umalize simu?"
   },
   "icu:ConfirmationDialog__Title--close-requested-not-now": {
     "messageformat": "Sio kwa Sasa"
@@ -5025,7 +5025,7 @@
     "messageformat": "Onyesha uhakiki wa viungo"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Ili kubadili mpangilio huu, fungua programu ya Signal kwenye kifaa chako cha mkononi nenda kwenye Mipangilio > Gumzo"
+    "messageformat": "Ili kubadili mpangilio huu, fungua programu ya Yoush kwenye kifaa chako cha mkononi nenda kwenye Mipangilio > Gumzo"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Badili emoticons zilizoandikwa kuwa emoji"
@@ -5049,7 +5049,7 @@
     "messageformat": "Ujumbe + nakala ya picha na video zote"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Usajili wako haujapatikana. Weka upya ili uendelee kutumia Hifadhi Nakala ya Signal."
+    "messageformat": "Usajili wako haujapatikana. Weka upya ili uendelee kutumia Hifadhi Nakala ya Yoush."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {Ujumbe + uhifadhi nakala wa siku {mediaDayCount,number}} other {Ujumbe + uhifadhi nakala wa siku {mediaDayCount,number}}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Usajili umeghairishwa"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Unaweza kusimamia au kusasisha usajili wako wa Hifadhi Nakala ya Signal kwenye simu yako."
+    "messageformat": "Unaweza kusimamia au kusasisha usajili wako wa Hifadhi Nakala ya Yoush kwenye simu yako."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Unaweza kusimamia au kusasisha Hifadhi Nakala ya Signal kwenye simu yako."
+    "messageformat": "Unaweza kusimamia au kusasisha Hifadhi Nakala ya Yoush kwenye simu yako."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Usajili wako haujapatikana. Weka upya ili uendelee kutumia Hifadhi Nakala ya Signal."
+    "messageformat": "Usajili wako haujapatikana. Weka upya ili uendelee kutumia Hifadhi Nakala ya Yoush."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Unaweza kusimamia au kuweka upya usajili wako wa Hifadhi Nakala ya Signal kwenye simu yako."
+    "messageformat": "Unaweza kusimamia au kuweka upya usajili wako wa Hifadhi Nakala ya Yoush kwenye simu yako."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Nakala ya mwisho"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {Muwasiliani {num,number}} other {Wawasiliani {num,number}}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Ili kubadili mipangilio hii, fungua programu ya Signal kwenye kifaa chako cha mkononi nenda kwenye Mipangilio > Faragha"
+    "messageformat": "Ili kubadili mipangilio hii, fungua programu ya Yoush kwenye kifaa chako cha mkononi nenda kwenye Mipangilio > Faragha"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Nambari ya Simu"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Chagua nani anayeweza kuona nambari yako ya simu na kuwasiliana nawe kwenye Signal."
+    "messageformat": "Chagua nani anayeweza kuona nambari yako ya simu na kuwasiliana nawe kwenye Yoush."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Badili…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Nani anaweza kunipata kupitia nambari yangu"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Mtu yeyote mwenye nambari yako ya simu ataona kuwa upo Signal na anaweza kuanza gumzo na wewe."
+    "messageformat": "Mtu yeyote mwenye nambari yako ya simu ataona kuwa upo Yoush na anaweza kuanza gumzo na wewe."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Hakuna atakayeweza kuona kuwa upo Signal isipokuwa utakapowatumia ujumbe au tayari una gumzo nao."
+    "messageformat": "Hakuna atakayeweza kuona kuwa upo Yoush isipokuwa utakapowatumia ujumbe au tayari una gumzo nao."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Kila mtu"
@@ -5142,7 +5142,7 @@
     "messageformat": "Una uhakika?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Ukibadili \"{settingTitle}\" kuwa \"{nobodyLabel}\" itakuwa ngumu kwa watu kukupata kwenye Signal."
+    "messageformat": "Ukibadili \"{settingTitle}\" kuwa \"{nobodyLabel}\" itakuwa ngumu kwa watu kukupata kwenye Yoush."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Kutuma ujumbe"
@@ -5196,7 +5196,7 @@
     "messageformat": "Weka"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Anzisha tena Signal ili kuweka mabadiliko"
+    "messageformat": "Anzisha tena Yoush ili kuweka mabadiliko"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Ili kubadili lugha, programu inapaswa kuanzishwa tena."
@@ -5214,13 +5214,13 @@
     "messageformat": "Sasisho Limepakuliwa"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Fungua Signal kwenye simu yako"
+    "messageformat": "Fungua Yoush kwenye simu yako"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Akaunti yako itafutwa hivi karibuni isipokuwa ukifungua Signal kwenye simu yako. Ujumbe huu utaondoka ikiwa umefanya hivyo. <learnMoreLink>Pata maelezo zaidi</learnMoreLink>"
+    "messageformat": "Akaunti yako itafutwa hivi karibuni isipokuwa ukifungua Yoush kwenye simu yako. Ujumbe huu utaondoka ikiwa umefanya hivyo. <learnMoreLink>Pata maelezo zaidi</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Fungua Signal kwenye simu yako ili akaunti yako iendelee kutumika"
+    "messageformat": "Fungua Yoush kwenye simu yako ili akaunti yako iendelee kutumika"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Jifunze zaidi"
@@ -5232,7 +5232,7 @@
     "messageformat": "Sasisho Linahitajika"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Ili kukamilisha kusawazisha ujumbe wako, sasisha Signal Desktop sasa."
+    "messageformat": "Ili kukamilisha kusawazisha ujumbe wako, sasisha Yoush Desktop sasa."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Sasisha"
@@ -5241,13 +5241,13 @@
     "messageformat": "Sasisho Linahitajika"
   },
   "icu:InstallScreenUpdateDialog--auto-update__body": {
-    "messageformat": "Ili kuendelea kutumia Signal, lazima usasishe hadi toleo jipya."
+    "messageformat": "Ili kuendelea kutumia Yoush, lazima usasishe hadi toleo jipya."
   },
   "icu:InstallScreenUpdateDialog--manual-update__action": {
     "messageformat": "Pakua {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Resta Signal ili kusakinisha sasisho."
+    "messageformat": "Resta Yoush ili kusakinisha sasisho."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktop imeshindwa kusasisha, lakini kuna toleo jipya linalopatikana. Nenda kwa {downloadUrl} usakinishe toleo jipya wewe mwenyewe, kisha uwasiliane na Msaada au utume ripoti ya hitilafu kuhusu tatizo hili."
@@ -5273,14 +5273,14 @@
     "ignoreUnused": true
   },
   "icu:NSIS__semver-downgrade": {
-    "messageformat": "Toleo jipya zaidi la Signal tayari limesakinishwa. Una uhakika unataka kuendelea?",
+    "messageformat": "Toleo jipya zaidi la Yoush tayari limesakinishwa. Una uhakika unataka kuendelea?",
     "ignoreUnused": true
   },
   "icu:CrashReportDialog__title": {
     "messageformat": "Programu imejizima"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal imeanza baada ya kujizima. Unaweza kuwasilisha ripoti ili kuisaidia Signal kuchunguza suala hili."
+    "messageformat": "Signal imeanza baada ya kujizima. Unaweza kuwasilisha ripoti ili kuisaidia Yoush kuchunguza suala hili."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Tuma"
@@ -5367,7 +5367,7 @@
     "messageformat": "9:16"
   },
   "icu:MediaPermissionsModal__title--microphone": {
-    "messageformat": "Ruhusu Signal kufikia maikrofoni yako"
+    "messageformat": "Ruhusu Yoush kufikia maikrofoni yako"
   },
   "icu:MediaPermissionsModal__title--camera": {
     "messageformat": "Ruhusu ufikiaji wa kamera yako"
@@ -5643,7 +5643,7 @@
     "messageformat": "View receipts"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Ili kubadili mpangilio huu, fungua programu ya Signal kwenye kifaa chako cha mkononi nenda kwenye Mipangilio -> Stori"
+    "messageformat": "Ili kubadili mpangilio huu, fungua programu ya Yoush kwenye kifaa chako cha mkononi nenda kwenye Mipangilio -> Stori"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Nani anaweza kutazama stori hii"
@@ -5703,7 +5703,7 @@
     "messageformat": "Faragha ya Stori Yangu"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Chagua Signal Connections wanaoweza kutazama stori zako. Unaweza kubadili hii kwenye mipangilio ya faragha. <learnMoreLink>Pata maelezo zaidi.</learnMoreLink>"
+    "messageformat": "Chagua Yoush Connections wanaoweza kutazama stori zako. Unaweza kubadili hii kwenye mipangilio ya faragha. <learnMoreLink>Pata maelezo zaidi.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Futa stori"
@@ -5772,7 +5772,7 @@
     "messageformat": "Pakua Kiambatisho"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Wezesha read receipts kuona nani ametazama stori zako. Fungua programu ya Signal kwenye kifaa chako cha mkononi nenda kwenye Mipangilio > Stori."
+    "messageformat": "Wezesha read receipts kuona nani ametazama stori zako. Fungua programu ya Yoush kwenye kifaa chako cha mkononi nenda kwenye Mipangilio > Stori."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Hakuna majibu bado"
@@ -5958,7 +5958,7 @@
     "messageformat": "Msimbo wako wa QR na kiungo vimewekwa upya mipangilio na jina lako la mtumiaji ni {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Skani code hii a QR kupitia simu yako ili upige gumzo nami kwenye Signal.",
+    "messageformat": "Skani code hii a QR kupitia simu yako ili upige gumzo nami kwenye Yoush.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Tupilia mbali"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Muda si mrefu Signal desktop haitaikubali tena toleo lako la {OS} mfumo wa uendeshaji wa kompyuta yako. Ili kuendelea kutumia Signal, sasisha mfumo wa uendeshaji wa kompyuta kabla ya {expirationDate}. <learnMoreLink>Jifunze zaidi</learnMoreLink>"
+    "messageformat": "Muda si mrefu Yoush desktop haitaikubali tena toleo lako la {OS} mfumo wa uendeshaji wa kompyuta yako. Ili kuendelea kutumia Yoush, sasisha mfumo wa uendeshaji wa kompyuta kabla ya {expirationDate}. <learnMoreLink>Jifunze zaidi</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal desktop haifanyi tena kazi kwenye kompyuta hii. Ili kutumia Signal desktop tena, sasisha toleo la mfumo wako wa uendeshaji wa {OS}. <learnMoreLink>Jifunze zaidi</learnMoreLink>"
+    "messageformat": "Signal desktop haifanyi tena kazi kwenye kompyuta hii. Ili kutumia Yoush desktop tena, sasisha toleo la mfumo wako wa uendeshaji wa {OS}. <learnMoreLink>Jifunze zaidi</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal desktop haifanyi tena kazi kwenye kompyuta hii. Ili kutumia Signal desktop tena, sasisha toleo la mfumo wako wa uendeshaji wa {OS}."
+    "messageformat": "Signal desktop haifanyi tena kazi kwenye kompyuta hii. Ili kutumia Yoush desktop tena, sasisha toleo la mfumo wako wa uendeshaji wa {OS}."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Imehaririwa"
@@ -6211,7 +6211,7 @@
     "messageformat": "Nakili kiungo"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Shiriki kiungo kupitia Signal"
+    "messageformat": "Shiriki kiungo kupitia Yoush"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Futa kiungo"
@@ -6277,7 +6277,7 @@
     "messageformat": "Ili kubadili mpangilio huu, badili \"Nani anayeona nambari yangu\" kuwa \"Hakuna Yeyote\"."
   },
   "icu:ProfileNameWarningModal__description--direct": {
-    "messageformat": "Majina ya wasifu kwenye Signal yanachaguliwa na mmiliki wa akaunti:"
+    "messageformat": "Majina ya wasifu kwenye Yoush yanachaguliwa na mmiliki wa akaunti:"
   },
   "icu:ProfileNameWarningModal__list--item1--direct": {
     "messageformat": "Majina ya wasifu hayajathibitishwa"
@@ -6304,11 +6304,11 @@
     "messageformat": "Kuna Lipi Jipya?"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Toleo hili lina mabadiliko kidogo na maboresho ya program kuiwezesha Signal kufanya kazi vizuri.",
+    "messageformat": "Toleo hili lina mabadiliko kidogo na maboresho ya program kuiwezesha Yoush kufanya kazi vizuri.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Mabadiliko ya ziada, bug fixes na maboresho ya utendaji. Asante kwa kutumia Signal.",
+    "messageformat": "Mabadiliko ya ziada, bug fixes na maboresho ya utendaji. Asante kwa kutumia Yoush.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Mabadiliko madogo, marekebisho ya bugs na uboreshaji wa utendaji. Asante kwa kutumia Signal!",
+    "messageformat": "Mabadiliko madogo, marekebisho ya bugs na uboreshaji wa utendaji. Asante kwa kutumia Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Uvumbuzi wa moto, gurudumu, na umeme yote yalikuwa maendeleo makubwa, lakini zilikuwa hatua muhimu tu njiani ambayo iliunda hali ya utafutaji wa GIF iliyohuishwa kuwepo. Sasa unaweza kupata uzoefu wa maendeleo ya kiteknolojia ya binadamu katika Signal Desktop ukitumia muundo mpya wa kiolesura ambao hufanya iwe rahisi kupata haraka emoji, kibandiko, au GIF zilizohuishwa zinazofaa kwa sasa."
+    "messageformat": "Uvumbuzi wa moto, gurudumu, na umeme yote yalikuwa maendeleo makubwa, lakini zilikuwa hatua muhimu tu njiani ambayo iliunda hali ya utafutaji wa GIF iliyohuishwa kuwepo. Sasa unaweza kupata uzoefu wa maendeleo ya kiteknolojia ya binadamu katika Yoush Desktop ukitumia muundo mpya wa kiolesura ambao hufanya iwe rahisi kupata haraka emoji, kibandiko, au GIF zilizohuishwa zinazofaa kwa sasa."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Tumebadili ukubwa wa dirisha la kupachika picha ndani ya picha nyingine na tukaongeza njia za mkato mpya ili kutoa sauti/kuweka sauti kwa kipaza sauti chako au kuwasha/kuzima kamera simu inapopunguzwa."

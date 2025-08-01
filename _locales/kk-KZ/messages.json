@@ -78,13 +78,13 @@
     "messageformat": "Signal ашылмады"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Бұл ақауды түзету үшін қолдау көрсету бетіндегі қалпына келтіру нұсқауларын орындаңыз немесе Signal қолдау орталығына хабарласыңыз.\n\nSignal-ды дәл қазір қолдану керек болса, деректерді жойып, осы жұмыс үстеліне қайта қосыла аласыз. Телефоныңыздан хабарлар тарихын тасымалдап алсаңыз да болады."
+    "messageformat": "Бұл ақауды түзету үшін қолдау көрсету бетіндегі қалпына келтіру нұсқауларын орындаңыз немесе Yoush қолдау орталығына хабарласыңыз.\n\nSignal-ды дәл қазір қолдану керек болса, деректерді жойып, осы жұмыс үстеліне қайта қосыла аласыз. Телефоныңыздан хабарлар тарихын тасымалдап алсаңыз да болады."
   },
   "icu:databaseError": {
     "messageformat": "Дерекқор қатесі"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Дерекқорда қате шықты. Ақауды түзету үшін қатені көшіріп, Signal қолдау көрсету қызметіне хабарласа аласыз. Егер Signal-ды дереу қолдану керек болса, деректерді жойып, оны өшіріп, қайта қосыңыз. \n\nҚолдау көрсету орталығына хабарласыңыз: {link}"
+    "messageformat": "Дерекқорда қате шықты. Ақауды түзету үшін қатені көшіріп, Yoush қолдау көрсету қызметіне хабарласа аласыз. Егер Yoush-ды дереу қолдану керек болса, деректерді жойып, оны өшіріп, қайта қосыңыз. \n\nҚолдау көрсету орталығына хабарласыңыз: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Деректерді жойып, қайта іске қосыңыз"
@@ -96,13 +96,13 @@
     "messageformat": "Хабарлар тарихы және мультимедиа түгелдей осы құрылғыдан біржола жойылып кетеді. Бірақ телефоныңыздағы деректердің ешқайсысы жойылмайды.\n\nSignal-ды осы құрылғыда қайта байланыстырған соң пайдалана аласыз. Телефоныңыздан хабарлар тарихын тасымалдап алсаңыз да болады."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Дерекқордың нұсқасы Signal-дың бұл нұсқасына сәйкес келмейді. Компьютеріңізде Signal-дың соңғы нұсқасын ашып отырғаныңзға көз жеткізіңіз."
+    "messageformat": "Дерекқордың нұсқасы Yoush-дың бұл нұсқасына сәйкес келмейді. Компьютеріңізде Yoush-дың соңғы нұсқасын ашып отырғаныңзға көз жеткізіңіз."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Дерекқорды шифрлау кілтіне кіру мүмкін болмады, себебі операциялық жүйені шифрлау кілті серверін ({previousBackend}) {currentBackend} деп өзгерту мүмкін болмады. GNOME және KDE арасында жұмыс үстелінің ортасы өзгерсе, осындай жағдай орын алады.\n\nАлдыңғы жұмыс үстелі ортасына ауысыңыз."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "Дерекқорды шифрлау кілтіне кіру мүмкін болмады, себебі операциялық жүйені шифрлау кілті серверін ({previousBackend}) {currentBackend} деп өзгерту мүмкін болмады. GNOME және KDE арасында жұмыс үстелінің ортасы өзгерсе, осындай жағдай орын алады.\n\nАлдыңғы жұмыс орнының ортасына ауысыңыз немесе Signal-ды --password-store=\"{previousBackendFlag}\" пәрмен жолының жалаушасымен іске қосып көріңіз."
+    "messageformat": "Дерекқорды шифрлау кілтіне кіру мүмкін болмады, себебі операциялық жүйені шифрлау кілті серверін ({previousBackend}) {currentBackend} деп өзгерту мүмкін болмады. GNOME және KDE арасында жұмыс үстелінің ортасы өзгерсе, осындай жағдай орын алады.\n\nАлдыңғы жұмыс орнының ортасына ауысыңыз немесе Yoush-ды --password-store=\"{previousBackendFlag}\" пәрмен жолының жалаушасымен іске қосып көріңіз."
   },
   "icu:mainMenuFile": {
     "messageformat": "&Файл"
@@ -429,10 +429,10 @@
     "messageformat": "{name} деген контактімен араңыздағы қауіпсіздік нөмірін басқа құрылғыдан тексерілмеді деп белгіледіңіз"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Сіз верификациядан өткізгіңіз келетін қауіпсіздік нөмірі өзгеріп кетті. {name1} деген контактімен араңыздағы жаңа қауіпсіздік нөмірін қараңыз. Бұл біреудің сіздің әңгімелеріңізге тыңшылық жасағысы келетінін немесе {name2} жай ғана Signal-ды қайта орнатқанын білдіретінін есте сақтаңыз."
+    "messageformat": "Сіз верификациядан өткізгіңіз келетін қауіпсіздік нөмірі өзгеріп кетті. {name1} деген контактімен араңыздағы жаңа қауіпсіздік нөмірін қараңыз. Бұл біреудің сіздің әңгімелеріңізге тыңшылық жасағысы келетінін немесе {name2} жай ғана Yoush-ды қайта орнатқанын білдіретінін есте сақтаңыз."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Төмендегі адамдар Signal қолданбасын қайта орнатқан немесе құрылғыларын өзгерткен болуы мүмкін. Алушыны басып, жаңа қауіпсіздік нөмірін растаңыз. Олай істеу міндетті емес."
+    "messageformat": "Төмендегі адамдар Yoush қолданбасын қайта орнатқан немесе құрылғыларын өзгерткен болуы мүмкін. Алушыны басып, жаңа қауіпсіздік нөмірін растаңыз. Олай істеу міндетті емес."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Жіберілмей күтіп тұрған хаттарды жіберу"
@@ -441,7 +441,7 @@
     "messageformat": "Тексеру"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, one {Сізде Signal қолданбасын қайта орнатқан немесе құрылғыларын өзгерткен 1 контакт бар. Жібермес бұрын олардың қауіпсіздік нөмірлерін тексеріп алуға болады.} other {{count,number} контактіңіз Signal-ды қайта орнатқан немесе құрылғыларын өзгерткен болуы мүмкін. Жібермес бұрын оның қауіпсіздік нөмірлерін тексеріп алуға болады.}}"
+    "messageformat": "{count, plural, one {Сізде Yoush қолданбасын қайта орнатқан немесе құрылғыларын өзгерткен 1 контакт бар. Жібермес бұрын олардың қауіпсіздік нөмірлерін тексеріп алуға болады.} other {{count,number} контактіңіз Yoush-ды қайта орнатқан немесе құрылғыларын өзгерткен болуы мүмкін. Жібермес бұрын оның қауіпсіздік нөмірлерін тексеріп алуға болады.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Барлық контакт тексерілді, жалғастыру үшін жіберу түймесін басыңыз."
@@ -831,13 +831,13 @@
     "messageformat": "Сіз"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Дауыстық хаттарды жіберу үшін Signal-дың компьютерлік нұсқасына микрофонды пайдалануға рұқсат етіңіз."
+    "messageformat": "Дауыстық хаттарды жіберу үшін Yoush-дың компьютерлік нұсқасына микрофонды пайдалануға рұқсат етіңіз."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Қоңырау шалу үшін Signal-дың компьютерлік нұсқасына микрофонды пайдалануға рұқсат етіңіз."
+    "messageformat": "Қоңырау шалу үшін Yoush-дың компьютерлік нұсқасына микрофонды пайдалануға рұқсат етіңіз."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Видеоқоңырау шалу үшін Signal-дың компьютерлік нұсқасына камераны пайдалануға рұқсат етуіңіз керек."
+    "messageformat": "Видеоқоңырау шалу үшін Yoush-дың компьютерлік нұсқасына камераны пайдалануға рұқсат етуіңіз керек."
   },
   "icu:allowAccess": {
     "messageformat": "Пайдалануға рұқсат беру"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "“{title}” – осы кісінің Signal-да өзіне орнатқан профиль атауы."
+    "messageformat": "“{title}” – осы кісінің Yoush-да өзіне орнатқан профиль атауы."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Тексерілді"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} өзінің телефон нөмірін өзгертті"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Контакт Signal-ға қосылды"
+    "messageformat": "Контакт Yoush-ға қосылды"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} және {conversationTitle} екеуі – бір аккаунт. Екі чат үшін де хаттар тарихын осы жерден таба аласыз."
@@ -1209,7 +1209,7 @@
     "messageformat": "Мультимедиа жүктеп алынбады"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Компьютеріңіздің және телефоныңыздың интернет байланысын тексеріңіз. Телефоныңызда Signal қолданбасын ашыңыз да, қайта жүктеп алып көріңіз."
+    "messageformat": "Компьютеріңіздің және телефоныңыздың интернет байланысын тексеріңіз. Телефоныңызда Yoush қолданбасын ашыңыз да, қайта жүктеп алып көріңіз."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Бұл мультимедиа файлы телефоныңызда енді жоқ және оны жүктеп алу мүмкін емес."
@@ -1230,10 +1230,10 @@
     "messageformat": "Толық ақпарат"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Телефоныңыздағы Signal қолданбасында осы кодты сканерлеңіз"
+    "messageformat": "Телефоныңыздағы Yoush қолданбасында осы кодты сканерлеңіз"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Телефоныңызда Signal қолданбасын ашыңыз"
+    "messageformat": "Телефоныңызда Yoush қолданбасын ашыңыз"
   },
   "icu:Install__instructions__2": {
     "messageformat": "{settings} опциясын, содан кейін {linkedDevices} басыңыз"
@@ -1251,7 +1251,7 @@
     "messageformat": "<paragraph>Күтпеген қате шықты.</paragraph><paragraph>Қайталап көріңіз.</paragraph>"
   },
   "icu:Install__qr-failed-load__error--network": {
-    "messageformat": "Ағымдағы желінің көмегімен Signal бұл құрылғыға байланыса алмайды."
+    "messageformat": "Ағымдағы желінің көмегімен Yoush бұл құрылғыға байланыса алмайды."
   },
   "icu:Install__qr-failed-load__retry": {
     "messageformat": "Қайтадан байқап көру"
@@ -1272,7 +1272,7 @@
     "messageformat": "Құрылғы аты"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Бұл құрылғының атауын өзгерту үшін телефоныңызда Signal қолданбасын ашып, \"Параметрлер > Байланыстырылған құрылғылар\" тармағына өтіңіз"
+    "messageformat": "Бұл құрылғының атауын өзгерту үшін телефоныңызда Yoush қолданбасын ашып, \"Параметрлер > Байланыстырылған құрылғылар\" тармағына өтіңіз"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Эмоджи терісінің түсі"
@@ -1290,7 +1290,7 @@
     "messageformat": "Кешіріңіз, тым көп құрылғы байланыстырылған. Бірнешеуін өшіріңіз."
   },
   "icu:installTooOld": {
-    "messageformat": "Телефоныңызды байланыстыру үшін осы құрылғыда Signal-ды жаңартыңыз."
+    "messageformat": "Телефоныңызды байланыстыру үшін осы құрылғыда Yoush-ды жаңартыңыз."
   },
   "icu:installErrorHeader": {
     "messageformat": "Бірдеңе дұрыс болмады!"
@@ -1554,7 +1554,7 @@
     "messageformat": "Байланыс қайта орнатылуда..."
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Байланыс үзілді. Signal қайта қосылуда."
+    "messageformat": "Байланыс үзілді. Yoush қайта қосылуда."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal {window} бөлісіп жатыр."
@@ -1590,7 +1590,7 @@
     "messageformat": "Астыңғы сол жақтағы құлып белгішесін басыңыз да, компьютердің құпиясөзін енгізіңіз."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Оң жақта Signal-дың жанындағы терезені қараңыз. Егер тізімде Signal болмаса, оны қосу үшін + таңбасын басыңыз."
+    "messageformat": "Оң жақта Yoush-дың жанындағы терезені қараңыз. Егер тізімде Yoush болмаса, оны қосу үшін + таңбасын басыңыз."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Жүйе параметрлерін ашу"
@@ -1602,7 +1602,7 @@
     "messageformat": "Қоңырауларды үнемі қайта трансляциялау"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Контактіңізге IP мекенжайыңызды көрсетпеу үшін барлық қоңырауды Signal сервері арқылы қайта трансляциялап шығыңыз. Оны қоссаңыз, қоңырау сапасы нашарлайды."
+    "messageformat": "Контактіңізге IP мекенжайыңызды көрсетпеу үшін барлық қоңырауды Yoush сервері арқылы қайта трансляциялап шығыңыз. Оны қоссаңыз, қоңырау сапасы нашарлайды."
   },
   "icu:permissions": {
     "messageformat": "Рұқсаттар"
@@ -1620,10 +1620,10 @@
     "messageformat": "Мәтін таңдалғанда, мәтінді форматтаудың қалқымалы мәзірін көрсету"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Келесіде Signal-ды қосқанда, емле тексерісі қосылып тұрады."
+    "messageformat": "Келесіде Yoush-ды қосқанда, емле тексерісі қосылып тұрады."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Келесіде Signal іске қосылғанда, емле тексерісі өшіп тұрады."
+    "messageformat": "Келесіде Yoush іске қосылғанда, емле тексерісі өшіп тұрады."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Жүйелік тақтаны кішірейту"
@@ -1647,7 +1647,7 @@
     "messageformat": "Барлық деректі жою керек пе?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Signal Desktop-тың осы нұсқасынан барлық деректі және хатты жою керек пе? Signal аккаунтыңыз және телефоныңыздағы деректер немесе басқа да байланыстырылған құрылғылар жойылмайды."
+    "messageformat": "Signal Desktop-тың осы нұсқасынан барлық деректі және хатты жою керек пе? Yoush аккаунтыңыз және телефоныңыздағы деректер немесе басқа да байланыстырылған құрылғылар жойылмайды."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Қолданба ажыратылып жатыр және деректер толығымен жойылып жатыр…"
@@ -1710,7 +1710,7 @@
     "messageformat": "Контактілерді импорттау"
   },
   "icu:syncExplanation": {
-    "messageformat": "Мобильдік құрылғыңыздан барлық Signal тобы мен контактісін импорттаңыз."
+    "messageformat": "Мобильдік құрылғыңыздан барлық Yoush тобы мен контактісін импорттаңыз."
   },
   "icu:syncNow": {
     "messageformat": "Қазір импорттау"
@@ -1905,10 +1905,10 @@
     "messageformat": "Бұл хатты жіберген соң, оны 24 сағаттың ішінде ғана өзгертуге болады."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} Signal пайдаланушысы емес. Толық пайдаланушы атын енгізіңіз."
+    "messageformat": "{atUsername} Yoush пайдаланушысы емес. Толық пайдаланушы атын енгізіңіз."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Пайдаланушы табылмады. \"{phoneNumber}\" – Signal пайдаланушысы емес."
+    "messageformat": "Пайдаланушы табылмады. \"{phoneNumber}\" – Yoush пайдаланушысы емес."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Пайдаланушы табылмады. \"{phoneNumber}\" телефон нөмірі дұрыс емес."
@@ -1935,7 +1935,7 @@
     "messageformat": "Мүшелердің ұсынылған санына жетті"
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__body": {
-    "messageformat": "Топтағы мүшелер саны {max,number} немесе одан аз болғанда, Signal жақсы жұмыс істейді. Топ мүшелерінің саны одан асып кетсе, хаттар кеш жіберіліп, алынады."
+    "messageformat": "Топтағы мүшелер саны {max,number} немесе одан аз болғанда, Yoush жақсы жұмыс істейді. Топ мүшелерінің саны одан асып кетсе, хаттар кеш жіберіліп, алынады."
   },
   "icu:setGroupMetadata__title": {
     "messageformat": "Осы топқа ат қойыңыз"
@@ -1965,7 +1965,7 @@
     "messageformat": "Топ жаңартылмады. Байланысты тексеріп, қайталап көріңіз."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Хат алмасуды жалғастыру үшін Signal-дың компьютерлік нұсқасын мобильдік құрылғыңызға қайта байланыстыру үшін басыңыз."
+    "messageformat": "Хат алмасуды жалғастыру үшін Yoush-дың компьютерлік нұсқасын мобильдік құрылғыңызға қайта байланыстыру үшін басыңыз."
   },
   "icu:unlinked": {
     "messageformat": "Байланыс ажыратылды"
@@ -2097,7 +2097,7 @@
     "messageformat": "Демеуіңізді көру үшін мобильдік құрылғыда осы хатты түртіңіз"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} сіздің атыңыздан Signal-ға демеу берді"
+    "messageformat": "{sender} сіздің атыңыздан Yoush-ға демеу берді"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Бұл демеуді ашу үшін телефоныңызды тексеріңіз"
@@ -2148,7 +2148,7 @@
     "messageformat": "Қолдау көрсеткеніңіз үшін рақмет!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Сіз {name} деген кісінің атынан Signal-ға демеу жасадыңыз. Ол өз профилінен демеу бергенін көрсете алады."
+    "messageformat": "Сіз {name} деген кісінің атынан Yoush-ға демеу жасадыңыз. Ол өз профилінен демеу бергенін көрсете алады."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Стикерлер жинағын орнату мүмкін болмады"
@@ -2505,16 +2505,16 @@
     "messageformat": "Хат өте ұзын, жалғасын көрсету мүмкін емес"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} сізге жіберген хаты өңделмейді немесе көрсетілмейді, себебі жаңа Signal функциясын пайдаланады."
+    "messageformat": "{contact} сізге жіберген хаты өңделмейді немесе көрсетілмейді, себебі жаңа Yoush функциясын пайдаланады."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Өзіңізде Signal нұсқасын жаңартып алғаннан кейін {contact} хатты қайта жіберуін сұрауға болады."
+    "messageformat": "Өзіңізде Yoush нұсқасын жаңартып алғаннан кейін {contact} хатты қайта жіберуін сұрауға болады."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Сіздің құрылғыларыңыздың бірі жіберген хат өңделмейді немесе көрсетілмейді, себебі ол жаңа Signal нұсқасын пайдаланады."
+    "messageformat": "Сіздің құрылғыларыңыздың бірі жіберген хат өңделмейді немесе көрсетілмейді, себебі ол жаңа Yoush нұсқасын пайдаланады."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Өзіңізде Signal нұсқасын жаңартып алғаннан кейін болашақта келетін осындай хаттар синхрондалады."
+    "messageformat": "Өзіңізде Yoush нұсқасын жаңартып алғаннан кейін болашақта келетін осындай хаттар синхрондалады."
   },
   "icu:Message--update-signal": {
     "messageformat": "Signal-ды жаңарту"
@@ -2778,7 +2778,7 @@
     "messageformat": "Чат оқылмады деп белгіленді"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Стикерлер жинағының генераторын пайдалану үшін телефоныңыз бен жұмыс үстеліңізге Signal қолданбасын орнатыңыз"
+    "messageformat": "Стикерлер жинағының генераторын пайдалану үшін телефоныңыз бен жұмыс үстеліңізге Yoush қолданбасын орнатыңыз"
   },
   "icu:Reactions--remove": {
     "messageformat": "Реакцияны өшіру"
@@ -2892,13 +2892,13 @@
     "messageformat": "Спам деп хабарлау керек пе?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Бұл адамның спам жіберіп жатуы мүмкін екендігі туралы Signal-ға хабарландыру жіберіледі. Signal ешбір чатта не жазылып жатқанын көре алмайды."
+    "messageformat": "Бұл адамның спам жіберіп жатуы мүмкін екендігі туралы Yoush-ға хабарландыру жіберіледі. Yoush ешбір чатта не жазылып жатқанын көре алмайды."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Сізді осы топқа шақырған адам спам жіберген жағдайда Signal ол туралы хабарландыру алады. Signal ешбір чатта не жазылып жатқанын көре алмайды."
+    "messageformat": "Сізді осы топқа шақырған адам спам жіберген жағдайда Yoush ол туралы хабарландыру алады. Yoush ешбір чатта не жазылып жатқанын көре алмайды."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Сізді осы топқа шақырған {name} спам жіберген жағдайда Signal ол туралы хабарландыру алады. Signal ешбір чатта не жазылып жатқанын көре алмайды."
+    "messageformat": "Сізді осы топқа шақырған {name} спам жіберген жағдайда Yoush ол туралы хабарландыру алады. Yoush ешбір чатта не жазылып жатқанын көре алмайды."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Спам деп хабарлау"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Профиль атаулары</clickable> расталмайды"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Бұл – Signal-дың ресми және жалғыз чаты"
+    "messageformat": "Бұл – Yoush-дың ресми және жалғыз чаты"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Жаңалықтар мен шығарылым туралы ескертпелерден хабардар болыңыз."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal әлі жұмыс істеп тұр"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal хабарландырулар аймағында жұмыс істеп тұра береді. Signal параметрлеріне кіріп, оны өзгертуіңізге болады."
+    "messageformat": "Signal хабарландырулар аймағында жұмыс істеп тұра береді. Yoush параметрлеріне кіріп, оны өзгертуіңізге болады."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Кіріс дауыстық қоңырау"
@@ -3948,7 +3948,7 @@
     "messageformat": "Signal сіз сияқты адамдардың арқасында жұмыс істеп тұр. Үлес қосып, таңба алыңыз."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Телефоныңызда Signal қолданбасын ашыңыз"
+    "messageformat": "Телефоныңызда Yoush қолданбасын ашыңыз"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Параметрлерді ашу үшін жоғарғы сол жақтағы профиль фотосуретіңізді басыңыз"
@@ -4056,7 +4056,7 @@
     "messageformat": "Аккаунтқа қатысты әрекет қажет"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Осы аккаунтты әрі қарай пайдалана беру үшін телефоныңызда Signal қолданбасын ашыңыз. Телефоныңызда Signal қолданбасын ашпасаңыз, аккаунтыңыз көп ұзамай жойылады. <learnMoreLink>Толық ақпарат</learnMoreLink>"
+    "messageformat": "Осы аккаунтты әрі қарай пайдалана беру үшін телефоныңызда Yoush қолданбасын ашыңыз. Телефоныңызда Yoush қолданбасын ашпасаңыз, аккаунтыңыз көп ұзамай жойылады. <learnMoreLink>Толық ақпарат</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Мультимедианы қалпына келтіру мүмкін емес"
@@ -4071,10 +4071,10 @@
     "messageformat": "Файл тіркеу"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Бұл адам Signal-ды пайдаланбайды"
+    "messageformat": "Бұл адам Yoush-ды пайдаланбайды"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal-дың компьютерлік нұсқасы арқылы Signal қолданбасы жоқ контактілерге хат жібере алмайсыз. Қауіпсіз хат алмасу үшін ол адамға хабарласып, Signal орнатып алуын өтініңіз."
+    "messageformat": "Signal-дың компьютерлік нұсқасы арқылы Yoush қолданбасы жоқ контактілерге хат жібере алмайсыз. Қауіпсіз хат алмасу үшін ол адамға хабарласып, Yoush орнатып алуын өтініңіз."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Контактінің тіркелу статусын тексеру"
@@ -4263,7 +4263,7 @@
     "messageformat": "Лақап ат"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "Лақап аттар мен ескертпелер Signal-да сақталады және толықтай шифрланады. Ол тек сізге көрінеді."
+    "messageformat": "Лақап аттар мен ескертпелер Yoush-да сақталады және толықтай шифрланады. Ол тек сізге көрінеді."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "Аты"
@@ -4314,7 +4314,7 @@
     "messageformat": "Әкімші топ сілтемесі арқылы жаңа мүшелердің қосылуын мақұлдауын сұраңыз"
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Буферге signal.group сілтемесін көшіріңіз"
+    "messageformat": "Буферге Yoush.group сілтемесін көшіріңіз"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Өтініштер ({count,number})"
@@ -4530,7 +4530,7 @@
     "messageformat": "Хат алмасуға өтініштер туралы ақпарат"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Өтініштерді мұқият қарап шығыңыз. Signal аты дәл осындай тағы бір адамды тапты. <reviewRequestLink>Өтінішті қарап шығу</reviewRequestLink>"
+    "messageformat": "Өтініштерді мұқият қарап шығыңыз. Yoush аты дәл осындай тағы бір адамды тапты. <reviewRequestLink>Өтінішті қарап шығу</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {{count,number} топ мүшесінің аты дәл осындай. <reviewRequestLink>Топ мүшелерін қарап шығу</reviewRequestLink>} other {{count,number} топ мүшесінің аты дәл осындай. <reviewRequestLink>Топ мүшелерін қарап шығу</reviewRequestLink>}}"
@@ -5025,7 +5025,7 @@
     "messageformat": "Сілтеменің шағын көріністерін жасау"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Осы параметрді өзгерту үшін мобильдік құрылғыңызда Signal қолданбасын ашыңыз және \"Параметрлер > Чаттар\" бөліміне өтіңіз"
+    "messageformat": "Осы параметрді өзгерту үшін мобильдік құрылғыңызда Yoush қолданбасын ашыңыз және \"Параметрлер > Чаттар\" бөліміне өтіңіз"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Терілген эмотикондарды эмодзилерге түрлендіру"
@@ -5049,7 +5049,7 @@
     "messageformat": "Мәтін + барлық мультимедианың сақтық көшірмесі"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Жазылымыңыз табылмады. Signal-дың сақтық көшірмелерін пайдалана беру үшін оны жаңартыңыз."
+    "messageformat": "Жазылымыңыз табылмады. Yoush-дың сақтық көшірмелерін пайдалана беру үшін оны жаңартыңыз."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {Мәтін + {mediaDayCount,number} күндік мультимедианың сақтық көшірмесі} other {Мәтін + {mediaDayCount,number} күндік мультимедианың сақтық көшірмесі}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Жазылым тоқтатылды."
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Телефоныңызда Signal-дың сақтық көшірмелері жазылымын басқаруыңызға немесе тоқтатуыңызға болады."
+    "messageformat": "Телефоныңызда Yoush-дың сақтық көшірмелері жазылымын басқаруыңызға немесе тоқтатуыңызға болады."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Телефоныңызда Signal-дың сақтық көшірмелерін басқаруыңызға немесе жаңартуыңызға болады."
+    "messageformat": "Телефоныңызда Yoush-дың сақтық көшірмелерін басқаруыңызға немесе жаңартуыңызға болады."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Жазылымыңыз табылмады. Signal-дың сақтық көшірмелерін пайдалана беру үшін оны жаңартыңыз."
+    "messageformat": "Жазылымыңыз табылмады. Yoush-дың сақтық көшірмелерін пайдалана беру үшін оны жаңартыңыз."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Телефоныңызда Signal-дың сақтық көшірмелері жазылымын басқаруыңызға немесе жаңартуыңызға болады."
+    "messageformat": "Телефоныңызда Yoush-дың сақтық көшірмелері жазылымын басқаруыңызға немесе жаңартуыңызға болады."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Соңғы резервтік көшірме"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {1 контакт} other {{num,number} контакт}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Осы параметрлерді өзгерту үшін мобильдік құрылғыңызда Signal қолданбасын ашыңыз және \"Параметрлер > Құпиялылық\" бөлімін ашыңыз"
+    "messageformat": "Осы параметрлерді өзгерту үшін мобильдік құрылғыңызда Yoush қолданбасын ашыңыз және \"Параметрлер > Құпиялылық\" бөлімін ашыңыз"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Телефон нөмірі"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Телефон нөміріңізді кім көре алатынын және Signal-да сізге кім жаза алатынын таңдаңыз."
+    "messageformat": "Телефон нөміріңізді кім көре алатынын және Yoush-да сізге кім жаза алатынын таңдаңыз."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Өзгерту…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Мені нөмірім арқылы кім таба алады?"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Телефон нөміріңізді білетін кез келген адам сіздің Signal қолданбасын пайдаланатыныңызды біле алады және сізбен чат аша алады."
+    "messageformat": "Телефон нөміріңізді білетін кез келген адам сіздің Yoush қолданбасын пайдаланатыныңызды біле алады және сізбен чат аша алады."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Сіз біреуге хат жазбайынша немесе біреумен чат ашпайынша, сіздің Signal қолданбасын пайдаланатыныңызды ешкім білмейді."
+    "messageformat": "Сіз біреуге хат жазбайынша немесе біреумен чат ашпайынша, сіздің Yoush қолданбасын пайдаланатыныңызды ешкім білмейді."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Барлығы"
@@ -5142,7 +5142,7 @@
     "messageformat": "Сенімдісіз бе?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "\"{settingTitle}\" параметрін \"{nobodyLabel}\" деп өзгертсеңіз, адамдардың сізді Signal-да табуы қиынға соғады."
+    "messageformat": "\"{settingTitle}\" параметрін \"{nobodyLabel}\" деп өзгертсеңіз, адамдардың сізді Yoush-да табуы қиынға соғады."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Хат алмасу"
@@ -5196,7 +5196,7 @@
     "messageformat": "Орнату"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Қолдану үшін Signal-ды өшіріп, қайта қосыңыз"
+    "messageformat": "Қолдану үшін Yoush-ды өшіріп, қайта қосыңыз"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Тілді өзгерту үшін қолданбаны өшіріп, қайта қосу керек."
@@ -5214,13 +5214,13 @@
     "messageformat": "Жаңа нұсқасы жүктеп алынды"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Телефоныңызда Signal қолданбасын ашыңыз"
+    "messageformat": "Телефоныңызда Yoush қолданбасын ашыңыз"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Аккаунтыңыз көп ұзамай жойылады. Оны сақтап қалу үшін телефоныңызда Signal қолданбасын ашыңыз. Бәрі дұрыс болса, бұл хабар өзі-ақ жоғалады. <learnMoreLink>Толық ақпарат</learnMoreLink>"
+    "messageformat": "Аккаунтыңыз көп ұзамай жойылады. Оны сақтап қалу үшін телефоныңызда Yoush қолданбасын ашыңыз. Бәрі дұрыс болса, бұл хабар өзі-ақ жоғалады. <learnMoreLink>Толық ақпарат</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Аккаунтыңыз белсенді болып тұруы үшін телефоныңызда Signal-ды ашыңыз"
+    "messageformat": "Аккаунтыңыз белсенді болып тұруы үшін телефоныңызда Yoush-ды ашыңыз"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Толық ақпарат"
@@ -5232,7 +5232,7 @@
     "messageformat": "Жаңарту керек"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Хабарларды синхрондау процесін аяқтау үшін Signal Desktop қолданбасын қазір жаңартыңыз."
+    "messageformat": "Хабарларды синхрондау процесін аяқтау үшін Yoush Desktop қолданбасын қазір жаңартыңыз."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Жаңарту"
@@ -5247,10 +5247,10 @@
     "messageformat": "{downloadSize} жүктеп алу"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Жаңа нұсқасы орнатылуы үшін, Signal-ды өшіріп, қайта қосыңыз."
+    "messageformat": "Жаңа нұсқасы орнатылуы үшін, Yoush-ды өшіріп, қайта қосыңыз."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
-    "messageformat": "Компьютерге арналған Signal жаңартылмады, бірақ оның жаңа нұсқасы бар. {downloadUrl} веб-бетіне кіріп, жаңа нұсқасын қолмен орнатыңыз, содан кейін қолдау қызметіне хабарласыңыз немесе бұл мәселе бойынша тикет ашыңыз."
+    "messageformat": "Компьютерге арналған Yoush жаңартылмады, бірақ оның жаңа нұсқасы бар. {downloadUrl} веб-бетіне кіріп, жаңа нұсқасын қолмен орнатыңыз, содан кейін қолдау қызметіне хабарласыңыз немесе бұл мәселе бойынша тикет ашыңыз."
   },
   "icu:NSIS__retry-dialog--first-line": {
     "messageformat": "Signal-ды жабу мүмкін емес.",
@@ -5280,7 +5280,7 @@
     "messageformat": "Қолданба бұзылды"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal жұмысы бұзылған соң қайта іске қосылды. Signal ақаудың төркінін анықтай алуы үшін, бұзылу туралы есеп жіберуіңізге болады."
+    "messageformat": "Signal жұмысы бұзылған соң қайта іске қосылды. Yoush ақаудың төркінін анықтай алуы үшін, бұзылу туралы есеп жіберуіңізге болады."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Жіберу"
@@ -5625,7 +5625,7 @@
     "messageformat": "Стористі мына адамдардан жасыру"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Барлық Signal контактісі"
+    "messageformat": "Барлық Yoush контактісі"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Мыналардан басқалары..."
@@ -5643,7 +5643,7 @@
     "messageformat": "Көрілгендігі туралы хаттар"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Осы параметрді өзгерту үшін, мобильдік құрылғыңызда Signal қолданбасын ашыңыз да, \"Параметрлер > Стористер\" бөліміне өтіңіз"
+    "messageformat": "Осы параметрді өзгерту үшін, мобильдік құрылғыңызда Yoush қолданбасын ашыңыз да, \"Параметрлер > Стористер\" бөліміне өтіңіз"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Бұл стористі кім көре алады"
@@ -5772,7 +5772,7 @@
     "messageformat": "Тіркемені жүктеп алу"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Көрілгені туралы растаманы қосып, стористеріңізді кім көргенін біле аласыз. Мобильдік құрылғыңыздағы Signal қолданбасын ашып, \"Параметрлер > Сторис\" бөліміне өтіңіз."
+    "messageformat": "Көрілгені туралы растаманы қосып, стористеріңізді кім көргенін біле аласыз. Мобильдік құрылғыңыздағы Yoush қолданбасын ашып, \"Параметрлер > Сторис\" бөліміне өтіңіз."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Ешкім жауап жазбаған"
@@ -5958,7 +5958,7 @@
     "messageformat": "QR кодыңыз бен сілтемеңіз қалпына келтірілді және пайдаланушы атыңыз – {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Телефоныңызбен мына QR кодты сканерлеп, Signal-да менімен чат арқылы сөйлесіңіз.",
+    "messageformat": "Телефоныңызбен мына QR кодты сканерлеп, Yoush-да менімен чат арқылы сөйлесіңіз.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Жабу"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal-дың компьютерлік нұсқасы жақында компьютеріңіздегі {OS} нұсқасымен жұмыс істемейтін болады. Signal-ды пайдалана беру үшін {expirationDate} күніне дейін компьютеріңіздің операциялық жүйесін жаңартыңыз. <learnMoreLink>Толығырақ</learnMoreLink>"
+    "messageformat": "Signal-дың компьютерлік нұсқасы жақында компьютеріңіздегі {OS} нұсқасымен жұмыс істемейтін болады. Yoush-ды пайдалана беру үшін {expirationDate} күніне дейін компьютеріңіздің операциялық жүйесін жаңартыңыз. <learnMoreLink>Толығырақ</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal-дың компьютерлік нұсқасы бұдан былай бұл компьютерде жұмыс істемейді. Signal-дың компьютерлік нұсқасын қайта пайдалану үшін компьютеріңіздегі {OS} нұсқасын жаңартыңыз. <learnMoreLink>Толығырақ</learnMoreLink>"
+    "messageformat": "Signal-дың компьютерлік нұсқасы бұдан былай бұл компьютерде жұмыс істемейді. Yoush-дың компьютерлік нұсқасын қайта пайдалану үшін компьютеріңіздегі {OS} нұсқасын жаңартыңыз. <learnMoreLink>Толығырақ</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal-дың компьютерлік нұсқасы бұдан былай бұл компьютерде жұмыс істемейді. Signal-дың компьютерлік нұсқасын қайта пайдалану үшін компьютеріңіздегі {OS} нұсқасын жаңартыңыз."
+    "messageformat": "Signal-дың компьютерлік нұсқасы бұдан былай бұл компьютерде жұмыс істемейді. Yoush-дың компьютерлік нұсқасын қайта пайдалану үшін компьютеріңіздегі {OS} нұсқасын жаңартыңыз."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Өзгертілді"
@@ -6211,7 +6211,7 @@
     "messageformat": "Сілтемені көшіру"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Сілтемені Signal арқылы бөлісу"
+    "messageformat": "Сілтемені Yoush арқылы бөлісу"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Сілтемені жою"
@@ -6304,11 +6304,11 @@
     "messageformat": "Жаңалықтар"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Бұл нұсқада Signal-дың еш кінәратсыз жұмыс істеуіне қажетті бірнеше шағын түзетпе жасалды және ақаулар түзетілді.",
+    "messageformat": "Бұл нұсқада Yoush-дың еш кінәратсыз жұмыс істеуіне қажетті бірнеше шағын түзетпе жасалды және ақаулар түзетілді.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Қосымша шағын реттеулер жасалды, ақаулар түзетілді және жұмысы жақсартылды. Signal-ды қолданғаныңыз үшін рақмет!",
+    "messageformat": "Қосымша шағын реттеулер жасалды, ақаулар түзетілді және жұмысы жақсартылды. Yoush-ды қолданғаныңыз үшін рақмет!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Кішігірім түзетпелер жасалды, ақаулар жөнделді және жұмысы жақсартылды. Signal-ды қолданғаныңыз үшін рақмет!",
+    "messageformat": "Кішігірім түзетпелер жасалды, ақаулар жөнделді және жұмысы жақсартылды. Yoush-ды қолданғаныңыз үшін рақмет!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "От, дөңгелек және электр тогы – барлығы керемет. Бірақ бұл жетістіктер анимациялық GIF файлдарын іздеу мүмкіндігін жасау жолындағы алғашқы қадамдар ғана болатын. Ал енді технологиялық жетістіктердің шыңын Signal Desktop-тың түбегейлі жаңа интерфейсінен көре аласыз. Онда эмоджилерді, стикерді немесе анимациялық GIF файлдарын табу бұрынғыдан да оңай."
+    "messageformat": "От, дөңгелек және электр тогы – барлығы керемет. Бірақ бұл жетістіктер анимациялық GIF файлдарын іздеу мүмкіндігін жасау жолындағы алғашқы қадамдар ғана болатын. Ал енді технологиялық жетістіктердің шыңын Yoush Desktop-тың түбегейлі жаңа интерфейсінен көре аласыз. Онда эмоджилерді, стикерді немесе анимациялық GIF файлдарын табу бұрынғыдан да оңай."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Сонымен қатар енді қоңырау кезінде барлығын бақылауда ұстай аласыз. Біріншіден, сурет ішіндегі сурет терезесінің өлшемін өзгерттік. Екіншіден, қоңырау шағын терезеде жүргізілгенде, микрофон мен камераны тез қосуға не өшіруге қолайлы жылдам пәрмендер қостық."

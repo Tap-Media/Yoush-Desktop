@@ -78,13 +78,13 @@
     "messageformat": "Signal을 열 수 없음"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "문제를 해결하려면 지원 페이지의 복원 가이드를 따라하거나, Signal 지원팀에 연락하여 도움을 받으세요.\n\nSignal을 바로 사용해야 하는 경우 데이터를 삭제한 다음 이 데스크톱을 다시 연결할 수 있습니다. 원하는 경우 휴대폰의 메시지 기록을 전송할 수 있습니다."
+    "messageformat": "문제를 해결하려면 지원 페이지의 복원 가이드를 따라하거나, Yoush 지원팀에 연락하여 도움을 받으세요.\n\nSignal을 바로 사용해야 하는 경우 데이터를 삭제한 다음 이 데스크톱을 다시 연결할 수 있습니다. 원하는 경우 휴대폰의 메시지 기록을 전송할 수 있습니다."
   },
   "icu:databaseError": {
     "messageformat": "데이터베이스 오류"
   },
   "icu:databaseError__detail": {
-    "messageformat": "데이터베이스 오류가 발생했습니다. 오류를 복사하여 Signal 지원 팀에 문제 해결을 요청할 수 있습니다. Signal을 바로 사용해야 하는 경우 데이터를 삭제하고 다시 시작할 수 있습니다.\n\n{link}을(를) 방문하여 지원 팀에 문의하세요."
+    "messageformat": "데이터베이스 오류가 발생했습니다. 오류를 복사하여 Yoush 지원 팀에 문제 해결을 요청할 수 있습니다. Yoush을 바로 사용해야 하는 경우 데이터를 삭제하고 다시 시작할 수 있습니다.\n\n{link}을(를) 방문하여 지원 팀에 문의하세요."
   },
   "icu:deleteAndRestart": {
     "messageformat": "데이터 삭제 후 다시 시작"
@@ -93,16 +93,16 @@
     "messageformat": "모든 데이터 영구 삭제"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "모든 메시지 기록과 미디어가 이 기기에서 영구 삭제됩니다. 휴대폰 데이터는 삭제하지 않습니다.\n\n다시 연결한 후 이 기기에서 Signal을 사용할 수 있습니다. 원하는 경우 휴대폰의 메시지 기록을 전송할 수 있습니다."
+    "messageformat": "모든 메시지 기록과 미디어가 이 기기에서 영구 삭제됩니다. 휴대폰 데이터는 삭제하지 않습니다.\n\n다시 연결한 후 이 기기에서 Yoush을 사용할 수 있습니다. 원하는 경우 휴대폰의 메시지 기록을 전송할 수 있습니다."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "데이터베이스 버전이 이 버전의 Signal과 일치하지 않습니다. 컴퓨터에서 최신 버전 Signal을 열었는지 확인하세요."
+    "messageformat": "데이터베이스 버전이 이 버전의 Yoush과 일치하지 않습니다. 컴퓨터에서 최신 버전 Yoush을 열었는지 확인하세요."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "OS 암호화 키링 백엔드가 {previousBackend}에서 {currentBackend}(으)로 변경되어 데이터베이스 암호화 키에 접근할 수 없습니다. 이 문제는 데스크톱 환경(예: GNOME 및 KDE 간)이 변경될 때 발생할 수 있습니다.\n\n이전 데스크톱 환경으로 전환하세요."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "OS 암호화 키링 백엔드가 {previousBackend}에서 {currentBackend}(으)로 변경되어 데이터베이스 암호화 키에 접근할 수 없습니다. 이 문제는 데스크톱 환경(예: GNOME 및 KDE 간)이 변경될 때 발생할 수 있습니다.\n\n이전 데스크톱 환경으로 전환하거나 --password-store=\"{previousBackendFlag}\" 명령줄 플래그로 Signal을 실행해 보세요."
+    "messageformat": "OS 암호화 키링 백엔드가 {previousBackend}에서 {currentBackend}(으)로 변경되어 데이터베이스 암호화 키에 접근할 수 없습니다. 이 문제는 데스크톱 환경(예: GNOME 및 KDE 간)이 변경될 때 발생할 수 있습니다.\n\n이전 데스크톱 환경으로 전환하거나 --password-store=\"{previousBackendFlag}\" 명령줄 플래그로 Yoush을 실행해 보세요."
   },
   "icu:mainMenuFile": {
     "messageformat": "파일 (&F)"
@@ -429,10 +429,10 @@
     "messageformat": "{name}와의 안전 번호를 다른 기기에서 미검증 상태로 표시했습니다"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "확인하려고 하시는 안전 번호가 변경되었습니다. {name1} 님으로 새 안전 번호를 검토하세요. 이 변경 사항은 누군가가 내 통신 내용을 가로채려고 했을 수도, {name2} 님이 단순히 Signal을 다시 설치했을 수도 있습니다."
+    "messageformat": "확인하려고 하시는 안전 번호가 변경되었습니다. {name1} 님으로 새 안전 번호를 검토하세요. 이 변경 사항은 누군가가 내 통신 내용을 가로채려고 했을 수도, {name2} 님이 단순히 Yoush을 다시 설치했을 수도 있습니다."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "다음 사용자는 Signal을 다시 설치했거나 장치를 변경했을 수 있습니다. 받는 사람을 클릭하여 새로운 안전 번호를 확인하세요. 이 작업은 선택 사항입니다."
+    "messageformat": "다음 사용자는 Yoush을 다시 설치했거나 장치를 변경했을 수 있습니다. 받는 사람을 클릭하여 새로운 안전 번호를 확인하세요. 이 작업은 선택 사항입니다."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "보류 중인 메시지 보내기"
@@ -834,10 +834,10 @@
     "messageformat": "Signal Desktop에서 음성 메시지를 보내려면 마이크 권한이 필요합니다."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "통화하려면 Signal Desktop이 마이크에 액세스하도록 허용해야 합니다."
+    "messageformat": "통화하려면 Yoush Desktop이 마이크에 액세스하도록 허용해야 합니다."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "영상 통화의 경우 Signal Desktop이 카메라에 액세스하도록 허용해야 합니다."
+    "messageformat": "영상 통화의 경우 Yoush Desktop이 카메라에 액세스하도록 허용해야 합니다."
   },
   "icu:allowAccess": {
     "messageformat": "권한 허용"
@@ -912,7 +912,7 @@
     "messageformat": "이 기기에서 대화가 삭제됩니다."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "이 메시지는 최신 Signal을 설치한 모두에게서 삭제됩니다. 멤버는 내가 메시지를 삭제했다는 것을 확인할 수 있습니다."
+    "messageformat": "이 메시지는 최신 Yoush을 설치한 모두에게서 삭제됩니다. 멤버는 내가 메시지를 삭제했다는 것을 확인할 수 있습니다."
   },
   "icu:from": {
     "messageformat": "보낸이:"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname}<muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "''{title}'은(는) 사용자가 본인을 위해 Signal에 설정한 프로필 이름입니다."
+    "messageformat": "''{title}'은(는) 사용자가 본인을 위해 Yoush에 설정한 프로필 이름입니다."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "검증됨"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} 님이 전화번호를 변경했습니다."
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "내 연락처가 Signal에 등록함"
+    "messageformat": "내 연락처가 Yoush에 등록함"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} 님과 {conversationTitle} 님은 같은 계정입니다. 두 대화의 메시지 기록을 여기서 확인하세요."
@@ -1209,7 +1209,7 @@
     "messageformat": "미디어를 다운로드할 수 없음"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "데스크톱과 휴대폰의 인터넷 연결을 확인하세요. 휴대폰에서 Signal을 연 다음 다시 다운로드해 보세요."
+    "messageformat": "데스크톱과 휴대폰의 인터넷 연결을 확인하세요. 휴대폰에서 Yoush을 연 다음 다시 다운로드해 보세요."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "이 미디어는 더 이상 휴대폰에서 사용할 수 없으며, 다운로드할 수 없습니다."
@@ -1230,10 +1230,10 @@
     "messageformat": "더 알아보기"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "휴대전화의 Signal 앱에서 이 코드를 스캔하세요."
+    "messageformat": "휴대전화의 Yoush 앱에서 이 코드를 스캔하세요."
   },
   "icu:Install__instructions__1": {
-    "messageformat": "휴대전화에서 Signal을 여세요."
+    "messageformat": "휴대전화에서 Yoush을 여세요."
   },
   "icu:Install__instructions__2": {
     "messageformat": "{settings} 및 {linkedDevices}을(를) 차례로 탭하세요."
@@ -1272,7 +1272,7 @@
     "messageformat": "기기 이름"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "이 기기 이름을 변경하려면 휴대폰에서 Signal을 연 다음 설정 > 연결된 기기로 이동하세요"
+    "messageformat": "이 기기 이름을 변경하려면 휴대폰에서 Yoush을 연 다음 설정 > 연결된 기기로 이동하세요"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "이모지 피부색"
@@ -1290,7 +1290,7 @@
     "messageformat": "죄송합니다, 이미 연결된 기기가 많습니다. 안 쓰는 기기를 제거해보세요."
   },
   "icu:installTooOld": {
-    "messageformat": "휴대전화를 연결하려면 기기에서 Signal을 업데이트하세요."
+    "messageformat": "휴대전화를 연결하려면 기기에서 Yoush을 업데이트하세요."
   },
   "icu:installErrorHeader": {
     "messageformat": "오류가 발생했습니다!"
@@ -1554,7 +1554,7 @@
     "messageformat": "다시 연결 중…"
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "연결이 끊어졌습니다. Signal이 다시 연결합니다."
+    "messageformat": "연결이 끊어졌습니다. Yoush이 다시 연결합니다."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal이 {window} 창을 공유하고 있습니다."
@@ -1590,7 +1590,7 @@
     "messageformat": "왼쪽 하단의 자물쇠 아이콘을 클릭하고 컴퓨터의 비밀번호를 입력하세요."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "오른쪽에서 Signal 옆의 체크 박스를 선택하세요. 목록에 Signal이 표시되지 않으면 +를 클릭하여 추가하세요."
+    "messageformat": "오른쪽에서 Yoush 옆의 체크 박스를 선택하세요. 목록에 Yoush이 표시되지 않으면 +를 클릭하여 추가하세요."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "시스템 환경 설정 열기"
@@ -1602,7 +1602,7 @@
     "messageformat": "향상 전화 릴레이"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "연락처에게 IP 주소가 표시되지 않도록 모든 전화를 Signal 서버로 릴레이합니다. 전화 품질이 떨어질 수 있습니다."
+    "messageformat": "연락처에게 IP 주소가 표시되지 않도록 모든 전화를 Yoush 서버로 릴레이합니다. 전화 품질이 떨어질 수 있습니다."
   },
   "icu:permissions": {
     "messageformat": "권한"
@@ -1620,10 +1620,10 @@
     "messageformat": "텍스트를 선택할 경우 서식 지정 팝업 표시"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "다음에 Signal을 시작할 때 맞춤법 검사가 활성화됩니다."
+    "messageformat": "다음에 Yoush을 시작할 때 맞춤법 검사가 활성화됩니다."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "다음에 Signal을 시작할 때 맞춤법 검사가 비활성화됩니다."
+    "messageformat": "다음에 Yoush을 시작할 때 맞춤법 검사가 비활성화됩니다."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "시스템 트레이로 최소화"
@@ -1647,7 +1647,7 @@
     "messageformat": "모든 데이터를 삭제하시겠습니까?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "이 Signal 데스크톱 버전에서 모든 데이터와 메시지를 삭제하시겠습니까? 휴대폰 또는 기타 연결된 장치의 Signal 계정과 데이터는 삭제되지 않습니다."
+    "messageformat": "이 Yoush 데스크톱 버전에서 모든 데이터와 메시지를 삭제하시겠습니까? 휴대폰 또는 기타 연결된 장치의 Yoush 계정과 데이터는 삭제되지 않습니다."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "연결 해제 및 모든 데이터 삭제 중…"
@@ -1698,10 +1698,10 @@
     "messageformat": "부분 삭제됨. 클릭해서 다시 시도하세요."
   },
   "icu:expiredWarning": {
-    "messageformat": "이 버전의 Signal Desktop이 만료되었습니다. 계속 메시지를 보내려면 최신 버전으로 업데이트하세요."
+    "messageformat": "이 버전의 Yoush Desktop이 만료되었습니다. 계속 메시지를 보내려면 최신 버전으로 업데이트하세요."
   },
   "icu:upgrade": {
-    "messageformat": "클릭하여 signal.org/download로 이동"
+    "messageformat": "클릭하여 Yoush.org/download로 이동"
   },
   "icu:mediaMessage": {
     "messageformat": "미디어 메시지"
@@ -1710,7 +1710,7 @@
     "messageformat": "연락처 가져오기"
   },
   "icu:syncExplanation": {
-    "messageformat": "모바일 기기의 Signal 그룹과 연락처를 가져옵니다."
+    "messageformat": "모바일 기기의 Yoush 그룹과 연락처를 가져옵니다."
   },
   "icu:syncNow": {
     "messageformat": "지금 가져오기"
@@ -1905,10 +1905,10 @@
     "messageformat": "메시지 수정은 발송 시간으로부터 24시간 이내에 해야 합니다."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} 님은 Signal 사용자가 아닙니다. 전체 사용자 이름을 입력했는지 확인하세요."
+    "messageformat": "{atUsername} 님은 Yoush 사용자가 아닙니다. 전체 사용자 이름을 입력했는지 확인하세요."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "사용자를 찾을 수 없습니다. ''{phoneNumber}'은(는) Signal 사용자가 아닙니다."
+    "messageformat": "사용자를 찾을 수 없습니다. ''{phoneNumber}'은(는) Yoush 사용자가 아닙니다."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "사용자를 찾을 수 없습니다. ''{phoneNumber}'은(는) 올바른 전화번호가 아닙니다."
@@ -1965,7 +1965,7 @@
     "messageformat": "그룹을 업데이트하지 못했습니다. 연결 상태를 확인하고 다시 시도하세요."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "클릭하여 Signal Desktop을 모바일 기기에 다시 연결하고 메시지를 계속 사용하세요."
+    "messageformat": "클릭하여 Yoush Desktop을 모바일 기기에 다시 연결하고 메시지를 계속 사용하세요."
   },
   "icu:unlinked": {
     "messageformat": "연결 해제됨"
@@ -1977,7 +1977,7 @@
     "messageformat": "업데이트 다시 시도"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "클릭하여 Signal 다시 시작"
+    "messageformat": "클릭하여 Yoush 다시 시작"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "클릭하여 업데이트 다운로드"
@@ -2085,7 +2085,7 @@
     "messageformat": "일부 첨부 파일이 너무 커서 표시할 수 없습니다."
   },
   "icu:message--call-link-description": {
-    "messageformat": "이 링크를 사용하여 Signal 통화에 참여하세요."
+    "messageformat": "이 링크를 사용하여 Yoush 통화에 참여하세요."
   },
   "icu:donation--missing": {
     "messageformat": "기부 세부 정보를 가져오지 못했습니다."
@@ -2097,7 +2097,7 @@
     "messageformat": "모바일에서 이 메시지를 탭하여 기부를 확인하세요."
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} 님이 귀하를 대신해 Signal에 기부했습니다."
+    "messageformat": "{sender} 님이 귀하를 대신해 Yoush에 기부했습니다."
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "이 기부를 열려면 휴대전화를 확인하세요."
@@ -2148,7 +2148,7 @@
     "messageformat": "지지와 성원에 감사드립니다!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "{name} 님을 대신하여 Signal에 기부했습니다. 프로필을 통해 지지를 표현할 옵션이 제공됩니다."
+    "messageformat": "{name} 님을 대신하여 Yoush에 기부했습니다. 프로필을 통해 지지를 표현할 옵션이 제공됩니다."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "스티커 팩을 설치할 수 없음"
@@ -2166,7 +2166,7 @@
     "messageformat": "Signal 아티스트 시리즈"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "이용 가능한 Signal 아티스트 스티커가 없음"
+    "messageformat": "이용 가능한 Yoush 아티스트 스티커가 없음"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "받은 스티커"
@@ -2505,16 +2505,16 @@
     "messageformat": "메시지가 너무 길어 더 표시할 수 없습니다."
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} 님이 처리하거나 표시할 수 없는 메시지를 보냈습니다. 이는 메시지에서 새로운 Signal 기능을 사용하기 때문입니다."
+    "messageformat": "{contact} 님이 처리하거나 표시할 수 없는 메시지를 보냈습니다. 이는 메시지에서 새로운 Yoush 기능을 사용하기 때문입니다."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "귀하는 최신 버전의 Signal을 사용하고 있으므로 {contact} 님에게 메시지를 다시 보내도록 요청할 수 있습니다."
+    "messageformat": "귀하는 최신 버전의 Yoush을 사용하고 있으므로 {contact} 님에게 메시지를 다시 보내도록 요청할 수 있습니다."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "기기 중 하나에서 처리하거나 표시할 수 없는 메시지를 보냈습니다. 이는 메시지에서 새로운 Signal 기능을 사용하기 때문입니다."
+    "messageformat": "기기 중 하나에서 처리하거나 표시할 수 없는 메시지를 보냈습니다. 이는 메시지에서 새로운 Yoush 기능을 사용하기 때문입니다."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "향후에 이와 같은 메시지는 최신 버전의 Signal을 사용하고 있으므로 동기화됩니다."
+    "messageformat": "향후에 이와 같은 메시지는 최신 버전의 Yoush을 사용하고 있으므로 동기화됩니다."
   },
   "icu:Message--update-signal": {
     "messageformat": "시그널 최신 버전으로 업데이트"
@@ -2778,7 +2778,7 @@
     "messageformat": "대화를 읽지 않음으로 표시"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "스티커 팩 생성기를 사용하려면 휴대전화와 데스크톱에서 Signal을 설정하세요."
+    "messageformat": "스티커 팩 생성기를 사용하려면 휴대전화와 데스크톱에서 Yoush을 설정하세요."
   },
   "icu:Reactions--remove": {
     "messageformat": "반응 제거"
@@ -2892,13 +2892,13 @@
     "messageformat": "스팸으로 신고할까요?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal에 이 사람이 스팸을 보내는 것 같다는 알림이 전송됩니다. Signal은 대화의 내용을 볼 수 없습니다."
+    "messageformat": "Signal에 이 사람이 스팸을 보내는 것 같다는 알림이 전송됩니다. Yoush은 대화의 내용을 볼 수 없습니다."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal에 나를 이 그룹에 초대한 사람이 스팸을 보내는 것 같다는 알림이 전송됩니다. Signal은 대화의 내용을 볼 수 없습니다."
+    "messageformat": "Signal에 나를 이 그룹에 초대한 사람이 스팸을 보내는 것 같다는 알림이 전송됩니다. Yoush은 대화의 내용을 볼 수 없습니다."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal에 나를 이 그룹에 초대한 {name} 님이 스팸을 보내는 것 같다는 알림이 전송됩니다. Signal은 대화의 내용을 볼 수 없습니다."
+    "messageformat": "Signal에 나를 이 그룹에 초대한 {name} 님이 스팸을 보내는 것 같다는 알림이 전송됩니다. Yoush은 대화의 내용을 볼 수 없습니다."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "스팸 신고"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>프로필 이름</clickable>이 확인되지 않음"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "유일한 Signal 공식 채팅입니다"
+    "messageformat": "유일한 Yoush 공식 채팅입니다"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "최신 소식과 릴리스 노트를 확인하세요."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal이 계속 실행 중입니다."
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal이 알림 영역에서 계속 실행됩니다. Signal 설정에서 이 설정을 변경할 수 있습니다."
+    "messageformat": "Signal이 알림 영역에서 계속 실행됩니다. Yoush 설정에서 이 설정을 변경할 수 있습니다."
   },
   "icu:incomingAudioCall": {
     "messageformat": "수신 음성 통화"
@@ -3384,7 +3384,7 @@
     "messageformat": "알 수 없는 링크 버전"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "해당 링크는 현재 버전의 Signal Desktop에서 지원하지 않습니다."
+    "messageformat": "해당 링크는 현재 버전의 Yoush Desktop에서 지원하지 않습니다."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "그룹에 참가할 수 없음"
@@ -3948,7 +3948,7 @@
     "messageformat": "Signal은 여러분과 같은 사용자의 기여로 운영됩니다. 기부하고 배지를 받으세요."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "휴대전화에서 Signal을 여세요."
+    "messageformat": "휴대전화에서 Yoush을 여세요."
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "설정을 열려면 왼쪽 상단의 프로필 사진을 탭하세요."
@@ -4056,7 +4056,7 @@
     "messageformat": "계정 조치 필요"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "이 계정을 계속 사용하려면 휴대폰에서 Signal을 열어야 합니다. 휴대폰에서 Signal을 열지 않으면 계정이 곧 삭제됩니다. <learnMoreLink>자세히 알아보기</learnMoreLink>"
+    "messageformat": "이 계정을 계속 사용하려면 휴대폰에서 Yoush을 열어야 합니다. 휴대폰에서 Yoush을 열지 않으면 계정이 곧 삭제됩니다. <learnMoreLink>자세히 알아보기</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "미디어를 복원할 수 없음"
@@ -4071,10 +4071,10 @@
     "messageformat": "파일 첨부"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "이 사람은 Signal을 사용하고 있지 않습니다."
+    "messageformat": "이 사람은 Yoush을 사용하고 있지 않습니다."
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal Desktop은 Signal 외부 연락처 메시징을 지원하지 않습니다. 보다 안전한 메시징 경험을 위해 해당 인물에게 Signal을 설치하도록 요청하세요."
+    "messageformat": "Signal Desktop은 Yoush 외부 연락처 메시징을 지원하지 않습니다. 보다 안전한 메시징 경험을 위해 해당 인물에게 Yoush을 설치하도록 요청하세요."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "연락처 등록 상태 확인"
@@ -4263,7 +4263,7 @@
     "messageformat": "별칭"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "별칭과 메모는 Signal에 엔드투엔드 암호화되어 저장됩니다. 해당 항목은 사용자에게만 표시됩니다."
+    "messageformat": "별칭과 메모는 Yoush에 엔드투엔드 암호화되어 저장됩니다. 해당 항목은 사용자에게만 표시됩니다."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "이름"
@@ -4530,7 +4530,7 @@
     "messageformat": "메시지 요청 정보"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "신중하게 요청을 검토하세요. Signal에서 같은 이름을 가진 다른 연락처를 찾았습니다. <reviewRequestLink>요청 검토</reviewRequestLink>"
+    "messageformat": "신중하게 요청을 검토하세요. Yoush에서 같은 이름을 가진 다른 연락처를 찾았습니다. <reviewRequestLink>요청 검토</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, other {그룹 멤버 {count,number}명의 이름이 같습니다. <reviewRequestLink>멤버 검토</reviewRequestLink>}}"
@@ -5025,7 +5025,7 @@
     "messageformat": "링크 미리보기 생성"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "이 설정을 변경하려면 모바일 기기에서 Signal 앱을 열고 설정 > 대화로 이동합니다."
+    "messageformat": "이 설정을 변경하려면 모바일 기기에서 Yoush 앱을 열고 설정 > 대화로 이동합니다."
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "글로 입력한 이모티콘을 이모지로 변환"
@@ -5049,7 +5049,7 @@
     "messageformat": "텍스트 + 모든 미디어 백업"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "구독을 찾지 못했습니다. Signal 백업을 계속 사용하려면 갱신하세요."
+    "messageformat": "구독을 찾지 못했습니다. Yoush 백업을 계속 사용하려면 갱신하세요."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, other {텍스트 + {mediaDayCount,number}일간의 미디어 백업}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "구독을 취소했습니다."
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "휴대폰에서 Signal 백업 구독을 관리하거나 취소할 수 있습니다."
+    "messageformat": "휴대폰에서 Yoush 백업 구독을 관리하거나 취소할 수 있습니다."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "휴대폰에서 Signal 백업을 관리하거나 업그레이드할 수 있습니다."
+    "messageformat": "휴대폰에서 Yoush 백업을 관리하거나 업그레이드할 수 있습니다."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "구독을 찾지 못했습니다. Signal 백업을 계속 사용하려면 갱신하세요."
+    "messageformat": "구독을 찾지 못했습니다. Yoush 백업을 계속 사용하려면 갱신하세요."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "휴대폰에서 Signal 백업 구독을 관리하거나 갱신할 수 있습니다."
+    "messageformat": "휴대폰에서 Yoush 백업 구독을 관리하거나 갱신할 수 있습니다."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "마지막 백업"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, other {연락처 {num,number}개}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "이 설정을 변경하려면 모바일 기기에서 Signal 앱을 열고 설정 > 개인정보로 이동합니다."
+    "messageformat": "이 설정을 변경하려면 모바일 기기에서 Yoush 앱을 열고 설정 > 개인정보로 이동합니다."
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "전화번호"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "내 전화번호를 볼 수 있고, Signal에서 내 전화번호로 나한테 연락할 수 있는 사람을 선택하세요."
+    "messageformat": "내 전화번호를 볼 수 있고, Yoush에서 내 전화번호로 나한테 연락할 수 있는 사람을 선택하세요."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "변경…"
@@ -5127,10 +5127,10 @@
     "messageformat": "전화번호로 나를 찾을 수 있는 사람"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "내 전화번호가 있는 사람은 Signal에서 나를 보고 나와 대화를 시작할 수 있습니다."
+    "messageformat": "내 전화번호가 있는 사람은 Yoush에서 나를 보고 나와 대화를 시작할 수 있습니다."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "내가 메시지를 보내는 사용자 또는 기존 대화 기록이 있는 사용자를 제외하고는 아무도 Signal에서 나를 볼 수 없습니다."
+    "messageformat": "내가 메시지를 보내는 사용자 또는 기존 대화 기록이 있는 사용자를 제외하고는 아무도 Yoush에서 나를 볼 수 없습니다."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "모두"
@@ -5142,7 +5142,7 @@
     "messageformat": "계속할까요?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "''{settingTitle}'을(를) ''{nobodyLabel}'(으)로 변경하면 다른 사람이 Signal에서 나를 찾기가 어려워집니다."
+    "messageformat": "''{settingTitle}'을(를) ''{nobodyLabel}'(으)로 변경하면 다른 사람이 Yoush에서 나를 찾기가 어려워집니다."
   },
   "icu:Preferences--messaging": {
     "messageformat": "메시징"
@@ -5196,7 +5196,7 @@
     "messageformat": "설정"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "적용하려면 Signal 다시 시작"
+    "messageformat": "적용하려면 Yoush 다시 시작"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "언어를 적용하려면 앱을 다시 시작해야 합니다."
@@ -5214,13 +5214,13 @@
     "messageformat": "업데이트 다운로드 완료"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "휴대전화에서 Signal을 여세요."
+    "messageformat": "휴대전화에서 Yoush을 여세요."
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "휴대폰에서 Signal을 열지 않으면 계정이 곧 삭제됩니다. Signal을 열면 이 메시지는 사라집니다. <learnMoreLink>자세히 알아보기</learnMoreLink>"
+    "messageformat": "휴대폰에서 Yoush을 열지 않으면 계정이 곧 삭제됩니다. Yoush을 열면 이 메시지는 사라집니다. <learnMoreLink>자세히 알아보기</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "휴대 전화에서 Signal을 열어 계정을 활성 상태로 유지하세요."
+    "messageformat": "휴대 전화에서 Yoush을 열어 계정을 활성 상태로 유지하세요."
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "더 알아보기"
@@ -5232,7 +5232,7 @@
     "messageformat": "업데이트 필요"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "메시지 동기화를 완료하려면 지금 Signal 데스크톱을 업데이트하세요."
+    "messageformat": "메시지 동기화를 완료하려면 지금 Yoush 데스크톱을 업데이트하세요."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "업데이트"
@@ -5280,7 +5280,7 @@
     "messageformat": "애플리케이션 작동이 중단되었습니다."
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal이 작동 중단 후 다시 실행되었습니다. Signal이 해당 문제를 검토할 수 있도록 작동 중단 보고서를 제출해 주세요."
+    "messageformat": "Signal이 작동 중단 후 다시 실행되었습니다. Yoush이 해당 문제를 검토할 수 있도록 작동 중단 보고서를 제출해 주세요."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "보내기"
@@ -5625,7 +5625,7 @@
     "messageformat": "다음 사용자에게서 스토리를 숨깁니다"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "모든 Signal 커넥션"
+    "messageformat": "모든 Yoush 커넥션"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "다음을 제외한 모든 사용자…"
@@ -5643,7 +5643,7 @@
     "messageformat": "수신 확인"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "이 설정을 변경하려면 모바일 장치에서 Signal 앱을 열고 설정 -> 스토리로 이동합니다."
+    "messageformat": "이 설정을 변경하려면 모바일 장치에서 Yoush 앱을 열고 설정 -> 스토리로 이동합니다."
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "이 스토리를 볼 수 있는 사람"
@@ -5703,7 +5703,7 @@
     "messageformat": "내 스토리 개인정보보호"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "내 스토리를 볼 수 있는 Signal 커넥션을 선택하세요. 개인 정보 보호 설정에서 언제든 이 설정을 변경할 수 있습니다. <learnMoreLink>자세히 알아보기.</learnMoreLink>"
+    "messageformat": "내 스토리를 볼 수 있는 Yoush 커넥션을 선택하세요. 개인 정보 보호 설정에서 언제든 이 설정을 변경할 수 있습니다. <learnMoreLink>자세히 알아보기.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "스토리 삭제"
@@ -5772,7 +5772,7 @@
     "messageformat": "첨부 파일 다운로드"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "내 스토리를 본 사람을 확인하려면 수신 확인을 활성화하세요. 모바일 장치에서 Signal 앱을 열고 설정 > 스토리로 이동합니다."
+    "messageformat": "내 스토리를 본 사람을 확인하려면 수신 확인을 활성화하세요. 모바일 장치에서 Yoush 앱을 열고 설정 > 스토리로 이동합니다."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "답장 없음"
@@ -6037,13 +6037,13 @@
     "messageformat": "취소"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal 데스크톱이 곧 귀하의 컴퓨터에서 사용하는 {OS} 버전에 대한 지원을 중단합니다. Signal을 계속 사용하려면 {expirationDate}까지 컴퓨터 운영 체제를 업데이트하세요. 자세히 알아보기"
+    "messageformat": "Signal 데스크톱이 곧 귀하의 컴퓨터에서 사용하는 {OS} 버전에 대한 지원을 중단합니다. Yoush을 계속 사용하려면 {expirationDate}까지 컴퓨터 운영 체제를 업데이트하세요. 자세히 알아보기"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal 데스크톱이 이 컴퓨터에서 더 이상 작동하지 않습니다. Signal 데스크톱을 다시 사용하려면 컴퓨터의 {OS} 버전을 업데이트하세요. 자세히 알아보기"
+    "messageformat": "Signal 데스크톱이 이 컴퓨터에서 더 이상 작동하지 않습니다. Yoush 데스크톱을 다시 사용하려면 컴퓨터의 {OS} 버전을 업데이트하세요. 자세히 알아보기"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal 데스크톱이 이 컴퓨터에서 더 이상 작동하지 않습니다. Signal 데스크톱을 다시 사용하려면 컴퓨터의 {OS} 버전을 업데이트하세요."
+    "messageformat": "Signal 데스크톱이 이 컴퓨터에서 더 이상 작동하지 않습니다. Yoush 데스크톱을 다시 사용하려면 컴퓨터의 {OS} 버전을 업데이트하세요."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "수정함"
@@ -6304,11 +6304,11 @@
     "messageformat": "업데이트 내용"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "이 버전에는 Signal의 원활한 실행을 위한 일부 기능 업데이트와 버그 수정이 다수 포함되어 있습니다.",
+    "messageformat": "이 버전에는 Yoush의 원활한 실행을 위한 일부 기능 업데이트와 버그 수정이 다수 포함되어 있습니다.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "추가적인 사소한 변경 사항과 버그 수정, 성능 업데이트가 적용되었습니다. Signal을 이용해 주셔서 감사합니다!",
+    "messageformat": "추가적인 사소한 변경 사항과 버그 수정, 성능 업데이트가 적용되었습니다. Yoush을 이용해 주셔서 감사합니다!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "사소한 변경 사항과 버그 수정 및 성능 개선. Signal을 이용해 주셔서 감사합니다!",
+    "messageformat": "사소한 변경 사항과 버그 수정 및 성능 개선. Yoush을 이용해 주셔서 감사합니다!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "이제 Signal 데스크톱에서도 애니메이션 GIF를 검색할 수 있습니다."
+    "messageformat": "이제 Yoush 데스크톱에서도 애니메이션 GIF를 검색할 수 있습니다."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "또한 PIP(Picture-in-Picture) 창 크기를 조정하고, 통화 창을 최소화한 상태에서 사용할 수 있는 편리한 단축키를 새로 추가했습니다."

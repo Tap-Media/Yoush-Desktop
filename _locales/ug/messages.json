@@ -78,13 +78,13 @@
     "messageformat": "Signal ئېچىلمىدى"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "مەسىلىنى ھەل قىلىشقا ياردەم بېرىش ئۈچۈن ، قوللاش بېتىدىكى ئەسلىگە كەلتۈرۈش قوللانمىسىغا ئەگىشىڭ ياكى Signal ياردەم مەركىزى بىلەن ئالاقىلىشىپ مەسىلىنى ھەل قىلىڭ.\n\nئەگەر Signal نى دەرھال ئىشلەتمەكچى بولسىڭىز ، سانلىق مەلۇماتلىرىڭىزنى ئۆچۈرۈپ بۇ ئۈستەلۈستىنى قايتا ئۇلىسىڭىز بولىدۇ. تېلېفونىڭىزدىن ئۇچۇر تارىخىنى يۆتكەشنى تاللاش ئىمكانىيىتىڭىز بار."
+    "messageformat": "مەسىلىنى ھەل قىلىشقا ياردەم بېرىش ئۈچۈن ، قوللاش بېتىدىكى ئەسلىگە كەلتۈرۈش قوللانمىسىغا ئەگىشىڭ ياكى Yoush ياردەم مەركىزى بىلەن ئالاقىلىشىپ مەسىلىنى ھەل قىلىڭ.\n\nئەگەر Yoush نى دەرھال ئىشلەتمەكچى بولسىڭىز ، سانلىق مەلۇماتلىرىڭىزنى ئۆچۈرۈپ بۇ ئۈستەلۈستىنى قايتا ئۇلىسىڭىز بولىدۇ. تېلېفونىڭىزدىن ئۇچۇر تارىخىنى يۆتكەشنى تاللاش ئىمكانىيىتىڭىز بار."
   },
   "icu:databaseError": {
     "messageformat": "ساندان خاتالىقى"
   },
   "icu:databaseError__detail": {
-    "messageformat": "سانداندا خاتالىق كۆرۈلدى. خاتالىقنى كۆچۈرىۋالالايسىز ۋە ئۇنى ئوڭشاش ئۈچۈن Signal ياردەم بىلەن ئالاقىلىشىڭ. ئەگەر Signalنى دەرھال ئىشلەتمەكچى بولسىڭىز، سانلىق مەلۇماتلىرىڭىزنى ئۆچۈرۈپ، قايتا قوزغاتسىڭىز بولىدۇ.\n\nياردەم ئالاقىلىشىش ئۇسۇلى:{link}"
+    "messageformat": "سانداندا خاتالىق كۆرۈلدى. خاتالىقنى كۆچۈرىۋالالايسىز ۋە ئۇنى ئوڭشاش ئۈچۈن Yoush ياردەم بىلەن ئالاقىلىشىڭ. ئەگەر Youshنى دەرھال ئىشلەتمەكچى بولسىڭىز، سانلىق مەلۇماتلىرىڭىزنى ئۆچۈرۈپ، قايتا قوزغاتسىڭىز بولىدۇ.\n\nياردەم ئالاقىلىشىش ئۇسۇلى:{link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "سانلىق مەلۇماتلارنى ئۆچۈرۈپ، قايتا قوزغىتىش"
@@ -93,10 +93,10 @@
     "messageformat": "بارلىق سانلىق مەلۇماتلارنى مەڭگۈلۈك ئۆچۈرۈش"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "بارلىق ئۇچۇرلىشىش تارىخىىڭىز ۋە مېديا بۇ ئۈسكۈنىدىن مەڭگۈلۈك ئۆچۈرىۋېتىلىدۇ. بۇ سىزنىڭ تېلېفونىڭىزدىكى ھېچقانداق سانلىق مەلۇماتنى ئۆچۈرمەيدۇ.\n\nئۇنى قايتا ئۇلىغاندىن كېيىن Signal نى بۇ ئۈسكۈنىدە ئىشلىتەلەيسىز. تېلېفونىڭىزدىن ئۇچۇر تارىخىنى يۆتكەشنى تاللاش ئىمكانىيىتىڭىز بار."
+    "messageformat": "بارلىق ئۇچۇرلىشىش تارىخىىڭىز ۋە مېديا بۇ ئۈسكۈنىدىن مەڭگۈلۈك ئۆچۈرىۋېتىلىدۇ. بۇ سىزنىڭ تېلېفونىڭىزدىكى ھېچقانداق سانلىق مەلۇماتنى ئۆچۈرمەيدۇ.\n\nئۇنى قايتا ئۇلىغاندىن كېيىن Yoush نى بۇ ئۈسكۈنىدە ئىشلىتەلەيسىز. تېلېفونىڭىزدىن ئۇچۇر تارىخىنى يۆتكەشنى تاللاش ئىمكانىيىتىڭىز بار."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "سىزنىڭ ساندانىڭىزنىڭ نەشرى Signalنىڭ بۇ نەشرىگە ماس كەلمەيدۇ. كومپيۇتېرىڭىزدا Signalنىڭ ئەڭ يېڭى نەشىرىنى ئېچىۋاتقانلىقىڭىزنى جەزملەشتۈرۈڭ."
+    "messageformat": "سىزنىڭ ساندانىڭىزنىڭ نەشرى Youshنىڭ بۇ نەشرىگە ماس كەلمەيدۇ. كومپيۇتېرىڭىزدا Youshنىڭ ئەڭ يېڭى نەشىرىنى ئېچىۋاتقانلىقىڭىزنى جەزملەشتۈرۈڭ."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "ئۇچۇر ئامبىرىنى شىفىرلاشتۇرۇش ئاچقۇچىنى زىيارەت قىلالمىدى ، چۈنكى OS شىفىرلاشتۇرۇش ئاچقۇچ ھالقىسىنىڭ ئاخىرقى ئۇچى {previousBackend} دىن {currentBackend} گە ئۆزگەردى. بۇ ئەھۋال ئۈستەل يۈزى مۇھىتى ئۆزگەرگەندە يۈز بېرىدۇ ، مەسىلەن GNOME بىلەن KDE ئارىلىقىدا.\n\nئالدىنقى ئۈستەل مۇھىتىغا ئالماشتۇرۇڭ."
@@ -429,10 +429,10 @@
     "messageformat": "باشقا بىر ئۈسكۈنىدە {name} بىلەن بولغان بىخەتەرلىك نومۇرىڭىزغا «دەلىللەنمىگەن» دەپ بەلگە سالدىڭىز"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "سىز دەلىللىمەكچى بولغان بىخەتەرلىك نومۇرى ئۆزگەرگەن. {name1} بىلەن بولغان بىخەتەرلىك نومۇرىڭىزنى تەكشۈرۈڭ. بۇ ئۆزگىرىش بىرەيلەننىڭ سىلەرنىڭ ئالاقەڭلارغا توسقۇنلۇق قىلماقچى بولغانلىقىدىن ياكى «{name2}» نىڭ Signal نى قايتا قاچىلىغانلىقىدىن دېرەك بېرىشى مۇمكىن."
+    "messageformat": "سىز دەلىللىمەكچى بولغان بىخەتەرلىك نومۇرى ئۆزگەرگەن. {name1} بىلەن بولغان بىخەتەرلىك نومۇرىڭىزنى تەكشۈرۈڭ. بۇ ئۆزگىرىش بىرەيلەننىڭ سىلەرنىڭ ئالاقەڭلارغا توسقۇنلۇق قىلماقچى بولغانلىقىدىن ياكى «{name2}» نىڭ Yoush نى قايتا قاچىلىغانلىقىدىن دېرەك بېرىشى مۇمكىن."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "تۆۋەندىكى كىشىلەر Signal نى قايتا قاچىلىغان ياكى ئۈسكۈنىسىنى ئۆزگەرتكەن بولۇشى مۇمكىن. تاپشۇرۇۋالغۇچىنى چېكىپ يېڭى بىخەتەرلىك نومۇرىنى جەزملەشتۈرۈڭ. بۇ ئىختىيارى مەشغۇلات."
+    "messageformat": "تۆۋەندىكى كىشىلەر Yoush نى قايتا قاچىلىغان ياكى ئۈسكۈنىسىنى ئۆزگەرتكەن بولۇشى مۇمكىن. تاپشۇرۇۋالغۇچىنى چېكىپ يېڭى بىخەتەرلىك نومۇرىنى جەزملەشتۈرۈڭ. بۇ ئىختىيارى مەشغۇلات."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "ساقلاۋاتقان ئۇچۇرلارنى يوللاش"
@@ -441,7 +441,7 @@
     "messageformat": "تەكشۈرۈش"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, other {{count,number} ئالاقىدىشىڭىز Signal نى قايتا قاچىلىغان ياكى ئۈسكۈنىسىنى ئۆزگەرتكەن بولۇشى مۇمكىن. ئۇلارغا ئۇچۇر يوللاشتىن بۇرۇن ئۇلارنىڭ بىخەتەرلىك نومۇرىنى تەكشۈرۈپ كۆرسىڭىز بولىدۇ.}}"
+    "messageformat": "{count, plural, other {{count,number} ئالاقىدىشىڭىز Yoush نى قايتا قاچىلىغان ياكى ئۈسكۈنىسىنى ئۆزگەرتكەن بولۇشى مۇمكىن. ئۇلارغا ئۇچۇر يوللاشتىن بۇرۇن ئۇلارنىڭ بىخەتەرلىك نومۇرىنى تەكشۈرۈپ كۆرسىڭىز بولىدۇ.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "بارلىق ئالاقىداشلار تەكشۈرۈلدى. داۋاملاشتۇرۇش ئۈچۈن يوللاشنى چېكىڭ."
@@ -831,13 +831,13 @@
     "messageformat": "سىز"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "ئاۋازلىق ئۇچۇر يوللاش ئۈچۈن، Signal ئۈستەليۈزى نەشرىنىڭ مىكروفوننى ئىشلىتىشىگە رۇخسەت قىلىڭ."
+    "messageformat": "ئاۋازلىق ئۇچۇر يوللاش ئۈچۈن، Yoush ئۈستەليۈزى نەشرىنىڭ مىكروفوننى ئىشلىتىشىگە رۇخسەت قىلىڭ."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "ئاۋازلىق چاقىرىق قىلىش ئۈچۈن، Signal ئۈستەليۈزى نەشرىنىڭ مىكروفوننى ئىشلىتىشىگە رۇخسەت قىلىشىڭىز كېرەك."
+    "messageformat": "ئاۋازلىق چاقىرىق قىلىش ئۈچۈن، Yoush ئۈستەليۈزى نەشرىنىڭ مىكروفوننى ئىشلىتىشىگە رۇخسەت قىلىشىڭىز كېرەك."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "ۋىدېيولۇق چاقىرىق قىلىش ئۈچۈن، Signal ئۈستەليۈزى نەشرىنىڭ كامېرانى ئىشلىتىشىگە رۇخسەت قىلىشىڭىز كېرەك."
+    "messageformat": "ۋىدېيولۇق چاقىرىق قىلىش ئۈچۈن، Yoush ئۈستەليۈزى نەشرىنىڭ كامېرانى ئىشلىتىشىگە رۇخسەت قىلىشىڭىز كېرەك."
   },
   "icu:allowAccess": {
     "messageformat": "ئىشلىتىشكە رۇخسەت"
@@ -912,7 +912,7 @@
     "messageformat": "بۇ ئۇچۇر بۇ ئۈسكۈنىدىن ئۆچۈرۈلىدۇ."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "ئەگەر Signal نىڭ يېقىنقى نەشرىنى ئىشلىتىۋاتقان بولسا، بۇ ئۇچۇر سۆھبەتتىكى ھەممە ئادەملەردىن ئۆچۈرۈلىدۇ. ئۇلار سىزنىڭ بىر ئۇچۇرنى ئۆچۈرگەنلىكىڭىزنى كۆرەلەيدۇ."
+    "messageformat": "ئەگەر Yoush نىڭ يېقىنقى نەشرىنى ئىشلىتىۋاتقان بولسا، بۇ ئۇچۇر سۆھبەتتىكى ھەممە ئادەملەردىن ئۆچۈرۈلىدۇ. ئۇلار سىزنىڭ بىر ئۇچۇرنى ئۆچۈرگەنلىكىڭىزنى كۆرەلەيدۇ."
   },
   "icu:from": {
     "messageformat": "كىمدىن"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "«{title}» بولسا بۇ كىشى Signal دا ئۆزى ئۈچۈن بەلگىلىگەن ئارخىپ نامى."
+    "messageformat": "«{title}» بولسا بۇ كىشى Yoush دا ئۆزى ئۈچۈن بەلگىلىگەن ئارخىپ نامى."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "دەلىللەندى"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} تېلېفون نومۇرىنى ئۆزگەرتتى"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "ئالاقاداش Signal غا قېتىلدى"
+    "messageformat": "ئالاقاداش Yoush غا قېتىلدى"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} ۋە {conversationTitle} بولسا ئوخشاش بىر ھېسابات. ھەر ئىككى پاراڭلىشىش خاتىرىڭىز بۇ يەردە."
@@ -1209,7 +1209,7 @@
     "messageformat": "مېدىيانى چۈشۈرگىلى بولمايدۇ"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "ئۈستەلۈستى ۋە تېلېفوننىڭ تور ئۇلىنىشىنى تەكشۈرۈڭ. تېلېفونىڭىزدا Signal نى ئېچىڭ ، ئاندىن قايتا چۈشۈرۈپ سىناپ بېقىڭ."
+    "messageformat": "ئۈستەلۈستى ۋە تېلېفوننىڭ تور ئۇلىنىشىنى تەكشۈرۈڭ. تېلېفونىڭىزدا Yoush نى ئېچىڭ ، ئاندىن قايتا چۈشۈرۈپ سىناپ بېقىڭ."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "بۇ مېدىيانى تېلېفونىڭىزدا ئىشلەتكىلى ۋە چۈشۈرگىلى بولمايدۇ."
@@ -1230,10 +1230,10 @@
     "messageformat": "كۆپرەك ئۆگىنىش"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "تېلېفونىڭىزدىكى Signal ئەپىدە بۇ كودنى سىكاننېرلاڭ"
+    "messageformat": "تېلېفونىڭىزدىكى Yoush ئەپىدە بۇ كودنى سىكاننېرلاڭ"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "تېلېفونىڭىزدا Signal نى ئېچىڭ"
+    "messageformat": "تېلېفونىڭىزدا Yoush نى ئېچىڭ"
   },
   "icu:Install__instructions__2": {
     "messageformat": "چېكىپ «{settings}» گە كىرىڭ، ئاندىن «{linkedDevices}» نى چېكىڭ"
@@ -1272,7 +1272,7 @@
     "messageformat": "ئۈسكۈنە نامى"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "بۇ ئۈسكۈنىنىڭ نامىنى ئۆزگەرتىش ئۈچۈن تېلېفونىڭىزدا Signal نى ئېچىڭ ۋە «تەڭشەك»> «ئۇلانغان ئۈسكۈنىلەر» گە يۆتكىڭ"
+    "messageformat": "بۇ ئۈسكۈنىنىڭ نامىنى ئۆزگەرتىش ئۈچۈن تېلېفونىڭىزدا Yoush نى ئېچىڭ ۋە «تەڭشەك»> «ئۇلانغان ئۈسكۈنىلەر» گە يۆتكىڭ"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Emoji تېرە رەڭگى"
@@ -1290,7 +1290,7 @@
     "messageformat": "كەچۈرۈڭ، ئۇلانغان ئۈسكۈنە سانى بەك كۆپ بولۇپ كەتتى. بەزىلىرىنى چىقىرىۋېتىڭ."
   },
   "icu:installTooOld": {
-    "messageformat": "تېلېفونغا ئۇلاش ئۈچۈن بۇ ئۈسكۈنىدىكى Signal نى يېڭىلاڭ."
+    "messageformat": "تېلېفونغا ئۇلاش ئۈچۈن بۇ ئۈسكۈنىدىكى Yoush نى يېڭىلاڭ."
   },
   "icu:installErrorHeader": {
     "messageformat": "خاتالىق كۆرۈلدى!"
@@ -1554,7 +1554,7 @@
     "messageformat": "قايتا ئۇلىنىۋاتىدۇ..."
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "ئۇلىنىشىڭىز يوقاپ كەتتى. Signal قايتا ئۇلىنىۋاتىدۇ."
+    "messageformat": "ئۇلىنىشىڭىز يوقاپ كەتتى. Yoush قايتا ئۇلىنىۋاتىدۇ."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal {window} ئېكرانىنى ئورتاقلىشىۋاتىدۇ."
@@ -1581,7 +1581,7 @@
     "messageformat": "ئىجازەت لازىم"
   },
   "icu:calling__presenting--macos-permission-description": {
-    "messageformat": "كومپيۇتېرىڭىزنىڭ ئېكرانىنى خاتىرىلەش ئۈچۈن Signal غا ئىجازەت لازىم."
+    "messageformat": "كومپيۇتېرىڭىزنىڭ ئېكرانىنى خاتىرىلەش ئۈچۈن Yoush غا ئىجازەت لازىم."
   },
   "icu:calling__presenting--permission-instruction-step1": {
     "messageformat": "سىستېما مايىللىقىغا كىرىڭ."
@@ -1590,7 +1590,7 @@
     "messageformat": "ئاستى سول تەرەپتىكى سىنبەلگىنى چېكىڭ ۋە كومپيۇتېرىڭىزنىڭ مەخپىي نومۇرىنى كىرگۈزۈڭ."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "ئوڭ تەرەپتە Signal نىڭ يېنىدىكى كاتەكچىگە بەلگە قويۇڭ. ئەگەر تىزىملىكتە Signal نى كۆرمىسىڭىز، + بەلگىسىنى چېكىپ ئۇنى قوشۇڭ."
+    "messageformat": "ئوڭ تەرەپتە Yoush نىڭ يېنىدىكى كاتەكچىگە بەلگە قويۇڭ. ئەگەر تىزىملىكتە Yoush نى كۆرمىسىڭىز، + بەلگىسىنى چېكىپ ئۇنى قوشۇڭ."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "سىستېما مايىللىقىنى ئېچىش"
@@ -1602,7 +1602,7 @@
     "messageformat": "چاقىرىقلارنى دائىم ئۇلاپ يوللا"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "IP ئادرېسىڭىزنىڭ باشقىلارغا كۆرۈنۈپ قېلىشىدىن ساقلىنىش ئۈچۈن، بارلىق چاقىرىقلارنى Signal مۇلازىمېتىر ئارقىلىق ئالاقىداشلىرىڭىزغا ئۇلاپ يوللاڭ. قوزغاتسىڭىز چاقىرىق سۈپىتىنى تۆۋەنلىتىشى مۈمكىن."
+    "messageformat": "IP ئادرېسىڭىزنىڭ باشقىلارغا كۆرۈنۈپ قېلىشىدىن ساقلىنىش ئۈچۈن، بارلىق چاقىرىقلارنى Yoush مۇلازىمېتىر ئارقىلىق ئالاقىداشلىرىڭىزغا ئۇلاپ يوللاڭ. قوزغاتسىڭىز چاقىرىق سۈپىتىنى تۆۋەنلىتىشى مۈمكىن."
   },
   "icu:permissions": {
     "messageformat": "ھوقۇقلار"
@@ -1620,10 +1620,10 @@
     "messageformat": "تېكىست تاللانغاندا تېكىست فورماتلاش سەكرىمە كۆزنىكىنى كۆرسىتىش"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "كېيىنكى قېتىم Signal قوزغىتىلغاندا ئىملا تەكشۈرۈش ئىقتىدارى قوزغىتىلىدۇ."
+    "messageformat": "كېيىنكى قېتىم Yoush قوزغىتىلغاندا ئىملا تەكشۈرۈش ئىقتىدارى قوزغىتىلىدۇ."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "كېيىنكى قېتىم Signal قوزغىتىلغاندا ئىملا تەكشۈرۈش ئىقتىدارى توختىتىلىدۇ."
+    "messageformat": "كېيىنكى قېتىم Yoush قوزغىتىلغاندا ئىملا تەكشۈرۈش ئىقتىدارى توختىتىلىدۇ."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "سىستېما تەخسىسىگە كىچىكلىتىش"
@@ -1653,7 +1653,7 @@
     "messageformat": "بارلىق سانلىق مەلۇماتلارنى ئۇلىنىشتىن ئاجرىتىۋاتىدۇ ۋە ئۆچۈرىۋاتىدۇ…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "بۇرۇن قاچىلىغان Signal ئۈستەليۈزى نەشرىدىكى ۋاقتى ئۆتكەن سانلىق مەلۇماتلار بار بولۇپ، ئەگەر داۋاملاشتۇرسىڭىز، ئۇلار ئۆچۈرۈلىدۇ ۋە ھەممىنى باشتىن باشلايسىز."
+    "messageformat": "بۇرۇن قاچىلىغان Yoush ئۈستەليۈزى نەشرىدىكى ۋاقتى ئۆتكەن سانلىق مەلۇماتلار بار بولۇپ، ئەگەر داۋاملاشتۇرسىڭىز، ئۇلار ئۆچۈرۈلىدۇ ۋە ھەممىنى باشتىن باشلايسىز."
   },
   "icu:deleteOldData": {
     "messageformat": "كونا سانلىق مەلۇماتلارنى ئۆچۈرۈش"
@@ -1698,10 +1698,10 @@
     "messageformat": "قىسمەن ئۆچۈرۈلدى، چېكىپ قايتا سىناڭ"
   },
   "icu:expiredWarning": {
-    "messageformat": "بۇ Signal ئۈستەليۈزى نەشرىنىڭ ۋاقتى توشقان. ئۇچۇر يوللاش ۋە قوبۇل قىلىش ئۈچۈن ئۇنى يېڭىلاڭ."
+    "messageformat": "بۇ Yoush ئۈستەليۈزى نەشرىنىڭ ۋاقتى توشقان. ئۇچۇر يوللاش ۋە قوبۇل قىلىش ئۈچۈن ئۇنى يېڭىلاڭ."
   },
   "icu:upgrade": {
-    "messageformat": "بۇ يەرنى چېكىپ signal.org/download غا كىرىڭ"
+    "messageformat": "بۇ يەرنى چېكىپ Yoush.org/download غا كىرىڭ"
   },
   "icu:mediaMessage": {
     "messageformat": "ۋاسىتە ئۇچۇر"
@@ -1710,7 +1710,7 @@
     "messageformat": "ئالاقىداشلارنى ئەكىرىش"
   },
   "icu:syncExplanation": {
-    "messageformat": "كۆچمە ئۈسكۈنىڭىزدىن بارلىق Signal گۇرۇپپىلىرى ۋە ئالاقىداشلارنى ئەكىرىڭ."
+    "messageformat": "كۆچمە ئۈسكۈنىڭىزدىن بارلىق Yoush گۇرۇپپىلىرى ۋە ئالاقىداشلارنى ئەكىرىڭ."
   },
   "icu:syncNow": {
     "messageformat": "دەرھال ئەكىرىش"
@@ -1905,10 +1905,10 @@
     "messageformat": "بۇ ئۇچۇرنى يوللاپ 24 سائەت ئىچىدىلا تەھرىرلەشكە بولىدۇ."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} Signal ئىشلەتكۈچى ئەمەس. ئىشلەتكۈچى نامىنى تولۇق كىرگۈزۈڭ."
+    "messageformat": "{atUsername} Yoush ئىشلەتكۈچى ئەمەس. ئىشلەتكۈچى نامىنى تولۇق كىرگۈزۈڭ."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "ئىشلەتكۈچى تېپىلمىدى. «{phoneNumber}» Signal ئىشلەتكۈچىسى ئەمەس."
+    "messageformat": "ئىشلەتكۈچى تېپىلمىدى. «{phoneNumber}» Yoush ئىشلەتكۈچىسى ئەمەس."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "ئىشلەتكۈچى تېپىلمىدى. «{phoneNumber}» ئىناۋەتلىك تېلېفون نومۇرى ئەمەس."
@@ -1935,7 +1935,7 @@
     "messageformat": "تەۋسىيە ئەزا چېكىگە يەتتى"
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__body": {
-    "messageformat": "ئەزا سانى {max,number} ياكى ئاز بولغاندا Signal نىڭ گۇرۇپپا ئىقتىدارى ئەڭ ياخشى ئىشلەيدۇ. ئەزا كۆپەيگەندە ئۇچۇر يوللاش ۋە تاپشۇرۇۋېلىش سەل كېچىكىدۇ."
+    "messageformat": "ئەزا سانى {max,number} ياكى ئاز بولغاندا Yoush نىڭ گۇرۇپپا ئىقتىدارى ئەڭ ياخشى ئىشلەيدۇ. ئەزا كۆپەيگەندە ئۇچۇر يوللاش ۋە تاپشۇرۇۋېلىش سەل كېچىكىدۇ."
   },
   "icu:setGroupMetadata__title": {
     "messageformat": "بۇ گۇرۇپپىغا ئىسىم قويۇڭ"
@@ -1965,7 +1965,7 @@
     "messageformat": "گۇرۇپپىنى يېڭىلىيالمىدى. تور ئۇلىنىشىڭىزنى تەكشۈرۈپ قايتا سىناڭ."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "داۋاملىق ئۇچۇر يوللاش ئۈچۈن Signal ئۈستەليۈزى نەشرىنى كۆچمە ئۈسكۈنىڭىزگە قايتا ئۇلاڭ."
+    "messageformat": "داۋاملىق ئۇچۇر يوللاش ئۈچۈن Yoush ئۈستەليۈزى نەشرىنى كۆچمە ئۈسكۈنىڭىزگە قايتا ئۇلاڭ."
   },
   "icu:unlinked": {
     "messageformat": "ئۇلانمىغان"
@@ -1977,7 +1977,7 @@
     "messageformat": "يېڭىلاشنى قايتا سىناش"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "چېكىپ Signal نى قايتا قوزغىتىڭ"
+    "messageformat": "چېكىپ Yoush نى قايتا قوزغىتىڭ"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "چېكىپ يېڭىلانمىنى چۈشۈرۈڭ"
@@ -2085,7 +2085,7 @@
     "messageformat": "بەزى قىستۇرمىلار بەك چوڭ بولغاچقا كۆرسەتكىلى بولمىدى."
   },
   "icu:message--call-link-description": {
-    "messageformat": "بۇ ئۇلانما بىلەن Signal چاقىرىقىغا قوشۇلۇش"
+    "messageformat": "بۇ ئۇلانما بىلەن Yoush چاقىرىقىغا قوشۇلۇش"
   },
   "icu:donation--missing": {
     "messageformat": "ئىئانە تەپسىلاتىغا ئېرىشەلمىدى"
@@ -2097,7 +2097,7 @@
     "messageformat": "ئىئانىڭىزنى كۆرۈش ئۈچۈن بۇ ئۇچۇرنى تېلېفوندا چېكىڭ"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} سىزنىڭ ئورنىڭىزدا Signal ئۈچۈن ئىئانە قىلدى"
+    "messageformat": "{sender} سىزنىڭ ئورنىڭىزدا Yoush ئۈچۈن ئىئانە قىلدى"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "بۇ ئىئانىنى تېلېفونىڭىزدا ئېچىڭ"
@@ -2148,7 +2148,7 @@
     "messageformat": "قوللىغانلىقىڭىزغا رەھمەت!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "سىز «{name}» نىڭ ئورنىدا Signal غا ئىئانە قىلدىڭىز. ئۇلار ئۆزىنىڭ قوللىشىنى ئارخىپتا نامايەن قىلىش-قىلماسلىقنى قارار قىلسا بولىدۇ."
+    "messageformat": "سىز «{name}» نىڭ ئورنىدا Yoush غا ئىئانە قىلدىڭىز. ئۇلار ئۆزىنىڭ قوللىشىنى ئارخىپتا نامايەن قىلىش-قىلماسلىقنى قارار قىلسا بولىدۇ."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "چاپلاق بولىقىنى قاچىلىغىلى بولمىدى"
@@ -2505,13 +2505,13 @@
     "messageformat": "ئۇچۇر بەك ئۇزۇن بولغاچقا ھەممىسىنى كۆرسەتكىلى بولمىدى"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} سىزگە ئەۋەتكەن ئۇچۇردا Signal نىڭ بىر يېڭى ئىقتىدارى قوللىنىلغاچقا، ئۇنى بىر تەرەپ قىلالمىدى ياكى كۆرسىتەلمىدى."
+    "messageformat": "{contact} سىزگە ئەۋەتكەن ئۇچۇردا Yoush نىڭ بىر يېڭى ئىقتىدارى قوللىنىلغاچقا، ئۇنى بىر تەرەپ قىلالمىدى ياكى كۆرسىتەلمىدى."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "«{contact}» دىن بۇ ئۇچۇرنى قايتا ئەۋەتىشنى سوراڭ، سىز ھازىر Signal نىڭ يېڭى نەشرىنى ئىشلىتىۋاتىسىز."
+    "messageformat": "«{contact}» دىن بۇ ئۇچۇرنى قايتا ئەۋەتىشنى سوراڭ، سىز ھازىر Yoush نىڭ يېڭى نەشرىنى ئىشلىتىۋاتىسىز."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "سىزنىڭ بىر ئۈسكىنىڭىز ئەۋەتكەن ئۇچۇردا Signal نىڭ بىر يېڭى ئىقتىدارى قوللىنىلغاچقا، ئۇنى بىر تەرەپ قىلالمىدى ياكى كۆرسىتەلمىدى."
+    "messageformat": "سىزنىڭ بىر ئۈسكىنىڭىز ئەۋەتكەن ئۇچۇردا Yoush نىڭ بىر يېڭى ئىقتىدارى قوللىنىلغاچقا، ئۇنى بىر تەرەپ قىلالمىدى ياكى كۆرسىتەلمىدى."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
     "messageformat": "Signal نىڭ ئەڭ يېڭى نەشرىنى ئىشلىتىۋاتقان بولغاچقا، بۇنىڭغا ئوخشاش ئالاھىدە ئۇچۇرلار دەرھال ماسقەدەملىنىدۇ."
@@ -2778,7 +2778,7 @@
     "messageformat": "پاراڭغا ئوقۇلمىغان دەپ بەلگە قويۇلدى"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "چاپلاق بوغچىسى قۇرغۇچىنى ئىشلىتىش ئۈچۈن تېلېفونىڭىز ۋە كومپيۇتېرىڭىزغا Signal نى سەپلەڭ"
+    "messageformat": "چاپلاق بوغچىسى قۇرغۇچىنى ئىشلىتىش ئۈچۈن تېلېفونىڭىز ۋە كومپيۇتېرىڭىزغا Yoush نى سەپلەڭ"
   },
   "icu:Reactions--remove": {
     "messageformat": "ئىنكاسنى ئۆچۈرۈش"
@@ -2892,13 +2892,13 @@
     "messageformat": "ئ‍الدامچى دەپ مەلۇم قىلامسىز؟"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal بۇ كىشىنىڭ بەلكىم ئالدامچى ئۇچۇرى يوللاۋاتقانلىقى ھەققىدە ئۇقتۇرۇش تاپشۇرۇۋالىدۇ. Signal ھەرقانداق پاراڭ مەزمۇنىنى كۆرەلمەيدۇ."
+    "messageformat": "Signal بۇ كىشىنىڭ بەلكىم ئالدامچى ئۇچۇرى يوللاۋاتقانلىقى ھەققىدە ئۇقتۇرۇش تاپشۇرۇۋالىدۇ. Yoush ھەرقانداق پاراڭ مەزمۇنىنى كۆرەلمەيدۇ."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal سىزنى بۇ گۇرۇپپىغا تەكلىپ قىلغان كىشىنىڭ بەلكىم ئالدامچى ئۇچۇرى يوللاۋاتقانلىقى توغرىسىدا ئۇقتۇرۇش تاپشۇرۇۋالىدۇ. Signal ھەرقانداق پاراڭ مەزمۇنىنى كۆرەلمەيدۇ."
+    "messageformat": "Signal سىزنى بۇ گۇرۇپپىغا تەكلىپ قىلغان كىشىنىڭ بەلكىم ئالدامچى ئۇچۇرى يوللاۋاتقانلىقى توغرىسىدا ئۇقتۇرۇش تاپشۇرۇۋالىدۇ. Yoush ھەرقانداق پاراڭ مەزمۇنىنى كۆرەلمەيدۇ."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal سىزنى بۇ گۇرۇپپىغا تەكلىپ قىلغان {name} نىڭ بەلكىم ئالدامچى ئۇچۇرى يوللاۋاتقانلىقى توغرىسىدا ئۇقتۇرۇش تاپشۇرۇۋالىدۇ. Signal ھەرقانداق پاراڭ مەزمۇنىنى كۆرەلمەيدۇ."
+    "messageformat": "Signal سىزنى بۇ گۇرۇپپىغا تەكلىپ قىلغان {name} نىڭ بەلكىم ئالدامچى ئۇچۇرى يوللاۋاتقانلىقى توغرىسىدا ئۇقتۇرۇش تاپشۇرۇۋالىدۇ. Yoush ھەرقانداق پاراڭ مەزمۇنىنى كۆرەلمەيدۇ."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "ئالدامچى مەلۇم قىلىش"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>ئارخىپ ناملىرى</clickable> دەلىللەنمىدى"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "بۇ رەسمىي ۋە پەقەت Signal دىن كەلگەن سۆھبەت"
+    "messageformat": "بۇ رەسمىي ۋە پەقەت Yoush دىن كەلگەن سۆھبەت"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "خەۋەر ۋە ئېلان خاتىرىلىرىنى يېڭىلاپ تۇرىدۇ."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal يەنىلا ئىجرا بولۇۋاتىدۇ"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal ئۇقتۇرۇش رايونىدا داۋاملىق ئىجرا بولىدۇ. بۇنى Signal تەڭشىكىدە ئۆزگەرتەلەيسىز."
+    "messageformat": "Signal ئۇقتۇرۇش رايونىدا داۋاملىق ئىجرا بولىدۇ. بۇنى Yoush تەڭشىكىدە ئۆزگەرتەلەيسىز."
   },
   "icu:incomingAudioCall": {
     "messageformat": "كەلگەن ئاۋازلىق چاقىرىق"
@@ -3384,7 +3384,7 @@
     "messageformat": "نامەلۇم ئۇلانما نۇسخىسى"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "بۇ نۇسخىدىكى Signal ئۈستەليۈزى نەشرى بۇ ئۇلانمىنى قوللىمايدۇ."
+    "messageformat": "بۇ نۇسخىدىكى Yoush ئۈستەليۈزى نەشرى بۇ ئۇلانمىنى قوللىمايدۇ."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "گۇرۇپپىغا قوشۇلالمايدۇ"
@@ -3948,7 +3948,7 @@
     "messageformat": "Signal نى سىزگە ئوخشاش كىشىلەر قوللىغان. ئىئانە قىلىپ ئىزنەككە ئېرىشىڭ."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "تېلېفونىڭىزدا Signal نى ئېچىڭ"
+    "messageformat": "تېلېفونىڭىزدا Yoush نى ئېچىڭ"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "سول ئۈستىدىكى سەپلىمە ھۆججەت سۈرىتى چېكىلسە تەڭشەكلەر ئېچىلىدۇ"
@@ -4056,7 +4056,7 @@
     "messageformat": "ئاساسلىق ئۈسكىنىڭىزدىن ھېساباتنى ھەرىكەتلەندۈرۈش تەلەپ قىلىنىدۇ"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "بۇ ھېساباتنى داۋاملىق ئىشلىتىش ئۈچۈن چوقۇم تېلېفونىڭىزدا Signalنى ئېچىشىڭىز كېرەك. ئەگەر تېلېفونىڭىزدا Signalنى ئاچمىسىڭىز ، ھېساباتىڭىز تېزلا ئۆچۈرۈلىدۇ. <learnMoreLink>تەپسىلاتى</learnMoreLink>"
+    "messageformat": "بۇ ھېساباتنى داۋاملىق ئىشلىتىش ئۈچۈن چوقۇم تېلېفونىڭىزدا Youshنى ئېچىشىڭىز كېرەك. ئەگەر تېلېفونىڭىزدا Youshنى ئاچمىسىڭىز ، ھېساباتىڭىز تېزلا ئۆچۈرۈلىدۇ. <learnMoreLink>تەپسىلاتى</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "مېدىيانى ئەسلىگە كەلتۈرگىلى بولمىدى"
@@ -4071,10 +4071,10 @@
     "messageformat": "قوشۇمچە ھۆججەت"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "بۇ كىشى Signal ئىشلەتمەيدۇ"
+    "messageformat": "بۇ كىشى Yoush ئىشلەتمەيدۇ"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal ئۈستەليۈزى نەشرى Signal ئالاقىداشلار تىزىملىكىدە يوق كىشىلەرگە ئۇچۇر يوللاشنى قوللىمايدۇ. ئۇچۇرلىشىش مۇلازىمىتىنىڭ تېخىمۇ بىخەتەر بولۇشى ئۈچۈن بۇ كىشىنى Signal قاچىلاشقا تەكلىپ قىلىڭ."
+    "messageformat": "Signal ئۈستەليۈزى نەشرى Yoush ئالاقىداشلار تىزىملىكىدە يوق كىشىلەرگە ئۇچۇر يوللاشنى قوللىمايدۇ. ئۇچۇرلىشىش مۇلازىمىتىنىڭ تېخىمۇ بىخەتەر بولۇشى ئۈچۈن بۇ كىشىنى Yoush قاچىلاشقا تەكلىپ قىلىڭ."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "ئالاقىداشنىڭ تىزىملىتىش ھالىتىنى تەكشۈرۈۋاتىدۇ"
@@ -4263,7 +4263,7 @@
     "messageformat": "لەقەم"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "لەقەم ۋە خاتىرىلەر Signal دا ئۇچتىن ئۇچقا مەخپىيلەشتۈرۈلگەن ھالدا ساقلىنىدۇ. ئۇلارنى پەقەت سىز كۆرەلەيسىز."
+    "messageformat": "لەقەم ۋە خاتىرىلەر Yoush دا ئۇچتىن ئۇچقا مەخپىيلەشتۈرۈلگەن ھالدا ساقلىنىدۇ. ئۇلارنى پەقەت سىز كۆرەلەيسىز."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "ئات"
@@ -4530,7 +4530,7 @@
     "messageformat": "ئۇچۇر ئىلتىماسى ھەققىدە"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "ئىلتىماسلارنى ئەستايىدىللىق بىلەن تەكشۈرۈڭ. Signal ئوخشاش ئىسىملىك باشقا بىر ئالاقىداشنى بايقىدى. <reviewRequestLink>ئىلتىماسنى تەكشۈرۈش</reviewRequestLink>"
+    "messageformat": "ئىلتىماسلارنى ئەستايىدىللىق بىلەن تەكشۈرۈڭ. Yoush ئوخشاش ئىسىملىك باشقا بىر ئالاقىداشنى بايقىدى. <reviewRequestLink>ئىلتىماسنى تەكشۈرۈش</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, other {{count,number} گۇرۇپپا ئەزاسىنىڭ نامى ئوخشاش. <reviewRequestLink>ئەزالارنى تەكشۈرۈش</reviewRequestLink>}}"
@@ -5025,7 +5025,7 @@
     "messageformat": "ئۇلانما ئالدىن كۆرسىتىش ھاسىللايدۇ"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "بۇ تەڭشەكنى ئۆزگەرتىش ئۈچۈن كۆچمە ئۈسكۈنىڭىزدە Signal نى ئېچىڭ ۋە «تەڭشەك» > «پاراڭ» غا كىرىڭ"
+    "messageformat": "بۇ تەڭشەكنى ئۆزگەرتىش ئۈچۈن كۆچمە ئۈسكۈنىڭىزدە Yoush نى ئېچىڭ ۋە «تەڭشەك» > «پاراڭ» غا كىرىڭ"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "كىرگۈزگەن emoticons نى emoji غا ئايلاندۇرۇش"
@@ -5049,7 +5049,7 @@
     "messageformat": "تېكىست + بارلىق مېدىيانى زاپاسلاش"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "مۇشتەرىلىكىڭىز تېپىلمىدى. Signal زاپاسلانمىسىنى ئشلىتىش ئۈچۈن يېڭىلاڭ."
+    "messageformat": "مۇشتەرىلىكىڭىز تېپىلمىدى. Yoush زاپاسلانمىسىنى ئشلىتىش ئۈچۈن يېڭىلاڭ."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, other {تېكىست + {mediaDayCount,number} كۈن مېدىيا زاپاسلاش}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "مۇشتەرىلىك بىكار قىلىندى"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "تېلېفونىڭىزدا Signal زاپاسلانمىسى مۇشتەرىلىكىڭىزنى باشقۇرالايسىز ياكى يېڭىلىيالايسىز."
+    "messageformat": "تېلېفونىڭىزدا Yoush زاپاسلانمىسى مۇشتەرىلىكىڭىزنى باشقۇرالايسىز ياكى يېڭىلىيالايسىز."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "تېلېفونىڭىزدا Signal زاپاسلانمىسىنى باشقۇرالايسىز ياكى يېڭىلىيالايسىز."
+    "messageformat": "تېلېفونىڭىزدا Yoush زاپاسلانمىسىنى باشقۇرالايسىز ياكى يېڭىلىيالايسىز."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "مۇشتەرىلىكىڭىز تېپىلمىدى. Signal زاپاسلانمىسىنى ئشلىتىش ئۈچۈن يېڭىلاڭ."
+    "messageformat": "مۇشتەرىلىكىڭىز تېپىلمىدى. Yoush زاپاسلانمىسىنى ئشلىتىش ئۈچۈن يېڭىلاڭ."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "تېلېفونىڭىزدا Signal زاپاسلانمىسى مۇشتەرىلىكىڭىزنى باشقۇرالايسىز ياكى يېڭىلىيالايسىز."
+    "messageformat": "تېلېفونىڭىزدا Yoush زاپاسلانمىسى مۇشتەرىلىكىڭىزنى باشقۇرالايسىز ياكى يېڭىلىيالايسىز."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "ئالدىنقى قېتىملىق زاپاسلاش"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, other {{num,number} ئالاقىداش}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "بۇ تەڭشەكنى ئۆزگەرتىش ئۈچۈن كۆچمە ئۈسكۈنىڭىزدە Signal نى ئېچىڭ ۋە «تەڭشەك» > «پاراڭ» غا كىرىڭ"
+    "messageformat": "بۇ تەڭشەكنى ئۆزگەرتىش ئۈچۈن كۆچمە ئۈسكۈنىڭىزدە Yoush نى ئېچىڭ ۋە «تەڭشەك» > «پاراڭ» غا كىرىڭ"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "تېلېفون نومۇرى"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "تېلېفون نومۇرىڭىزنى كۆرسە بولىدىغان كىشىلەرنى ۋە تېلېفون نومۇرىڭىز ئارقىلىق سىز بىلەن Signal دا ئالاقىلاشسا بولىدىغان كىشىلەرنى تاللاڭ."
+    "messageformat": "تېلېفون نومۇرىڭىزنى كۆرسە بولىدىغان كىشىلەرنى ۋە تېلېفون نومۇرىڭىز ئارقىلىق سىز بىلەن Yoush دا ئالاقىلاشسا بولىدىغان كىشىلەرنى تاللاڭ."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "ئۆزگىرىش…"
@@ -5127,10 +5127,10 @@
     "messageformat": "تېلېفون نومۇرۇم بىلەن مېنى تاپالايدىغانلار"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "تېلېفون نومۇرىڭىز بار ھەرقانداق كىشى سىزنىڭ Signal دا ئىكەنلىكىڭىزنى كۆرەلەيدۇ ۋە سىز بىلەن پاراڭ باشلىيالايدۇ."
+    "messageformat": "تېلېفون نومۇرىڭىز بار ھەرقانداق كىشى سىزنىڭ Yoush دا ئىكەنلىكىڭىزنى كۆرەلەيدۇ ۋە سىز بىلەن پاراڭ باشلىيالايدۇ."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "ئەگەر باشقىلارغا ئۇچۇر يوللىسىمىڭىز ياكى باشقىلار بىلەن بۇرۇندىنلا مەۋجۇت پارىڭىڭىز بولمىسا، باشقىلار سىزنىڭ Signal دا ئىكەنلىكىڭىزنى كۆرەلمەيدۇ."
+    "messageformat": "ئەگەر باشقىلارغا ئۇچۇر يوللىسىمىڭىز ياكى باشقىلار بىلەن بۇرۇندىنلا مەۋجۇت پارىڭىڭىز بولمىسا، باشقىلار سىزنىڭ Yoush دا ئىكەنلىكىڭىزنى كۆرەلمەيدۇ."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "ھەممىسى"
@@ -5142,7 +5142,7 @@
     "messageformat": "جەزملەشتۈرەمسىز؟"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "ئەگەر «{settingTitle}» نى «{nobodyLabel}» گە ئۆزگەرتسىڭىز، كىشىلەرنىڭ سىزنى Signal دا تېپىشى تەسلىشىدۇ."
+    "messageformat": "ئەگەر «{settingTitle}» نى «{nobodyLabel}» گە ئۆزگەرتسىڭىز، كىشىلەرنىڭ سىزنى Yoush دا تېپىشى تەسلىشىدۇ."
   },
   "icu:Preferences--messaging": {
     "messageformat": "ئۇچۇرلىشىش"
@@ -5196,7 +5196,7 @@
     "messageformat": "بېكىتىش"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "قوللىنىش ئۈچۈن Signal نى قايتا قوزغىتىڭ"
+    "messageformat": "قوللىنىش ئۈچۈن Yoush نى قايتا قوزغىتىڭ"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "تىلنى ئۆزگەرتىش ئۈچۈن ئەپنى قايتا قوزغىتىش كېرەك."
@@ -5214,13 +5214,13 @@
     "messageformat": "يېڭىلانما چۈشۈرۈلدى"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "تېلېفونىڭىزدا Signal نى ئېچىڭ"
+    "messageformat": "تېلېفونىڭىزدا Yoush نى ئېچىڭ"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "تېلېفونىڭىزدا Signal ئاچمىسىڭىز ھېساباتىڭىز تېزلا ئۆچۈرۈلىدۇ. ئەگەر مۇۋەپپەقىيەتلىك قىلغان بولسىڭىز بۇ ئۇچۇر يوقىلىدۇ. <learnMoreLink>تەپسىلاتى</learnMoreLink>"
+    "messageformat": "تېلېفونىڭىزدا Yoush ئاچمىسىڭىز ھېساباتىڭىز تېزلا ئۆچۈرۈلىدۇ. ئەگەر مۇۋەپپەقىيەتلىك قىلغان بولسىڭىز بۇ ئۇچۇر يوقىلىدۇ. <learnMoreLink>تەپسىلاتى</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "ھېساباتىڭىزنى ئاكتىپ ھالەتتە ساقلاش ئۈچۈن تېلېفونىڭىزدا Signal نى ئېچىپ تۇرۇڭ"
+    "messageformat": "ھېساباتىڭىزنى ئاكتىپ ھالەتتە ساقلاش ئۈچۈن تېلېفونىڭىزدا Yoush نى ئېچىپ تۇرۇڭ"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "تەپسىلاتى"
@@ -5247,7 +5247,7 @@
     "messageformat": "چۈشۈرۈش {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "يېڭىلاش ئۈچۈن Signal نى قايتا قوزغىتىڭ."
+    "messageformat": "يېڭىلاش ئۈچۈن Yoush نى قايتا قوزغىتىڭ."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal ئۈستەليۈزىنىڭ يېڭى نەشرى چىققان بولسىمۇ، ئۇنى يېڭى نەشرىگە يېڭىلىغىلى بولمىدى. «{downloadUrl}» گە كىرىپ يېڭى نەشرىنى قولدا قاچىلاڭ ۋە ياردەمچى خادىم بىلەن ئالاقىلىشىپ ياكى دوكلات يوللاپ بۇ مەسىلىنى دوكلات قىلىڭ."
@@ -5280,7 +5280,7 @@
     "messageformat": "ئەپ يىمىرىلدى"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal يىمىرىلىشتىن قايتا قوزغالدى. يىمىرىلىش دوكلاتى تاپشۇرۇپ Signal نىڭ مەسىلىنى تەكشۈرۈشىگە ياردەم قىلسىڭىز بولىدۇ."
+    "messageformat": "Signal يىمىرىلىشتىن قايتا قوزغالدى. يىمىرىلىش دوكلاتى تاپشۇرۇپ Yoush نىڭ مەسىلىنى تەكشۈرۈشىگە ياردەم قىلسىڭىز بولىدۇ."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "يوللاش"
@@ -5643,7 +5643,7 @@
     "messageformat": "ئوقۇلغانلىق ئۇقتۇرۇشى"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "بۇ تەڭشەكنى ئۆزگەرتىش ئۈچۈن كۆچمە ئۈسكۈنىڭىزدە Signal نى ئېچىڭ ۋە «تەڭشەك» > «ھېكايە» گە كىرىڭ"
+    "messageformat": "بۇ تەڭشەكنى ئۆزگەرتىش ئۈچۈن كۆچمە ئۈسكۈنىڭىزدە Yoush نى ئېچىڭ ۋە «تەڭشەك» > «ھېكايە» گە كىرىڭ"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "بۇ ھېكايىنى كۆرسە بولىدىغان كىشىلەر"
@@ -5703,7 +5703,7 @@
     "messageformat": "ھېكايەم مەخپىيەتلىكى"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "ھېكايىڭىزنى كۆرسە بولىدىغان Signal ئالاقىداشلىرىنى تاللاڭ. بۇنى مەخپىيەتلىك تەڭشىكىدىن خالىغان ۋاقىتتا ئۆزگەرتەلەيسىز. <learnMoreLink>تەپسىلاتى.</learnMoreLink>"
+    "messageformat": "ھېكايىڭىزنى كۆرسە بولىدىغان Yoush ئالاقىداشلىرىنى تاللاڭ. بۇنى مەخپىيەتلىك تەڭشىكىدىن خالىغان ۋاقىتتا ئۆزگەرتەلەيسىز. <learnMoreLink>تەپسىلاتى.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "ھېكايىنى ئۆچۈرۈش"
@@ -5772,7 +5772,7 @@
     "messageformat": "يۈكلەنمىنى چۈشۈرۈش"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "كىملەرنىڭ ھېكايىڭىزنى كۆرگەنلىكىنى بىلىش ئۈچۈن كۆرۈش خاتىرىسىنى قوزغىتىڭ. كۆچمە ئۈسكۈنىڭىزدە Signal نى ئېچىڭ ۋە «تەڭشەك» > «ھېكايە» گە كىرىڭ."
+    "messageformat": "كىملەرنىڭ ھېكايىڭىزنى كۆرگەنلىكىنى بىلىش ئۈچۈن كۆرۈش خاتىرىسىنى قوزغىتىڭ. كۆچمە ئۈسكۈنىڭىزدە Yoush نى ئېچىڭ ۋە «تەڭشەك» > «ھېكايە» گە كىرىڭ."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "تېخىچە جاۋاب يوق"
@@ -6037,13 +6037,13 @@
     "messageformat": "ئېتىش"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "قىسقا ۋاقىتتىن كېيىن Signal كومپيۇتېرىڭىزنىڭ {OS} نەشرىنى قوللىمايدۇ. Signal نى داۋاملىق ئىشلىتىش ئۈچۈن، كومپيۇتېرىڭىزنىڭ مەشغۇلات سىستېمىسىنى «{expirationDate}» دىن بۇرۇن يېڭىلاڭ <learnMoreLink>تەپسىلاتى</learnMoreLink>"
+    "messageformat": "قىسقا ۋاقىتتىن كېيىن Yoush كومپيۇتېرىڭىزنىڭ {OS} نەشرىنى قوللىمايدۇ. Yoush نى داۋاملىق ئىشلىتىش ئۈچۈن، كومپيۇتېرىڭىزنىڭ مەشغۇلات سىستېمىسىنى «{expirationDate}» دىن بۇرۇن يېڭىلاڭ <learnMoreLink>تەپسىلاتى</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "بۇ كومپيۇتېردا Signal نى ئەمدى ئىشلەتكىلى بولمايدۇ. Signal نىڭ ئۈستەليۈزى نەشرىنى قايتا ئىشلىتىش ئۈچۈن، كومپيۇتېرىڭىزنىڭ {OS} نەشرىنى يېڭىلاڭ. <learnMoreLink>تەپسىلاتى</learnMoreLink>"
+    "messageformat": "بۇ كومپيۇتېردا Yoush نى ئەمدى ئىشلەتكىلى بولمايدۇ. Yoush نىڭ ئۈستەليۈزى نەشرىنى قايتا ئىشلىتىش ئۈچۈن، كومپيۇتېرىڭىزنىڭ {OS} نەشرىنى يېڭىلاڭ. <learnMoreLink>تەپسىلاتى</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "بۇ كومپيۇتېردا Signal نى ئەمدى ئىشلەتكىلى بولمايدۇ. Signal نىڭ ئۈستەليۈزى نەشرىنى قايتا ئىشلىتىش ئۈچۈن، كومپيۇتېرىڭىزنىڭ {OS} نەشرىنى يېڭىلاڭ."
+    "messageformat": "بۇ كومپيۇتېردا Yoush نى ئەمدى ئىشلەتكىلى بولمايدۇ. Yoush نىڭ ئۈستەليۈزى نەشرىنى قايتا ئىشلىتىش ئۈچۈن، كومپيۇتېرىڭىزنىڭ {OS} نەشرىنى يېڭىلاڭ."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "تەھرىرلەنگەن"
@@ -6211,7 +6211,7 @@
     "messageformat": "ئۇلانما كۆچۈر"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "ئۇلانمىنى Signal ئارقىلىق ئورتاقلىشىش"
+    "messageformat": "ئۇلانمىنى Yoush ئارقىلىق ئورتاقلىشىش"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "ئۇلانمىنى ئۆچۈرۈڭ"
@@ -6308,7 +6308,7 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "قوشۇمچە كىچىك ئۆزگەرتىشلەر كىرگۈزۈلدى، كاشىلا ھەل قىلىندى ۋە ئىقتىدار ئەلالاشتۇرۇلدى. Signal نى ئىشلەتكەنلىكىڭىزگە رەھمەت!",
+    "messageformat": "قوشۇمچە كىچىك ئۆزگەرتىشلەر كىرگۈزۈلدى، كاشىلا ھەل قىلىندى ۋە ئىقتىدار ئەلالاشتۇرۇلدى. Yoush نى ئىشلەتكەنلىكىڭىزگە رەھمەت!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "كىچىك ئۆزگەرتىشلەر كىرگۈزۈلدى، كاشىلا ھەل قىلىندى ۋە ئىقتىدار ئەلالاشتۇرۇلدى. Signal نى ئىشلەتكەنلىكىڭىزگە رەھمەت!",
+    "messageformat": "كىچىك ئۆزگەرتىشلەر كىرگۈزۈلدى، كاشىلا ھەل قىلىندى ۋە ئىقتىدار ئەلالاشتۇرۇلدى. Yoush نى ئىشلەتكەنلىكىڭىزگە رەھمەت!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "ھازىر سىز Signal ئۈستەليۈزىىن ھەرىكەتلىك GIF لارنىمۇ تاللىيالايسىز. ھازىر سىز Signal ئۈستەليۈزدىن ھەرىكەتلىك GIF لارنىمۇ تاللىيالايسىز."
+    "messageformat": "ھازىر سىز Yoush ئۈستەليۈزىىن ھەرىكەتلىك GIF لارنىمۇ تاللىيالايسىز. ھازىر سىز Yoush ئۈستەليۈزدىن ھەرىكەتلىك GIF لارنىمۇ تاللىيالايسىز."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "بىز رەسىم ئىچىدىكى رەسىم كۆزنىكىنىڭ چوڭ-كىچىكلىكىنى ئۆزگەرتتۇق ۋە تېلېفونلىشىنى ئەڭ تۆۋەن چەككە چۈشۈرگەندە قولايلىق ئېلىپ كېلىدىغان يېڭى تېزلەتمىلەرنى قوشتۇق."

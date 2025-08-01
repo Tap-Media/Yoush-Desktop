@@ -78,13 +78,13 @@
     "messageformat": "Signal ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "ಸಮಸ್ಯೆಯನ್ನು ಸರಿಪಡಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು, ಬೆಂಬಲ ಪುಟದಲ್ಲಿರುವ ರಿಕವರಿ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಅನುಸರಿಸಿ ಅಥವಾ ಸಮಸ್ಯೆಯನ್ನು ಸರಿಪಡಿಸಲು ಸಹಾಯ ಮಾಡಲು Signal ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ.\n\nನೀವು ಈಗಿನಿಂದಲೇ Signal ಬಳಸಬೇಕಾದರೆ, ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಅಳಿಸಬಹುದು ಮತ್ತು ಈ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ಮರುಲಿಂಕ್ ಮಾಡಬಹುದು. ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಸಂದೇಶ ಇತಿಹಾಸವನ್ನು ವರ್ಗಾಯಿಸುವ ಆಯ್ಕೆಯನ್ನು ನೀವು ಹೊಂದಿರುತ್ತೀರಿ."
+    "messageformat": "ಸಮಸ್ಯೆಯನ್ನು ಸರಿಪಡಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು, ಬೆಂಬಲ ಪುಟದಲ್ಲಿರುವ ರಿಕವರಿ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಅನುಸರಿಸಿ ಅಥವಾ ಸಮಸ್ಯೆಯನ್ನು ಸರಿಪಡಿಸಲು ಸಹಾಯ ಮಾಡಲು Yoush ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ.\n\nನೀವು ಈಗಿನಿಂದಲೇ Yoush ಬಳಸಬೇಕಾದರೆ, ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಅಳಿಸಬಹುದು ಮತ್ತು ಈ ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ಮರುಲಿಂಕ್ ಮಾಡಬಹುದು. ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಸಂದೇಶ ಇತಿಹಾಸವನ್ನು ವರ್ಗಾಯಿಸುವ ಆಯ್ಕೆಯನ್ನು ನೀವು ಹೊಂದಿರುತ್ತೀರಿ."
   },
   "icu:databaseError": {
     "messageformat": "ಡೇಟಾಬೇಸಿನಲ್ಲಿ ದೋಷ"
   },
   "icu:databaseError__detail": {
-    "messageformat": "ಡೇಟಾಬೇಸ್ ದೋಷ ಸಂಭವಿಸಿದೆ. ನೀವು ದೋಷವನ್ನು ನಕಲಿಸಬಹುದು ಮತ್ತು ಈ ಸಮಸ್ಯೆಯನ್ನು ಸರಿಪಡಿಸಲು ನೆರವಾಗಲು Signal ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಬಹುದು. ನೀವು Signal ಅನ್ನು ಈಗಲೇ ಬಳಸಬೇಕಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಅಳಿಸಿ ಮರುಪ್ರಾರಂಭಿಸಬಹುದು.\n\nಇಲ್ಲಿಗೆ ಭೇಟಿ ನೀಡುವ ಮೂಲಕ ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ: {link}"
+    "messageformat": "ಡೇಟಾಬೇಸ್ ದೋಷ ಸಂಭವಿಸಿದೆ. ನೀವು ದೋಷವನ್ನು ನಕಲಿಸಬಹುದು ಮತ್ತು ಈ ಸಮಸ್ಯೆಯನ್ನು ಸರಿಪಡಿಸಲು ನೆರವಾಗಲು Yoush ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಬಹುದು. ನೀವು Yoush ಅನ್ನು ಈಗಲೇ ಬಳಸಬೇಕಿದ್ದಲ್ಲಿ, ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಅಳಿಸಿ ಮರುಪ್ರಾರಂಭಿಸಬಹುದು.\n\nಇಲ್ಲಿಗೆ ಭೇಟಿ ನೀಡುವ ಮೂಲಕ ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "ಡೇಟಾವನ್ನು ಅಳಿಸಿ ಮತ್ತು ಮರುಪ್ರಾರಂಭಿಸಿ"
@@ -93,10 +93,10 @@
     "messageformat": "ಎಲ್ಲಾ ಡೇಟಾವನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಿ"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಂದೇಶ ಇತಿಹಾಸ ಮತ್ತು ಮೀಡಿಯಾವನ್ನು ಶಾಶ್ವತವಾಗಿ ಈ ಸಾಧನದಿಂದ ಅಳಿಸಲಾಗುತ್ತದೆ. ಇದು ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಯಾವುದೇ ಡೇಟಾವನ್ನು ಅಳಿಸುವುದಿಲ್ಲ.\n\nಸಾಧನವನ್ನು ಮರುಲಿಂಕ್ ಮಾಡಿದ ನಂತರ ನಿಮಗೆ Signal ಅನ್ನು ಈ ಸಾಧನದಲ್ಲಿ ಬಳಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಸಂದೇಶ ಇತಿಹಾಸವನ್ನು ವರ್ಗಾಯಿಸುವ ಆಯ್ಕೆಯನ್ನು ನೀವು ಹೊಂದಿರುತ್ತೀರಿ."
+    "messageformat": "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಂದೇಶ ಇತಿಹಾಸ ಮತ್ತು ಮೀಡಿಯಾವನ್ನು ಶಾಶ್ವತವಾಗಿ ಈ ಸಾಧನದಿಂದ ಅಳಿಸಲಾಗುತ್ತದೆ. ಇದು ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಯಾವುದೇ ಡೇಟಾವನ್ನು ಅಳಿಸುವುದಿಲ್ಲ.\n\nಸಾಧನವನ್ನು ಮರುಲಿಂಕ್ ಮಾಡಿದ ನಂತರ ನಿಮಗೆ Yoush ಅನ್ನು ಈ ಸಾಧನದಲ್ಲಿ ಬಳಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಸಂದೇಶ ಇತಿಹಾಸವನ್ನು ವರ್ಗಾಯಿಸುವ ಆಯ್ಕೆಯನ್ನು ನೀವು ಹೊಂದಿರುತ್ತೀರಿ."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "ನಿಮ್ಮ ಡೇಟಾಬೇಸ್‌ನ ಈ ಆವೃತ್ತಿಯು Signal ನ ಈ ಆವೃತ್ತಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ. ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ Signal ನ ಹೊಚ್ಚಹೊಸ ಆವೃತ್ತಿಯನ್ನು ತೆರೆಯುತ್ತಿರುವುದನ್ನು ಖಾತ್ರಿಗೊಳಿಸಿ."
+    "messageformat": "ನಿಮ್ಮ ಡೇಟಾಬೇಸ್‌ನ ಈ ಆವೃತ್ತಿಯು Yoush ನ ಈ ಆವೃತ್ತಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ. ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ Yoush ನ ಹೊಚ್ಚಹೊಸ ಆವೃತ್ತಿಯನ್ನು ತೆರೆಯುತ್ತಿರುವುದನ್ನು ಖಾತ್ರಿಗೊಳಿಸಿ."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "ಡೇಟಾಬೇಸ್ ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಕೀಯನ್ನು ಆ್ಯಕ್ಸೆಸ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ, ಏಕೆಂದರೆ OS ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಕೀರಿಂಗ್ ಬ್ಯಾಕ್‌ಎಂಡ್ {previousBackend} ನಿಂದ {currentBackend} ಗೆ ಬದಲಾಗಿದೆ. ಡೆಸ್ಕ್‌ಟಾಪ್ ಪರಿಸರವು ಬದಲಾದರೆ ಇದು ಸಂಭವಿಸಬಹುದು, ಉದಾಹರಣೆಗೆ GNOME ಮತ್ತು KDE ನಡುವೆ.\n\nದಯವಿಟ್ಟು ಹಿಂದಿನ ಡೆಸ್ಕ್‌ಟಾಪ್ ಪರಿಸರಕ್ಕೆ ಬದಲಿಸಿ."
@@ -429,10 +429,10 @@
     "messageformat": "{name} ಜೊತೆಗಿನ ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಸಂಖ್ಯೆಯನ್ನು ಮತ್ತೊಂದು ಸಾಧನದಿಂದ ದೃಢೀಕರಿಸಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿದ್ದೀರಿ"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "ನೀವು ಪರಿಶೀಲಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ ಸುರಕ್ಷತೆ ಸಂಖ್ಯೆ ಬದಲಾಗಿದೆ. {name1} ಜೊತೆಗಿನ ನಿಮ್ಮ ಹೊಸ ಸುರಕ್ಷತೆ ಸಂಖ್ಯೆಯನ್ನು ದಯವಿಟ್ಟು ಪರಿಶೀಲಿಸಿ. ನೆನಪಿಡಿ, ನಿಮ್ಮ ಸಂವಹನವನ್ನು ಯಾರೋ ತಡೆಗಟ್ಟಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದಾರೆ ಅಥವಾ {name2} ಅವರು Signal ಅನ್ನು ಪುನಃ ಸ್ಥಾಪಿಸಿದ್ದಾರೆ ಎಂಬ ಅರ್ಥವನ್ನು ಈ ಬದಲಾವಣೆ ನೀಡಬಹುದು."
+    "messageformat": "ನೀವು ಪರಿಶೀಲಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ ಸುರಕ್ಷತೆ ಸಂಖ್ಯೆ ಬದಲಾಗಿದೆ. {name1} ಜೊತೆಗಿನ ನಿಮ್ಮ ಹೊಸ ಸುರಕ್ಷತೆ ಸಂಖ್ಯೆಯನ್ನು ದಯವಿಟ್ಟು ಪರಿಶೀಲಿಸಿ. ನೆನಪಿಡಿ, ನಿಮ್ಮ ಸಂವಹನವನ್ನು ಯಾರೋ ತಡೆಗಟ್ಟಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದಾರೆ ಅಥವಾ {name2} ಅವರು Yoush ಅನ್ನು ಪುನಃ ಸ್ಥಾಪಿಸಿದ್ದಾರೆ ಎಂಬ ಅರ್ಥವನ್ನು ಈ ಬದಲಾವಣೆ ನೀಡಬಹುದು."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "ಈ ಕೆಳಗಿನ ಜನರು Signal ಅನ್ನು ಪುನಃ ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡಿರಬಹುದು ಅಥವಾ ಸಾಧನಗಳನ್ನು ಬದಲಿಸಿರಬಹುದು. ಒಬ್ಬ ಸ್ವೀಕೃತಿದಾರರನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಅವರ ಹೊಸ ಸುರಕ್ಷತಾ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಿ. ಇದು ಐಚ್ಛಿಕವಾಗಿದೆ."
+    "messageformat": "ಈ ಕೆಳಗಿನ ಜನರು Yoush ಅನ್ನು ಪುನಃ ಇನ್‍ಸ್ಟಾಲ್ ಮಾಡಿರಬಹುದು ಅಥವಾ ಸಾಧನಗಳನ್ನು ಬದಲಿಸಿರಬಹುದು. ಒಬ್ಬ ಸ್ವೀಕೃತಿದಾರರನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಅವರ ಹೊಸ ಸುರಕ್ಷತಾ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಿ. ಇದು ಐಚ್ಛಿಕವಾಗಿದೆ."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "ಬಾಕಿಯಿರುವ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಿ"
@@ -831,13 +831,13 @@
     "messageformat": "ನೀವು"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "ಧ್ವನಿ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು, ನಿಮ್ಮ ಮೈಕ್ರೋಫೋನ್‌ ಪ್ರವೇಶಿಸಲು Signal Desktop ಗೆ ಅನುಮತಿ ನೀಡಿ."
+    "messageformat": "ಧ್ವನಿ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು, ನಿಮ್ಮ ಮೈಕ್ರೋಫೋನ್‌ ಪ್ರವೇಶಿಸಲು Yoush Desktop ಗೆ ಅನುಮತಿ ನೀಡಿ."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "ಕರೆ ಮಾಡಲು, ಮ್ರೈಕ್ರೋಫೋನ್ ಪ್ರವೇಶವನ್ನು Signal Desktop ಗೆ ನೀವು ಅನುಮತಿ ನೀಡಬೇಕು."
+    "messageformat": "ಕರೆ ಮಾಡಲು, ಮ್ರೈಕ್ರೋಫೋನ್ ಪ್ರವೇಶವನ್ನು Yoush Desktop ಗೆ ನೀವು ಅನುಮತಿ ನೀಡಬೇಕು."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "ವೀಡಿಯೋ ಕಾಲಿಂಗ್‌ಗೆ, ನಿಮ್ಮ ಕ್ಯಾಮರಾ ಪ್ರವೇಶವನ್ನು Signal Desktop ಗೆ ಅನುಮತಿ ನೀಡಬೇಕು."
+    "messageformat": "ವೀಡಿಯೋ ಕಾಲಿಂಗ್‌ಗೆ, ನಿಮ್ಮ ಕ್ಯಾಮರಾ ಪ್ರವೇಶವನ್ನು Yoush Desktop ಗೆ ಅನುಮತಿ ನೀಡಬೇಕು."
   },
   "icu:allowAccess": {
     "messageformat": "ಪ್ರವೇಶ ಅನುಮತಿಸಿ"
@@ -912,7 +912,7 @@
     "messageformat": "ಈ ಸಾಧನದಿಂದ ಈ ಸಂದೇಶವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "ಅವರು Signal ನ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯಲ್ಲಿದ್ದರೆ ಚಾಟ್‌ನಲ್ಲಿರುವ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಈ ಮೆಸೇಜ್ ಅನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಮೆಸೇಜ್ ಅನ್ನು ಅಳಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಅವರು ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ."
+    "messageformat": "ಅವರು Yoush ನ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯಲ್ಲಿದ್ದರೆ ಚಾಟ್‌ನಲ್ಲಿರುವ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಈ ಮೆಸೇಜ್ ಅನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಮೆಸೇಜ್ ಅನ್ನು ಅಳಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಅವರು ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ."
   },
   "icu:from": {
     "messageformat": "ಇಂದ"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "“{title}” ಎಂಬುದು ಈ ವ್ಯಕ್ತಿಯು Signal ನಲ್ಲಿ ತಮಗಾಗಿ ಸೆಟ್ ಮಾಡಿದ ಪ್ರೊಫೈಲ್ ಹೆಸರು ಆಗಿದೆ."
+    "messageformat": "“{title}” ಎಂಬುದು ಈ ವ್ಯಕ್ತಿಯು Yoush ನಲ್ಲಿ ತಮಗಾಗಿ ಸೆಟ್ ಮಾಡಿದ ಪ್ರೊಫೈಲ್ ಹೆಸರು ಆಗಿದೆ."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "ಪರಿಶೀಲಿಸಲಾಗಿದೆ"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} ತಮ್ಮ ಫೋನ್ ನಂಬರ್ ಬದಲಾಯಿಸಿದ್ದಾರೆ"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "ಸಂಪರ್ಕ Signal ಗೆ ಸೇರಿದ್ದಾರೆ"
+    "messageformat": "ಸಂಪರ್ಕ Yoush ಗೆ ಸೇರಿದ್ದಾರೆ"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} ಮತ್ತು {conversationTitle} ಒಂದೇ ಖಾತೆಯಾಗಿದೆ. ಎರಡೂ ಚಾಟ್‌ಗಳ ನಿಮ್ಮ ಸಂದೇಶ ಇತಿಹಾಸ ಇಲ್ಲಿದೆ."
@@ -1209,7 +1209,7 @@
     "messageformat": "ಮೀಡಿಯಾವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "ನಿಮ್ಮ ಡೆಸ್ಕ್‌ಟಾಪ್ ಮತ್ತು ಫೋನ್‌ನ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ. ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ತೆರೆಯಿರಿ, ನಂತರ ಪುನಃ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ."
+    "messageformat": "ನಿಮ್ಮ ಡೆಸ್ಕ್‌ಟಾಪ್ ಮತ್ತು ಫೋನ್‌ನ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಪರಿಶೀಲಿಸಿ. ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Yoush ತೆರೆಯಿರಿ, ನಂತರ ಪುನಃ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "ಈ ಮೀಡಿಯಾ ಇನ್ನು ಮುಂದೆ ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ಲಭ್ಯವಿರುವುದಿಲ್ಲ ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ."
@@ -1230,10 +1230,10 @@
     "messageformat": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ಆ್ಯಪ್‌ನಲ್ಲಿ ಈ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Yoush ಆ್ಯಪ್‌ನಲ್ಲಿ ಈ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ತೆರೆಯಿರಿ"
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Yoush ತೆರೆಯಿರಿ"
   },
   "icu:Install__instructions__2": {
     "messageformat": "{settings} ಗೆ ಟ್ಯಾಪ್ ಮಾಡಿ, ಬಳಿಕ {linkedDevices} ಟ್ಯಾಪ್ ಮಾಡಿ"
@@ -1251,7 +1251,7 @@
     "messageformat": "<paragraph>ಅನಿರೀಕ್ಷಿತ ದೋಷ ಸಂಭವಿಸಿದೆ.</paragraph><paragraph>ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.</paragraph>"
   },
   "icu:Install__qr-failed-load__error--network": {
-    "messageformat": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ನೆಟ್‌ವರ್ಕ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು Signal ಈ ಸಾಧನವನ್ನು ಲಿಂಕ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ."
+    "messageformat": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ನೆಟ್‌ವರ್ಕ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು Yoush ಈ ಸಾಧನವನ್ನು ಲಿಂಕ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ."
   },
   "icu:Install__qr-failed-load__retry": {
     "messageformat": "ಮರುಪ್ರಯತ್ನಿಸಿ"
@@ -1272,7 +1272,7 @@
     "messageformat": "ಸಾಧನದ ಹೆಸರು"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "ಈ ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಲಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳು ಎಂಬಲ್ಲಿಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
+    "messageformat": "ಈ ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Yoush ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಲಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳು ಎಂಬಲ್ಲಿಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "ಎಮೋಜಿ ಸ್ಕಿನ್ ಟೋನ್"
@@ -1290,7 +1290,7 @@
     "messageformat": "ಕ್ಷಮಿಸಿ, ನೀವು ಹಲವಾರು ಸಾಧನಗಳು ಈಗಾಗಲೇ ಜೋಡಿಸಿದ್ದೀರಿ. ಕೆಲವನ್ನು ತೆಗೆದುಹಾಕಲು ಪ್ರಯತ್ನಿಸಿ."
   },
   "icu:installTooOld": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್ ಲಿಂಕ್ ಮಾಡಲು ಈ ಸಾಧನದಲ್ಲಿ Signal ಅಪ್‌ಡೇಟ್ ಮಾಡಿ."
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್ ಲಿಂಕ್ ಮಾಡಲು ಈ ಸಾಧನದಲ್ಲಿ Yoush ಅಪ್‌ಡೇಟ್ ಮಾಡಿ."
   },
   "icu:installErrorHeader": {
     "messageformat": "ಏನೋ ತಪ್ಪಾಗಿದೆ!"
@@ -1500,7 +1500,7 @@
     "messageformat": "Signal {first}, {second}, ಮತ್ತು {third} ಅವರಿಗೆ ರಿಂಗ್ ಮಾಡಲಿದೆ"
   },
   "icu:calling__pre-call-info--will-ring-many": {
-    "messageformat": "{others, plural, one {{first}, {second}, ಮತ್ತು {others,number} ಇತರರಿಗೆ Signal ರಿಂಗ್ ಮಾಡಲಿದೆ} other {{first}, {second}, ಮತ್ತು {others,number} ಇತರರಿಗೆ Signal ರಿಂಗ್ ಮಾಡಲಿದೆ}}"
+    "messageformat": "{others, plural, one {{first}, {second}, ಮತ್ತು {others,number} ಇತರರಿಗೆ Yoush ರಿಂಗ್ ಮಾಡಲಿದೆ} other {{first}, {second}, ಮತ್ತು {others,number} ಇತರರಿಗೆ Yoush ರಿಂಗ್ ಮಾಡಲಿದೆ}}"
   },
   "icu:calling__pre-call-info--will-notify-1": {
     "messageformat": "{person} ಅವರಿಗೆ ತಿಳಿಸಲಾಗುತ್ತದೆ"
@@ -1554,7 +1554,7 @@
     "messageformat": "ಮರುಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ…"
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "ನಿಮ್ಮ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ. Signal ಮರುಸಂಪರ್ಕಗೊಳ್ಳುತ್ತಿದೆ."
+    "messageformat": "ನಿಮ್ಮ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ. Yoush ಮರುಸಂಪರ್ಕಗೊಳ್ಳುತ್ತಿದೆ."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal {window} ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಿದೆ."
@@ -1581,7 +1581,7 @@
     "messageformat": "ಅನುಮತಿ ಅಗತ್ಯವಿದೆ"
   },
   "icu:calling__presenting--macos-permission-description": {
-    "messageformat": "ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ ಸ್ಕ್ರೀನ್‌ ರೆಕಾರ್ಡಿಂಗ್‌ ಪ್ರವೇಶಿಸಲು Signal ಗೆ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ."
+    "messageformat": "ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ ಸ್ಕ್ರೀನ್‌ ರೆಕಾರ್ಡಿಂಗ್‌ ಪ್ರವೇಶಿಸಲು Yoush ಗೆ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ."
   },
   "icu:calling__presenting--permission-instruction-step1": {
     "messageformat": "ಸಿಸ್ಟಮ್ ಆದ್ಯತೆಗಳಿಗೆ ಹೋಗಿ."
@@ -1590,7 +1590,7 @@
     "messageformat": "ಕೆಳ ಎಡಭಾಗದಲ್ಲಿರುವ ಲಾಕ್ ಐಕಾನ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ ಪಾಸ್‌ವರ್ಡ್‌ ನಮೂದಿಸಿ."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "ಬಲಕ್ಕೆ, Signal ಗೆ ಬಾಕ್ಸ್‌ ಗುರುತು ಮಾಡಿ. ಪಟ್ಟಿಯಲ್ಲಿ ನಿಮಗೆ Signal ಕಾಣಿಸದಿದ್ದರೆ, ಸೇರಿಸಲು + ಕ್ಲಿಕ್ ಮಾಡಿ."
+    "messageformat": "ಬಲಕ್ಕೆ, Yoush ಗೆ ಬಾಕ್ಸ್‌ ಗುರುತು ಮಾಡಿ. ಪಟ್ಟಿಯಲ್ಲಿ ನಿಮಗೆ Yoush ಕಾಣಿಸದಿದ್ದರೆ, ಸೇರಿಸಲು + ಕ್ಲಿಕ್ ಮಾಡಿ."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "ಸಿಸ್ಟಮ್ ಆದ್ಯತೆಗಳಿಗೆ ಹೋಗಿ"
@@ -1602,7 +1602,7 @@
     "messageformat": "ಯಾವಾಗಲೂ ಕರೆಗಳನ್ನು ರಿಲೇ ಮಾಡಿ"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "ನಿಮ್ಮ ಐಪಿ ವಿಳಾಸವನ್ನು ನಿಮ್ಮ ಸಂಪರ್ಕಕ್ಕೆ ಬಹಿರಂಗಪಡಿಸುವುದನ್ನು ತಪ್ಪಿಸಲು Signal ಸರ್ವರ್ ಮೂಲಕ ಎಲ್ಲಾ ಕರೆಗಳನ್ನು ರಿಲೇ ಮಾಡಿ. ಸಕ್ರಿಯಗೊಳಿಸುವುದು ಕರೆ ಗುಣಮಟ್ಟವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ"
+    "messageformat": "ನಿಮ್ಮ ಐಪಿ ವಿಳಾಸವನ್ನು ನಿಮ್ಮ ಸಂಪರ್ಕಕ್ಕೆ ಬಹಿರಂಗಪಡಿಸುವುದನ್ನು ತಪ್ಪಿಸಲು Yoush ಸರ್ವರ್ ಮೂಲಕ ಎಲ್ಲಾ ಕರೆಗಳನ್ನು ರಿಲೇ ಮಾಡಿ. ಸಕ್ರಿಯಗೊಳಿಸುವುದು ಕರೆ ಗುಣಮಟ್ಟವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ"
   },
   "icu:permissions": {
     "messageformat": "ಅನುಮತಿಗಳು"
@@ -1620,10 +1620,10 @@
     "messageformat": "ಪಠ್ಯವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದಾಗ ಪಠ್ಯ ಫಾರ್ಮ್ಯಾಟಿಂಗ್ ಪಾಪ್‌ಓವರ್ ಅನ್ನು ತೋರಿಸಿ"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "ಸ್ಪೆಲ್‌ ಚೆಕ್‌ ಮುಂದಿನ ಬಾರಿ Signal ಆರಂಭವಾದಾಗ ಸಕ್ರಿಯಗೊಳ್ಳುತ್ತದೆ."
+    "messageformat": "ಸ್ಪೆಲ್‌ ಚೆಕ್‌ ಮುಂದಿನ ಬಾರಿ Yoush ಆರಂಭವಾದಾಗ ಸಕ್ರಿಯಗೊಳ್ಳುತ್ತದೆ."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "ಮುಂದಿನ ಬಾರಿ Signal ಆರಂಭವಾದಾಗ ಸ್ಪೆಲ್ ಚೆಕ್ ನಿಷ್ಕ್ರಿಯವಾಗುತ್ತದೆ."
+    "messageformat": "ಮುಂದಿನ ಬಾರಿ Yoush ಆರಂಭವಾದಾಗ ಸ್ಪೆಲ್ ಚೆಕ್ ನಿಷ್ಕ್ರಿಯವಾಗುತ್ತದೆ."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "ಸಿಸ್ಟಮ್ ಟ್ರೇಗೆ ಮಿನಿಮೈಸ್ ಮಾಡಿ"
@@ -1647,7 +1647,7 @@
     "messageformat": "ಎಲ್ಲ ಡೇಟಾ ಅಳಿಸುವುದೇ?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Signal Desktop ನ ಈ ಆವೃತ್ತಿಯಿಂದ ಎಲ್ಲಾ ಡೇಟಾ ಮತ್ತು ಮೆಸೇಜ್‌ಗಳನ್ನು ಅಳಿಸಬೇಕೇ? ನಿಮ್ಮ ಫೋನ್ ಅಥವಾ ಇತರ ಲಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ Signal ಖಾತೆ ಮತ್ತು ಡೇಟಾವನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ."
+    "messageformat": "Signal Desktop ನ ಈ ಆವೃತ್ತಿಯಿಂದ ಎಲ್ಲಾ ಡೇಟಾ ಮತ್ತು ಮೆಸೇಜ್‌ಗಳನ್ನು ಅಳಿಸಬೇಕೇ? ನಿಮ್ಮ ಫೋನ್ ಅಥವಾ ಇತರ ಲಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ Yoush ಖಾತೆ ಮತ್ತು ಡೇಟಾವನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "ಡಿಸ್‌ಕನೆಕ್ಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ ಮತ್ತು ಎಲ್ಲ ಡೇಟಾ ಅಳಿಸಲಾಗುತ್ತಿದೆ…"
@@ -1710,7 +1710,7 @@
     "messageformat": "ಸಂಪರ್ಕಗಳನ್ನು ಇಂಪೋರ್ಟ್ ಮಾಡಿ"
   },
   "icu:syncExplanation": {
-    "messageformat": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಿಂದ ಎಲ್ಲಾ Signal ಗುಂಪುಗಳು ಮತ್ತು ಸಂಪರ್ಕಗಳನ್ನು ಆಮದು ಮಾಡಿಕೋಌ"
+    "messageformat": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಿಂದ ಎಲ್ಲಾ Yoush ಗುಂಪುಗಳು ಮತ್ತು ಸಂಪರ್ಕಗಳನ್ನು ಆಮದು ಮಾಡಿಕೋಌ"
   },
   "icu:syncNow": {
     "messageformat": "ಈಗ ಆಮದು ಮಾಡಿ"
@@ -1746,7 +1746,7 @@
     "messageformat": "ನಾಳೆ {time}"
   },
   "icu:messageLoop": {
-    "messageformat": "ಒಳಬರುವ ಮೆಸೇಜ್ ಅನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು Signal ವಿಫಲವಾಗಬಹುದು."
+    "messageformat": "ಒಳಬರುವ ಮೆಸೇಜ್ ಅನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು Yoush ವಿಫಲವಾಗಬಹುದು."
   },
   "icu:messageBodyTooLong": {
     "messageformat": "ಮೆಸೇಜ್ ಬಾಡಿ ತುಂಬಾ ಉದ್ದವಾಗಿದೆ."
@@ -1905,10 +1905,10 @@
     "messageformat": "ನೀವು ಈ ಮೆಸೇಜ್ ಕಳುಹಿಸಿದ 24 ಗಂಟೆಗಳ ಒಳಗೆ ಮಾತ್ರ ಎಡಿಟ್‌ಗಳು ಅನ್ವಯಿಸಬಹುದು."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} ಅವರು Signal ಬಳಕೆದಾರರಲ್ಲ. ನೀವು username ಅನ್ನು ಪೂರ್ತಿಯಾಗಿ enter ಮಾಡಿದ್ದೀರೋ ಇಲ್ಲವೋ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+    "messageformat": "{atUsername} ಅವರು Yoush ಬಳಕೆದಾರರಲ್ಲ. ನೀವು username ಅನ್ನು ಪೂರ್ತಿಯಾಗಿ enter ಮಾಡಿದ್ದೀರೋ ಇಲ್ಲವೋ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "ಬಳಕೆದಾರರು ಕಂಡುಬಂದಿಲ್ಲ. \"{phoneNumber}\" ಇದು Signal ಬಳಕೆದಾರ ಅಲ್ಲ."
+    "messageformat": "ಬಳಕೆದಾರರು ಕಂಡುಬಂದಿಲ್ಲ. \"{phoneNumber}\" ಇದು Yoush ಬಳಕೆದಾರ ಅಲ್ಲ."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "ಬಳಕೆದಾರರು ಕಂಡುಬಂದಿಲ್ಲ. \"{phoneNumber}\" ಇದು ಮಾನ್ಯ ಫೋನ್ ನಂಬರ್ ಅಲ್ಲ."
@@ -1965,7 +1965,7 @@
     "messageformat": "ಗ್ರೂಪ್ ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ನಿಮ್ಮ ಸಂಪರ್ಕ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "ಮೆಸೇಜ್ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಲು Signal ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಮರುಲಿಂಕ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ."
+    "messageformat": "ಮೆಸೇಜ್ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಲು Yoush ಡೆಸ್ಕ್‌ಟಾಪ್ ಅನ್ನು ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನಕ್ಕೆ ಮರುಲಿಂಕ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ."
   },
   "icu:unlinked": {
     "messageformat": "ಲಿಂಕ್‌ ಮಾಡಿಲ್ಲ"
@@ -2097,7 +2097,7 @@
     "messageformat": "ನಿಮ್ಮ ದೇಣಿಗೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಮೊಬೈಲ್‌ನಲ್ಲಿ ಈ ಮೆಸೇಜ್ ಟ್ಯಾಪ್ ಮಾಡಿ"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} ಅವರು ನಿಮ್ಮ ಪರವಾಗಿ Signal‌ಗೆ ದೇಣಿಗೆ ನೀಡಿದ್ದಾರೆ"
+    "messageformat": "{sender} ಅವರು ನಿಮ್ಮ ಪರವಾಗಿ Yoush‌ಗೆ ದೇಣಿಗೆ ನೀಡಿದ್ದಾರೆ"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "ಈ ದೇಣಿಗೆಯನ್ನು ತೆರೆಯಲು ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ"
@@ -2148,7 +2148,7 @@
     "messageformat": "ನಿಮ್ಮ ಬೆಂಬಲಕ್ಕೆ ಧನ್ಯವಾದಗಳು!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "{name} ಅವರ ಪರವಾಗಿ Signal ಗೆ ನೀವು ದೇಣಿಗೆ ನೀಡಿದ್ದೀರಿ. ತಮ್ಮ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ತಮ್ಮ ಬೆಂಬಲವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಅವರಿಗೆ ಆಯ್ಕೆಯನ್ನು ನೀಡಲಾಗುತ್ತದೆ."
+    "messageformat": "{name} ಅವರ ಪರವಾಗಿ Yoush ಗೆ ನೀವು ದೇಣಿಗೆ ನೀಡಿದ್ದೀರಿ. ತಮ್ಮ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ತಮ್ಮ ಬೆಂಬಲವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಅವರಿಗೆ ಆಯ್ಕೆಯನ್ನು ನೀಡಲಾಗುತ್ತದೆ."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್ ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾಗದು"
@@ -2505,16 +2505,16 @@
     "messageformat": "ಇನ್ನಷ್ಟು ಪ್ರದರ್ಶಿಸಲು ಮೆಸೇಜ್ ತುಂಬಾ ಉದ್ದವಾಗಿದೆ"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "ಹೊಸ Signal ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸುವುದರಿಂದ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ಅಥವಾ ಪ್ರದರ್ಶಿಸಲು ಸಾಧ್ಯವಾಗದ ಸಂದೇಶವನ್ನು {contact} ನಿಮಗೆ ಕಳುಹಿಸಿದ್ದಾರೆ."
+    "messageformat": "ಹೊಸ Yoush ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸುವುದರಿಂದ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ಅಥವಾ ಪ್ರದರ್ಶಿಸಲು ಸಾಧ್ಯವಾಗದ ಸಂದೇಶವನ್ನು {contact} ನಿಮಗೆ ಕಳುಹಿಸಿದ್ದಾರೆ."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "ನೀವು Signal‌ ನ ನವೀಕೃತ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿರುವುದರಿಂದ ಈ ಸಂದೇಶವನ್ನು ಪುನಃ ಕಳುಹಿಸಲು ನೀವು {contact} ಅವರನ್ನು ಕೇಳಬಹುದು."
+    "messageformat": "ನೀವು Yoush‌ ನ ನವೀಕೃತ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿರುವುದರಿಂದ ಈ ಸಂದೇಶವನ್ನು ಪುನಃ ಕಳುಹಿಸಲು ನೀವು {contact} ಅವರನ್ನು ಕೇಳಬಹುದು."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "ನಿಮ್ಮ ಒಂದು ಸಾಧನವು ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಿದ್ದು, ಅದನ್ನು ಇಲ್ಲಿ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ಅಥವಾ ಪ್ರದರ್ಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಏಕೆಂದರೆ ಅದು ಹೊಸ Signal ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸುತ್ತದೆ."
+    "messageformat": "ನಿಮ್ಮ ಒಂದು ಸಾಧನವು ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಿದ್ದು, ಅದನ್ನು ಇಲ್ಲಿ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ಅಥವಾ ಪ್ರದರ್ಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಏಕೆಂದರೆ ಅದು ಹೊಸ Yoush ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸುತ್ತದೆ."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "ಇಂತಹ ಭವಿಷ್ಯದ ಸಂದೇಶಗಳನ್ನು, Signal ನ ಅಪ್‌ ಟು ಡೇಟ್ ಆವೃತ್ತಿಯನ್ನು ನೀವು ಬಳಸುತ್ತಿರುವಂತೆ ಸಿಂಕ್ರೊನೈಸ್ ಮಾಡಲಾಗುತ್ತದೆ."
+    "messageformat": "ಇಂತಹ ಭವಿಷ್ಯದ ಸಂದೇಶಗಳನ್ನು, Yoush ನ ಅಪ್‌ ಟು ಡೇಟ್ ಆವೃತ್ತಿಯನ್ನು ನೀವು ಬಳಸುತ್ತಿರುವಂತೆ ಸಿಂಕ್ರೊನೈಸ್ ಮಾಡಲಾಗುತ್ತದೆ."
   },
   "icu:Message--update-signal": {
     "messageformat": "Signal ಅನ್ನು ನವೀಕರಿಸಿ"
@@ -2778,7 +2778,7 @@
     "messageformat": "ಚಾಟ್ ಅನ್ನು ಓದಿಲ್ಲ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್ ಕ್ರಿಯೇಟರ್ ಬಳಸಲು ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಲ್ಲಿ ದಯವಿಟ್ಟು Signal ಸೆಟಪ್ ಮಾಡಿ"
+    "messageformat": "ಸ್ಟಿಕ್ಕರ್ ಪ್ಯಾಕ್ ಕ್ರಿಯೇಟರ್ ಬಳಸಲು ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಲ್ಲಿ ದಯವಿಟ್ಟು Yoush ಸೆಟಪ್ ಮಾಡಿ"
   },
   "icu:Reactions--remove": {
     "messageformat": "ಪ್ರತಿಕ್ರಿಯೆ ತೆಗೆದುಹಾಕಿ"
@@ -2802,7 +2802,7 @@
     "messageformat": "ನಕಲಿ ಹೆಸರುಗಳು ಮತ್ತು ಖಾತೆಗಳು"
   },
   "icu:SafetyTipsModal__TipDescription--Fake": {
-    "messageformat": "ನಿಮ್ಮ ನೋಂದಣಿ ಕೋಡ್ ಅಥವಾ PIN ಗಾಗಿ Signal ನಿಮ್ಮನ್ನು ಎಂದಿಗೂ ಸಂಪರ್ಕಿಸುವುದಿಲ್ಲ. ಇತರರಂತೆ ಸೋಗುಹಾಕುವ ವಿನಂತಿಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ. ಪ್ರೊಫೈಲ್ ಹೆಸರುಗಳನ್ನು ಅವುಗಳ ಖಾತೆದಾರರು ಆಯ್ಕೆಮಾಡುತ್ತಾರೆ ಮತ್ತು ಅವುಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ."
+    "messageformat": "ನಿಮ್ಮ ನೋಂದಣಿ ಕೋಡ್ ಅಥವಾ PIN ಗಾಗಿ Yoush ನಿಮ್ಮನ್ನು ಎಂದಿಗೂ ಸಂಪರ್ಕಿಸುವುದಿಲ್ಲ. ಇತರರಂತೆ ಸೋಗುಹಾಕುವ ವಿನಂತಿಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ. ಪ್ರೊಫೈಲ್ ಹೆಸರುಗಳನ್ನು ಅವುಗಳ ಖಾತೆದಾರರು ಆಯ್ಕೆಮಾಡುತ್ತಾರೆ ಮತ್ತು ಅವುಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ."
   },
   "icu:SafetyTipsModal__TipTitle--Crypto": {
     "messageformat": "ಕ್ರಿಪ್ಟೊ ಅಥವಾ ಹಣದ ಹಗರಣಗಳು"
@@ -2892,13 +2892,13 @@
     "messageformat": "ಸ್ಪ್ಯಾಮ್ ಎಂದು ವರದಿ ಮಾಡುವುದೇ?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "ಈ ವ್ಯಕ್ತಿ ಸ್ಪ್ಯಾಮ್ ಕಳುಹಿಸುತ್ತಿರಬಹುದು ಎಂಬುದಾಗಿ Signal ಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ. Signal ಗೆ ಯಾವುದೇ ಚಾಟ್‌ಗಳ ಕಂಟೆಂಟ್ ಅನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+    "messageformat": "ಈ ವ್ಯಕ್ತಿ ಸ್ಪ್ಯಾಮ್ ಕಳುಹಿಸುತ್ತಿರಬಹುದು ಎಂಬುದಾಗಿ Yoush ಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ. Yoush ಗೆ ಯಾವುದೇ ಚಾಟ್‌ಗಳ ಕಂಟೆಂಟ್ ಅನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "ನಿಮ್ಮನ್ನು ಈ ಗ್ರೂಪ್‌ಗೆ ಆಹ್ವಾನಿಸಿದ ವ್ಯಕ್ತಿ ಸ್ಪ್ಯಾಮ್ ಕಳುಹಿಸುತ್ತಿರಬಹುದು ಎಂಬುದಾಗಿ Signal ಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ. Signal ಗೆ ಯಾವುದೇ ಚಾಟ್‌ಗಳ ಕಂಟೆಂಟ್ ಅನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+    "messageformat": "ನಿಮ್ಮನ್ನು ಈ ಗ್ರೂಪ್‌ಗೆ ಆಹ್ವಾನಿಸಿದ ವ್ಯಕ್ತಿ ಸ್ಪ್ಯಾಮ್ ಕಳುಹಿಸುತ್ತಿರಬಹುದು ಎಂಬುದಾಗಿ Yoush ಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ. Yoush ಗೆ ಯಾವುದೇ ಚಾಟ್‌ಗಳ ಕಂಟೆಂಟ್ ಅನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "ಈ ಗ್ರೂಪ್‌ಗೆ ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸಿದ, {name} ರವರು ಸ್ಪ್ಯಾಮ್ ಕಳುಹಿಸುತ್ತಿರಬಹುದು ಎಂದು Signal ಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ. Signal ಗೆ ಯಾವುದೇ ಚಾಟ್‌ಗಳ ಕಂಟೆಂಟ್ ಅನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+    "messageformat": "ಈ ಗ್ರೂಪ್‌ಗೆ ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸಿದ, {name} ರವರು ಸ್ಪ್ಯಾಮ್ ಕಳುಹಿಸುತ್ತಿರಬಹುದು ಎಂದು Yoush ಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ. Yoush ಗೆ ಯಾವುದೇ ಚಾಟ್‌ಗಳ ಕಂಟೆಂಟ್ ಅನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "ಸ್ಪ್ಯಾಮ್ ವರದಿ ಮಾಡಿ"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>ಪ್ರೊಫೈಲ್ ಹೆಸರುಗಳನ್ನು</clickable> ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "ಇದು Signal ನ ಅಧಿಕೃತ ಮತ್ತು ಏಕೈಕ ಚಾಟ್ ಆಗಿದೆ"
+    "messageformat": "ಇದು Yoush ನ ಅಧಿಕೃತ ಮತ್ತು ಏಕೈಕ ಚಾಟ್ ಆಗಿದೆ"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "ಸುದ್ದಿ ಮತ್ತು ಆವೃತ್ತಿ ಟಿಪ್ಪಣಿಗಳೊಂದಿಗೆ ಅಪ್ ಟು ಡೇಟ್ ಆಗಿರಿ."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal ಇನ್ನೂ ಚಾಲನೆಯಲ್ಲಿದೆ"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "ಅಧಿಸೂಚನೆ ಪ್ರದೇಶದಲ್ಲಿ Signal ಚಾಲನೆಯಲ್ಲಿ ಇರಲಿದೆ. Signal ಸೆಟ್ಟಿಂಗ್‌ ಗಳಲ್ಲಿ ಇದನ್ನು ನೀವು ಬದಲಾಯಿಸಬಹುದು."
+    "messageformat": "ಅಧಿಸೂಚನೆ ಪ್ರದೇಶದಲ್ಲಿ Yoush ಚಾಲನೆಯಲ್ಲಿ ಇರಲಿದೆ. Yoush ಸೆಟ್ಟಿಂಗ್‌ ಗಳಲ್ಲಿ ಇದನ್ನು ನೀವು ಬದಲಾಯಿಸಬಹುದು."
   },
   "icu:incomingAudioCall": {
     "messageformat": "ಒಳಬರುವ ವಾಯ್ಸ್ ಕಾಲ್"
@@ -3948,7 +3948,7 @@
     "messageformat": "Signal ಗೆ ನಿಮ್ಮಂತಹ ಜನರೇ ಜೀವಾಳ. ಕೊಡುಗೆ ನೀಡಿ ಮತ್ತು ಒಂದು ಬ್ಯಾಡ್ಜ್‌ ಪಡೆಯಿರಿ."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ತೆರೆಯಿರಿ"
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Yoush ತೆರೆಯಿರಿ"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಲು ಮೇಲಿನ ಎಡಭಾಗದಲ್ಲಿ ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಫೋಟೋದ ಮೇಲೆ ಟ್ಯಾಪ್ ಮಾಡಿ"
@@ -4056,7 +4056,7 @@
     "messageformat": "ಖಾತೆಯ ಕ್ರಮದ ಅಗತ್ಯವಿದೆ"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "ಈ ಖಾತೆ ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Signal ಅನ್ನು ತೆರೆಯಬೇಕು. ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Signal ಅನ್ನು ತೆರೆಯದಿದ್ದರೆ, ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಅಳಿಸಲಾಗುವುದು. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
+    "messageformat": "ಈ ಖಾತೆ ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Yoush ಅನ್ನು ತೆರೆಯಬೇಕು. ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Yoush ಅನ್ನು ತೆರೆಯದಿದ್ದರೆ, ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಅಳಿಸಲಾಗುವುದು. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "ಮೀಡಿಯಾವನ್ನು ರಿಸ್ಟೋರ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"
@@ -4071,10 +4071,10 @@
     "messageformat": "ಫೈಲ್ ಅಟ್ಯಾಚ್ ಮಾಡಿ"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "ಈ ವ್ಯಕ್ತಿಯು Signal ಬಳಸುತ್ತಿಲ್ಲ"
+    "messageformat": "ಈ ವ್ಯಕ್ತಿಯು Yoush ಬಳಸುತ್ತಿಲ್ಲ"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal ಹೊರತಾದ ಸಂಪರ್ಕಗಳಿಗೆ ಮೆಸೇಜ್ ಮಾಡುವುದನ್ನು Signal Desktop ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ಹೆಚ್ಚು ಸುರಕ್ಷಿತ ಮೆಸೇಜಿಂಗ್ ಅನುಭವಕ್ಕಾಗಿ Signal ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವಂತೆ ಈ ವ್ಯಕ್ತಿಗೆ ಸೂಚಿಸಿ."
+    "messageformat": "Signal ಹೊರತಾದ ಸಂಪರ್ಕಗಳಿಗೆ ಮೆಸೇಜ್ ಮಾಡುವುದನ್ನು Yoush Desktop ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ಹೆಚ್ಚು ಸುರಕ್ಷಿತ ಮೆಸೇಜಿಂಗ್ ಅನುಭವಕ್ಕಾಗಿ Yoush ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವಂತೆ ಈ ವ್ಯಕ್ತಿಗೆ ಸೂಚಿಸಿ."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "ಸಂಪರ್ಕದ ನೋಂದಣಿ ಸ್ಟೇಟಸ್ ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ"
@@ -4263,7 +4263,7 @@
     "messageformat": "ಅಡ್ಡಹೆಸರು"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "ಅಡ್ಡಹೆಸರುಗಳು ಮತ್ತು ಟಿಪ್ಪಣಿಗಳನ್ನು Signal ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಎಂಡ್-ಟು-ಎಂಡ್ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಆಗಿವೆ. ಅವು ನಿಮಗೆ ಮಾತ್ರ ಗೋಚರಿಸುತ್ತವೆ."
+    "messageformat": "ಅಡ್ಡಹೆಸರುಗಳು ಮತ್ತು ಟಿಪ್ಪಣಿಗಳನ್ನು Yoush ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಎಂಡ್-ಟು-ಎಂಡ್ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಆಗಿವೆ. ಅವು ನಿಮಗೆ ಮಾತ್ರ ಗೋಚರಿಸುತ್ತವೆ."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "ಮೊದಲ ಹೆಸರು"
@@ -4530,7 +4530,7 @@
     "messageformat": "ಸಂದೇಶ ವಿನಂತಿಗಳ ಬಗ್ಗೆ"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "ವಿನಂತಿಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಪರಿಶೀಲಿಸಿ. ಅದೇ ಹೆಸರಿನ ಇನ್ನೊಂದು ಸಂಪರ್ಕವು Signal ಗೆ ಕಂಡುಬಂದಿದೆ. <reviewRequestLink>ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</reviewRequestLink>"
+    "messageformat": "ವಿನಂತಿಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಪರಿಶೀಲಿಸಿ. ಅದೇ ಹೆಸರಿನ ಇನ್ನೊಂದು ಸಂಪರ್ಕವು Yoush ಗೆ ಕಂಡುಬಂದಿದೆ. <reviewRequestLink>ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {{count,number} ಗ್ರೂಪ್ ಸದಸ್ಯ ಅದೇ ಹೆಸರನ್ನು ಹೊಂದಿದ್ದಾರೆ. <reviewRequestLink>ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</reviewRequestLink>} other {{count,number} ಗ್ರೂಪ್ ಸದಸ್ಯರು ಅದೇ ಹೆಸರನ್ನು ಹೊಂದಿದ್ದಾರೆ. <reviewRequestLink>ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ</reviewRequestLink>}}"
@@ -5025,7 +5025,7 @@
     "messageformat": "ಲಿಂಕ್ ಪೂರ್ವವೀಕ್ಷಣೆಗಳನ್ನು ರಚಿಸಿ"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "ಈ ಸೆಟ್ಟಿಂಗ್ ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Signal ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಚಾಟ್‌ಗಳು ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
+    "messageformat": "ಈ ಸೆಟ್ಟಿಂಗ್ ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Yoush ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಚಾಟ್‌ಗಳು ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "ಟೈಪ್ ಮಾಡಿದ ಎಮೋಟಿಕಾನ್‌ಗಳನ್ನು ಎಮೋಜಿಗೆ ಪರಿವರ್ತಿಸಿ"
@@ -5049,7 +5049,7 @@
     "messageformat": "ಪಠ್ಯ + ಎಲ್ಲಾ ಮೀಡಿಯಾ ಬ್ಯಾಕಪ್"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆ ಕಂಡುಬಂದಿಲ್ಲ. Signal ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ನವೀಕರಿಸಿ."
+    "messageformat": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆ ಕಂಡುಬಂದಿಲ್ಲ. Yoush ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ನವೀಕರಿಸಿ."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {ಪಠ್ಯ + {mediaDayCount,number} ದಿನದ ಮೀಡಿಯಾ ಬ್ಯಾಕಪ್} other {ಪಠ್ಯ + {mediaDayCount,number} ದಿನಗಳ ಮೀಡಿಯಾ ಬ್ಯಾಕಪ್}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "ಸಬ್‍ಸ್ಕ್ರಿಪ್ಷನ್ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನಿಮ್ಮ Signal ಬ್ಯಾಕಪ್‌ಗಳ ಚಂದಾದಾರಿಕೆಯನ್ನು ನೀವು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ರದ್ದುಗೊಳಿಸಬಹುದು."
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನಿಮ್ಮ Yoush ಬ್ಯಾಕಪ್‌ಗಳ ಚಂದಾದಾರಿಕೆಯನ್ನು ನೀವು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ರದ್ದುಗೊಳಿಸಬಹುದು."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Signal ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಬಹುದು."
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Yoush ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಬಹುದು."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆ ಕಂಡುಬಂದಿಲ್ಲ. Signal ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ನವೀಕರಿಸಿ."
+    "messageformat": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆ ಕಂಡುಬಂದಿಲ್ಲ. Yoush ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ನವೀಕರಿಸಿ."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನಿಮ್ಮ Signal ಬ್ಯಾಕಪ್‌ಗಳ ಚಂದಾದಾರಿಕೆಯನ್ನು ನೀವು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ನವೀಕರಿಸಬಹುದು."
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನಿಮ್ಮ Yoush ಬ್ಯಾಕಪ್‌ಗಳ ಚಂದಾದಾರಿಕೆಯನ್ನು ನೀವು ನಿರ್ವಹಿಸಬಹುದು ಅಥವಾ ನವೀಕರಿಸಬಹುದು."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "ಕೊನೆಯ ಬ್ಯಾಕಪ್"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {{num,number} ಸಂಪರ್ಕ} other {{num,number} ಸಂಪರ್ಕಗಳು}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "ಈ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Signal ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಗೌಪ್ಯತೆ ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
+    "messageformat": "ಈ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Yoush ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಗೌಪ್ಯತೆ ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "ಫೋನ್ ಸಂಖ್ಯೆ"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಯಾರು ನೋಡಬಹುದು ಮತ್ತು ಅದರ ಮೂಲಕ Signal ನಲ್ಲಿ ನಿಮ್ಮನ್ನು ಯಾರು ಸಂಪರ್ಕಿಸಬಹುದು ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಯಾರು ನೋಡಬಹುದು ಮತ್ತು ಅದರ ಮೂಲಕ Yoush ನಲ್ಲಿ ನಿಮ್ಮನ್ನು ಯಾರು ಸಂಪರ್ಕಿಸಬಹುದು ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "ಬದಲಿಸಿ..."
@@ -5127,10 +5127,10 @@
     "messageformat": "ಸಂಖ್ಯೆಯ ಮೂಲಕ ನನ್ನನ್ನು ಯಾರು ಕಂಡುಹಿಡಿಯಬಹುದು"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿರುವ ಯಾರಾದರೂ ನೀವು Signal ‌ನಲ್ಲಿರುವುದನ್ನು ನೋಡುತ್ತಾರೆ ಮತ್ತು ನಿಮ್ಮೊಂದಿಗೆ ಚಾಟ್‌ಗಳನ್ನು ಪ್ರಾರಂಭಿಸಬಹುದು."
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿರುವ ಯಾರಾದರೂ ನೀವು Yoush ‌ನಲ್ಲಿರುವುದನ್ನು ನೋಡುತ್ತಾರೆ ಮತ್ತು ನಿಮ್ಮೊಂದಿಗೆ ಚಾಟ್‌ಗಳನ್ನು ಪ್ರಾರಂಭಿಸಬಹುದು."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "ನೀವು ಮೆಸೇಜ್ ಕಳುಹಿಸದ ಹೊರತು ಅಥವಾ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಚಾಟ್ ಅನ್ನು ಹೊಂದಿರದ ಹೊರತು ನೀವು Signal ‌ನಲ್ಲಿದ್ದೀರಿ ಎಂದು ಯಾರಿಗೂ ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+    "messageformat": "ನೀವು ಮೆಸೇಜ್ ಕಳುಹಿಸದ ಹೊರತು ಅಥವಾ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಚಾಟ್ ಅನ್ನು ಹೊಂದಿರದ ಹೊರತು ನೀವು Yoush ‌ನಲ್ಲಿದ್ದೀರಿ ಎಂದು ಯಾರಿಗೂ ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "ಎಲ್ಲರೂ"
@@ -5142,7 +5142,7 @@
     "messageformat": "ನಿಮಗೆ ಖಾತ್ರಿಯಿದೆಯೇ?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "ನೀವು “{settingTitle}” ಅನ್ನು “{nobodyLabel}” ಗೆ ಬದಲಾಯಿಸಿದರೆ Signal ನಲ್ಲಿ ಜನರು ನಿಮ್ಮನ್ನು ಹುಡುಕುವುದು ಇನ್ನೂ ಕಷ್ಟವಾಗುತ್ತದೆ."
+    "messageformat": "ನೀವು “{settingTitle}” ಅನ್ನು “{nobodyLabel}” ಗೆ ಬದಲಾಯಿಸಿದರೆ Yoush ನಲ್ಲಿ ಜನರು ನಿಮ್ಮನ್ನು ಹುಡುಕುವುದು ಇನ್ನೂ ಕಷ್ಟವಾಗುತ್ತದೆ."
   },
   "icu:Preferences--messaging": {
     "messageformat": "ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ"
@@ -5196,7 +5196,7 @@
     "messageformat": "ಹೊಂದಿಸಿ"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "ಅನ್ವಯಿಸಲು Signal ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ"
+    "messageformat": "ಅನ್ವಯಿಸಲು Yoush ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಲು, ಆ್ಯಪ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಬೇಕಿದೆ."
@@ -5214,13 +5214,13 @@
     "messageformat": "ಅಪ್‌ಡೇಟ್ ಡೌನ್‌ಲೋಡ್ ಆಗಿದೆ"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ತೆರೆಯಿರಿ"
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Yoush ತೆರೆಯಿರಿ"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Signal ಅನ್ನು ತೆರೆಯದ ಹೊರತು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಇದನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಮಾಡಿದ್ದರೆ ಈ ಮೆಸೇಜ್ ಹೊರಟು ಹೋಗುತ್ತದೆ. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
+    "messageformat": "ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ನೀವು Yoush ಅನ್ನು ತೆರೆಯದ ಹೊರತು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಇದನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಮಾಡಿದ್ದರೆ ಈ ಮೆಸೇಜ್ ಹೊರಟು ಹೋಗುತ್ತದೆ. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಕ್ರಿಯವಾಗಿಡಲು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Signal ತೆರೆಯಿರಿ"
+    "messageformat": "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಕ್ರಿಯವಾಗಿಡಲು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ Yoush ತೆರೆಯಿರಿ"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
@@ -5247,7 +5247,7 @@
     "messageformat": "{downloadSize} ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "ಅಪ್ಡೇಟ್ ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು Signal ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ."
+    "messageformat": "ಅಪ್ಡೇಟ್ ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು Yoush ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktop ಅಪ್ಡೇಟ್ ಮಾಡಲು ವಿಫಲಗೊಂಡಿದೆ, ಆದರೆ ಹೊಸ ಆವೃತ್ತಿ ಲಭ್ಯವಿದೆ. {downloadUrl} ಗೆ ಹೋಗಿ ಮತ್ತು ಕೈಯಾರೆ ಹೊಸ ಆವೃತ್ತಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ, ನಂತರ ಒಂದೋ ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವಾ ಈ ಸಮಸ್ಯೆಯ ಕುರಿತು ಬಗ್ ಫೈಲ್ ಮಾಡಿ."
@@ -5280,7 +5280,7 @@
     "messageformat": "ಅಪ್ಲಿಕೇಶನ್ ಕ್ರ್ಯಾಶ್ ಆಗಿದೆ"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "ಕ್ರ್ಯಾಶ್ ಬಳಿಕ Signal ಮರುಆರಂಭಗೊಂಡಿದೆ. ಸಮಸ್ಯೆಯನ್ನು ತನಿಖೆ ನಡೆಸಲು Signal ಗೆ ಸಹಾಯ ಮಾಡಲು ನೀವು ಕ್ರ್ಯಾಶ್ ವರದಿಯನ್ನು ಸಲ್ಲಸಬಹುದು."
+    "messageformat": "ಕ್ರ್ಯಾಶ್ ಬಳಿಕ Yoush ಮರುಆರಂಭಗೊಂಡಿದೆ. ಸಮಸ್ಯೆಯನ್ನು ತನಿಖೆ ನಡೆಸಲು Yoush ಗೆ ಸಹಾಯ ಮಾಡಲು ನೀವು ಕ್ರ್ಯಾಶ್ ವರದಿಯನ್ನು ಸಲ್ಲಸಬಹುದು."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "ಕಳುಹಿಸಿ"
@@ -5625,7 +5625,7 @@
     "messageformat": "ಇವರಿಂದ ಸ್ಟೋರಿಯನ್ನು ಮರೆಮಾಡಿ"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "ಎಲ್ಲಾ Signal ಸಂಪರ್ಕಗಳು"
+    "messageformat": "ಎಲ್ಲಾ Yoush ಸಂಪರ್ಕಗಳು"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "ಇದನ್ನು ಹೊರತುಪಡಿಸಿ ಎಲ್ಲಾ…"
@@ -5643,7 +5643,7 @@
     "messageformat": "ವೀಕ್ಷಣೆ ರಸೀದಿಗಳು"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "ಈ ಸೆಟ್ಟಿಂಗ್ ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Signal ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು -> ಸ್ಟೋರೀಸ್ ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
+    "messageformat": "ಈ ಸೆಟ್ಟಿಂಗ್ ಬದಲಾಯಿಸಲು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Yoush ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು -> ಸ್ಟೋರೀಸ್ ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "ಈ ಸ್ಟೋರಿಯನ್ನು ಯಾರು ವೀಕ್ಷಿಸಬಹುದು"
@@ -5703,7 +5703,7 @@
     "messageformat": "ನನ್ನ ಸ್ಟೋರಿ ಗೌಪ್ಯತೆ"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "ಯಾವ Signal ಸಂಪರ್ಕಗಳು ನಿಮ್ಮ ಸ್ಟೋರಿಯನ್ನು ವೀಕ್ಷಿಸಬಹುದು ಎಂದು ಆಯ್ಕೆ ಮಾಡಿ. ಗೌಪ್ಯತೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನೀವು ಇದನ್ನು ಯಾವತ್ತೂ ಬದಲಾಯಿಸಬಹುದು. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.</learnMoreLink>"
+    "messageformat": "ಯಾವ Yoush ಸಂಪರ್ಕಗಳು ನಿಮ್ಮ ಸ್ಟೋರಿಯನ್ನು ವೀಕ್ಷಿಸಬಹುದು ಎಂದು ಆಯ್ಕೆ ಮಾಡಿ. ಗೌಪ್ಯತೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನೀವು ಇದನ್ನು ಯಾವತ್ತೂ ಬದಲಾಯಿಸಬಹುದು. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "ಸ್ಟೋರಿ ಅಳಿಸಿ"
@@ -5772,7 +5772,7 @@
     "messageformat": "ಅಟ್ಯಾಚ್‌ಮೆಂಟ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "ನಿಮ್ಮ ಸ್ಟೋರೀಸ್ ಅನ್ನು ಯಾರು ವೀಕ್ಷಿಸಿದ್ದಾರೆ ಎಂದು ನೋಡಲು ರಸೀದಿಗಳನ್ನು ವೀಕ್ಷಿಸಿ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ. ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Signal ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಸ್ಟೋರೀಸ್ ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ."
+    "messageformat": "ನಿಮ್ಮ ಸ್ಟೋರೀಸ್ ಅನ್ನು ಯಾರು ವೀಕ್ಷಿಸಿದ್ದಾರೆ ಎಂದು ನೋಡಲು ರಸೀದಿಗಳನ್ನು ವೀಕ್ಷಿಸಿ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ. ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Yoush ಆ್ಯಪ್ ತೆರೆಯಿರಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಸ್ಟೋರೀಸ್ ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "ಇನ್ನೂ ಯಾವುದೇ ಉತ್ತರಗಳಿಲ್ಲ"
@@ -6037,13 +6037,13 @@
     "messageformat": "ವಜಾಗೊಳಿಸಿ"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "ಶೀಘ್ರದಲ್ಲೇ ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ {OS} ಆವೃತ್ತಿಯನ್ನು Signal desktop ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. Signal ಬಳಕೆಯನ್ನು ಮುಂದುವರಿಸಲು, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ ಅನ್ನು {expirationDate} ನ ಒಳಗೆ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
+    "messageformat": "ಶೀಘ್ರದಲ್ಲೇ ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ {OS} ಆವೃತ್ತಿಯನ್ನು Yoush desktop ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. Yoush ಬಳಕೆಯನ್ನು ಮುಂದುವರಿಸಲು, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ ಅನ್ನು {expirationDate} ನ ಒಳಗೆ ಅಪ್‌ಡೇಟ್ ಮಾಡಿ. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "ಈ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ Signal desktop ಇನ್ನು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ. Signal desktop ಅನ್ನು ಮತ್ತೆ ಬಳಸಲು, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ {OS} ಆವೃತ್ತಿಯನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಿ. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
+    "messageformat": "ಈ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ Yoush desktop ಇನ್ನು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ. Yoush desktop ಅನ್ನು ಮತ್ತೆ ಬಳಸಲು, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ {OS} ಆವೃತ್ತಿಯನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಿ. <learnMoreLink>ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "ಈ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ Signal desktop ಇನ್ನು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ. Signal desktop ಅನ್ನು ಮತ್ತೆ ಬಳಸಲು, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ {OS} ಆವೃತ್ತಿಯನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಿ."
+    "messageformat": "ಈ ಕಂಪ್ಯೂಟರ್‌ನಲ್ಲಿ Yoush desktop ಇನ್ನು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ. Yoush desktop ಅನ್ನು ಮತ್ತೆ ಬಳಸಲು, ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್‌ನ {OS} ಆವೃತ್ತಿಯನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಿ."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "ಎಡಿಟ್ ಮಾಡಲಾಗಿದೆ"
@@ -6308,7 +6308,7 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "ಹೆಚ್ಚುವರಿ ಸಣ್ಣ ಟ್ವೀಕ್‌ಗಳು, ಬಗ್ ಫಿಕ್ಸ್‌ಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆ ವರ್ಧನೆಗಳು. Signal ಬಳಸುತ್ತಿರುವುದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!",
+    "messageformat": "ಹೆಚ್ಚುವರಿ ಸಣ್ಣ ಟ್ವೀಕ್‌ಗಳು, ಬಗ್ ಫಿಕ್ಸ್‌ಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆ ವರ್ಧನೆಗಳು. Yoush ಬಳಸುತ್ತಿರುವುದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "ಸಣ್ಣ ಟ್ವೀಕ್‌ಗಳು, ಬಗ್ ಫಿಕ್ಸ್‌ಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆ ವರ್ಧನೆಗಳು. Signal ಬಳಸುತ್ತಿರುವುದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!",
+    "messageformat": "ಸಣ್ಣ ಟ್ವೀಕ್‌ಗಳು, ಬಗ್ ಫಿಕ್ಸ್‌ಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆ ವರ್ಧನೆಗಳು. Yoush ಬಳಸುತ್ತಿರುವುದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "ಬೆಂಕಿ, ಚಕ್ರ ಮತ್ತು ವಿದ್ಯುತ್ ಎಲ್ಲವೂ ಉತ್ತಮ ಬೆಳವಣಿಗೆಗಳಾಗಿದ್ದವು, ಆದರೆ ಅವು ಅನಿಮೇಟೆಡ್ GIF ಹುಡುಕಾಟವು ಅಸ್ತಿತ್ವದಲ್ಲಿರಲು ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಸೃಷ್ಟಿಸುವ ಹಾದಿಯಲ್ಲಿ ಕೇವಲ ಅಗತ್ಯವಾದ ಹೆಜ್ಜೆಗಳಾಗಿದ್ದವು. ಈಗ ನೀವು Signal ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಲ್ಲಿ ಮಾನವನ ತಾಂತ್ರಿಕ ಪ್ರಗತಿಯ ಪರಾಕಾಷ್ಠೆಯನ್ನು ಹೊಚ್ಚಹೊಸ ಆಯ್ಕೆ ಇಂಟರ್ಫೇಸ್‌ನೊಂದಿಗೆ ಅನುಭವಿಸಬಹುದು, ಅದು ಆ ಕ್ಷಣಕ್ಕೆ ಸೂಕ್ತವಾದ ಎಮೋಜಿ, ಸ್ಟಿಕ್ಕರ್ ಅಥವಾ ಅನಿಮೇಟೆಡ್ GIF ಅನ್ನು ತ್ವರಿತವಾಗಿ ಹುಡುಕುವುದನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತದೆ."
+    "messageformat": "ಬೆಂಕಿ, ಚಕ್ರ ಮತ್ತು ವಿದ್ಯುತ್ ಎಲ್ಲವೂ ಉತ್ತಮ ಬೆಳವಣಿಗೆಗಳಾಗಿದ್ದವು, ಆದರೆ ಅವು ಅನಿಮೇಟೆಡ್ GIF ಹುಡುಕಾಟವು ಅಸ್ತಿತ್ವದಲ್ಲಿರಲು ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಸೃಷ್ಟಿಸುವ ಹಾದಿಯಲ್ಲಿ ಕೇವಲ ಅಗತ್ಯವಾದ ಹೆಜ್ಜೆಗಳಾಗಿದ್ದವು. ಈಗ ನೀವು Yoush ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಲ್ಲಿ ಮಾನವನ ತಾಂತ್ರಿಕ ಪ್ರಗತಿಯ ಪರಾಕಾಷ್ಠೆಯನ್ನು ಹೊಚ್ಚಹೊಸ ಆಯ್ಕೆ ಇಂಟರ್ಫೇಸ್‌ನೊಂದಿಗೆ ಅನುಭವಿಸಬಹುದು, ಅದು ಆ ಕ್ಷಣಕ್ಕೆ ಸೂಕ್ತವಾದ ಎಮೋಜಿ, ಸ್ಟಿಕ್ಕರ್ ಅಥವಾ ಅನಿಮೇಟೆಡ್ GIF ಅನ್ನು ತ್ವರಿತವಾಗಿ ಹುಡುಕುವುದನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತದೆ."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "ನಾವು ಪಿಕ್ಚರ್-ಇನ್-ಪಿಕ್ಚರ್ ವಿಂಡೋವನ್ನು ಮರುಗಾತ್ರಗೊಳಿಸಿದ್ದೇವೆ ಮತ್ತು ಕರೆಯನ್ನು ಮಿನಿಮೈಸ್ ಮಾಡುವಾಗ ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ಮ್ಯೂಟ್/ಅನ್‌ಮ್ಯೂಟ್ ಮಾಡಲು ಅಥವಾ ಕ್ಯಾಮೆರಾವನ್ನು ಆನ್/ಆಫ್ ಮಾಡಲು ಅನುಕೂಲಕರವಾದ ಹೊಸ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಸೇರಿಸಿದ್ದೇವೆ."

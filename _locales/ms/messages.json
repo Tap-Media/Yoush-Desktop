@@ -75,16 +75,16 @@
     "messageformat": "Kumpulan tidak diketahui"
   },
   "icu:cantOpenSignalError": {
-    "messageformat": "Tidak Boleh Membuka Signal"
+    "messageformat": "Tidak Boleh Membuka Yoush"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Untuk membantu menyelesaikan isu, ikut panduan pemulihan pada halaman sokongan atau hubungi sokongan Signal untuk membantu menyelesaikan isu tersebut.\n\nJika anda perlu menggunakan Signal dengan segera, anda boleh memadamkan data anda dan pautkan semula desktop ini. Anda akan mempunyai pilihan untuk memindahkan sejarah mesej daripada telefon anda."
+    "messageformat": "Untuk membantu menyelesaikan isu, ikut panduan pemulihan pada halaman sokongan atau hubungi sokongan Yoush untuk membantu menyelesaikan isu tersebut.\n\nJika anda perlu menggunakan Yoush dengan segera, anda boleh memadamkan data anda dan pautkan semula desktop ini. Anda akan mempunyai pilihan untuk memindahkan sejarah mesej daripada telefon anda."
   },
   "icu:databaseError": {
     "messageformat": "Ralat Pangkalan Data"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Ralat pangkalan data telah berlaku. Anda boleh menyalin ralat dan menghubungi sokongan Signal untuk membantu menyelesaikan isu tersebut. Jika anda perlu menggunakan Signal dengan segera, anda boleh memadamkan data anda dan mulakan semula.\n\nHubungi sokongan dengan melawati: {link}"
+    "messageformat": "Ralat pangkalan data telah berlaku. Anda boleh menyalin ralat dan menghubungi sokongan Yoush untuk membantu menyelesaikan isu tersebut. Jika anda perlu menggunakan Yoush dengan segera, anda boleh memadamkan data anda dan mulakan semula.\n\nHubungi sokongan dengan melawati: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Padam data dan mula semula"
@@ -93,10 +93,10 @@
     "messageformat": "Padamkan Semua Data Secara Kekal"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "Semua sejarah mesej dan media anda akan dipadamkan secara kekal daripada peranti ini. Ini tidak akan memadamkan sebarang data daripada telefon anda.\n\nAnda akan dapat menggunakan Signal pada peranti ini selepas memautkannya semula. Anda akan mempunyai pilihan untuk memindahkan sejarah mesej daripada telefon anda."
+    "messageformat": "Semua sejarah mesej dan media anda akan dipadamkan secara kekal daripada peranti ini. Ini tidak akan memadamkan sebarang data daripada telefon anda.\n\nAnda akan dapat menggunakan Yoush pada peranti ini selepas memautkannya semula. Anda akan mempunyai pilihan untuk memindahkan sejarah mesej daripada telefon anda."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Versi pangkalan data anda tidak sepadan dengan versi Signal ini. Pastikan anda membuka versi terbaru Signal pada komputer anda."
+    "messageformat": "Versi pangkalan data anda tidak sepadan dengan versi Yoush ini. Pastikan anda membuka versi terbaru Yoush pada komputer anda."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Tidak dapat mengakses kunci penyulitan pangkalan data kerana hujung belakang cincin kekunci penyulitan OS telah berubah daripada {previousBackend} kepada {currentBackend}. Ini boleh berlaku jika persekitaran desktop berubah, contohnya antara GNOME dan KDE.\n\nSila tukar ke persekitaran desktop sebelumnya."
@@ -138,7 +138,7 @@
     "messageformat": "Papar Semua"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Keluar Signal"
+    "messageformat": "Keluar Yoush"
   },
   "icu:editMenuUndo": {
     "messageformat": "Buat Asal"
@@ -303,7 +303,7 @@
     "messageformat": "Tetapan"
   },
   "icu:NavTabs__ItemLabel--Update": {
-    "messageformat": "Kemas Kini Signal"
+    "messageformat": "Kemas Kini Yoush"
   },
   "icu:NavTabs__ItemLabel--Profile": {
     "messageformat": "Profil"
@@ -429,10 +429,10 @@
     "messageformat": "Anda telah menandakan tak sah kepada Nombor Keselamatan anda dengan {name} daripada peranti lain"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Nombor keselamatan yang anda cuba sahkan telah berubah. Sila semak nombor keselamatan baharu anda dengan {name1}. Ingat, perubahan ini mungkin bermaksud seseorang sedang cuba untuk memintas komunikasi anda atau bahawa {name2} baru sahaja memasang semula Signal."
+    "messageformat": "Nombor keselamatan yang anda cuba sahkan telah berubah. Sila semak nombor keselamatan baharu anda dengan {name1}. Ingat, perubahan ini mungkin bermaksud seseorang sedang cuba untuk memintas komunikasi anda atau bahawa {name2} baru sahaja memasang semula Yoush."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Orang berikut mungkin telah memasang semula Signal atau menukar peranti. Ketik penerima untuk mengesahkan nombor keselamatan baru. Ini adalah pilihan."
+    "messageformat": "Orang berikut mungkin telah memasang semula Yoush atau menukar peranti. Ketik penerima untuk mengesahkan nombor keselamatan baru. Ini adalah pilihan."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Hantar mesej masih belum selesai"
@@ -441,7 +441,7 @@
     "messageformat": "Semak"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, other {Anda mempunyai {count,number} hubungan yang mungkin telah memasang semula Signal atau menukar peranti. Anda boleh memilih untuk menyemak nombor keselamatan mereka sebelum menghantar.}}"
+    "messageformat": "{count, plural, other {Anda mempunyai {count,number} hubungan yang mungkin telah memasang semula Yoush atau menukar peranti. Anda boleh memilih untuk menyemak nombor keselamatan mereka sebelum menghantar.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Semua hubungan telah disemak, klik hantar untuk meneruskan."
@@ -660,13 +660,13 @@
     "messageformat": "Sertai Beta"
   },
   "icu:signalDesktopPreferences": {
-    "messageformat": "Pilihan Signal Desktop"
+    "messageformat": "Pilihan Yoush Desktop"
   },
   "icu:signalDesktopStickerCreator": {
     "messageformat": "Pencipta pek pelekat"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "Perihal Signal Desktop"
+    "messageformat": "Perihal Yoush Desktop"
   },
   "icu:screenShareWindow": {
     "messageformat": "Skrin perkongsian"
@@ -744,7 +744,7 @@
     "messageformat": "Cari dengan nombor telefon"
   },
   "icu:welcomeToSignal": {
-    "messageformat": "Selamat datang ke Signal"
+    "messageformat": "Selamat datang ke Yoush"
   },
   "icu:whatsNew": {
     "messageformat": "Lihat {whatsNew} dalam kemas kini ini"
@@ -831,13 +831,13 @@
     "messageformat": "Anda"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Untuk menghantar mesej audio, benarkan Signal Desktop untuk mengakses mikrofon anda."
+    "messageformat": "Untuk menghantar mesej audio, benarkan Yoush Desktop untuk mengakses mikrofon anda."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Untuk panggilan, anda perlu membenarkan Signal Desktop mengakses mikrofon anda."
+    "messageformat": "Untuk panggilan, anda perlu membenarkan Yoush Desktop mengakses mikrofon anda."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Untuk panggilan video, anda perlu membenarkan Signal Desktop mengakses kamera anda."
+    "messageformat": "Untuk panggilan video, anda perlu membenarkan Yoush Desktop mengakses kamera anda."
   },
   "icu:allowAccess": {
     "messageformat": "Benarkan Capaian"
@@ -912,7 +912,7 @@
     "messageformat": "Mesej ini akan dipadamkan daripada peranti ini."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Mesej ini akan dipadamkan untuk semua orang dalam sembang jika mereka menggunakan Signal versi terkini. Mereka akan dapat melihat jika anda memadamkan mesej."
+    "messageformat": "Mesej ini akan dipadamkan untuk semua orang dalam sembang jika mereka menggunakan Yoush versi terkini. Mereka akan dapat melihat jika anda memadamkan mesej."
   },
   "icu:from": {
     "messageformat": "Daripada"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "“{title}” ialah nama profil yang ditetapkan oleh orang ini untuk dirinya dalam Signal."
+    "messageformat": "“{title}” ialah nama profil yang ditetapkan oleh orang ini untuk dirinya dalam Yoush."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Disahkan"
@@ -969,7 +969,7 @@
     "messageformat": "Tiada mesej terus dengan {name}"
   },
   "icu:AboutContactModal__signal-connection": {
-    "messageformat": "Hubungan Signal"
+    "messageformat": "Hubungan Yoush"
   },
   "icu:AboutContactModal__system-contact": {
     "messageformat": "{name} berada dalam kenalan sistem anda"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} telah menukar nombor telefon mereka"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Kenalan menyertai Signal"
+    "messageformat": "Kenalan menyertai Yoush"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} dan {conversationTitle} adalah akaun yang sama. Sejarah mesej anda untuk kedua-dua sembang ada di sini."
@@ -1209,7 +1209,7 @@
     "messageformat": "Tidak boleh memuat turun media"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Semak desktop dan sambungan internet telefon anda. Buka Signal pada telefon anda, kemudian cuba muat turun sekali lagi."
+    "messageformat": "Semak desktop dan sambungan internet telefon anda. Buka Yoush pada telefon anda, kemudian cuba muat turun sekali lagi."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Media ini tidak lagi tersedia pada telefon anda dan tidak boleh dimuat turun."
@@ -1230,10 +1230,10 @@
     "messageformat": "Ketahui lebih lanjut"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Semak imbas kod ini dalam aplikasi Signal di telefon anda"
+    "messageformat": "Semak imbas kod ini dalam aplikasi Yoush di telefon anda"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Buka Signal di telefon anda"
+    "messageformat": "Buka Yoush di telefon anda"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Ketik {settings}, kemudian ketik {linkedDevices}"
@@ -1272,7 +1272,7 @@
     "messageformat": "Nama peranti"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Untuk menukar nama peranti ini, buka Signal pada telefon anda dan pergi ke Tetapan > Peranti dipautkan"
+    "messageformat": "Untuk menukar nama peranti ini, buka Yoush pada telefon anda dan pergi ke Tetapan > Peranti dipautkan"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Tona kulit emoji"
@@ -1290,7 +1290,7 @@
     "messageformat": "Maaf, anda mempunyai terlalu banyak peranti dipautkan, cuba alih keluar beberapa"
   },
   "icu:installTooOld": {
-    "messageformat": "Kemas kini Signal pada peranti ini untuk pautkan telefon anda."
+    "messageformat": "Kemas kini Yoush pada peranti ini untuk pautkan telefon anda."
   },
   "icu:installErrorHeader": {
     "messageformat": "Ada yang tidak kena!"
@@ -1341,7 +1341,7 @@
     "messageformat": "Pautan panggilan ini tidak lagi sah."
   },
   "icu:calling__call-link-default-title": {
-    "messageformat": "Panggilan Signal"
+    "messageformat": "Panggilan Yoush"
   },
   "icu:calling__call-link-delete-failed": {
     "messageformat": "Tidak dapat memadamkan pautan. Periksa sambungan anda dan cuba lagi."
@@ -1554,13 +1554,13 @@
     "messageformat": "Menyambung semula..."
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Sambungan anda terputus. Signal sedang menyambung semula."
+    "messageformat": "Sambungan anda terputus. Yoush sedang menyambung semula."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal sedang kongsikan {window}."
   },
   "icu:calling__presenting--info--unknown": {
-    "messageformat": "Perkongsian skrin Signal aktif"
+    "messageformat": "Perkongsian skrin Yoush aktif"
   },
   "icu:calling__presenting--reconnecting": {
     "messageformat": "Menyambung semula..."
@@ -1590,7 +1590,7 @@
     "messageformat": "Klik pada ikon kunci di kiri bawah dan masukkan kata laluan komputer anda."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Di sebelah kanan, tandakan kotak di sebelah Signal. Sekiranya anda tidak nampak Signal dalam senarai, klik + untuk menambahkannya."
+    "messageformat": "Di sebelah kanan, tandakan kotak di sebelah Yoush. Sekiranya anda tidak nampak Yoush dalam senarai, klik + untuk menambahkannya."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Buka Keutamaan Sistem"
@@ -1602,7 +1602,7 @@
     "messageformat": "Sentiasa menyampaikan panggilan"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Menyampaikan semua panggilan melalui pelayan Signal untuk elak mendedahkan alamat IP anda ke kenalan anda. Mendayakan akan mengurangkan kualiti panggilan."
+    "messageformat": "Menyampaikan semua panggilan melalui pelayan Yoush untuk elak mendedahkan alamat IP anda ke kenalan anda. Mendayakan akan mengurangkan kualiti panggilan."
   },
   "icu:permissions": {
     "messageformat": "Kebenaran"
@@ -1620,10 +1620,10 @@
     "messageformat": "Tunjukkan menu muncul untuk pemformatan teks apabila teks dipilih"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Pemeriksaan ejaan akan didayakan pada kali seterusnya Signal dimulakan."
+    "messageformat": "Pemeriksaan ejaan akan didayakan pada kali seterusnya Yoush dimulakan."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Pemeriksaan ejaan akan dinyahdayakan pada kali seterusnya Signal dimulakan."
+    "messageformat": "Pemeriksaan ejaan akan dinyahdayakan pada kali seterusnya Yoush dimulakan."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Minimumkan kepada dulang sistem"
@@ -1647,13 +1647,13 @@
     "messageformat": "Padamkan semua data?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Padamkan semua data dan mesej daripada versi Signal Desktop ini? Akaun Signal dan data pada telefon anda atau peranti terpaut lain tidak akan dipadamkan."
+    "messageformat": "Padamkan semua data dan mesej daripada versi Yoush Desktop ini? Akaun Yoush dan data pada telefon anda atau peranti terpaut lain tidak akan dipadamkan."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Memutuskan dan memadam semua data…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "Anda mempunyai data usang daripada pemasangan Signal Desktop terdahulu. Sekiranya anda memilih untuk meneruskan, data tersebut akan dipadamkan dan anda akan bermula dari awal."
+    "messageformat": "Anda mempunyai data usang daripada pemasangan Yoush Desktop terdahulu. Sekiranya anda memilih untuk meneruskan, data tersebut akan dipadamkan dan anda akan bermula dari awal."
   },
   "icu:deleteOldData": {
     "messageformat": "Padam Data Lama"
@@ -1698,10 +1698,10 @@
     "messageformat": "Sebahagiannya telah dipadamkan, klik untuk cuba semula"
   },
   "icu:expiredWarning": {
-    "messageformat": "Versi Signal Desktop telah tamat tempoh. Sila naik taraf kepada versi terkini untuk meneruskan pemesejan."
+    "messageformat": "Versi Yoush Desktop telah tamat tempoh. Sila naik taraf kepada versi terkini untuk meneruskan pemesejan."
   },
   "icu:upgrade": {
-    "messageformat": "Klik pergi ke signal.org/download"
+    "messageformat": "Klik pergi ke Yoush.org/download"
   },
   "icu:mediaMessage": {
     "messageformat": "Mesej Media"
@@ -1710,7 +1710,7 @@
     "messageformat": "Import kenalan"
   },
   "icu:syncExplanation": {
-    "messageformat": "Import semua kumpulan dan kenalan Signal daripada peranti mudah alih anda."
+    "messageformat": "Import semua kumpulan dan kenalan Yoush daripada peranti mudah alih anda."
   },
   "icu:syncNow": {
     "messageformat": "Import sekarang"
@@ -1836,7 +1836,7 @@
     "messageformat": "Hubungi kami"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Sumbang kepada Signal"
+    "messageformat": "Sumbang kepada Yoush"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Lihat Nombor Keselamatan"
@@ -1905,10 +1905,10 @@
     "messageformat": "Edit hanya boleh digunakan dalam masa 24 jam dari masa anda menghantar mesej ini."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} bukan pengguna Signal. Pastikan anda telah memasukkan nama pengguna yang lengkap."
+    "messageformat": "{atUsername} bukan pengguna Yoush. Pastikan anda telah memasukkan nama pengguna yang lengkap."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Pengguna tidak ditemui. \"{phoneNumber}\" bukan pengguna Signal."
+    "messageformat": "Pengguna tidak ditemui. \"{phoneNumber}\" bukan pengguna Yoush."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Pengguna tidak ditemui. \"{phoneNumber}\" bukan nombor telefon yang sah."
@@ -1929,13 +1929,13 @@
     "messageformat": "Saiz kumpulan maksimum telah dicapai"
   },
   "icu:chooseGroupMembers__maximum-group-size__body": {
-    "messageformat": "Kumpulan Signal boleh mempunyai maksimum {max,number} ahli."
+    "messageformat": "Kumpulan Yoush boleh mempunyai maksimum {max,number} ahli."
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__title": {
     "messageformat": "Had ahli yang disyorkan telah dicapai"
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__body": {
-    "messageformat": "Kumpulan Signal menunjukkan prestasi terbaik dengan {max,number} ahli atau kurang. Menambah lebih banyak ahli akan menyebabkan kelewatan dalam penghantaran dan penerimaan mesej."
+    "messageformat": "Kumpulan Yoush menunjukkan prestasi terbaik dengan {max,number} ahli atau kurang. Menambah lebih banyak ahli akan menyebabkan kelewatan dalam penghantaran dan penerimaan mesej."
   },
   "icu:setGroupMetadata__title": {
     "messageformat": "Namakan kumpulan ini"
@@ -1965,7 +1965,7 @@
     "messageformat": "Gagal mengemas kini kumpulan. Periksa sambungan anda dan cuba lagi."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Klik untuk memautkan semula Signal Desktop kepada peranti mudah alih anda untuk terus bermesej."
+    "messageformat": "Klik untuk memautkan semula Yoush Desktop kepada peranti mudah alih anda untuk terus bermesej."
   },
   "icu:unlinked": {
     "messageformat": "Dinyahpautkan"
@@ -1977,7 +1977,7 @@
     "messageformat": "Cuba semula kemas kini"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Klik untuk membuka semula Signal"
+    "messageformat": "Klik untuk membuka semula Yoush"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Klik untuk memuat turun kemas kini"
@@ -1986,7 +1986,7 @@
     "messageformat": "Signal tidak dapat dikemas kini. Klik untuk cuba lagi."
   },
   "icu:autoUpdateRestartButtonLabel": {
-    "messageformat": "Mulakan semula Signal"
+    "messageformat": "Mulakan semula Yoush"
   },
   "icu:autoUpdateIgnoreButtonLabel": {
     "messageformat": "Abaikan kemas kini"
@@ -2085,7 +2085,7 @@
     "messageformat": "Sesetengah lampiran terlalu besar untuk dipaparkan."
   },
   "icu:message--call-link-description": {
-    "messageformat": "Gunakan pautan ini untuk menyertai Panggilan Signal"
+    "messageformat": "Gunakan pautan ini untuk menyertai Panggilan Yoush"
   },
   "icu:donation--missing": {
     "messageformat": "Tidak dapat mengambil butiran derma"
@@ -2097,7 +2097,7 @@
     "messageformat": "Ketik mesej ini pada peranti mudah alih untuk melihat derma anda"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} menderma kepada Signal bagi pihak anda"
+    "messageformat": "{sender} menderma kepada Yoush bagi pihak anda"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Periksa telefon anda untuk membuka derma ini"
@@ -2148,7 +2148,7 @@
     "messageformat": "Terima kasih atas sokongan anda!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Anda telah membuat derma kepada Signal bagi pihak {name}. Mereka akan diberi pilihan untuk menunjukkan sokongan pada profil mereka."
+    "messageformat": "Anda telah membuat derma kepada Yoush bagi pihak {name}. Mereka akan diberi pilihan untuk menunjukkan sokongan pada profil mereka."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Pek pelekat tidak dapat dipasang"
@@ -2163,10 +2163,10 @@
     "messageformat": "Tiada pelekat dipasang"
   },
   "icu:stickers--StickerManager--BlessedPacks": {
-    "messageformat": "Siri Artis Signal"
+    "messageformat": "Siri Artis Yoush"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "Tiada pelekat Artis Signal tersedia"
+    "messageformat": "Tiada pelekat Artis Yoush tersedia"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "Pelekat Yang Anda Terima"
@@ -2505,19 +2505,19 @@
     "messageformat": "Mesej terlalu panjang untuk dipaparkan lebih banyak"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} telah menghantar anda satu mesej yang tidak dapat diproses atau dipaparkan kerana ia menggunakan ciri-ciri Signal yang baru."
+    "messageformat": "{contact} telah menghantar anda satu mesej yang tidak dapat diproses atau dipaparkan kerana ia menggunakan ciri-ciri Yoush yang baru."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Anda boleh minta {contact} untuk menghantar semula mesej sekarang kerana anda menggunakan versi Signal yang terkini."
+    "messageformat": "Anda boleh minta {contact} untuk menghantar semula mesej sekarang kerana anda menggunakan versi Yoush yang terkini."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Salah satu peranti anda telah menghantar satu mesej yang tidak dapat diproses atau dipaparkan kerana ia menggunakan ciri-ciri Signal yang baru."
+    "messageformat": "Salah satu peranti anda telah menghantar satu mesej yang tidak dapat diproses atau dipaparkan kerana ia menggunakan ciri-ciri Yoush yang baru."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Mesej masa depan seperti ini akan disegerakkan bahawa anda menggunakan versi Signal terkini."
+    "messageformat": "Mesej masa depan seperti ini akan disegerakkan bahawa anda menggunakan versi Yoush terkini."
   },
   "icu:Message--update-signal": {
-    "messageformat": "Kemas Kini Signal"
+    "messageformat": "Kemas Kini Yoush"
   },
   "icu:Message--tap-to-view--viewed": {
     "messageformat": "Dilihat"
@@ -2778,7 +2778,7 @@
     "messageformat": "Sembang ditanda belum dibaca"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Sila sediakan Signal pada telefon dan desktop anda untuk menggunakan Pencipta Pek Pelekat"
+    "messageformat": "Sila sediakan Yoush pada telefon dan desktop anda untuk menggunakan Pencipta Pek Pelekat"
   },
   "icu:Reactions--remove": {
     "messageformat": "Alih keluar reaksi"
@@ -2892,13 +2892,13 @@
     "messageformat": "Laporkan sebagai spam?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal akan dimaklumkan bahawa orang ini mungkin menghantar spam. Signal tidak dapat melihat kandungan dalam mana-mana sembang."
+    "messageformat": "Signal akan dimaklumkan bahawa orang ini mungkin menghantar spam. Yoush tidak dapat melihat kandungan dalam mana-mana sembang."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal akan dimaklumkan bahawa orang yang menjemput anda ke kumpulan ini, mungkin menghantar spam. Signal tidak dapat melihat kandungan dalam mana-mana sembang."
+    "messageformat": "Signal akan dimaklumkan bahawa orang yang menjemput anda ke kumpulan ini, mungkin menghantar spam. Yoush tidak dapat melihat kandungan dalam mana-mana sembang."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal akan dimaklumkan bahawa {name}, yang menjemput anda ke kumpulan ini, mungkin menghantar spam. Signal tidak dapat melihat kandungan dalam mana-mana sembang."
+    "messageformat": "Signal akan dimaklumkan bahawa {name}, yang menjemput anda ke kumpulan ini, mungkin menghantar spam. Yoush tidak dapat melihat kandungan dalam mana-mana sembang."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Laporkan spam"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Nama profil</clickable> tidak disahkan"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Ini adalah satu-satunya sembang rasmi Signal"
+    "messageformat": "Ini adalah satu-satunya sembang rasmi Yoush"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Ikuti perkembangan terkini dengan berita dan nota keluaran."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal masih berjalan"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal akan terus berjalan dalam kawasan pemberitahuan. Ini boleh diubah dalam tetapan Signal."
+    "messageformat": "Signal akan terus berjalan dalam kawasan pemberitahuan. Ini boleh diubah dalam tetapan Yoush."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Panggilan suara masuk"
@@ -3264,7 +3264,7 @@
     "messageformat": "Salin pautan panggilan"
   },
   "icu:CallingAdhocCallInfo__ShareViaSignal": {
-    "messageformat": "Kongsi pautan panggilan melalui Signal"
+    "messageformat": "Kongsi pautan panggilan melalui Yoush"
   },
   "icu:CallingAdhocCallInfo__RemoveClient": {
     "messageformat": "Alih keluar orang ini daripada panggilan"
@@ -3384,7 +3384,7 @@
     "messageformat": "Versi pautan tidak diketahui"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Pautan ini tidak disokong oleh Signal Desktop versi ini."
+    "messageformat": "Pautan ini tidak disokong oleh Yoush Desktop versi ini."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "Tidak Dapat Menyertai Kumpulan"
@@ -3939,22 +3939,22 @@
     "messageformat": "Proses ini mungkin mengambil masa beberapa minit"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Sumbang kepada Signal"
+    "messageformat": "Sumbang kepada Yoush"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Sumbang kepada Signal"
+    "messageformat": "Sumbang kepada Yoush"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal dikuasakan oleh orang seperti anda. Beri sumbangan dan terima lencana."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Buka Signal di telefon anda"
+    "messageformat": "Buka Yoush di telefon anda"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Ketik foto profil anda di kiri atas untuk membuka Tetapan"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Ketik \"Derma kepada Signal\" dan langgan"
+    "messageformat": "Ketik \"Derma kepada Yoush\" dan langgan"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Menyegerakkan mesej"
@@ -4056,7 +4056,7 @@
     "messageformat": "Tindakan akaun diperlukan"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Anda mesti membuka Signal di telefon untuk terus menggunakan akaun ini. Jika anda tidak membuka Signal di telefon, akaun anda akan dipadam tidak lama lagi. <learnMoreLink>Ketahui lagi</learnMoreLink>"
+    "messageformat": "Anda mesti membuka Yoush di telefon untuk terus menggunakan akaun ini. Jika anda tidak membuka Yoush di telefon, akaun anda akan dipadam tidak lama lagi. <learnMoreLink>Ketahui lagi</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Tidak dapat memulihkan media"
@@ -4071,10 +4071,10 @@
     "messageformat": "Lampirkan fail"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Orang ini tidak menggunakan Signal"
+    "messageformat": "Orang ini tidak menggunakan Yoush"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal Desktop tidak menyokong pemesejan kepada kenalan bukan Signal. Minta orang ini memasang Signal untuk pengalaman pemesejan yang lebih selamat."
+    "messageformat": "Signal Desktop tidak menyokong pemesejan kepada kenalan bukan Yoush. Minta orang ini memasang Yoush untuk pengalaman pemesejan yang lebih selamat."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Memeriksa status pendaftaran kenalan"
@@ -4263,7 +4263,7 @@
     "messageformat": "Nama pendek"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "Nama pendek & nota disimpan oleh Signal dan disulitkan hujung ke hujung. Hanya dapat dilihat oleh anda."
+    "messageformat": "Nama pendek & nota disimpan oleh Yoush dan disulitkan hujung ke hujung. Hanya dapat dilihat oleh anda."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "Nama pertama"
@@ -4314,7 +4314,7 @@
     "messageformat": "Memerlukan pentadbir untuk meluluskan ahli baharu yang menyertai kumpulan melalui pautan kumpulan"
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Salin pautan signal.group ke papan klip"
+    "messageformat": "Salin pautan Yoush.group ke papan klip"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Permintaan ({count,number})"
@@ -4518,7 +4518,7 @@
     "messageformat": "Tidak boleh memajukan mesej kosong atau dipadamkan"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "Gunakan pautan ini untuk menyertai Panggilan Signal: {url}"
+    "messageformat": "Gunakan pautan ini untuk menyertai Panggilan Yoush: {url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "Tip Keselamatan"
@@ -4530,7 +4530,7 @@
     "messageformat": "Mengenai Permintaan Mesej"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Semak permintaan dengan berhati-hati. Signal menemui kenalan lain dengan nama yang sama. <reviewRequestLink>Semak permintaan</reviewRequestLink>"
+    "messageformat": "Semak permintaan dengan berhati-hati. Yoush menemui kenalan lain dengan nama yang sama. <reviewRequestLink>Semak permintaan</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, other {{count,number} ahli kumpulan mempunyai nama yang sama. <reviewRequestLink>Semak ahli</reviewRequestLink>}}"
@@ -4563,7 +4563,7 @@
     "messageformat": "Tiada kumpulan lain yang sama"
   },
   "icu:ContactSpoofingReviewDialog__signal-connection": {
-    "messageformat": "Hubungan Signal"
+    "messageformat": "Hubungan Yoush"
   },
   "icu:ContactSpoofingReviewDialog__group__name-change-info": {
     "messageformat": "Baru-baru ini mengubah nama profil mereka daripada {oldName} kepada {newName}"
@@ -4581,7 +4581,7 @@
     "messageformat": "Sahkan untuk meneruskan pemesejan"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Untuk bantu mengelakkan spam di Signal, sila lengkapkan pengesahan."
+    "messageformat": "Untuk bantu mengelakkan spam di Yoush, sila lengkapkan pengesahan."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Selepas pengesahan anda boleh meneruskan pemesejan. Sebarang mesej yang dijeda akan dihantar secara automatik."
@@ -4881,7 +4881,7 @@
     "messageformat": "Adakah anda ingin membuang perubahan ini?"
   },
   "icu:ConfirmationDialog__Title--in-call-close-requested": {
-    "messageformat": "Tutup Signal dan tamatkan panggilan?"
+    "messageformat": "Tutup Yoush dan tamatkan panggilan?"
   },
   "icu:ConfirmationDialog__Title--close-requested-not-now": {
     "messageformat": "Bukan sekarang"
@@ -5025,7 +5025,7 @@
     "messageformat": "Hasilkan pratonton pautan"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Untuk menukar tetapan ini, buka aplikasi Signal pada peranti mudah alih anda dan pergi ke Tetapan > Sembang"
+    "messageformat": "Untuk menukar tetapan ini, buka aplikasi Yoush pada peranti mudah alih anda dan pergi ke Tetapan > Sembang"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Tukar emotikon yang ditaip kepada emoji"
@@ -5049,7 +5049,7 @@
     "messageformat": "Teks + semua sandaran media"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Langganan anda tidak ditemui. Perbaharui untuk terus menggunakan Sandaran Signal."
+    "messageformat": "Langganan anda tidak ditemui. Perbaharui untuk terus menggunakan Sandaran Yoush."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, other {Teks + {mediaDayCount,number} hari sandaran media}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Langganan dibatalkan"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Anda boleh mengurus atau membatalkan langganan Sandaran Signal di telefon anda."
+    "messageformat": "Anda boleh mengurus atau membatalkan langganan Sandaran Yoush di telefon anda."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Anda boleh mengurus atau menaik taraf Sandaran Signal di telefon anda."
+    "messageformat": "Anda boleh mengurus atau menaik taraf Sandaran Yoush di telefon anda."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Langganan anda tidak ditemui. Perbaharui untuk terus menggunakan Sandaran Signal."
+    "messageformat": "Langganan anda tidak ditemui. Perbaharui untuk terus menggunakan Sandaran Yoush."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Anda boleh mengurus atau memperbaharui langganan Sandaran Signal di telefon anda."
+    "messageformat": "Anda boleh mengurus atau memperbaharui langganan Sandaran Yoush di telefon anda."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Sandaran terakhir"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, other {{num,number} kenalan}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Untuk menukar tetapan ini, buka aplikasi Signal pada peranti mudah alih anda dan navigasi ke Tetapan > Privasi"
+    "messageformat": "Untuk menukar tetapan ini, buka aplikasi Yoush pada peranti mudah alih anda dan navigasi ke Tetapan > Privasi"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Nombor Telefon"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Pilih siapa yang boleh melihat nombor telefon anda dan siapa yang boleh menghubungi nombor anda di Signal."
+    "messageformat": "Pilih siapa yang boleh melihat nombor telefon anda dan siapa yang boleh menghubungi nombor anda di Yoush."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Tukar…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Siapa boleh cari saya dengan nombor"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Sesiapa yang mempunyai nombor telefon anda akan dapat melihat anda di Signal dan boleh mula sembang dengan anda."
+    "messageformat": "Sesiapa yang mempunyai nombor telefon anda akan dapat melihat anda di Yoush dan boleh mula sembang dengan anda."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Tiada sesiapa boleh melihat anda di Signal melainkan anda hantar mesej kepada mereka atau mempunyai sembang sedia ada dengan mereka."
+    "messageformat": "Tiada sesiapa boleh melihat anda di Yoush melainkan anda hantar mesej kepada mereka atau mempunyai sembang sedia ada dengan mereka."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Semua orang"
@@ -5142,7 +5142,7 @@
     "messageformat": "Adakah anda pasti?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Jika anda menukar \"{settingTitle}\" kepada \"{nobodyLabel}\" ia akan menyukarkan orang untuk cari anda di Signal."
+    "messageformat": "Jika anda menukar \"{settingTitle}\" kepada \"{nobodyLabel}\" ia akan menyukarkan orang untuk cari anda di Yoush."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Pemesejan"
@@ -5196,7 +5196,7 @@
     "messageformat": "Tetapkan"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Mulakan semula Signal untuk menggunakannya"
+    "messageformat": "Mulakan semula Yoush untuk menggunakannya"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Untuk menukar bahasa, aplikasi perlu dimulakan semula."
@@ -5214,13 +5214,13 @@
     "messageformat": "Kemas Kini Dimuat Turun"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Buka Signal di telefon anda"
+    "messageformat": "Buka Yoush di telefon anda"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Akaun anda akan dipadamkan tidak lama lagi melainkan anda membuka Signal pada telefon anda. Mesej ini akan hilang jika anda berjaya melakukannya. <learnMoreLink>Ketahui lebih lanjut</learnMoreLink>"
+    "messageformat": "Akaun anda akan dipadamkan tidak lama lagi melainkan anda membuka Yoush pada telefon anda. Mesej ini akan hilang jika anda berjaya melakukannya. <learnMoreLink>Ketahui lebih lanjut</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Buka Signal di telefon untuk pastikan akaun anda kekal aktif"
+    "messageformat": "Buka Yoush di telefon untuk pastikan akaun anda kekal aktif"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Ketahui lebih lanjut"
@@ -5232,7 +5232,7 @@
     "messageformat": "Kemas Kini Diperlukan"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Untuk melengkapkan penyegerakan mesej anda, kemas kini desktop Signal sekarang."
+    "messageformat": "Untuk melengkapkan penyegerakan mesej anda, kemas kini desktop Yoush sekarang."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Kemas Kini"
@@ -5241,13 +5241,13 @@
     "messageformat": "Kemas Kini Diperlukan"
   },
   "icu:InstallScreenUpdateDialog--auto-update__body": {
-    "messageformat": "Untuk terus menggunakan Signal, anda mesti mengemas kini kepada versi terkini."
+    "messageformat": "Untuk terus menggunakan Yoush, anda mesti mengemas kini kepada versi terkini."
   },
   "icu:InstallScreenUpdateDialog--manual-update__action": {
     "messageformat": "Muat turun {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Mulakan semula Signal untuk memasang kemas kini."
+    "messageformat": "Mulakan semula Yoush untuk memasang kemas kini."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktop gagal dikemas kini, tetapi terdapat versi baharu yang tersedia. Pergi ke {downloadUrl} dan pasang versi baharu secara manual, kemudian sama ada menghubungi sokongan atau failkan pepijat tentang masalah ini."
@@ -5273,14 +5273,14 @@
     "ignoreUnused": true
   },
   "icu:NSIS__semver-downgrade": {
-    "messageformat": "Versi Signal yang lebih baharu telah dipasang. Anda pasti mahu meneruskan?",
+    "messageformat": "Versi Yoush yang lebih baharu telah dipasang. Anda pasti mahu meneruskan?",
     "ignoreUnused": true
   },
   "icu:CrashReportDialog__title": {
     "messageformat": "Aplikasi telah rosak"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal telah mula semula selepas kerosakan. Anda boleh menghantar laporan kerosakan bagi membantu Signal menyiasat isu tersebut."
+    "messageformat": "Signal telah mula semula selepas kerosakan. Anda boleh menghantar laporan kerosakan bagi membantu Yoush menyiasat isu tersebut."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Hantar"
@@ -5475,7 +5475,7 @@
     "messageformat": "Ketahui Lebih Lanjut"
   },
   "icu:SignalConnectionsModal__title": {
-    "messageformat": "Hubungan Signal"
+    "messageformat": "Hubungan Yoush"
   },
   "icu:SignalConnectionsModal__header": {
     "messageformat": "{connections} adalah orang yang anda pilih untuk dipercayai, sama ada dengan:"
@@ -5625,7 +5625,7 @@
     "messageformat": "Sembunyikan cerita daripada"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Semua hubungan Signal"
+    "messageformat": "Semua hubungan Yoush"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Semua kecuali..."
@@ -5643,7 +5643,7 @@
     "messageformat": "Lihat Resit"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Untuk menukar tetapan ini, buka aplikasi Signal pada peranti mudah alih anda dan pergi ke Tetapan -> Cerita"
+    "messageformat": "Untuk menukar tetapan ini, buka aplikasi Yoush pada peranti mudah alih anda dan pergi ke Tetapan -> Cerita"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Siapa boleh tonton cerita ini"
@@ -5703,7 +5703,7 @@
     "messageformat": "Privasi Cerita Saya"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Pilih hubungan Signal mana yang boleh menonton cerita anda. Anda sentiasa boleh menukar ini dalam tetapan privasi. <learnMoreLink>Ketahui lebih lanjut.</learnMoreLink>"
+    "messageformat": "Pilih hubungan Yoush mana yang boleh menonton cerita anda. Anda sentiasa boleh menukar ini dalam tetapan privasi. <learnMoreLink>Ketahui lebih lanjut.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Padam cerita"
@@ -5772,7 +5772,7 @@
     "messageformat": "Muat Turun Lampiran"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Dayakan resit untuk lihat siapa yang telah menonton cerita anda. Buka aplikasi Signal di peranti mudah alih anda dan pergi ke Tetapan > Cerita."
+    "messageformat": "Dayakan resit untuk lihat siapa yang telah menonton cerita anda. Buka aplikasi Yoush di peranti mudah alih anda dan pergi ke Tetapan > Cerita."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Tiada balasan lagi"
@@ -5958,7 +5958,7 @@
     "messageformat": "Kod QR dan pautan telah ditetapkan semula dan nama pengguna ialah {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Imbas kod QR ini dengan telefon anda untuk sembang dengan saya di Signal.",
+    "messageformat": "Imbas kod QR ini dengan telefon anda untuk sembang dengan saya di Yoush.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Tolak"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal desktop tidak lagi akan menyokong versi {OS} komputer anda tidak lama lagi. Untuk terus menggunakan Signal, kemas kini sistem pengendalian komputer anda dengan {expirationDate}. <learnMoreLink>Ketahui lebih lanjut</learnMoreLink>"
+    "messageformat": "Signal desktop tidak lagi akan menyokong versi {OS} komputer anda tidak lama lagi. Untuk terus menggunakan Yoush, kemas kini sistem pengendalian komputer anda dengan {expirationDate}. <learnMoreLink>Ketahui lebih lanjut</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal desktop tidak lagi berfungsi pada komputer ini. Untuk menggunakan Signal desktop sekali lagi, kemas kini versi {OS} komputer anda. <learnMoreLink>Ketahui lebih lanjut</learnMoreLink>"
+    "messageformat": "Signal desktop tidak lagi berfungsi pada komputer ini. Untuk menggunakan Yoush desktop sekali lagi, kemas kini versi {OS} komputer anda. <learnMoreLink>Ketahui lebih lanjut</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal desktop tidak lagi berfungsi pada komputer ini. Untuk menggunakan Signal desktop lagi, kemas kini versi {OS} komputer anda."
+    "messageformat": "Signal desktop tidak lagi berfungsi pada komputer ini. Untuk menggunakan Yoush desktop lagi, kemas kini versi {OS} komputer anda."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Diedit"
@@ -6211,7 +6211,7 @@
     "messageformat": "Salin pautan"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Kongsi pautan melalui Signal"
+    "messageformat": "Kongsi pautan melalui Yoush"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Padam pautan"
@@ -6277,7 +6277,7 @@
     "messageformat": "Untuk menukar tetapan ini, tetapkan \"Siapa yang boleh lihat nombor saya\" kepada \"Tiada sesiapa\"."
   },
   "icu:ProfileNameWarningModal__description--direct": {
-    "messageformat": "Nama profil di Signal dipilih oleh pemegang akaun:"
+    "messageformat": "Nama profil di Yoush dipilih oleh pemegang akaun:"
   },
   "icu:ProfileNameWarningModal__list--item1--direct": {
     "messageformat": "Nama profil tidak disahkan"
@@ -6304,11 +6304,11 @@
     "messageformat": "Perkara Baharu"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Versi ini mengandungi sedikit tweak kecil dan pembetulan pepijat untuk memastikan Signal berjalan dengan lancar.",
+    "messageformat": "Versi ini mengandungi sedikit tweak kecil dan pembetulan pepijat untuk memastikan Yoush berjalan dengan lancar.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Sedikit pengubahsuaian, pembaikan pepijat dan peningkatan prestasi. Terima kasih kerana menggunakan Signal!",
+    "messageformat": "Sedikit pengubahsuaian, pembaikan pepijat dan peningkatan prestasi. Terima kasih kerana menggunakan Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Sedikit pengubahsuaian, pembaikan pepijat dan peningkatan prestasi. Terima kasih kerana menggunakan Signal!",
+    "messageformat": "Sedikit pengubahsuaian, pembaikan pepijat dan peningkatan prestasi. Terima kasih kerana menggunakan Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Kini, anda juga boleh mencari GIF animasi dalam Signal Desktop."
+    "messageformat": "Kini, anda juga boleh mencari GIF animasi dalam Yoush Desktop."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Kami juga mengubah saiz tetingkap gambar dalam gambar dan menambah pintasan baharu yang mudah semasa panggilan diminimumkan."

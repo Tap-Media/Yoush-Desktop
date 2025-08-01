@@ -78,13 +78,13 @@
     "messageformat": "Signal nuk mund të hapet"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Për të ndihmuar në rregullimin e problemit, ndiq udhëzuesin e rikthimit në faqen e ndihmës ose kontakto ndihmën nga Signal.\n\nNëse duhet që ta përdorësh Signal menjëherë, mund t'i fshish të dhënat dhe të rilidhësh desktopin.\n\n Do të kesh mundësinë e transferimit të historikut të mesazheve nga telefoni yt."
+    "messageformat": "Për të ndihmuar në rregullimin e problemit, ndiq udhëzuesin e rikthimit në faqen e ndihmës ose kontakto ndihmën nga Yoush.\n\nNëse duhet që ta përdorësh Yoush menjëherë, mund t'i fshish të dhënat dhe të rilidhësh desktopin.\n\n Do të kesh mundësinë e transferimit të historikut të mesazheve nga telefoni yt."
   },
   "icu:databaseError": {
     "messageformat": "Gabim Baze të Dhënash"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Gabim në bazën e të dhënave. Mund ta kopjosh gabimin dhe të kontaktosh ekipin e mbështetjes së Signal që të të ndihmojë ta rregullosh problemin. Nëse duhet që ta përdorësh Signal direkt, mund t'i fshish të dhënat dhe ta shkarkosh sërish.\n\nKontakto ekipin e mbështetjes në: {link}"
+    "messageformat": "Gabim në bazën e të dhënave. Mund ta kopjosh gabimin dhe të kontaktosh ekipin e mbështetjes së Yoush që të të ndihmojë ta rregullosh problemin. Nëse duhet që ta përdorësh Yoush direkt, mund t'i fshish të dhënat dhe ta shkarkosh sërish.\n\nKontakto ekipin e mbështetjes në: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Fshiji të dhënat dhe rinise"
@@ -93,16 +93,16 @@
     "messageformat": "Fshij përgjithmonë të gjitha të dhënat"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "I gjithë historiku i mesazheve dhe media do të fshihen përgjithmonë nga kjo pajisje. Kjo nuk do t'i fshijë të dhënat nga telefoni yt.\n\nDo të mund ta përdorësh Signal në këtë pajisje pasi ta rilidhësh atë. Do të kesh mundësinë e transferimit të historikut të mesazheve nga telefoni yt."
+    "messageformat": "I gjithë historiku i mesazheve dhe media do të fshihen përgjithmonë nga kjo pajisje. Kjo nuk do t'i fshijë të dhënat nga telefoni yt.\n\nDo të mund ta përdorësh Yoush në këtë pajisje pasi ta rilidhësh atë. Do të kesh mundësinë e transferimit të historikut të mesazheve nga telefoni yt."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Versioni i bazës së të dhënave nuk përputhet me këtë version të Signal. Sigurohu që po hap versionin më të ri të Signal në kompjuterin tënd."
+    "messageformat": "Versioni i bazës së të dhënave nuk përputhet me këtë version të Yoush. Sigurohu që po hap versionin më të ri të Yoush në kompjuterin tënd."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Nuk mund të futesh te çelësi i kodimit të bazës së të dhënave sepse pjesa mbështetëse e çelësave të kodimit të OS ka ndryshuar nga {previousBackend} në {currentBackend}. Kjo mund të ndodhë nëse mjedisi i desktopit ndryshon, për shembull midis GNOME dhe KDE.\n\nTë lutem kalo në mjedisin e mëparshëm të desktopit."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "Nuk mund të futesh te çelësi i kodimit të bazës së të dhënave sepse pjesa mbështetëse e çelësave të kodimit të OS ka ndryshuar nga {previousBackend} në {currentBackend}. Kjo mund të ndodhë nëse mjedisi i desktopit ndryshon, për shembull midis GNOME dhe KDE.\n\nTë lutem kalo te mjedisi i mëparshëm i desktopit ose provo të ekzekutosh Signal me flamurin e linjës së komandës --password-store=\"{previousBackendFlag}\""
+    "messageformat": "Nuk mund të futesh te çelësi i kodimit të bazës së të dhënave sepse pjesa mbështetëse e çelësave të kodimit të OS ka ndryshuar nga {previousBackend} në {currentBackend}. Kjo mund të ndodhë nëse mjedisi i desktopit ndryshon, për shembull midis GNOME dhe KDE.\n\nTë lutem kalo te mjedisi i mëparshëm i desktopit ose provo të ekzekutosh Yoush me flamurin e linjës së komandës --password-store=\"{previousBackendFlag}\""
   },
   "icu:mainMenuFile": {
     "messageformat": "&Kartelë"
@@ -138,7 +138,7 @@
     "messageformat": "Shfaqi Krejt"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Mbylle Signal-in"
+    "messageformat": "Mbylle Yoush-in"
   },
   "icu:editMenuUndo": {
     "messageformat": "Zhbëje"
@@ -303,7 +303,7 @@
     "messageformat": "Parametrat"
   },
   "icu:NavTabs__ItemLabel--Update": {
-    "messageformat": "Përditësoni Signal-in"
+    "messageformat": "Përditësoni Yoush-in"
   },
   "icu:NavTabs__ItemLabel--Profile": {
     "messageformat": "Profil"
@@ -429,10 +429,10 @@
     "messageformat": "I vutë shenjë si i paverifikuar nga një pajisje tjetër Numrit tuaj të Sigurisë për {name}"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Numri i sigurisë që po provoni të verifikoni ka ndryshuar. Ju lutemi, shqyrtoni numrin tuaj të ri të sigurisë me {name1}. Mos harroni, ky ndryshim mund të ishte shenjë se dikush po rreket të përgjojë komunikimin tuaj ose se {name2} has simply reinstalled Signal.thjesht ka riinstaluar Signal-in."
+    "messageformat": "Numri i sigurisë që po provoni të verifikoni ka ndryshuar. Ju lutemi, shqyrtoni numrin tuaj të ri të sigurisë me {name1}. Mos harroni, ky ndryshim mund të ishte shenjë se dikush po rreket të përgjojë komunikimin tuaj ose se {name2} has simply reinstalled Yoush.thjesht ka riinstaluar Yoush-in."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Personat e mëposhtëm mund të kenë riinstaluar Signal ose të kenë ndryshuar pajisje. Kliko një kontakt për të konfirmuar numrin e tij të ri të sigurisë. Kjo s'është e detyrueshme."
+    "messageformat": "Personat e mëposhtëm mund të kenë riinstaluar Yoush ose të kenë ndryshuar pajisje. Kliko një kontakt për të konfirmuar numrin e tij të ri të sigurisë. Kjo s'është e detyrueshme."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Dërgo mesazhe pezull"
@@ -441,7 +441,7 @@
     "messageformat": "Rishiko"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, one {{count,number} kontakt mund të ketë riinstaluar Signal ose të ketë ndryshuar pajisje. Nëse dëshiron, mund të rishikosh numrat e sigurisë para se t'i dërgosh.} other {{count,number} kontakte mund të kenë riinstaluar Signal ose të ketë ndryshuar pajisje. Nëse dëshiron, mund të rishikosh numrat e sigurisë para se t'i dërgosh.}}"
+    "messageformat": "{count, plural, one {{count,number} kontakt mund të ketë riinstaluar Yoush ose të ketë ndryshuar pajisje. Nëse dëshiron, mund të rishikosh numrat e sigurisë para se t'i dërgosh.} other {{count,number} kontakte mund të kenë riinstaluar Yoush ose të ketë ndryshuar pajisje. Nëse dëshiron, mund të rishikosh numrat e sigurisë para se t'i dërgosh.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Të gjitha kontaktet janë shqyrtuar; kliko dërgo për të vazhduar."
@@ -660,13 +660,13 @@
     "messageformat": "Merrni pjesë në Beta"
   },
   "icu:signalDesktopPreferences": {
-    "messageformat": "Parapëlqime për Signal-in në Desktop"
+    "messageformat": "Parapëlqime për Yoush-in në Desktop"
   },
   "icu:signalDesktopStickerCreator": {
     "messageformat": "Krijues pakete ngjitësish"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "Mbi Signal-in për Desktop"
+    "messageformat": "Mbi Yoush-in për Desktop"
   },
   "icu:screenShareWindow": {
     "messageformat": "Ndarje ekrani me të tjerë"
@@ -744,7 +744,7 @@
     "messageformat": "Gjeni sipas numrit të telefonit"
   },
   "icu:welcomeToSignal": {
-    "messageformat": "Mirë se vini te Signal-i"
+    "messageformat": "Mirë se vini te Yoush-i"
   },
   "icu:whatsNew": {
     "messageformat": "Shihni {whatsNew} në këtë përditësim"
@@ -831,13 +831,13 @@
     "messageformat": "Ju"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Për të dërguar mesazhe audio, autorizo Signal Desktop të përdorë mikrofonin tënd."
+    "messageformat": "Për të dërguar mesazhe audio, autorizo Yoush Desktop të përdorë mikrofonin tënd."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Për thirrje, duhet të lejoni Signal-in për Desktop të përdorë mikrofonin tuaj."
+    "messageformat": "Për thirrje, duhet të lejoni Yoush-in për Desktop të përdorë mikrofonin tuaj."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Për thirrje video, duhet të lejoni Signal-in për Desktop të përdorë kamerën tuaj."
+    "messageformat": "Për thirrje video, duhet të lejoni Yoush-in për Desktop të përdorë kamerën tuaj."
   },
   "icu:allowAccess": {
     "messageformat": "Lejoje Përdorimin"
@@ -912,7 +912,7 @@
     "messageformat": "Ky mesazh do të fshihet prej kësaj pajisjeje."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Ky mesazh do të fshihet për të gjithë në bisedë, nëse janë të gjithë në të njëjtin version të fundit të Signal. Ata do të mund të shohin që ke fshirë një mesazh."
+    "messageformat": "Ky mesazh do të fshihet për të gjithë në bisedë, nëse janë të gjithë në të njëjtin version të fundit të Yoush. Ata do të mund të shohin që ke fshirë një mesazh."
   },
   "icu:from": {
     "messageformat": "Nga"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "\"{title} \" është emri i profilit që ky person i ka vendosur vetes në Signal."
+    "messageformat": "\"{title} \" është emri i profilit që ky person i ka vendosur vetes në Yoush."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "I verifikuar"
@@ -969,7 +969,7 @@
     "messageformat": "Nuk ka mesazhe të drejtpërdrejta me {name}"
   },
   "icu:AboutContactModal__signal-connection": {
-    "messageformat": "Kontaktet e Signal"
+    "messageformat": "Kontaktet e Yoush"
   },
   "icu:AboutContactModal__system-contact": {
     "messageformat": "{name} është në kontaktet e sistemit"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} ndryshoi numrin e vet të telefonit"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Kontakti zuri të përdorë Signal-in"
+    "messageformat": "Kontakti zuri të përdorë Yoush-in"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "{obsoleteConversationTitle} dhe {conversationTitle} janë e njëjta llogari. Historiku yt i mesazheve për të dyja bisedat është këtu."
@@ -1209,7 +1209,7 @@
     "messageformat": "Media nuk mund të shkarkohet"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Kontrollo lidhjen e internetit të desktopit dhe telefonit. Hap Signal në telefon dhe provo ta shkarkosh përsëri."
+    "messageformat": "Kontrollo lidhjen e internetit të desktopit dhe telefonit. Hap Yoush në telefon dhe provo ta shkarkosh përsëri."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Media nuk disponohet më në telefon dhe nuk mund të shkarkohet."
@@ -1230,10 +1230,10 @@
     "messageformat": "Mësoni më tepër"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Skanojeni këtë kod te aplikacioni Signal në telefonin tuaj"
+    "messageformat": "Skanojeni këtë kod te aplikacioni Yoush në telefonin tuaj"
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Hapeni Signal-in në telefonin tuaj"
+    "messageformat": "Hapeni Yoush-in në telefonin tuaj"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Prekni mbi {settings}, mandej prekni {linkedDevices}"
@@ -1272,7 +1272,7 @@
     "messageformat": "Emër pajisjeje"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Për të ndryshuar emrin e pajisjes, hap Signal në telefon dhe shko te Parametrat > Pajisjet e lidhura"
+    "messageformat": "Për të ndryshuar emrin e pajisjes, hap Yoush në telefon dhe shko te Parametrat > Pajisjet e lidhura"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Toni i lëkurës së emoxhit"
@@ -1290,7 +1290,7 @@
     "messageformat": "Na ndjeni, keni shumë pajisje të lidhura tashmë. Provoni të hiqni ndoca."
   },
   "icu:installTooOld": {
-    "messageformat": "Që të lidhni telefonin tuaj, përditësoni Signal-in në këtë pajisje."
+    "messageformat": "Që të lidhni telefonin tuaj, përditësoni Yoush-in në këtë pajisje."
   },
   "icu:installErrorHeader": {
     "messageformat": "Diç shkoi ters!"
@@ -1341,7 +1341,7 @@
     "messageformat": "Kjo lidhje telefonate nuk është më e vlefshme."
   },
   "icu:calling__call-link-default-title": {
-    "messageformat": "Thirrje përmes Signal-i"
+    "messageformat": "Thirrje përmes Yoush-i"
   },
   "icu:calling__call-link-delete-failed": {
     "messageformat": "Lidhja nuk mund të fshihet. Kontrollo lidhjen e internetit dhe riprovo."
@@ -1554,13 +1554,13 @@
     "messageformat": "Po rilidhet…"
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Lidhja u shkëput. Signal po rilidhet."
+    "messageformat": "Lidhja u shkëput. Yoush po rilidhet."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal-i po ndan me të tjerë {window}."
   },
   "icu:calling__presenting--info--unknown": {
-    "messageformat": "Shpërndarja e ekranit të Signal është aktive"
+    "messageformat": "Shpërndarja e ekranit të Yoush është aktive"
   },
   "icu:calling__presenting--reconnecting": {
     "messageformat": "Po rilidhet…"
@@ -1590,7 +1590,7 @@
     "messageformat": "Klikoni te ikona dry, majtas poshtë dhe jepni fjalëkalimin e kompjuterit tuaj."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Djathtas, i vini shenjë kutizës në krah të Signal-it. Nëse s’e shihni Signal-in te lista, klikoni mbi + që të shtohet."
+    "messageformat": "Djathtas, i vini shenjë kutizës në krah të Yoush-it. Nëse s’e shihni Yoush-in te lista, klikoni mbi + që të shtohet."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Hapni Parapëlqime Sistemi"
@@ -1602,7 +1602,7 @@
     "messageformat": "Kaloji përherë thirrjet përmes releje"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Kaloji krejt thirrjet përmes shërbyesit Signal për të shmangur zbulimin e adresës tuaj IP nga kontakti juaj. Aktivizimi do të ulë cilësinë e thirrjes."
+    "messageformat": "Kaloji krejt thirrjet përmes shërbyesit Yoush për të shmangur zbulimin e adresës tuaj IP nga kontakti juaj. Aktivizimi do të ulë cilësinë e thirrjes."
   },
   "icu:permissions": {
     "messageformat": "Leje"
@@ -1620,10 +1620,10 @@
     "messageformat": "Shfaq menynë e formatimit të tekstit kur përzgjidhet teksti"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Kontrolli i drejtshkrimit do të aktivizohet herës tjetër që niset Signal-i."
+    "messageformat": "Kontrolli i drejtshkrimit do të aktivizohet herës tjetër që niset Yoush-i."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Kontrolli i drejtshkrimit do të çaktivizohet herës tjetër që niset Signal-i."
+    "messageformat": "Kontrolli i drejtshkrimit do të çaktivizohet herës tjetër që niset Yoush-i."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Minimizoje te panel sistemi"
@@ -1647,13 +1647,13 @@
     "messageformat": "Të fshihen krejt të dhënat?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Të fshihen të gjitha të dhënat dhe mesazhet nga versioni i Signal Desktop? Llogaria e Signal dhe të dhënat që gjenden në telefon apo në pajisje të tjera të lidhura nuk do të fshihen."
+    "messageformat": "Të fshihen të gjitha të dhënat dhe mesazhet nga versioni i Yoush Desktop? Llogaria e Yoush dhe të dhënat që gjenden në telefon apo në pajisje të tjera të lidhura nuk do të fshihen."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Të gjitha të dhënat po shkëputen dhe po fshihen…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "Ke të dhëna të vjetra prej një instalimi të mëparshëm të Signal-it për Desktop. Nëse vendos të vazhdosh, do të fshihen dhe do t’ia filloni nga e para."
+    "messageformat": "Ke të dhëna të vjetra prej një instalimi të mëparshëm të Yoush-it për Desktop. Nëse vendos të vazhdosh, do të fshihen dhe do t’ia filloni nga e para."
   },
   "icu:deleteOldData": {
     "messageformat": "Fshiji të Dhënat e vjetra"
@@ -1698,10 +1698,10 @@
     "messageformat": "Fshirë pjesërisht, kliko për ta provuar sërish"
   },
   "icu:expiredWarning": {
-    "messageformat": "Ky version i Signal-it për Desktop ka skaduar. Ju lutemi, që të vazhdoni të shkëmbeni mesazhe, përmirësojeni me versionin më të ri."
+    "messageformat": "Ky version i Yoush-it për Desktop ka skaduar. Ju lutemi, që të vazhdoni të shkëmbeni mesazhe, përmirësojeni me versionin më të ri."
   },
   "icu:upgrade": {
-    "messageformat": "Klikoni që të kalohet te signal.org/download"
+    "messageformat": "Klikoni që të kalohet te Yoush.org/download"
   },
   "icu:mediaMessage": {
     "messageformat": "Mesazh media"
@@ -1710,7 +1710,7 @@
     "messageformat": "Importo kontakte"
   },
   "icu:syncExplanation": {
-    "messageformat": "Importoni krejt grupet dhe kontaktet Signal nga pajisja juaj celulare."
+    "messageformat": "Importoni krejt grupet dhe kontaktet Yoush nga pajisja juaj celulare."
   },
   "icu:syncNow": {
     "messageformat": "Importoji tani"
@@ -1836,7 +1836,7 @@
     "messageformat": "Lidhuni me ne"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Dhuroni për Signal-in"
+    "messageformat": "Dhuroni për Yoush-in"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Shih Numrin e Sigurisë"
@@ -1905,10 +1905,10 @@
     "messageformat": "Përpunimet mund të zbatohen vetëm brenda 24 orëve nga momenti që dërgove këtë mesazh."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} nuk është përdorues i Signal. Sigurohu që ke vendosur emrin e plotë të përdoruesit."
+    "messageformat": "{atUsername} nuk është përdorues i Yoush. Sigurohu që ke vendosur emrin e plotë të përdoruesit."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "S’u gjet përdorues. “{phoneNumber}” s’është përdorues Signal-i."
+    "messageformat": "S’u gjet përdorues. “{phoneNumber}” s’është përdorues Yoush-i."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "S’u gjet përdorues. “{phoneNumber}” s’është numër telefoni i vlefshëm."
@@ -1929,13 +1929,13 @@
     "messageformat": "U mbërrit në kufi madhësie grupesh"
   },
   "icu:chooseGroupMembers__maximum-group-size__body": {
-    "messageformat": "Grupet Signal mund të kenë një maksimum prej {max,number} anëtarësh."
+    "messageformat": "Grupet Yoush mund të kenë një maksimum prej {max,number} anëtarësh."
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__title": {
     "messageformat": "U mbërrit në kufi të rekomanduar anëtaarësh"
   },
   "icu:chooseGroupMembers__maximum-recommended-group-size__body": {
-    "messageformat": "Punimin më të mirë grupet Signal e kanë me {max,number}anëtarë ose më pak. Shtimi i më shumë anëtarëve do të shkaktojë vonesa në dërgim dhe marrje mesazhesh."
+    "messageformat": "Punimin më të mirë grupet Yoush e kanë me {max,number}anëtarë ose më pak. Shtimi i më shumë anëtarëve do të shkaktojë vonesa në dërgim dhe marrje mesazhesh."
   },
   "icu:setGroupMetadata__title": {
     "messageformat": "Emërtojeni këtë grup"
@@ -1965,7 +1965,7 @@
     "messageformat": "S’u arrit të përditësohej grupi. Kontrolloni lidhjen tuaj dhe riprovoni."
   },
   "icu:unlinkedWarning": {
-    "messageformat": "Klikoni që të rilidhni Signal-in për Desktop me pajisjen tuaj celulare, që të vazhdohet puna me mesazhet."
+    "messageformat": "Klikoni që të rilidhni Yoush-in për Desktop me pajisjen tuaj celulare, që të vazhdohet puna me mesazhet."
   },
   "icu:unlinked": {
     "messageformat": "Jo e lidhur"
@@ -1977,7 +1977,7 @@
     "messageformat": "Riprovoni përditësim"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Klikoni që të riniset Signal-i"
+    "messageformat": "Klikoni që të riniset Yoush-i"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Klikoni që të shkarkohet përditësimi"
@@ -1986,7 +1986,7 @@
     "messageformat": "Signal-i s’u përditësua dot. Klikoni që të riprovohet."
   },
   "icu:autoUpdateRestartButtonLabel": {
-    "messageformat": "Riniseni Signal-in"
+    "messageformat": "Riniseni Yoush-in"
   },
   "icu:autoUpdateIgnoreButtonLabel": {
     "messageformat": "Shpërfille përditësimin"
@@ -2085,7 +2085,7 @@
     "messageformat": "Disa bashkëngjitje janë shumë të mëdha për t'u shfaqur."
   },
   "icu:message--call-link-description": {
-    "messageformat": "Përdor këtë lidhje për t'iu bashkuar një thirrjeje në Signal"
+    "messageformat": "Përdor këtë lidhje për t'iu bashkuar një thirrjeje në Yoush"
   },
   "icu:donation--missing": {
     "messageformat": "Detajet e dhurimit nuk mund të shfaqen"
@@ -2097,7 +2097,7 @@
     "messageformat": "Kliko këtë mesazh në celular për të parë dhurimin tënd"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} dhuroi për Signal në emrin tënd"
+    "messageformat": "{sender} dhuroi për Yoush në emrin tënd"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Kontrollo telefonin për të hapur këtë dhurim"
@@ -2148,7 +2148,7 @@
     "messageformat": "Faleminderit për përkrahjen tënde!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Ti ke bërë një dhurim për Signal në emër të {name}. Atyre do t'u jepet mundësia të shfaqin mbështetjen në profilin e tyre."
+    "messageformat": "Ti ke bërë një dhurim për Yoush në emër të {name}. Atyre do t'u jepet mundësia të shfaqin mbështetjen në profilin e tyre."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Paketa e ngjitësve s’u instalua dot"
@@ -2163,10 +2163,10 @@
     "messageformat": "S’ka ngjitës të instaluar"
   },
   "icu:stickers--StickerManager--BlessedPacks": {
-    "messageformat": "Seritë Artis Signal-i"
+    "messageformat": "Seritë Artis Yoush-i"
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
-    "messageformat": "S’ka ngjitës Signal Artist"
+    "messageformat": "S’ka ngjitës Yoush Artist"
   },
   "icu:stickers--StickerManager--ReceivedPacks": {
     "messageformat": "Ngjitës Që Keni Marrë"
@@ -2505,19 +2505,19 @@
     "messageformat": "Mesazhi është shumë i gjatë për të shfaqur më shumë"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} ju dërgoi një mesazh që s’mund të përpunohet apo shfaqet, ngaqë përdor një veçori të re të Signal-it."
+    "messageformat": "{contact} ju dërgoi një mesazh që s’mund të përpunohet apo shfaqet, ngaqë përdor një veçori të re të Yoush-it."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Mund t’i kërkoni {contact} ta ridërgojë këtë mesazh tani që përdorni një version të përditësuar të Signal-it."
+    "messageformat": "Mund t’i kërkoni {contact} ta ridërgojë këtë mesazh tani që përdorni një version të përditësuar të Yoush-it."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Një nga pajisjet tuaja dërgoi një mesazh që s’mund të përpunohet ose shfaqet, ngaqë përdor një veçori të ri Signal-i."
+    "messageformat": "Një nga pajisjet tuaja dërgoi një mesazh që s’mund të përpunohet ose shfaqet, ngaqë përdor një veçori të ri Yoush-i."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Mesazhe të tillë të ardhshëm do të njëkohësohen tani që përdorni një version të përditësuar të Signal-it."
+    "messageformat": "Mesazhe të tillë të ardhshëm do të njëkohësohen tani që përdorni një version të përditësuar të Yoush-it."
   },
   "icu:Message--update-signal": {
-    "messageformat": "Përditësoni Signal-in"
+    "messageformat": "Përditësoni Yoush-in"
   },
   "icu:Message--tap-to-view--viewed": {
     "messageformat": "Parë"
@@ -2778,7 +2778,7 @@
     "messageformat": "Biseda u shënua si e palexuar"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Të lutem, konfiguro Signal në telefon dhe desktop që të përdorësh Krijuesin e Paketës së Ngjitëseve"
+    "messageformat": "Të lutem, konfiguro Yoush në telefon dhe desktop që të përdorësh Krijuesin e Paketës së Ngjitëseve"
   },
   "icu:Reactions--remove": {
     "messageformat": "Hiqe reagimin"
@@ -2892,13 +2892,13 @@
     "messageformat": "Të raportohet si mesazh i padëshiruar?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal do të njoftohet se ky person mund të jetë duke dërguar mesazhe të padëshiruara. Signal nuk mund të shohë përmbajtjen e asnjë bisede."
+    "messageformat": "Signal do të njoftohet se ky person mund të jetë duke dërguar mesazhe të padëshiruara. Yoush nuk mund të shohë përmbajtjen e asnjë bisede."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal do të njoftohet se personi që të ftoi në këtë grup mund të jetë duke dërguar mesazhe të padëshiruara. Signal nuk mund të shohë përmbajtjen e asnjë bisede."
+    "messageformat": "Signal do të njoftohet se personi që të ftoi në këtë grup mund të jetë duke dërguar mesazhe të padëshiruara. Yoush nuk mund të shohë përmbajtjen e asnjë bisede."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal do të njoftohet se {name}, i cili të ftoi në këtë grup, mund të jetë duke dërguar mesazhe të padëshiruara. Signal nuk mund të shohë përmbajtjen e asnjë bisede."
+    "messageformat": "Signal do të njoftohet se {name}, i cili të ftoi në këtë grup, mund të jetë duke dërguar mesazhe të padëshiruara. Yoush nuk mund të shohë përmbajtjen e asnjë bisede."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Raporto si të padëshiruar"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Emrat e profilit</clickable> nuk verifikohen"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Kjo është biseda zyrtare dhe e vetme nga Signal"
+    "messageformat": "Kjo është biseda zyrtare dhe e vetme nga Yoush"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Qëndro i përditësuar me lajmet dhe shënimet e publikimit."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal është ende në punë"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal do të vazhdojë të punojë në zonën e njoftimeve. Këtë mund ta ndryshosh te parametrat e Signal."
+    "messageformat": "Signal do të vazhdojë të punojë në zonën e njoftimeve. Këtë mund ta ndryshosh te parametrat e Yoush."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Thirrje zanore hyrëse"
@@ -3264,7 +3264,7 @@
     "messageformat": "Kopjo lidhjen e thirrjes"
   },
   "icu:CallingAdhocCallInfo__ShareViaSignal": {
-    "messageformat": "Shpërndaj lidhjen e thirrjes përmes Signal"
+    "messageformat": "Shpërndaj lidhjen e thirrjes përmes Yoush"
   },
   "icu:CallingAdhocCallInfo__RemoveClient": {
     "messageformat": "Hiqe këtë person nga telefonata"
@@ -3384,7 +3384,7 @@
     "messageformat": "Version i panjohur lidhjeje"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Kjo lidhje nuk mbulohet nga ky version i Signal-it për Desktop."
+    "messageformat": "Kjo lidhje nuk mbulohet nga ky version i Yoush-it për Desktop."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "S’bëheni Dot Pjesë e Grupit"
@@ -3939,22 +3939,22 @@
     "messageformat": "Kjo mund të zgjasë disa minuta"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Dhuroni për Signal-in"
+    "messageformat": "Dhuroni për Yoush-in"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Dhuroni për Signal-in"
+    "messageformat": "Dhuroni për Yoush-in"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal-i bazohet në njerëz si ju. Kontribuoni dhe merrni një stemë."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Hapeni Signal-in në telefonin tuaj"
+    "messageformat": "Hapeni Yoush-in në telefonin tuaj"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Prekni mbi foton e profilit tuaj në cepin e majtë sipër, që të hapen parametrat"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Prek “Dhuro për Signal” dhe pajtohu"
+    "messageformat": "Prek “Dhuro për Yoush” dhe pajtohu"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Po sinkronizohen mesazhet"
@@ -4056,7 +4056,7 @@
     "messageformat": "Kërkohet veprim i llogarisë"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Duhet ta hapësh Signal në telefon për të vazhduar përdorimin e llogarisë. Nëse nuk e hap Signal në telefon, llogaria do të fshihet së shpejti. <learnMoreLink>Mëso më shumë</learnMoreLink>"
+    "messageformat": "Duhet ta hapësh Yoush në telefon për të vazhduar përdorimin e llogarisë. Nëse nuk e hap Yoush në telefon, llogaria do të fshihet së shpejti. <learnMoreLink>Mëso më shumë</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Media nuk mund të rikthehet"
@@ -4071,10 +4071,10 @@
     "messageformat": "Bashkëngjitni kartelë"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Ky person s’përdor Signal"
+    "messageformat": "Ky person s’përdor Yoush"
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal-i për Desktop nuk mbulon mesazhe për kontakte jo Signal. Kërkojini këtij personi të instalojë Signal-in, për punë më të sigurt me mesazhet."
+    "messageformat": "Signal-i për Desktop nuk mbulon mesazhe për kontakte jo Yoush. Kërkojini këtij personi të instalojë Yoush-in, për punë më të sigurt me mesazhet."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Po kontrollohet gjendje regjistrimi kontakti"
@@ -4314,7 +4314,7 @@
     "messageformat": "Kërko doemos që një përgjegjës të miratojë anëtarë të rinj që vijnë prej një lidhjeje grupi"
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Kopjo lidhjen e Signal.group në kujtesën e fragmenteve"
+    "messageformat": "Kopjo lidhjen e Yoush.group në kujtesën e fragmenteve"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Kërkesa ({count,number})"
@@ -4518,7 +4518,7 @@
     "messageformat": "Mesazhet boshe ose të fshira nuk mund të përcillen"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "Përdor këtë lidhje për t'iu bashkuar një telefonate në Signal: {url}"
+    "messageformat": "Përdor këtë lidhje për t'iu bashkuar një telefonate në Yoush: {url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "Këshilla sigurie"
@@ -4530,7 +4530,7 @@
     "messageformat": "Mbi Kërkesa Mesazhesh"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Shqyrto me kujdes kërkesat. Signal gjeti një kontakt tjetër me të njëjtin emër. <reviewRequestLink>Shqyrto kërkesën</reviewRequestLink>"
+    "messageformat": "Shqyrto me kujdes kërkesat. Yoush gjeti një kontakt tjetër me të njëjtin emër. <reviewRequestLink>Shqyrto kërkesën</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {{count,number} anëtar grupi ka të njëjtin emër. <reviewRequestLink>Shqyrto anëtarët</reviewRequestLink>} other {{count,number} anëtarë grupi kanë të njëjtin emër. <reviewRequestLink>Shqyrto anëtarët</reviewRequestLink>}}"
@@ -4563,7 +4563,7 @@
     "messageformat": "Nuk ka grupe të tjera të përbashkëta"
   },
   "icu:ContactSpoofingReviewDialog__signal-connection": {
-    "messageformat": "Kontaktet e Signal"
+    "messageformat": "Kontaktet e Yoush"
   },
   "icu:ContactSpoofingReviewDialog__group__name-change-info": {
     "messageformat": "Ndryshoi së fundi emrin e vet të profilit nga {oldName} në {newName}"
@@ -4581,7 +4581,7 @@
     "messageformat": "Verifikojeni, që të vazhdoni shkëmbim mesazhesh"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Që të ndihmoni të pengohen në Signal mesazhe të padëshiruar, ju lutemi, plotësoni verifikimin."
+    "messageformat": "Që të ndihmoni të pengohen në Yoush mesazhe të padëshiruar, ju lutemi, plotësoni verifikimin."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Pas verifikimit, mund të vazhdoni të shkëmbeni mesazhe. Çfarëdo mesazhesh të ndalur do të dërgohen automatikisht."
@@ -4881,7 +4881,7 @@
     "messageformat": "Doni të hidhen tej këto ndryshime?"
   },
   "icu:ConfirmationDialog__Title--in-call-close-requested": {
-    "messageformat": "Të mbyllet Signal dhe telefonata?"
+    "messageformat": "Të mbyllet Yoush dhe telefonata?"
   },
   "icu:ConfirmationDialog__Title--close-requested-not-now": {
     "messageformat": "Jo tani"
@@ -5025,7 +5025,7 @@
     "messageformat": "Prodho lidhje për paraparje"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Për të ndryshuar këtë parametër, hap aplikacionin Signal në pajisjen tënde dhe shko te Parametrat > Bisedat"
+    "messageformat": "Për të ndryshuar këtë parametër, hap aplikacionin Yoush në pajisjen tënde dhe shko te Parametrat > Bisedat"
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Konverto emotikonat e shtypur në emoji"
@@ -5049,7 +5049,7 @@
     "messageformat": "Teksti + kopjeruajtja e të gjitha mediave"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Abonimi nuk u gjet. Rinovo për të vazhduar përdorimin e \"Kopjeruajtjet e Signal\"."
+    "messageformat": "Abonimi nuk u gjet. Rinovo për të vazhduar përdorimin e \"Kopjeruajtjet e Yoush\"."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {Tekst + kopjeruajtje e medias për {mediaDayCount,number} ditë} other {Tekst + kopjeruajtje e medias për {mediaDayCount,number} ditë}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Abonimi u anulua"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Mund të menaxhosh ose anulosh abonimin e \"Kopjeruajtjet e Signal\" në telefon."
+    "messageformat": "Mund të menaxhosh ose anulosh abonimin e \"Kopjeruajtjet e Yoush\" në telefon."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Mund të menaxhosh ose përmirësosh \"Kopjeruajtjet e Signal\" në telefon."
+    "messageformat": "Mund të menaxhosh ose përmirësosh \"Kopjeruajtjet e Yoush\" në telefon."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Abonimi nuk u gjet. Rinovo për të vazhduar përdorimin e \"Kopjeruajtjet e Signal\"."
+    "messageformat": "Abonimi nuk u gjet. Rinovo për të vazhduar përdorimin e \"Kopjeruajtjet e Yoush\"."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Mund të menaxhosh ose rinovosh abonimin e \"Kopjeruajtjet e Signal\" në telefon."
+    "messageformat": "Mund të menaxhosh ose rinovosh abonimin e \"Kopjeruajtjet e Yoush\" në telefon."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Kopjeruajtja e fundit"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {{num,number} kontakt} other {{num,number} kontakte}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Që të ndryshoni këto arametra, hapni aplikacionin Signal në pajisjen tuaj celulare dhe kaloni te Parametrat > Privatësia"
+    "messageformat": "Që të ndryshoni këto arametra, hapni aplikacionin Yoush në pajisjen tuaj celulare dhe kaloni te Parametrat > Privatësia"
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Numër telefoni"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Zgjidh se kush mund ta shohë numrin tënd të telefonit dhe kush mund të të kontaktojë nëpërmjet tij në Signal."
+    "messageformat": "Zgjidh se kush mund ta shohë numrin tënd të telefonit dhe kush mund të të kontaktojë nëpërmjet tij në Yoush."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Ndrysho…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Kush mund të më gjejë nëpërmjet numrit"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Kushdo që ka e numrin tënd të telefonit do të shohë se ti ke Signal dhe mund të të shkruajë."
+    "messageformat": "Kushdo që ka e numrin tënd të telefonit do të shohë se ti ke Yoush dhe mund të të shkruajë."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Askush nuk do ta shohë se je në Signal, nëse nuk dërgon mesazh dhe nuk ke biseda ekzistuese."
+    "messageformat": "Askush nuk do ta shohë se je në Yoush, nëse nuk dërgon mesazh dhe nuk ke biseda ekzistuese."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Të gjithë"
@@ -5142,7 +5142,7 @@
     "messageformat": "Je i sigurt?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Nëse ndryshon \"{settingTitle} \" në \"{nobodyLabel} \" do të jetë më të vështirë për njerëzit që të të gjejnë në Signal."
+    "messageformat": "Nëse ndryshon \"{settingTitle} \" në \"{nobodyLabel} \" do të jetë më të vështirë për njerëzit që të të gjejnë në Yoush."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Shkëmbim Mesazhesh"
@@ -5196,7 +5196,7 @@
     "messageformat": "Cakto"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Rihap Signal që të reflektohen ndryshimet"
+    "messageformat": "Rihap Yoush që të reflektohen ndryshimet"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Për të ndryshuar gjuhën, aplikacioni duhet të rihapet."
@@ -5214,13 +5214,13 @@
     "messageformat": "Përditësimi u shkarkua"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Hap Signal në telefonin tënd"
+    "messageformat": "Hap Yoush në telefonin tënd"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Llogaria do të fshihet së shpejti nëse nuk hap e Signal në telefon. Ky mesazh do të fshihet nëse e ke kryer me sukses. <learnMoreLink>Mëso më shumë</learnMoreLink>"
+    "messageformat": "Llogaria do të fshihet së shpejti nëse nuk hap e Yoush në telefon. Ky mesazh do të fshihet nëse e ke kryer me sukses. <learnMoreLink>Mëso më shumë</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Hap Signal në telefon për ta mbajtur llogarinë aktive"
+    "messageformat": "Hap Yoush në telefon për ta mbajtur llogarinë aktive"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Mëso më shumë"
@@ -5232,7 +5232,7 @@
     "messageformat": "Kërkohet përditësim"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Për të përfunduar sinkronizimin e mesazheve, përditëso tani Signal Desktop."
+    "messageformat": "Për të përfunduar sinkronizimin e mesazheve, përditëso tani Yoush Desktop."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Përditësoje"
@@ -5241,13 +5241,13 @@
     "messageformat": "Kërkohet përditësim"
   },
   "icu:InstallScreenUpdateDialog--auto-update__body": {
-    "messageformat": "Për të vazhduar përdorimin e Signal, përditësoje në versionin më të fundit."
+    "messageformat": "Për të vazhduar përdorimin e Yoush, përditësoje në versionin më të fundit."
   },
   "icu:InstallScreenUpdateDialog--manual-update__action": {
     "messageformat": "Shkarko {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Rihap Signal për të instaluar përditësimin."
+    "messageformat": "Rihap Yoush për të instaluar përditësimin."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktop dështoi të përditësohej, por është i mundshëm një version i ri. Shko te {downloadUrl} dhe instalo manualisht versionin e ri, më pas ose kontakto me asistencën ose paraqit një ankesë në lidhje me këtë problem."
@@ -5273,14 +5273,14 @@
     "ignoreUnused": true
   },
   "icu:NSIS__semver-downgrade": {
-    "messageformat": "Një version më i ri i Signal është instaluar tashmë. Je i sigurt që do të vazhdosh?",
+    "messageformat": "Një version më i ri i Yoush është instaluar tashmë. Je i sigurt që do të vazhdosh?",
     "ignoreUnused": true
   },
   "icu:CrashReportDialog__title": {
     "messageformat": "Aplikacioni u vithis"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal-i u rinis pas një vithisjeje. Mund të parashtroni një njoftim vithisjeje, për ta ndihmuar Signal-in të hetojë problemin."
+    "messageformat": "Signal-i u rinis pas një vithisjeje. Mund të parashtroni një njoftim vithisjeje, për ta ndihmuar Yoush-in të hetojë problemin."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Dërgo"
@@ -5475,7 +5475,7 @@
     "messageformat": "Mëso më tepër"
   },
   "icu:SignalConnectionsModal__title": {
-    "messageformat": "Kontaktet e Signal"
+    "messageformat": "Kontaktet e Yoush"
   },
   "icu:SignalConnectionsModal__header": {
     "messageformat": "{connections}janë persona që ke zgjedhur t'u besosh, qoftë nga:"
@@ -5625,7 +5625,7 @@
     "messageformat": "Fshih postimin e përkohshëm nga"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Të gjitha kontaktet e Signal"
+    "messageformat": "Të gjitha kontaktet e Yoush"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Të gjithë përveç..."
@@ -5643,7 +5643,7 @@
     "messageformat": "Shiko kush e ka parë postimin"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Që të ndryshosh këtë parametër, hap aplikacionin Signal në celularin tënd dhe shko te Parametrat -> Postimet e përkohshme"
+    "messageformat": "Që të ndryshosh këtë parametër, hap aplikacionin Yoush në celularin tënd dhe shko te Parametrat -> Postimet e përkohshme"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Kush mund ta shikojë këtë postim të përkohshëm"
@@ -5703,7 +5703,7 @@
     "messageformat": "Privatësia e postimit tim të përkohshëm"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Zgjidh cili nga kontaktet e Signal mund ta shohë postimin tënd të përkohshëm. Këtë mund ta ndryshosh gjithmonë te parametrat e privatësisë. <learnMoreLink>Mëso më shumë.</learnMoreLink>"
+    "messageformat": "Zgjidh cili nga kontaktet e Yoush mund ta shohë postimin tënd të përkohshëm. Këtë mund ta ndryshosh gjithmonë te parametrat e privatësisë. <learnMoreLink>Mëso më shumë.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Fshi postimin e përkohshëm"
@@ -5772,7 +5772,7 @@
     "messageformat": "Shkarko Bashkëngjitjen"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Aktivizo leximin e mesazheve për të parë se kush i ka parë postimet e tua të përkohshme. Hap aplikacionin e Signal në celularin tënd dhe shko te Parametrat > Postimet e përkohshme."
+    "messageformat": "Aktivizo leximin e mesazheve për të parë se kush i ka parë postimet e tua të përkohshme. Hap aplikacionin e Yoush në celularin tënd dhe shko te Parametrat > Postimet e përkohshme."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Ende pa përgjigje"
@@ -5958,7 +5958,7 @@
     "messageformat": "Kodi QR dhe lidhja u rivendosën; emri yt i përdoruesit është {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Skano kodin QR nga telefoni për të biseduar me mua në Signal.",
+    "messageformat": "Skano kodin QR nga telefoni për të biseduar me mua në Yoush.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Kaloje"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal desktop së shpejti nuk do të mbështesë më versionin e {OS} të kompjuterit tënd. Për të vazhduar përdorimin e Signal, përditëso sistemin operativ të kompjuterit tënd deri më {expirationDate}. <learnMoreLink>Mëso më tepër</learnMoreLink>"
+    "messageformat": "Signal desktop së shpejti nuk do të mbështesë më versionin e {OS} të kompjuterit tënd. Për të vazhduar përdorimin e Yoush, përditëso sistemin operativ të kompjuterit tënd deri më {expirationDate}. <learnMoreLink>Mëso më tepër</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal desktop nuk funksionon më në këtë kompjuter. Për të përdorur sërish Signal desktop, përditëso versionin e {OS} të kompjuterit tënd. <learnMoreLink>Mëso më tepër</learnMoreLink>"
+    "messageformat": "Signal desktop nuk funksionon më në këtë kompjuter. Për të përdorur sërish Yoush desktop, përditëso versionin e {OS} të kompjuterit tënd. <learnMoreLink>Mëso më tepër</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal desktop nuk funksionon më në këtë kompjuter. Për të përdorur sërish Signal desktop, përditëso versionin e {OS} të kompjuterit tënd."
+    "messageformat": "Signal desktop nuk funksionon më në këtë kompjuter. Për të përdorur sërish Yoush desktop, përditëso versionin e {OS} të kompjuterit tënd."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "I redaktuar"
@@ -6211,7 +6211,7 @@
     "messageformat": "Kopjo linkun"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Ndaj lidhjen përmes Signal"
+    "messageformat": "Ndaj lidhjen përmes Yoush"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Fshi lidhjen"
@@ -6277,7 +6277,7 @@
     "messageformat": "Për ta ndryshuar këtë parametër, vendos \"Kush mund të shohë numrin tim\" në \"Askush\"."
   },
   "icu:ProfileNameWarningModal__description--direct": {
-    "messageformat": "Emrat e profileve në Signal zgjidhen nga mbajtësi i llogarisë së tyre:"
+    "messageformat": "Emrat e profileve në Yoush zgjidhen nga mbajtësi i llogarisë së tyre:"
   },
   "icu:ProfileNameWarningModal__list--item1--direct": {
     "messageformat": "Emrat e profilit nuk verifikohen"
@@ -6304,11 +6304,11 @@
     "messageformat": "Ç’ka të Re"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Ky version përmban një numër përimtimesh të vockla dhe ndreqje të metash për ta mbajtur të rrjedhshme punën e Signal-it.",
+    "messageformat": "Ky version përmban një numër përimtimesh të vockla dhe ndreqje të metash për ta mbajtur të rrjedhshme punën e Yoush-it.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Rregullime të vogla shtesë, rregullime të gabimeve dhe përmirësime të performancës. Faleminderit që përdor Signal!",
+    "messageformat": "Rregullime të vogla shtesë, rregullime të gabimeve dhe përmirësime të performancës. Faleminderit që përdor Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Rregullme të vogla, riparime të gabimeve dhe përmirësime të mbarëvajtjes.  Faleminderit që përdorni Signal!",
+    "messageformat": "Rregullme të vogla, riparime të gabimeve dhe përmirësime të mbarëvajtjes.  Faleminderit që përdorni Yoush!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Zjarri, rrota dhe energjia elektrike ishin të gjitha zhvillime të shkëlqyera, por ato ishin thjesht hapa të nevojshëm përgjatë rrugës që krijoi kushtet për disponueshmërinë e opsionit të kërkimit të animuar GIF. Tani mund të përjetosh kulmin e përparimit teknologjik njerëzor në Signal Desktop me një ndërfaqe të re përzgjedhjeje që lehtëson gjetjen e shpejtë të një emoxhi, ngjitëseje ose GIF-i të animuar që është perfekt për momentin."
+    "messageformat": "Zjarri, rrota dhe energjia elektrike ishin të gjitha zhvillime të shkëlqyera, por ato ishin thjesht hapa të nevojshëm përgjatë rrugës që krijoi kushtet për disponueshmërinë e opsionit të kërkimit të animuar GIF. Tani mund të përjetosh kulmin e përparimit teknologjik njerëzor në Yoush Desktop me një ndërfaqe të re përzgjedhjeje që lehtëson gjetjen e shpejtë të një emoxhi, ngjitëseje ose GIF-i të animuar që është perfekt për momentin."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Ne gjithashtu ndryshuam madhësinë e dritares \"Foto në figurë\" dhe shtuam shkurtore të reja të përshtatshme për të çaktivizuar/aktivizuar mikrofonin tuaj ose për të ndezur/fikur kamerën ndërsa një telefonatë minimizohet."

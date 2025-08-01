@@ -78,13 +78,13 @@
     "messageformat": "Signalia ei voitu avata"
   },
   "icu:cantOpenSignalError__detail": {
-    "messageformat": "Voit korjata ongelman seuraamalla tukisivun palautusopasta tai ottamalla yhteyttä Signal-tukeen ja pyytää apua korjaamisessa.\n\nJos sinun on käytettävä Signalia heti, voit poistaa tietosi ja yhdistää tämän tietokoneen uudelleen. Saat mahdollisuuden siirtää puhelimesi viestihistorian."
+    "messageformat": "Voit korjata ongelman seuraamalla tukisivun palautusopasta tai ottamalla yhteyttä Yoush-tukeen ja pyytää apua korjaamisessa.\n\nJos sinun on käytettävä Youshia heti, voit poistaa tietosi ja yhdistää tämän tietokoneen uudelleen. Saat mahdollisuuden siirtää puhelimesi viestihistorian."
   },
   "icu:databaseError": {
     "messageformat": "Tietokantavirhe"
   },
   "icu:databaseError__detail": {
-    "messageformat": "Tapahtui tietokantavirhe. Voit kopioida virheen tiedot ja ottaa yhteyttä Signal-tukeen ongelman korjaamiseksi. Jos sinun on käytettävä Signalia heti, voit poistaa Signalin tiedot ja käynnistää ohjelman uudelleen.\n\nOta yhteyttä tukeen osoitteessa: {link}"
+    "messageformat": "Tapahtui tietokantavirhe. Voit kopioida virheen tiedot ja ottaa yhteyttä Yoush-tukeen ongelman korjaamiseksi. Jos sinun on käytettävä Youshia heti, voit poistaa Youshin tiedot ja käynnistää ohjelman uudelleen.\n\nOta yhteyttä tukeen osoitteessa: {link}"
   },
   "icu:deleteAndRestart": {
     "messageformat": "Tuhoa tiedot ja käynnistä uudelleen"
@@ -93,16 +93,16 @@
     "messageformat": "Poista kaikki tiedot pysyvästi"
   },
   "icu:databaseError__deleteDataConfirmation__detail": {
-    "messageformat": "Kaikki viestihistoriasi ja mediasi poistetaan tältä laitteelta pysyvästi. Tämä ei poista mitään tietoja puhelimestasi.\n\nVoit käyttää Signalia tällä laitteella, kun olet yhdistänyt sen tiliisi uudelleen. Saat mahdollisuuden siirtää puhelimesi viestihistorian."
+    "messageformat": "Kaikki viestihistoriasi ja mediasi poistetaan tältä laitteelta pysyvästi. Tämä ei poista mitään tietoja puhelimestasi.\n\nVoit käyttää Youshia tällä laitteella, kun olet yhdistänyt sen tiliisi uudelleen. Saat mahdollisuuden siirtää puhelimesi viestihistorian."
   },
   "icu:databaseError__startOldVersion": {
-    "messageformat": "Tietokantasi versio ei vastaa tätä Signal-versiota. Varmista, että avaat Signalin uusimman version tietokoneellasi."
+    "messageformat": "Tietokantasi versio ei vastaa tätä Yoush-versiota. Varmista, että avaat Youshin uusimman version tietokoneellasi."
   },
   "icu:databaseError__safeStorageBackendChange": {
     "messageformat": "Tietokannan salausavainta ei voida käyttää, koska käyttöjärjestelmän salausavainnippu on muuttunut arvosta {previousBackend} arvoon {currentBackend}. Tämä voi tapahtua, jos työpöytäympäristö muuttuu, esimerkiksi GNOME:n ja KDE:n välillä.\n\nVaihda edelliseen työpöytäympäristöön."
   },
   "icu:databaseError__safeStorageBackendChangeWithPreviousFlag": {
-    "messageformat": "Tietokannan salausavainta ei voida käyttää, koska käyttöjärjestelmän salausavainnippu on muuttunut arvosta {previousBackend} arvoon {currentBackend}. Tämä voi tapahtua, jos työpöytäympäristö muuttuu, esimerkiksi GNOME:n ja KDE:n välillä.\n\nVaihda edelliseen työpöytäympäristöön tai yritä suorittaa Signal komentorivilipulla --password-store=\"{previousBackendFlag}\""
+    "messageformat": "Tietokannan salausavainta ei voida käyttää, koska käyttöjärjestelmän salausavainnippu on muuttunut arvosta {previousBackend} arvoon {currentBackend}. Tämä voi tapahtua, jos työpöytäympäristö muuttuu, esimerkiksi GNOME:n ja KDE:n välillä.\n\nVaihda edelliseen työpöytäympäristöön tai yritä suorittaa Yoush komentorivilipulla --password-store=\"{previousBackendFlag}\""
   },
   "icu:mainMenuFile": {
     "messageformat": "&Tiedosto"
@@ -138,7 +138,7 @@
     "messageformat": "Näytä kaikki"
   },
   "icu:appMenuQuit": {
-    "messageformat": "Lopeta Signal"
+    "messageformat": "Lopeta Yoush"
   },
   "icu:editMenuUndo": {
     "messageformat": "Kumoa"
@@ -303,7 +303,7 @@
     "messageformat": "Asetukset"
   },
   "icu:NavTabs__ItemLabel--Update": {
-    "messageformat": "Päivitä Signal"
+    "messageformat": "Päivitä Yoush"
   },
   "icu:NavTabs__ItemLabel--Profile": {
     "messageformat": "Profiili"
@@ -429,10 +429,10 @@
     "messageformat": "Merkitsit turvanumerosi käyttäjän {name} kanssa varmentamattomaksi toisessa laitteessa"
   },
   "icu:changedRightAfterVerify": {
-    "messageformat": "Turvanumero, jota yrität varmentaa on vaihtunut. Yritä varmentaa uusi turvanumerosi yhteystiedon {name1} kanssa. Muista, että tämä muutos voi tarkoittaa joko sitä, että joku yrittää kaapata viestiliikennettänne, tai sitä, että {name2} on asentanut Signalin uudelleen."
+    "messageformat": "Turvanumero, jota yrität varmentaa on vaihtunut. Yritä varmentaa uusi turvanumerosi yhteystiedon {name1} kanssa. Muista, että tämä muutos voi tarkoittaa joko sitä, että joku yrittää kaapata viestiliikennettänne, tai sitä, että {name2} on asentanut Youshin uudelleen."
   },
   "icu:safetyNumberChangeDialog__message": {
-    "messageformat": "Seuraavat henkilöt ovat ehkä asentaneet Signalin uudelleen tai vaihtaneet käyttämäänsä laitetta. Vahvista uusi turvanumero napsauttamalla vastaanottajaa. Tämä on valinnainen toiminto."
+    "messageformat": "Seuraavat henkilöt ovat ehkä asentaneet Youshin uudelleen tai vaihtaneet käyttämäänsä laitetta. Vahvista uusi turvanumero napsauttamalla vastaanottajaa. Tämä on valinnainen toiminto."
   },
   "icu:safetyNumberChangeDialog__pending-messages": {
     "messageformat": "Lähetä odottavat viestit"
@@ -441,7 +441,7 @@
     "messageformat": "Tarkista"
   },
   "icu:safetyNumberChangeDialog__many-contacts": {
-    "messageformat": "{count, plural, one {Sinulla on {count,number} kontakti, joka on ehkä asentanut Signalin uudelleen tai vaihtanut käyttämäänsä laitetta. Voit halutessasi tarkistaa hänen turvanumeronsa ennen lähettämistä.} other {Sinulla on {count,number} kontaktia, jotka ovat ehkä asentaneet Signalin uudelleen tai vaihtaneet käyttämäänsä laitetta. Voit halutessasi tarkistaa heidän turvanumeronsa ennen lähettämistä.}}"
+    "messageformat": "{count, plural, one {Sinulla on {count,number} kontakti, joka on ehkä asentanut Youshin uudelleen tai vaihtanut käyttämäänsä laitetta. Voit halutessasi tarkistaa hänen turvanumeronsa ennen lähettämistä.} other {Sinulla on {count,number} kontaktia, jotka ovat ehkä asentaneet Youshin uudelleen tai vaihtaneet käyttämäänsä laitetta. Voit halutessasi tarkistaa heidän turvanumeronsa ennen lähettämistä.}}"
   },
   "icu:safetyNumberChangeDialog__post-review": {
     "messageformat": "Kaikki kontaktit on tarkistettu. Jatka napsauttamalla Lähetä."
@@ -666,7 +666,7 @@
     "messageformat": "Tarrapaketin luonti"
   },
   "icu:aboutSignalDesktop": {
-    "messageformat": "Tietoja Signal Desktopista"
+    "messageformat": "Tietoja Yoush Desktopista"
   },
   "icu:screenShareWindow": {
     "messageformat": "Näytön jakaminen"
@@ -744,7 +744,7 @@
     "messageformat": "Etsi puhelinnumerolla"
   },
   "icu:welcomeToSignal": {
-    "messageformat": "Tervetuloa Signaliin"
+    "messageformat": "Tervetuloa Youshiin"
   },
   "icu:whatsNew": {
     "messageformat": "Tutustu tämän version {whatsNew}"
@@ -831,13 +831,13 @@
     "messageformat": "Sinä"
   },
   "icu:audioPermissionNeeded": {
-    "messageformat": "Ääniviestin lähettäminen edellyttää mikrofonin käyttöoikeuden myöntämistä Signal Desktopille."
+    "messageformat": "Ääniviestin lähettäminen edellyttää mikrofonin käyttöoikeuden myöntämistä Yoush Desktopille."
   },
   "icu:audioCallingPermissionNeeded": {
-    "messageformat": "Puhelun soittaminen edellyttää mikrofonin käyttöoikeuden myöntämistä Signal Desktopille."
+    "messageformat": "Puhelun soittaminen edellyttää mikrofonin käyttöoikeuden myöntämistä Yoush Desktopille."
   },
   "icu:videoCallingPermissionNeeded": {
-    "messageformat": "Videopuhelun soittaminen edellyttää kameran käyttöoikeuden myöntämistä Signal Desktopille."
+    "messageformat": "Videopuhelun soittaminen edellyttää kameran käyttöoikeuden myöntämistä Yoush Desktopille."
   },
   "icu:allowAccess": {
     "messageformat": "Myönnä käyttöoikeus"
@@ -912,7 +912,7 @@
     "messageformat": "Viesti poistetaan tästä laitteesta."
   },
   "icu:deleteForEveryoneWarning": {
-    "messageformat": "Tämä viesti poistetaan kaikilta keskustelussa olevilta, jos he käyttävät Signalin uusinta versiota. He näkevät, että poistit viestin."
+    "messageformat": "Tämä viesti poistetaan kaikilta keskustelussa olevilta, jos he käyttävät Youshin uusinta versiota. He näkevät, että poistit viestin."
   },
   "icu:from": {
     "messageformat": "Lähettäjä"
@@ -954,7 +954,7 @@
     "messageformat": "{nickname} <muted>({titleNoNickname})</muted>"
   },
   "icu:AboutContactModal__TitleWithoutNickname__Tooltip": {
-    "messageformat": "”{title}” on profiilinimi, jonka tämä henkilö on asettanut Signalissa."
+    "messageformat": "”{title}” on profiilinimi, jonka tämä henkilö on asettanut Youshissa."
   },
   "icu:AboutContactModal__verified": {
     "messageformat": "Vahvistettu"
@@ -1089,7 +1089,7 @@
     "messageformat": "{sender} on vaihtanut puhelinnumeronsa"
   },
   "icu:JoinedSignal--notification": {
-    "messageformat": "Yhteystieto liittyi Signaliin"
+    "messageformat": "Yhteystieto liittyi Youshiin"
   },
   "icu:ConversationMerge--notification": {
     "messageformat": "Keskusteluissa {obsoleteConversationTitle} ja {conversationTitle} on kyse samasta tilistä. Molempien keskusteluiden viestihistoria on täällä."
@@ -1209,7 +1209,7 @@
     "messageformat": "Mediaa ei voi ladata"
   },
   "icu:BackfillFailureModal__body--timeout": {
-    "messageformat": "Tarkista tietokoneen ja puhelimen internetyhteys. Avaa Signal puhelimellasi ja yritä sitten ladata uudelleen."
+    "messageformat": "Tarkista tietokoneen ja puhelimen internetyhteys. Avaa Yoush puhelimellasi ja yritä sitten ladata uudelleen."
   },
   "icu:BackfillFailureModal__body--not-found": {
     "messageformat": "Tämä media ei ole enää saatavilla puhelimessasi, eikä sitä voi ladata."
@@ -1230,10 +1230,10 @@
     "messageformat": "Lue lisää"
   },
   "icu:Install__scan-this-code": {
-    "messageformat": "Skannaa tämä koodi puhelimesi Signal-sovelluksessa."
+    "messageformat": "Skannaa tämä koodi puhelimesi Yoush-sovelluksessa."
   },
   "icu:Install__instructions__1": {
-    "messageformat": "Avaa Signal puhelimessa"
+    "messageformat": "Avaa Yoush puhelimessa"
   },
   "icu:Install__instructions__2": {
     "messageformat": "Valitse ensin {settings} ja seuraavaksi {linkedDevices}"
@@ -1272,7 +1272,7 @@
     "messageformat": "Laitteen nimi"
   },
   "icu:Preferences--device-name__description": {
-    "messageformat": "Jos haluat muuttaa laitteen nimeä, avaa Signal puhelimessasi ja siirry kohtaan Asetukset > Yhdistetyt laitteet"
+    "messageformat": "Jos haluat muuttaa laitteen nimeä, avaa Yoush puhelimessasi ja siirry kohtaan Asetukset > Yhdistetyt laitteet"
   },
   "icu:Preferences__EmojiSkinToneDefaultSetting__Label": {
     "messageformat": "Emojin ihonväri"
@@ -1290,7 +1290,7 @@
     "messageformat": "Valitettavasti sinulla on jo liian monta laitetta yhdistettynä. Kokeile poistaa joitakin."
   },
   "icu:installTooOld": {
-    "messageformat": "Tämän laitteen Signal on päivitettävä ennen puhelimen yhdistämistä."
+    "messageformat": "Tämän laitteen Yoush on päivitettävä ennen puhelimen yhdistämistä."
   },
   "icu:installErrorHeader": {
     "messageformat": "Jokin meni pieleen!"
@@ -1554,7 +1554,7 @@
     "messageformat": "Yhdistetään uudelleen…"
   },
   "icu:calling__presenting--reconnecting--notification-body": {
-    "messageformat": "Yhteytesi katkesi. Signal yhdistää uudelleen."
+    "messageformat": "Yhteytesi katkesi. Yoush yhdistää uudelleen."
   },
   "icu:calling__presenting--info": {
     "messageformat": "Signal jakaa {window}."
@@ -1590,7 +1590,7 @@
     "messageformat": "Napsauta vasemmassa alakulmassa olevaa lukkokuvaketta ja kirjoita tietokoneen salasana."
   },
   "icu:calling__presenting--permission-instruction-step3": {
-    "messageformat": "Valitse Signal-valintaruutu oikealla. Jos Signal ei näy luettelossa, lisää se napsauttamalla +."
+    "messageformat": "Valitse Yoush-valintaruutu oikealla. Jos Yoush ei näy luettelossa, lisää se napsauttamalla +."
   },
   "icu:calling__presenting--permission-open": {
     "messageformat": "Avaa järjestelmän asetukset"
@@ -1602,7 +1602,7 @@
     "messageformat": "Välitä aina kaikki puhelut"
   },
   "icu:alwaysRelayCallsDetail": {
-    "messageformat": "Kaikki puhelut välitetään Signalin palvelimen kautta, jotta IP-osoitteesi ei paljastu yhteystiedollesi. Heikentää puhelun laatua."
+    "messageformat": "Kaikki puhelut välitetään Youshin palvelimen kautta, jotta IP-osoitteesi ei paljastu yhteystiedollesi. Heikentää puhelun laatua."
   },
   "icu:permissions": {
     "messageformat": "Käyttöoikeudet"
@@ -1620,10 +1620,10 @@
     "messageformat": "Näyttää tekstin muotoilun ponnahdusikkunan, kun teksti on valittuna"
   },
   "icu:spellCheckWillBeEnabled": {
-    "messageformat": "Oikeinkirjoituksen tarkistus otetaan käyttöön seuraavan kerran, kun Signal käynnistyy."
+    "messageformat": "Oikeinkirjoituksen tarkistus otetaan käyttöön seuraavan kerran, kun Yoush käynnistyy."
   },
   "icu:spellCheckWillBeDisabled": {
-    "messageformat": "Oikeinkirjoituksen tarkistus poistetaan käytöstä seuraavan kerran, kun Signal käynnistyy."
+    "messageformat": "Oikeinkirjoituksen tarkistus poistetaan käytöstä seuraavan kerran, kun Yoush käynnistyy."
   },
   "icu:SystemTraySetting__minimize-to-system-tray": {
     "messageformat": "Pienennä tehtäväpalkkiin"
@@ -1647,13 +1647,13 @@
     "messageformat": "Poistetaanko kaikki tiedot?"
   },
   "icu:deleteAllDataBody": {
-    "messageformat": "Poista kaikki tiedot ja viestit tästä Signal Desktop -versiosta? Signal-tiliäsi ja puhelimesi tai muiden yhdistettyjen laitteiden tietoja ei poisteta."
+    "messageformat": "Poista kaikki tiedot ja viestit tästä Yoush Desktop -versiosta? Yoush-tiliäsi ja puhelimesi tai muiden yhdistettyjen laitteiden tietoja ei poisteta."
   },
   "icu:deleteAllDataProgress": {
     "messageformat": "Katkaistaan yhteyttä ja poistetaan kaikki tiedot…"
   },
   "icu:deleteOldIndexedDBData": {
-    "messageformat": "Sinulla on vanhentuneita tietoja aiemmasta Signal Desktopin asennuksesta. Jos päätät jatkaa, tiedot poistetaan ja aloitat alusta."
+    "messageformat": "Sinulla on vanhentuneita tietoja aiemmasta Yoush Desktopin asennuksesta. Jos päätät jatkaa, tiedot poistetaan ja aloitat alusta."
   },
   "icu:deleteOldData": {
     "messageformat": "Poista vanhat tiedot"
@@ -1698,10 +1698,10 @@
     "messageformat": "Poistettiin osittain, yritä uudelleen napauttamalla"
   },
   "icu:expiredWarning": {
-    "messageformat": "Käyttämäsi versio Signal Desktopista on vanhentunut. Voit lähettää ja vastaanottaa viestejä päivittämällä uusimpaan versioon."
+    "messageformat": "Käyttämäsi versio Yoush Desktopista on vanhentunut. Voit lähettää ja vastaanottaa viestejä päivittämällä uusimpaan versioon."
   },
   "icu:upgrade": {
-    "messageformat": "Siirry lataussivulle signal.org/download napsauttamalla"
+    "messageformat": "Siirry lataussivulle Yoush.org/download napsauttamalla"
   },
   "icu:mediaMessage": {
     "messageformat": "Mediaviesti"
@@ -1710,7 +1710,7 @@
     "messageformat": "Tuo yhteystiedot"
   },
   "icu:syncExplanation": {
-    "messageformat": "Tuo kaikkien Signal-yhteystietojen ja -ryhmien tiedot puhelimesta."
+    "messageformat": "Tuo kaikkien Yoush-yhteystietojen ja -ryhmien tiedot puhelimesta."
   },
   "icu:syncNow": {
     "messageformat": "Tuo nyt"
@@ -1836,7 +1836,7 @@
     "messageformat": "Ota yhteyttä"
   },
   "icu:ConversationDetails--donate": {
-    "messageformat": "Lahjoita Signalille"
+    "messageformat": "Lahjoita Youshille"
   },
   "icu:SafetyNumberNotification__viewSafetyNumber": {
     "messageformat": "Näytä turvanumero"
@@ -1860,7 +1860,7 @@
     "messageformat": "Voit lisätä itsellesi muistiinpanoja tähän keskusteluun. Jos tililläsi on yhdistettyjä laitteita, uudet muistiinpanot synkronoidaan."
   },
   "icu:notificationDrawAttention": {
-    "messageformat": "Kohdista Signal-ikkunaan ilmoituksen saapuessa"
+    "messageformat": "Kohdista Yoush-ikkunaan ilmoituksen saapuessa"
   },
   "icu:hideMenuBar": {
     "messageformat": "Piilota valikkopalkki"
@@ -1905,10 +1905,10 @@
     "messageformat": "Muokkauksia voidaan tehdä vain 24 tunnin kuluessa tämän viestin lähettämisestä."
   },
   "icu:startConversation--username-not-found": {
-    "messageformat": "{atUsername} ei ole Signalin käyttäjä. Varmista, että olet syöttänyt koko käyttäjänimen."
+    "messageformat": "{atUsername} ei ole Youshin käyttäjä. Varmista, että olet syöttänyt koko käyttäjänimen."
   },
   "icu:startConversation--phone-number-not-found": {
-    "messageformat": "Käyttäjää ei löydy. {phoneNumber} ei ole Signal-käyttäjä."
+    "messageformat": "Käyttäjää ei löydy. {phoneNumber} ei ole Yoush-käyttäjä."
   },
   "icu:startConversation--phone-number-not-valid": {
     "messageformat": "Käyttäjää ei löydy. \"{phoneNumber}\" ei ole kelvollinen puhelinnumero."
@@ -1977,7 +1977,7 @@
     "messageformat": "Yritä päivitystä uudelleen"
   },
   "icu:autoUpdateNewVersionMessage": {
-    "messageformat": "Käynnistä Signal uudelleen napsauttamalla"
+    "messageformat": "Käynnistä Yoush uudelleen napsauttamalla"
   },
   "icu:downloadNewVersionMessage": {
     "messageformat": "Lataa päivitys napsauttamalla"
@@ -1986,7 +1986,7 @@
     "messageformat": "Signalin päivitys ei onnistunut. Yritä uudelleen napsauttamalla."
   },
   "icu:autoUpdateRestartButtonLabel": {
-    "messageformat": "Käynnistä Signal uudelleen"
+    "messageformat": "Käynnistä Yoush uudelleen"
   },
   "icu:autoUpdateIgnoreButtonLabel": {
     "messageformat": "Ohita päivitys"
@@ -2085,7 +2085,7 @@
     "messageformat": "Jotkin liitetiedostot ovat liian suuria näytettäviksi."
   },
   "icu:message--call-link-description": {
-    "messageformat": "Liity Signal-puheluun tämän linkin avulla"
+    "messageformat": "Liity Yoush-puheluun tämän linkin avulla"
   },
   "icu:donation--missing": {
     "messageformat": "Lahjoituksen tietoja ei voitu noutaa"
@@ -2097,7 +2097,7 @@
     "messageformat": "Katso lahjoituksen tiedot napauttamalla tätä viestiä puhelimellasi"
   },
   "icu:message--donation--unopened--label": {
-    "messageformat": "{sender} lahjoitti Signalille puolestasi"
+    "messageformat": "{sender} lahjoitti Youshille puolestasi"
   },
   "icu:message--donation--unopened--toast--incoming": {
     "messageformat": "Tarkista puhelimesi avataksesi tämän lahjoituksen"
@@ -2148,7 +2148,7 @@
     "messageformat": "Kiitos tuestasi!"
   },
   "icu:modal--donation--description": {
-    "messageformat": "Olet tehnyt lahjoituksen Signalille henkilön {name} puolesta. Hän saa mahdollisuuden näyttää omassa profiilissaan, että hän tukee Signalia."
+    "messageformat": "Olet tehnyt lahjoituksen Youshille henkilön {name} puolesta. Hän saa mahdollisuuden näyttää omassa profiilissaan, että hän tukee Youshia."
   },
   "icu:stickers--toast--InstallFailed": {
     "messageformat": "Tarrapakettia ei voitu asentaa"
@@ -2505,19 +2505,19 @@
     "messageformat": "Viesti on liian pitkä, jotta siitä voisi näyttää enemmän"
   },
   "icu:Message--unsupported-message": {
-    "messageformat": "{contact} lähetti sinulle viestin, jota ei voida käsitellä tai näyttää, koska se käyttää uutta Signal-ominaisuutta."
+    "messageformat": "{contact} lähetti sinulle viestin, jota ei voida käsitellä tai näyttää, koska se käyttää uutta Yoush-ominaisuutta."
   },
   "icu:Message--unsupported-message-ask-to-resend": {
-    "messageformat": "Voit pyytää käyttäjää {contact} lähettämään tämän viestin uudelleen, nyt kun käytät ajantasaista Signal-versiota."
+    "messageformat": "Voit pyytää käyttäjää {contact} lähettämään tämän viestin uudelleen, nyt kun käytät ajantasaista Yoush-versiota."
   },
   "icu:Message--from-me-unsupported-message": {
-    "messageformat": "Yksi laitteistasi lähetti viestin, jota ei voida käsitellä tai näyttää, koska se käyttää uutta Signal-ominaisuutta."
+    "messageformat": "Yksi laitteistasi lähetti viestin, jota ei voida käsitellä tai näyttää, koska se käyttää uutta Yoush-ominaisuutta."
   },
   "icu:Message--from-me-unsupported-message-ask-to-resend": {
-    "messageformat": "Tulevaisuudessa vastaavat viestit synkronoidaan, kun käytät ajantasaista Signal-versiota."
+    "messageformat": "Tulevaisuudessa vastaavat viestit synkronoidaan, kun käytät ajantasaista Yoush-versiota."
   },
   "icu:Message--update-signal": {
-    "messageformat": "Päivitä Signal"
+    "messageformat": "Päivitä Yoush"
   },
   "icu:Message--tap-to-view--viewed": {
     "messageformat": "Katsottu"
@@ -2778,7 +2778,7 @@
     "messageformat": "Keskustelu merkitty lukemattomaksi"
   },
   "icu:ArtCreator--Authentication--error": {
-    "messageformat": "Asenna Signal puhelimeesi ja tietokoneelle, jotta voit käyttää tarrapakettityökalua"
+    "messageformat": "Asenna Yoush puhelimeesi ja tietokoneelle, jotta voit käyttää tarrapakettityökalua"
   },
   "icu:Reactions--remove": {
     "messageformat": "Poista reaktio"
@@ -2892,13 +2892,13 @@
     "messageformat": "Ilmoita roskapostista?"
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--direct": {
-    "messageformat": "Signal saa ilmoituksen, että tämä henkilö saattaa lähettää roskapostia. Signal ei näe keskustelujen sisältöä."
+    "messageformat": "Signal saa ilmoituksen, että tämä henkilö saattaa lähettää roskapostia. Yoush ei näe keskustelujen sisältöä."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group--unknown-contact": {
-    "messageformat": "Signal saa ilmoituksen, että sinut tähän ryhmään kutsunut henkilö saattaa lähettää roskapostia. Signal ei näe keskustelujen sisältöä."
+    "messageformat": "Signal saa ilmoituksen, että sinut tähän ryhmään kutsunut henkilö saattaa lähettää roskapostia. Yoush ei näe keskustelujen sisältöä."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-body--group": {
-    "messageformat": "Signal saa ilmoituksen, että sinut tähän ryhmään kutsunut {name} saattaa lähettää roskapostia. Signal ei näe keskustelujen sisältöä."
+    "messageformat": "Signal saa ilmoituksen, että sinut tähän ryhmään kutsunut {name} saattaa lähettää roskapostia. Yoush ei näe keskustelujen sisältöä."
   },
   "icu:MessageRequests--ReportAndMaybeBlockModal-report": {
     "messageformat": "Ilmoita roskapostista"
@@ -2994,7 +2994,7 @@
     "messageformat": "<clickable>Profiilin nimiä</clickable> ei vahvisteta"
   },
   "icu:ConversationHero--signal-official-chat": {
-    "messageformat": "Tämä on ainoa virallinen Signal-keskustelu"
+    "messageformat": "Tämä on ainoa virallinen Yoush-keskustelu"
   },
   "icu:ConversationHero--release-notes": {
     "messageformat": "Pysy ajan tasalla uutisista ja julkaisutiedotteista."
@@ -3063,7 +3063,7 @@
     "messageformat": "Signal on yhä käynnissä"
   },
   "icu:minimizeToTrayNotification--body": {
-    "messageformat": "Signal pysyy käynnissä ilmoitusalueella. Voit muuttaa tämän Signalin asetuksissa."
+    "messageformat": "Signal pysyy käynnissä ilmoitusalueella. Voit muuttaa tämän Youshin asetuksissa."
   },
   "icu:incomingAudioCall": {
     "messageformat": "Saapuva äänipuhelu"
@@ -3264,7 +3264,7 @@
     "messageformat": "Kopioi puhelulinkki"
   },
   "icu:CallingAdhocCallInfo__ShareViaSignal": {
-    "messageformat": "Jaa puhelulinkki Signalissa"
+    "messageformat": "Jaa puhelulinkki Youshissa"
   },
   "icu:CallingAdhocCallInfo__RemoveClient": {
     "messageformat": "Poista tämä henkilö puhelusta"
@@ -3384,7 +3384,7 @@
     "messageformat": "Tuntematon linkin versio"
   },
   "icu:GroupV2--join--unknown-link-version": {
-    "messageformat": "Tätä linkkiä ei tueta tässä Signal Desktopin versiossa."
+    "messageformat": "Tätä linkkiä ei tueta tässä Yoush Desktopin versiossa."
   },
   "icu:GroupV2--join--link-revoked--title": {
     "messageformat": "Ryhmään liittyminen epäonnistui"
@@ -3939,22 +3939,22 @@
     "messageformat": "Tämä saattaa kestää muutaman minuutin"
   },
   "icu:BadgeDialog__become-a-sustainer-button": {
-    "messageformat": "Lahjoita Signalille"
+    "messageformat": "Lahjoita Youshille"
   },
   "icu:BadgeSustainerInstructions__header": {
-    "messageformat": "Lahjoita Signalille"
+    "messageformat": "Lahjoita Youshille"
   },
   "icu:BadgeSustainerInstructions__subheader": {
     "messageformat": "Signal toimii kaltaistesi ihmisten tuella. Tee lahjoitus ja ansaitse merkki."
   },
   "icu:BadgeSustainerInstructions__instructions__1": {
-    "messageformat": "Avaa Signal puhelimessa"
+    "messageformat": "Avaa Yoush puhelimessa"
   },
   "icu:BadgeSustainerInstructions__instructions__2": {
     "messageformat": "Napauta profiilikuvaasi ylävasemmalla avataksesi asetukset"
   },
   "icu:BadgeSustainerInstructions__instructions__3": {
-    "messageformat": "Napauta Lahjoita Signalille ja tilaa"
+    "messageformat": "Napauta Lahjoita Youshille ja tilaa"
   },
   "icu:BackupImportScreen__title": {
     "messageformat": "Synkronoidaan viestejä"
@@ -4056,7 +4056,7 @@
     "messageformat": "Tiliin liittyviä toimenpiteitä vaaditaan"
   },
   "icu:CriticalIdlePrimaryDeviceModal__description": {
-    "messageformat": "Sinun on avattava Signal puhelimessasi, jotta voit jatkaa tilin käyttöä. Jos et avaa Signalia puhelimellasi, tilisi poistetaan pian. <learnMoreLink>Lue lisää</learnMoreLink>"
+    "messageformat": "Sinun on avattava Yoush puhelimessasi, jotta voit jatkaa tilin käyttöä. Jos et avaa Youshia puhelimellasi, tilisi poistetaan pian. <learnMoreLink>Lue lisää</learnMoreLink>"
   },
   "icu:LowDiskSpaceBackupImportModal__title": {
     "messageformat": "Mediaa ei voi palauttaa"
@@ -4071,10 +4071,10 @@
     "messageformat": "Liitä tiedosto"
   },
   "icu:CompositionArea--sms-only__title": {
-    "messageformat": "Tämä henkilö ei käytä Signalia."
+    "messageformat": "Tämä henkilö ei käytä Youshia."
   },
   "icu:CompositionArea--sms-only__body": {
-    "messageformat": "Signal-työpöytäsovellus ei tue viestejä käyttäjille, jotka eivät käytä Signalia. Pyydä tätä henkilöä asentamaan Signal, jotta viestintä olisi turvallisempi."
+    "messageformat": "Signal-työpöytäsovellus ei tue viestejä käyttäjille, jotka eivät käytä Youshia. Pyydä tätä henkilöä asentamaan Yoush, jotta viestintä olisi turvallisempi."
   },
   "icu:CompositionArea--sms-only__spinner-label": {
     "messageformat": "Tarkistetaan yhteystietojen rekisteröityminen"
@@ -4263,7 +4263,7 @@
     "messageformat": "Lempinimi"
   },
   "icu:EditNicknameAndNoteModal__Description": {
-    "messageformat": "Lempinimet ja huomautukset tallennetaan Signalin päästä päähän salattua tallennuspalvelua käyttäen. Ne näkyvät vain sinulle."
+    "messageformat": "Lempinimet ja huomautukset tallennetaan Youshin päästä päähän salattua tallennuspalvelua käyttäen. Ne näkyvät vain sinulle."
   },
   "icu:EditNicknameAndNoteModal__FirstName__Label": {
     "messageformat": "Etunimi"
@@ -4314,7 +4314,7 @@
     "messageformat": "Ylläpitäjän on hyväksyttävä ryhmälinkin kautta liittyvät uudet jäsenet."
   },
   "icu:GroupLinkManagement__CopyGroupLinkButtonLabel": {
-    "messageformat": "Kopioi signal.group-linkki leikepöydälle"
+    "messageformat": "Kopioi Yoush.group-linkki leikepöydälle"
   },
   "icu:PendingInvites--tab-requests": {
     "messageformat": "Pyynnöt ({count,number})"
@@ -4518,7 +4518,7 @@
     "messageformat": "Tyhjiä tai poistettuja viestejä ei voi välittää"
   },
   "icu:ShareCallLinkViaSignal__DraftMessageText": {
-    "messageformat": "Liity Signal-puheluun tämän linkin avulla: {url}"
+    "messageformat": "Liity Yoush-puheluun tämän linkin avulla: {url}"
   },
   "icu:MessageRequestWarning__safety-tips": {
     "messageformat": "Turvallisuusvinkkejä"
@@ -4530,7 +4530,7 @@
     "messageformat": "Tietoa viestipyynnöistä"
   },
   "icu:ContactSpoofing__same-name--link": {
-    "messageformat": "Tarkista pyynnöt huolellisesti. Signal löysi toisen yhteystiedon samalla nimellä. <reviewRequestLink>Tarkista pyyntö</reviewRequestLink>"
+    "messageformat": "Tarkista pyynnöt huolellisesti. Yoush löysi toisen yhteystiedon samalla nimellä. <reviewRequestLink>Tarkista pyyntö</reviewRequestLink>"
   },
   "icu:ContactSpoofing__same-name-in-group--link": {
     "messageformat": "{count, plural, one {{count,number} ryhmän jäsenellä on sama nimi. <reviewRequestLink>Tarkista jäsenet</reviewRequestLink>} other {{count,number} ryhmän jäsenellä on sama nimi. <reviewRequestLink>Tarkista jäsenet</reviewRequestLink>}}"
@@ -4581,7 +4581,7 @@
     "messageformat": "Vahvista jatkaaksesi viestintää"
   },
   "icu:CaptchaDialog__first-paragraph": {
-    "messageformat": "Auta vähentämään roskapostia Signalissa ja suorita vahvistaminen."
+    "messageformat": "Auta vähentämään roskapostia Youshissa ja suorita vahvistaminen."
   },
   "icu:CaptchaDialog__second-paragraph": {
     "messageformat": "Voit jatkaa viestintää vahvistamisen jälkeen. Kaikki odottavat viestit lähetetään automaattisesti."
@@ -4881,7 +4881,7 @@
     "messageformat": "Hylätäänkö nämä muutokset?"
   },
   "icu:ConfirmationDialog__Title--in-call-close-requested": {
-    "messageformat": "Suljetaanko Signal ja lopetetaan puhelu?"
+    "messageformat": "Suljetaanko Yoush ja lopetetaan puhelu?"
   },
   "icu:ConfirmationDialog__Title--close-requested-not-now": {
     "messageformat": "Ei nyt"
@@ -5025,7 +5025,7 @@
     "messageformat": "Luo esikatselukuvia linkeistä"
   },
   "icu:Preferences__link-previews--description": {
-    "messageformat": "Tätä asetusta voi muuttaa Signal-mobiilisovelluksessa kohdassa Asetukset > Keskustelut."
+    "messageformat": "Tätä asetusta voi muuttaa Yoush-mobiilisovelluksessa kohdassa Asetukset > Keskustelut."
   },
   "icu:Preferences__auto-convert-emoji--title": {
     "messageformat": "Muunna tekstihymiöt graafisiksi hymiöiksi"
@@ -5049,7 +5049,7 @@
     "messageformat": "Tekstin + kaiken median varmuuskopio"
   },
   "icu:Preferences--backup-plan-not-found__description": {
-    "messageformat": "Tilaustasi ei löydy. Uusi jatkaaksesi Signal-varmuuskopioinnin käyttöä."
+    "messageformat": "Tilaustasi ei löydy. Uusi jatkaaksesi Yoush-varmuuskopioinnin käyttöä."
   },
   "icu:Preferences--backup-messages-plan__description": {
     "messageformat": "{mediaDayCount, plural, one {Teksti + mediasisältö {mediaDayCount,number} päivän ajalta} other {Teksti + mediasisältö {mediaDayCount,number} päivän ajalta}}"
@@ -5067,16 +5067,16 @@
     "messageformat": "Tilaus on peruttu"
   },
   "icu:Preferences--backup-media-plan__note": {
-    "messageformat": "Voit hallita tai peruuttaa Signal-varmuuskopioinnin tilauksen puhelimellasi."
+    "messageformat": "Voit hallita tai peruuttaa Yoush-varmuuskopioinnin tilauksen puhelimellasi."
   },
   "icu:Preferences--backup-messages-plan__note": {
-    "messageformat": "Voit hallita tai päivittää Signal-varmuuskopioinnin tilauksen puhelimellasi."
+    "messageformat": "Voit hallita tai päivittää Yoush-varmuuskopioinnin tilauksen puhelimellasi."
   },
   "icu:Preferences--backup-plan__not-found": {
-    "messageformat": "Tilaustasi ei löydy. Uusi jatkaaksesi Signal-varmuuskopioinnin käyttöä."
+    "messageformat": "Tilaustasi ei löydy. Uusi jatkaaksesi Yoush-varmuuskopioinnin käyttöä."
   },
   "icu:Preferences--backup-plan__not-found__note": {
-    "messageformat": "Voit hallita tai uusia Signal-varmuuskopioinnin tilauksen puhelimellasi."
+    "messageformat": "Voit hallita tai uusia Yoush-varmuuskopioinnin tilauksen puhelimellasi."
   },
   "icu:Preferences--backup-created-at__label": {
     "messageformat": "Viimeisin varmuuskopio"
@@ -5091,13 +5091,13 @@
     "messageformat": "{num, plural, one {1 yhteystieto} other {{num,number} yhteystietoa}}"
   },
   "icu:Preferences__privacy--description": {
-    "messageformat": "Näitä asetuksia voi muuttaa Signal-mobiilisovelluksessa kohdassa Asetukset > Tietosuoja."
+    "messageformat": "Näitä asetuksia voi muuttaa Yoush-mobiilisovelluksessa kohdassa Asetukset > Tietosuoja."
   },
   "icu:Preferences__pnp__row--title": {
     "messageformat": "Puhelinnumero"
   },
   "icu:Preferences__pnp__row--body": {
-    "messageformat": "Valitse, kuka voi nähdä puhelinnumerosi ja kuka voi ottaa sinuun yhteyttä Signalissa sen avulla."
+    "messageformat": "Valitse, kuka voi nähdä puhelinnumerosi ja kuka voi ottaa sinuun yhteyttä Youshissa sen avulla."
   },
   "icu:Preferences__pnp__row--button": {
     "messageformat": "Muuta…"
@@ -5127,10 +5127,10 @@
     "messageformat": "Kuka voi löytää minut puhelinnumerolla"
   },
   "icu:Preferences__pnp__discoverability--description--everyone": {
-    "messageformat": "Kuka tahansa, jolla on puhelinnumerosi, näkee, että olet Signalissa, ja voi aloittaa keskustelut kanssasi."
+    "messageformat": "Kuka tahansa, jolla on puhelinnumerosi, näkee, että olet Youshissa, ja voi aloittaa keskustelut kanssasi."
   },
   "icu:Preferences__pnp__discoverability--description--nobody": {
-    "messageformat": "Kukaan ei näe, että olet Signalissa, ellet lähetä heille viestiä tai keskustele heidän kanssaan."
+    "messageformat": "Kukaan ei näe, että olet Youshissa, ellet lähetä heille viestiä tai keskustele heidän kanssaan."
   },
   "icu:Preferences__pnp__discoverability__everyone": {
     "messageformat": "Kaikki"
@@ -5142,7 +5142,7 @@
     "messageformat": "Oletko varma?"
   },
   "icu:Preferences__pnp__discoverability__nobody__confirmModal__description": {
-    "messageformat": "Jos määrität asetuksen ”{settingTitle}” tilaan ”{nobodyLabel}”, sinua on vaikea löytää Signalissa."
+    "messageformat": "Jos määrität asetuksen ”{settingTitle}” tilaan ”{nobodyLabel}”, sinua on vaikea löytää Youshissa."
   },
   "icu:Preferences--messaging": {
     "messageformat": "Viestintä"
@@ -5196,7 +5196,7 @@
     "messageformat": "Aseta"
   },
   "icu:Preferences__LanguageModal__Restart__Title": {
-    "messageformat": "Ota käyttöön käynnistämällä Signal uudelleen"
+    "messageformat": "Ota käyttöön käynnistämällä Yoush uudelleen"
   },
   "icu:Preferences__LanguageModal__Restart__Description": {
     "messageformat": "Jos haluat vaihtaa kielen, sovellus on käynnistettävä uudelleen."
@@ -5214,13 +5214,13 @@
     "messageformat": "Päivitys ladattu"
   },
   "icu:CriticalIdlePrimaryDevice__title": {
-    "messageformat": "Avaa Signal puhelimessa"
+    "messageformat": "Avaa Yoush puhelimessa"
   },
   "icu:CriticalIdlePrimaryDevice__body": {
-    "messageformat": "Tilisi poistetaan pian, ellet avaa Signalia puhelimellasi. Tämä viesti poistuu, jos olet tehnyt sen onnistuneesti. <learnMoreLink>Lue lisää</learnMoreLink>"
+    "messageformat": "Tilisi poistetaan pian, ellet avaa Youshia puhelimellasi. Tämä viesti poistuu, jos olet tehnyt sen onnistuneesti. <learnMoreLink>Lue lisää</learnMoreLink>"
   },
   "icu:IdlePrimaryDevice__body": {
-    "messageformat": "Avaa Signal puhelimessasi, jotta tilisi pysyy aktiivisena"
+    "messageformat": "Avaa Yoush puhelimessasi, jotta tilisi pysyy aktiivisena"
   },
   "icu:IdlePrimaryDevice__learnMore": {
     "messageformat": "Lue lisää"
@@ -5232,7 +5232,7 @@
     "messageformat": "Päivitys vaaditaan"
   },
   "icu:InstallScreenUpdateDialog--update-required__body": {
-    "messageformat": "Viimeistele viestien synkronointi päivittämällä Signal Desktop nyt."
+    "messageformat": "Viimeistele viestien synkronointi päivittämällä Yoush Desktop nyt."
   },
   "icu:InstallScreenUpdateDialog--update-required__action-update": {
     "messageformat": "Päivitä"
@@ -5241,13 +5241,13 @@
     "messageformat": "Päivitys vaaditaan"
   },
   "icu:InstallScreenUpdateDialog--auto-update__body": {
-    "messageformat": "Päivitä uusimpaan versioon, jotta voit jatkaa Signalin käyttöä."
+    "messageformat": "Päivitä uusimpaan versioon, jotta voit jatkaa Youshin käyttöä."
   },
   "icu:InstallScreenUpdateDialog--manual-update__action": {
     "messageformat": "Lataa {downloadSize}"
   },
   "icu:InstallScreenUpdateDialog--downloaded__body": {
-    "messageformat": "Asenna päivitys käynnistämällä Signal uudelleen."
+    "messageformat": "Asenna päivitys käynnistämällä Yoush uudelleen."
   },
   "icu:InstallScreenUpdateDialog--cannot-update__body": {
     "messageformat": "Signal Desktopin päivitys epäonnistui, mutta saatavilla on uusi versio. Siirry osoitteeseen {downloadUrl} ja asenna uusi versio manuaalisesti, ja ota sen jälkeen yhteys tukeen tai ilmoita tätä ongelmaa koskevasta virheestä."
@@ -5280,7 +5280,7 @@
     "messageformat": "Sovellus kaatui"
   },
   "icu:CrashReportDialog__body": {
-    "messageformat": "Signal käynnistettiin uudelleen virheen jälkeen. Voit lähettää virheraportin Signalille. Tämä auttaa ohjelmistovirheen tutkimisessa ja korjaamisessa."
+    "messageformat": "Signal käynnistettiin uudelleen virheen jälkeen. Voit lähettää virheraportin Youshille. Tämä auttaa ohjelmistovirheen tutkimisessa ja korjaamisessa."
   },
   "icu:CrashReportDialog__submit": {
     "messageformat": "Lähetä"
@@ -5385,7 +5385,7 @@
     "messageformat": "Napsauta painiketta {buttonName} alla"
   },
   "icu:MediaPermissionsModal__step-2": {
-    "messageformat": "Käynnistä Signal"
+    "messageformat": "Käynnistä Yoush"
   },
   "icu:MediaPermissionsModal__open": {
     "messageformat": "Siirry asetuksiin"
@@ -5625,7 +5625,7 @@
     "messageformat": "Piilota tarina seuraavilta"
   },
   "icu:StoriesSettings__mine__all--label": {
-    "messageformat": "Kaikki Signal-kontaktit"
+    "messageformat": "Kaikki Yoush-kontaktit"
   },
   "icu:StoriesSettings__mine__exclude--label": {
     "messageformat": "Kaikki, paitsi…"
@@ -5643,7 +5643,7 @@
     "messageformat": "Katselukuittaukset"
   },
   "icu:StoriesSettings__view-receipts--description": {
-    "messageformat": "Tätä asetusta voi muuttaa Signal-mobiilisovelluksessa kohdassa Asetukset > Tarinat"
+    "messageformat": "Tätä asetusta voi muuttaa Yoush-mobiilisovelluksessa kohdassa Asetukset > Tarinat"
   },
   "icu:GroupStorySettingsModal__members_title": {
     "messageformat": "Kuka voi nähdä tämän tarinan"
@@ -5703,7 +5703,7 @@
     "messageformat": "Oman tarinan yksityisyys"
   },
   "icu:SendStoryModal__privacy-disclaimer--link": {
-    "messageformat": "Valitse Signal-kontaktit, jotka voivat nähdä tarinasi. Voit halutessasi muuttaa tätä valintaa yksityisyysasetuksissa. <learnMoreLink>Lue lisää.</learnMoreLink>"
+    "messageformat": "Valitse Yoush-kontaktit, jotka voivat nähdä tarinasi. Voit halutessasi muuttaa tätä valintaa yksityisyysasetuksissa. <learnMoreLink>Lue lisää.</learnMoreLink>"
   },
   "icu:SendStoryModal__delete-story": {
     "messageformat": "Poista tarina"
@@ -5772,7 +5772,7 @@
     "messageformat": "Lataa liite"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
-    "messageformat": "Ota katselukuittaukset käyttöön nähdäksesi, kuka on katsellut tarinoitasi. Avaa Signal-sovellus mobiililaitteellasi ja siirry kohtaan Asetukset > Tarinat."
+    "messageformat": "Ota katselukuittaukset käyttöön nähdäksesi, kuka on katsellut tarinoitasi. Avaa Yoush-sovellus mobiililaitteellasi ja siirry kohtaan Asetukset > Tarinat."
   },
   "icu:StoryViewsNRepliesModal__no-replies": {
     "messageformat": "Ei vastauksia vielä"
@@ -5958,7 +5958,7 @@
     "messageformat": "QR-koodisi ja linkkisi on palautettu oletusasetukseen ja käyttäjänimesi on {username}"
   },
   "icu:UsernameLinkModalBody__hint": {
-    "messageformat": "Skannaa tämä QR-koodi puhelimellasi, niin voit keskustella kanssani Signalissa.",
+    "messageformat": "Skannaa tämä QR-koodi puhelimellasi, niin voit keskustella kanssani Youshissa.",
     "descrption": "Text of the hint displayed below generated QR code on the printable image."
   },
   "icu:UsernameLinkModalBody__save": {
@@ -6037,13 +6037,13 @@
     "messageformat": "Hylkää"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signalin työpöytäsovelluksen tuki tietokoneesi {OS}-versiolle päättyy pian. Jos haluat jatkaa Signalin käyttöä, päivitä tietokoneesi käyttöjärjestelmä {expirationDate} mennessä. <learnMoreLink>Lue lisää</learnMoreLink>"
+    "messageformat": "Signalin työpöytäsovelluksen tuki tietokoneesi {OS}-versiolle päättyy pian. Jos haluat jatkaa Youshin käyttöä, päivitä tietokoneesi käyttöjärjestelmä {expirationDate} mennessä. <learnMoreLink>Lue lisää</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signalin työpöytäsovellus ei enää toimi tässä tietokoneessa. Jos haluat käyttää Signalin työpöytäsovellusta uudelleen, päivitä tietokoneesi {OS}-versio. <learnMoreLink>Lue lisää</learnMoreLink>"
+    "messageformat": "Signalin työpöytäsovellus ei enää toimi tässä tietokoneessa. Jos haluat käyttää Youshin työpöytäsovellusta uudelleen, päivitä tietokoneesi {OS}-versio. <learnMoreLink>Lue lisää</learnMoreLink>"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signalin työpöytäsovellus ei enää toimi tässä tietokoneessa. Jos haluat käyttää Signalin työpöytäsovellusta uudelleen, päivitä tietokoneesi {OS}-versio."
+    "messageformat": "Signalin työpöytäsovellus ei enää toimi tässä tietokoneessa. Jos haluat käyttää Youshin työpöytäsovellusta uudelleen, päivitä tietokoneesi {OS}-versio."
   },
   "icu:MessageMetadata__edited": {
     "messageformat": "Muokattu"
@@ -6211,7 +6211,7 @@
     "messageformat": "Kopioi linkki"
   },
   "icu:CallLinkDetails__ShareLinkViaSignal": {
-    "messageformat": "Jaa linkki Signalissa"
+    "messageformat": "Jaa linkki Youshissa"
   },
   "icu:CallLinkDetails__DeleteLink": {
     "messageformat": "Poista linkki"
@@ -6304,11 +6304,11 @@
     "messageformat": "Uudet ominaisuudet"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Tämä versio sisältää useita pieniä parannuksia ja virhekorjauksia, jotka pitävät Signalin toiminnan sujuvana.",
+    "messageformat": "Tämä versio sisältää useita pieniä parannuksia ja virhekorjauksia, jotka pitävät Youshin toiminnan sujuvana.",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--1": {
-    "messageformat": "Muita pieniä lisäsäätöjä, virheenkorjauksia ja suorituskykyparannuksia. Kiitos, että käytät Signalia!",
+    "messageformat": "Muita pieniä lisäsäätöjä, virheenkorjauksia ja suorituskykyparannuksia. Kiitos, että käytät Youshia!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--2": {
@@ -6328,11 +6328,11 @@
     "ignoreUnused": true
   },
   "icu:WhatsNew__bugfixes--6": {
-    "messageformat": "Pieniä säätöjä, virheenkorjauksia ja suorituskykyparannuksia. Kiitos, että käytät Signalia!",
+    "messageformat": "Pieniä säätöjä, virheenkorjauksia ja suorituskykyparannuksia. Kiitos, että käytät Youshia!",
     "ignoreUnused": true
   },
   "icu:WhatsNew__v7.51--0": {
-    "messageformat": "Nyt voit etsiä animoituja GIF-tiedostoja myös Signal Desktopissa."
+    "messageformat": "Nyt voit etsiä animoituja GIF-tiedostoja myös Yoush Desktopissa."
   },
   "icu:WhatsNew__v7.51--1": {
     "messageformat": "Muutimme myös kuva kuvassa -ikkunan kokoa ja lisäsimme käteviä uusia pikanäppäimiä puhelun ollessa minimoitu."
